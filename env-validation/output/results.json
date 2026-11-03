@@ -1,0 +1,137 @@
+{
+  "generatedAt": "2026-11-03T21:40:25.194Z",
+  "results": [
+    {
+      "name": "CWA (Columbus, OH)",
+      "url": "https://cwaohio.com/",
+      "desktop": {
+        "status": 200,
+        "finalUrl": "https://cwaohio.com/",
+        "loadMs": 8649,
+        "title": "HVAC, Heating & Cooling in Columbus, Ohio | CWA",
+        "textChars": 5292,
+        "screenshot": "output/cwa-columbus-oh-desktop.png"
+      },
+      "mobile": {
+        "status": 200,
+        "finalUrl": "https://cwaohio.com/",
+        "loadMs": 4952,
+        "viewportMeta": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes",
+        "innerWidth": 390,
+        "scrollWidth": 390,
+        "horizontalOverflow": false,
+        "telLinkCount": 4,
+        "telLinkAboveFold": true,
+        "textChars": 5193,
+        "screenshot": "output/cwa-columbus-oh-mobile.png"
+      },
+      "errors": [],
+      "contact": {
+        "telLinks": [
+          "614-405-7819"
+        ],
+        "mailtoLinks": [],
+        "jsonLdPhones": [
+          "+1-614-405-7819"
+        ],
+        "jsonLdEmails": [],
+        "jsonLdAddresses": [
+          "6363 Fiesta Drive, Columbus, OH, 43235"
+        ],
+        "textPhones": [
+          "(614) 405-7819"
+        ],
+        "textEmails": [],
+        "jsonLdBlocks": 3
+      }
+    },
+    {
+      "name": "Hetter Heating & Cooling (Columbus, OH)",
+      "url": "https://hetterheating.com/",
+      "desktop": {
+        "status": 200,
+        "finalUrl": "https://hetterheating.com/",
+        "loadMs": 5124,
+        "title": "Hetter Heating & Cooling | HVAC Experts in Columbus, OH",
+        "textChars": 12780,
+        "screenshot": "output/hetter-heating-cooling-columbus-oh-desktop.png"
+      },
+      "mobile": {
+        "status": 403,
+        "finalUrl": "https://hetterheating.com/",
+        "loadMs": 925,
+        "viewportMeta": "width=device-width",
+        "innerWidth": 390,
+        "scrollWidth": 390,
+        "horizontalOverflow": false,
+        "telLinkCount": 0,
+        "telLinkAboveFold": false,
+        "textChars": 58,
+        "screenshot": "output/hetter-heating-cooling-columbus-oh-mobile.png"
+      },
+      "errors": [],
+      "contact": {
+        "telLinks": [
+          "614-756-6713",
+          "(614)%20784-9200"
+        ],
+        "mailtoLinks": [],
+        "jsonLdPhones": [
+          "+1-614-784-9200"
+        ],
+        "jsonLdEmails": [],
+        "jsonLdAddresses": [
+          "4780 Kenny Rd, Columbus, OH, 43220",
+          "Columbus, OH"
+        ],
+        "textPhones": [
+          "(614) 756-6713"
+        ],
+        "textEmails": [],
+        "jsonLdBlocks": 1
+      }
+    },
+    {
+      "name": "Chas Roberts (Phoenix, AZ)",
+      "url": "https://www.chasroberts.com/",
+      "desktop": {
+        "status": 200,
+        "finalUrl": "https://www.chasroberts.com/",
+        "loadMs": 17174,
+        "title": "Phoenix A/C, Heating & Plumbing Services | Chas Roberts",
+        "textChars": 3821,
+        "screenshot": "output/chas-roberts-phoenix-az-desktop.png"
+      },
+      "mobile": {
+        "status": 200,
+        "finalUrl": "https://www.chasroberts.com/",
+        "loadMs": 13676,
+        "viewportMeta": "width=device-width, initial-scale=1.0",
+        "innerWidth": 390,
+        "scrollWidth": 390,
+        "horizontalOverflow": false,
+        "telLinkCount": 2,
+        "telLinkAboveFold": true,
+        "textChars": 3722,
+        "screenshot": "output/chas-roberts-phoenix-az-mobile.png"
+      },
+      "errors": [],
+      "contact": {
+        "telLinks": [
+          "602.328.5000",
+          "520.292.6858"
+        ],
+        "mailtoLinks": [],
+        "jsonLdPhones": [],
+        "jsonLdEmails": [],
+        "jsonLdAddresses": [],
+        "textPhones": [
+          "(602) 328-5000",
+          "(520) 292-6858"
+        ],
+        "textEmails": [],
+        "jsonLdBlocks": 1
+      }
+    }
+  ]
+}

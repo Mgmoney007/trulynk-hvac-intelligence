@@ -1,0 +1,4 @@
+company,url,desktop_status,desktop_text_chars,mobile_status,mobile_viewport_meta,mobile_horizontal_overflow,mobile_tel_above_fold,tel_links,jsonld_phones,text_phones,emails,jsonld_addresses,errors
+"CWA (Columbus, OH)","https://cwaohio.com/","200","5292","200","width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes","false","true","614-405-7819","+1-614-405-7819","(614) 405-7819","","6363 Fiesta Drive, Columbus, OH, 43235",""
+"Hetter Heating & Cooling (Columbus, OH)","https://hetterheating.com/","200","12780","403","width=device-width","false","false","614-756-6713; (614)%20784-9200","+1-614-784-9200","(614) 756-6713","","4780 Kenny Rd, Columbus, OH, 43220 | Columbus, OH",""
+"Chas Roberts (Phoenix, AZ)","https://www.chasroberts.com/","200","3821","200","width=device-width, initial-scale=1.0","false","true","602.328.5000; 520.292.6858","","(602) 328-5000; (520) 292-6858","","",""
