@@ -1,0 +1,25 @@
+{
+  "id": "montclair-comfort-services",
+  "placeUrl": "https://www.google.com/maps/place/Montclair+Comfort+Services/data=!4m7!3m6!1s0x89c2fd95c0f62e55:0xc805344bd949f4dd!8m2!3d40.9512971!4d-74.2119814!16s%2Fg%2F11y_q4s3kh!19sChIJVS72wJX9wokR3fRJ2Us0Bcg",
+  "retrievedAt": "2026-11-03T23:11:45.099Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Montclair Comfort Services",
+  "category": "HVAC contractor",
+  "address": "415 Hamburg Tpke, Wayne, NJ 07470, United States ",
+  "phone": "+1 973-649-9903 ",
+  "website": "https://montclaircomfortservices.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–9 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Montclair+Comfort+Services/data=!4m7!3m6!1s0x89c2fd95c0f62e55:0xc805344bd949f4dd!8m2!3d40.9512971!4d-74.2119814!16s%2Fg%2F11y_q4s3kh!19sChIJVS72wJX9wokR3fRJ2Us0Bcg?hl=en",
+  "screenshot": "evidence/screenshots/montclair-comfort-services/google-maps-listing.png"
+}

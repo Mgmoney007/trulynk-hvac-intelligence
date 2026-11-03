@@ -1,0 +1,122 @@
+{
+  "firecrawl": [],
+  "id": "irepair-heating-air-conditioning",
+  "name": "IRepair Heating & Air Conditioning",
+  "website": "http://www.irepairhvac.com/",
+  "auditedAt": "2026-11-03T23:06:42.833Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://www.irepairhvac.com/",
+      "at": "2026-11-03T23:07:03.171Z",
+      "access": "challenge",
+      "status": 200,
+      "finalUrl": "http://www.irepairhvac.com/",
+      "title": "One moment, please...",
+      "ms": 8576,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://www.irepairhvac.com/",
+      "at": "2026-11-03T23:07:06.995Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "http://www.irepairhvac.com/",
+      "title": "Plumbing Heating & Cooling Services in Clifton NJ | iRepair HVAC",
+      "ms": 3703,
+      "error": null,
+      "linkCount": 28
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "challenge",
+      "status": 200,
+      "error": null,
+      "url": "http://www.irepairhvac.com/"
+    }
+  ],
+  "desktop": null,
+  "mobile": {
+    "status": 200,
+    "finalUrl": "http://www.irepairhvac.com/",
+    "navMs": 3703,
+    "timing": {
+      "dcl": 2410,
+      "load": 2725,
+      "ttfb": 2136
+    },
+    "viewportMeta": "initial-scale=1.0, maximum-scale=3.0, user-scalable=no, width=device-width",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(973) 666-1200",
+        "text": "Call Us (973) 666-1200",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736661200"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Call Us (973) 666-1200"
+    ],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 1,
+    "brokenImages": [],
+    "textChars": 263
+  },
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "https://irepairhvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/irepair-heating-air-conditioning/desktop-home-access-failure.png",
+    "mobile_asis": "evidence/screenshots/irepair-heating-air-conditioning/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

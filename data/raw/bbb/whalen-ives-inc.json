@@ -1,0 +1,30 @@
+{
+  "id": "whalen-ives-inc",
+  "query": "Whalen & Ives, Inc.",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Whalen%20%26%20Ives%2C%20Inc.&find_loc=Park%20Ridge%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:21:11.903Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": {
+    "ad": false,
+    "name": "Whalen & Ives, Inc.",
+    "rating": "A+",
+    "phone": "(201) 784-3330",
+    "address": "180 Kinderkamack Rd, Park Ridge, NJ 07656-1331",
+    "accredited": true,
+    "href": "https://www.bbb.org/us/nj/park-ridge/profile/air-conditioning-contractor/whalen-ives-inc-0221-10002427",
+    "basis": "name+city",
+    "nameSimilarity": 1
+  },
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Whalen & Ives, Inc.",
+      "rating": "A+",
+      "phone": "(201) 784-3330",
+      "address": "180 Kinderkamack Rd, Park Ridge, NJ 07656-1331",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/park-ridge/profile/air-conditioning-contractor/whalen-ives-inc-0221-10002427"
+    }
+  ],
+  "error": null
+}

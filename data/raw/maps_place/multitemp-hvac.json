@@ -1,0 +1,25 @@
+{
+  "id": "multitemp-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Multitemp+HVAC/data=!4m7!3m6!1s0x89c30085d9915555:0xe096de31f07be4!8m2!3d40.8432494!4d-74.2710584!16s%2Fg%2F11qgyltf74!19sChIJVVWR2YUAw4kR5HvwMd6W4AA",
+  "retrievedAt": "2026-11-03T23:11:13.780Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Multitemp HVAC",
+  "category": "General contractor",
+  "address": "74 Smull Ave, Caldwell, NJ 07006, United States ",
+  "phone": "+1 973-239-2500 ",
+  "website": "http://multitemphvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Multitemp+HVAC/data=!4m7!3m6!1s0x89c30085d9915555:0xe096de31f07be4!8m2!3d40.8432494!4d-74.2710584!16s%2Fg%2F11qgyltf74!19sChIJVVWR2YUAw4kR5HvwMd6W4AA?hl=en",
+  "screenshot": "evidence/screenshots/multitemp-hvac/google-maps-listing.png"
+}

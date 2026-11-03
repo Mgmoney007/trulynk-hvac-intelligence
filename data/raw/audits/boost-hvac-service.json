@@ -1,0 +1,606 @@
+{
+  "firecrawl": [],
+  "id": "boost-hvac-service",
+  "name": "BOOST HVAC Service",
+  "website": "https://boosthvacservice.com/",
+  "auditedAt": "2026-11-03T22:52:06.460Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://boosthvacservice.com/",
+      "at": "2026-11-03T22:52:17.397Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://boosthvacservice.com/",
+      "title": "24/7 Urgent HVAC Service New Jersey",
+      "ms": 10759,
+      "error": null,
+      "linkCount": 16
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://boosthvacservice.com/contact/",
+      "at": "2026-11-03T22:52:28.750Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://boosthvacservice.com/contact/",
+      "title": "Contact – 24/7 Urgent HVAC Service New Jersey",
+      "ms": 9358,
+      "error": null,
+      "linkCount": 13
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://boosthvacservice.com/about/",
+      "at": "2026-11-03T22:52:37.977Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://boosthvacservice.com/about/",
+      "title": "About – 24/7 Urgent HVAC Service New Jersey",
+      "ms": 8922,
+      "error": null,
+      "linkCount": 14
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://boosthvacservice.com/",
+      "at": "2026-11-03T22:52:54.291Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://boosthvacservice.com/",
+      "title": "24/7 Urgent HVAC Service New Jersey",
+      "ms": 9946,
+      "error": null,
+      "linkCount": 16
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://boosthvacservice.com/",
+    "title": "24/7 Urgent HVAC Service New Jersey",
+    "lang": "en-US",
+    "metaDescription": null,
+    "h1": [
+      "HVAC Repair In New Jersey – Trusted, Fast, 24/7"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1, minimum-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 7507,
+    "bodyText": "Skip to content\nHome\nAbout\nContact\nBlog\nCALL US (551) 288-6494\nBOOK ON-LINE\nHVAC Repair In New Jersey – Trusted, Fast, 24/7\nSAME-DAY HVAC SERVICES IN NEW JERSEY, BOTH FOR YOUR HOME AND BUSINESS\n\nWhen your HVAC system breaks, you need a reliable service partner ASAP. That’s when BOOST steps in.\n\nFrom emergency AC repairs to energy-efficient installations, we cover it all. No upsells, no gimmicks — just honest work by certified professionals.\n\nWe Accept Urgent Calls\nBOOK ON-LINE\nLocal Family Owned & Operated\nResponse for emergency repairs 24/7\nAffordable and transparent pricing\nBRANDS WE SERVICE IN NJ\nHonest and Trusted HVAC Repairs in New Jersey\nWe operate 24 hours 7 days a week for your comfort\n\nBoost HVAC is a family-operated repair company serving New Jersey with fast, affordable, and honest service. If your air conditioner is blowing warm air or struggling to cool home, or your heating system is acting up, its time to call the professionals.\n\nWhether it’s low refrigerant, a faulty compressor, or time to replace the system, we explain everything clearly with no upsells or pressure. Our team is fully licensed and insured, and we handle everything from emergency repairs to complete replacements and ongoing maintenance.\n\nCall now to speak with a real local New Jersey HVAC service, and get your home cool again without the stress or sticker shock.\n\nHere What Customer Say About Our HVAC Services in NJ\nProfessional\nI recently had a new furnace installed by Boost at my home in Bergen County, and I couldn’t be happier with the entire experience. From start to finish, the team was professional, efficient, and incredibly knowledgeable.\nThe consultation process was smooth — they took the time to explain my options, answered all my questions, and helped me choose the right system for my home and budget. They even walked me through the new system and gave tips on maintenance.\nKristie M\nTeaneck NJ\nNo Delays\nThe technician arrived on time, was courteous, and quickly diagnosed the issue. He explained everything in simple terms, gave me a clear estimate, and had the parts on hand to get the job done during the same visit — no delays or surprises.\nWithin an hour, the AC was back up and running perfectly. The cool air was a huge relief, and the system has been working flawlessly ever since. Thank you!\n\nGayle Jenstone\nGoogle Review\nSaved me money\nI had Boost HVAC in Paramus, NJ come out to fix my AC, and they did a great job. The tech was super knowledgeable, figured out the issue fast, and explained it in a way that made sense. No nonsense, just straight-up expertise. The price was really fair too, which was a nice surprise. They showed up on time and got everything running smoothly. Definitely recommend Boost HVAC if you need AC repairs\nMichael Durham\nParamus, NJ\nWhen to call HVAC Service in New Jersey?\n\nSigns You Shouldn`t Be Ignoring\n\nIf your air conditioner is blowing hot air\nIf you`ve just moved in and don`t know if the HVAC system is operating well\nIf your AC is taking too long to cool down the room\nIf your AC or furnace is over 10 years old\n\nClimate Solutions for New Jersey Residents\n\nStay cool. Or cozy – depending on the season.\n\nExpert Technicians\n24/7 Availability\nCost-Effective\nNeed HVAC service urgently? Fill the form and we will call you in 10 minutes of less!\nName\nEmail*\nMessage*\nSubmit\nDon`t Let Your HVAC System Dictate Your Day. Fix It With Pros and Forget About It.\nWe Are Available for Urgent Calls and Projects Both in South and North NJ.\nAir Conditioning Repair Services\n\nWe provide quick and reliable air conditioning repair services.\n\nProfessional Furnace Installation\n\nExpert furnace installation to keep your home warm and cozy.\n\nExplore Services\nDuctless Mini-Split Solutions\n\nDuctless mini-splits offer efficient cooling and heating options.\n\nEnhance Indoor Air Quality\n\nWe provide solutions for better indoor air quality and health.\n\nAir Conditioning & Heating Repair Services\n\nSometimes it can`t wait. Urgent 24/7 requests accepted.\n\nAC Repair\nFurnace Installation\nDuctless Mini-Splits\nIndoor Air Quality\nFAQ Regarding 24/7 HVAC services in New Jersey\nDo you service all cities in New Jersey?\nGET YOUR HVAC FIXED TODAY\nAC/Heating repair & maintenance\nCall Now\nWe Are Ready to Start Today to Get Your HVAC system fixed\n100+ Reviews\n\nWe provide top-notch services tailored to your needs.\n\n$149.00\nGet a Free Estimate\n\n© 2026 24/7 Urgent HVAC Service New Jersey BOOST GROUP\n\nHVAC services Bergen County, NJ",
+    "links": [
+      {
+        "href": "#main",
+        "abs": "https://boosthvacservice.com/#main",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://boosthvacservice.com/",
+        "abs": "https://boosthvacservice.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 66,
+        "w": 110,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://boosthvacservice.com/",
+        "abs": "https://boosthvacservice.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 89,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://boosthvacservice.com/about/",
+        "abs": "https://boosthvacservice.com/about/",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 89,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://boosthvacservice.com/contact/",
+        "abs": "https://boosthvacservice.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 104,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://boosthvacservice.com/blog/",
+        "abs": "https://boosthvacservice.com/blog/",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 76,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://c16f02db.bookingformhvacsite.pages.dev/",
+        "abs": "https://c16f02db.bookingformhvacsite.pages.dev/",
+        "text": "BOOK ON-LINE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 197,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://boosthvacservice.com/",
+        "abs": "https://boosthvacservice.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:%20(551)%20368%208228",
+        "abs": "tel:%20(551)%20368%208228",
+        "text": "(551) 288-6494",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://c16f02db.bookingformhvacsite.pages.dev/",
+        "abs": "https://c16f02db.bookingformhvacsite.pages.dev/",
+        "text": "BOOK ON-LINE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 167,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:%20551-288-6494",
+        "abs": "tel:%20551-288-6494",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 147,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:551-288-6494",
+        "abs": "tel:551-288-6494",
+        "text": "Get a Free Estimate",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 227,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://boosthvacservice.com/hvac-services-bergen-county-nj/",
+        "abs": "https://boosthvacservice.com/hvac-services-bergen-county-nj/",
+        "text": "HVAC services Bergen County, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 324,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "",
+        "abs": "https://boosthvacservice.com/",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "",
+        "abs": "https://boosthvacservice.com/",
+        "text": "X",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "",
+        "abs": "https://boosthvacservice.com/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Submit",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "FAQ Regarding 24/7 HVAC services in New Jersey",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do you service all cities in New Jersey?",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "post",
+        "id": "kb-adv-form-1974-cpt-id",
+        "cls": "kb-advanced-form",
+        "fieldCount": 3,
+        "fieldNames": [
+          "fieldc7fb17-90",
+          "field526192-2a",
+          "fieldc222bb-b1"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed/v1/place?key=AIzaSyBAM2o7PiQqwk15LC1XRH2e_KJ-jUa7KYk&zoom=9&maptype=roadmap&q=New+Jersey+"
+    ],
+    "scripts": [
+      "https://cdn.ywxi.net/js/1.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-16735659210",
+      "https://analytics.ahrefs.com/analytics.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16735659210/?random=1793746328602&cv=11&fst=1793746328602&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21v9218500539za208zd9218500539xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120420414~120469145~120469153~121246026~121246034~123691370~123814945&u_w=1366&u_h=900&url=https%3A%2F%2Fboosthvacservice.com%2F&rcb=9&frm=0&tiba=24%2F7%20Urgent%20HVAC%20Service%20New%20Jersey&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1640042441.1793746329&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gap.plf=5&ept=9&rfmt=3&fmt=4",
+      "https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js",
+      "https://boosthvacservice.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://boosthvacservice.com/wp-content/plugins/the-events-calendar/common/build/js/user-agent.js?ver=da75d0bdea6dde3898df",
+      "https://boosthvacservice.com/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.5.2",
+      "https://boosthvacservice.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/splide.min.js?ver=2.8.20.1",
+      "https://boosthvacservice.com/wp-content/plugins/kadence-blocks/includes/assets/js/kb-splide-init.min.js?ver=3.8.1.1",
+      "https://boosthvacservice.com/wp-content/plugins/kadence-blocks/includes/assets/js/kb-advanced-form-block.min.js?ver=3.8.1.1",
+      "https://boosthvacservice.com/wp-content/plugins/kadence-blocks/includes/assets/js/kt-accordion.min.js?ver=3.8.1.1",
+      "https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 37,
+    "timing": {
+      "dcl": 2180,
+      "load": 2671,
+      "ttfb": 187
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)"
+    ],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.089,
+        "sig": " site-main-header-wrap site-header-row-container site-header-focus-item site-header-row-layout-standard kadence-sticky-h",
+        "text": "home\nabout\ncontact\nblog\ncall us (551) 288-6494\nbook on-line"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://boosthvacservice.com/",
+    "navMs": 10759,
+    "tel": [
+      {
+        "href": "tel:%20(551)%20368%208228",
+        "text": "(551) 288-6494",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+15513688228"
+      },
+      {
+        "href": "tel:%20551-288-6494",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512886494"
+      },
+      {
+        "href": "tel:551-288-6494",
+        "text": "Get a Free Estimate",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512886494"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "GoDaddy Builder",
+        "kind": "cms"
+      },
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://boosthvacservice.com/",
+    "navMs": 9946,
+    "timing": {
+      "dcl": 1269,
+      "load": 1895,
+      "ttfb": 179
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, minimum-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:%20(551)%20368%208228",
+        "text": "(551) 288-6494",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+15513688228"
+      },
+      {
+        "href": "tel:%20551-288-6494",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512886494"
+      },
+      {
+        "href": "tel:551-288-6494",
+        "text": "Get a Free Estimate",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512886494"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [],
+    "menuToggle": false,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.12,
+        "sig": " site-main-header-wrap site-header-focus-item site-header-row-layout-standard site-header-row-tablet-layout-default site",
+        "text": " (551) 288-6494"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 3,
+    "brokenImages": [],
+    "textChars": 6244
+  },
+  "pages": {
+    "contact": {
+      "url": "https://boosthvacservice.com/contact/",
+      "finalUrl": "https://boosthvacservice.com/contact/",
+      "status": 200,
+      "title": "Contact – 24/7 Urgent HVAC Service New Jersey",
+      "forms": [
+        {
+          "action": "",
+          "method": "post",
+          "id": "",
+          "cls": "kb-form",
+          "fieldCount": 6,
+          "fieldNames": [
+            "kb_field_0",
+            "kb_field_1",
+            "kb_field_2",
+            "kb_field_3",
+            "kb_field_4",
+            "_kb_verify_email"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@boostgroupusa.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:%20(551)%20368%208228",
+          "text": "(551) 288-6494",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+15513688228"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\nHome\nAbout\nContact\nBlog\nCALL US (551) 288-6494\nBOOK ON-LINE\nContact Us Today!\n\nCraft a captivating title for this section to attract your audience.\n\nContact Us Today!\n\nGet in touch for exceptional HVAC service.\n\nAt Boost HVAC Service, we pride ourselves on providing top-notch HVAC solutions, focusing on customer satisfaction and comfort in every project.\n\nFollow Us:\nEmail\nSEND A MESSAGE\nEMAIL\n\ninfo@boostgroupusa.com\n\nADDRESS\n\nNew Jersey, USA\n\nPHONE\n\n+1 (551) 368 8228\n\n© 2026 24/7 Urgent HVAC Service New Jersey BOOST GROUP\n\nHVAC services Bergen County, NJ",
+      "vendors": [
+        {
+          "name": "GoDaddy Builder",
+          "kind": "cms"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://boosthvacservice.com/contact/#main",
+        "https://boosthvacservice.com/",
+        "https://boosthvacservice.com/",
+        "https://boosthvacservice.com/about/",
+        "https://boosthvacservice.com/contact/",
+        "https://boosthvacservice.com/blog/",
+        "https://boosthvacservice.com/",
+        "https://boosthvacservice.com/hvac-services-bergen-county-nj/",
+        "https://boosthvacservice.com/contact/",
+        "https://boosthvacservice.com/contact/",
+        "https://boosthvacservice.com/contact/"
+      ]
+    },
+    "about": {
+      "url": "https://boosthvacservice.com/about/",
+      "finalUrl": "https://boosthvacservice.com/about/",
+      "status": 200,
+      "title": "About – 24/7 Urgent HVAC Service New Jersey",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:%20(551)%20368%208228",
+          "text": "(551) 288-6494",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+15513688228"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\nHome\nAbout\nContact\nBlog\nCALL US (551) 288-6494\nBOOK ON-LINE\nAbout\n\nYour Trusted HVAC Contractor in New Jersey\n\nYour comfort is our priority.\nProfessional HVAC Solutions\n\nAt Boost HVAC Service, we pride ourselves on providing top-notch HVAC solutions, focusing on customer satisfaction and comfort in every project.\n\nHear from our satisfied clients about their experiences\n\nThe support from Boost HVAC was remarkable; their team resolved my AC issue promptly and efficiently, restoring my comfort in no time.\n\nOutstanding service! They fixed my AC quickly and professionally.\nJohn Doe\nHOMEOWNER\nProfessional HVAC Solutions\n\nDelivering high-quality HVAC services across New Jersey for homes and businesses.\n\nDedicated Professionals Committed to Quality Service\n\nExperienced and certified HVAC professionals.\n\nJohn Smith\nLead Technician\nSarah Johnson\nCustomer Service Manager\nMichael Brown\nHVAC Engineer\nEmily Davis\nField Technician\n\n© 2026 24/7 Urgent HVAC Service New Jersey BOOST GROUP\n\nHVAC services Bergen County, NJ",
+      "vendors": [
+        {
+          "name": "GoDaddy Builder",
+          "kind": "cms"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://boosthvacservice.com/about/#main",
+        "https://boosthvacservice.com/",
+        "https://boosthvacservice.com/",
+        "https://boosthvacservice.com/about/",
+        "https://boosthvacservice.com/contact/",
+        "https://boosthvacservice.com/blog/",
+        "https://boosthvacservice.com/",
+        "https://boosthvacservice.com/about/#",
+        "https://boosthvacservice.com/hvac-services-bergen-county-nj/",
+        "https://boosthvacservice.com/about/",
+        "https://boosthvacservice.com/about/",
+        "https://boosthvacservice.com/about/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 6,
+    "at": "2026-11-03T22:52:43.228Z",
+    "statusCounts": {
+      "200": 6
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://boosthvacservice.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/boost-hvac-service/desktop-home.png",
+    "desktop_full": "evidence/screenshots/boost-hvac-service/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/boost-hvac-service/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/boost-hvac-service/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/boost-hvac-service/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": false,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "info@boostgroupusa.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "BOOK ON-LINE -> https://c16f02db.bookingformhvacsite.pages.dev/",
+      "BOOK ON-LINE -> https://c16f02db.bookingformhvacsite.pages.dev/",
+      "Get a Free Estimate -> tel:551-288-6494",
+      "Facebook -> https://boosthvacservice.com/"
+    ]
+  }
+}

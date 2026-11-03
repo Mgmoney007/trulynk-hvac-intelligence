@@ -1,0 +1,25 @@
+{
+  "id": "air-don-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Air+Don+Hvac/data=!4m7!3m6!1s0x89c255612e1de329:0xfcd53755c4f95d15!8m2!3d40.7947303!4d-74.1317156!16s%2Fg%2F11fwwtp51x!19sChIJKeMdLmFVwokRFV35xFU31fw",
+  "retrievedAt": "2026-11-03T22:53:46.889Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Air Don Hvac",
+  "category": "HVAC contractor",
+  "address": "175 Gold St, North Arlington, NJ 07031, United States ",
+  "phone": "+1 551-224-1841 ",
+  "website": "https://airdonhvac.com/#",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–4 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Air+Don+Hvac/data=!4m7!3m6!1s0x89c255612e1de329:0xfcd53755c4f95d15!8m2!3d40.7947303!4d-74.1317156!16s%2Fg%2F11fwwtp51x!19sChIJKeMdLmFVwokRFV35xFU31fw?hl=en",
+  "screenshot": "evidence/screenshots/air-don-hvac/google-maps-listing.png"
+}

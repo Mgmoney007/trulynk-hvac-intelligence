@@ -1,0 +1,25 @@
+{
+  "id": "pacific-air-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Pacific+Air+HVAC/data=!4m7!3m6!1s0x89c2febe9157238f:0xa44cd1971cd006a0!8m2!3d40.8653235!4d-74.1515378!16s%2Fg%2F11ghr0j88g!19sChIJjyNXkb7-wokRoAbQHJfRTKQ",
+  "retrievedAt": "2026-11-03T23:02:52.257Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Pacific Air HVAC",
+  "category": "HVAC contractor",
+  "address": "16 Orono St, Clifton, NJ 07013, United States ",
+  "phone": "+1 973-210-7060 ",
+  "website": "https://www.pacificairhvac.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Pacific+Air+HVAC/data=!4m7!3m6!1s0x89c2febe9157238f:0xa44cd1971cd006a0!8m2!3d40.8653235!4d-74.1515378!16s%2Fg%2F11ghr0j88g!19sChIJjyNXkb7-wokRoAbQHJfRTKQ?hl=en",
+  "screenshot": "evidence/screenshots/pacific-air-hvac/google-maps-listing.png"
+}

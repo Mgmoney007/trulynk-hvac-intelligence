@@ -1,0 +1,138 @@
+{
+  "firecrawl": [],
+  "id": "cronin-plumbing-and-heating",
+  "name": "Cronin Plumbing and Heating",
+  "website": "http://croninplumbingandheating.com/",
+  "auditedAt": "2026-11-03T23:15:14.183Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://croninplumbingandheating.com/",
+      "at": "2026-11-03T23:16:08.536Z",
+      "access": "challenge",
+      "status": 429,
+      "finalUrl": "https://www.croninplumbingandheating.com/",
+      "title": "Just a moment...",
+      "ms": 25336,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://croninplumbingandheating.com/",
+      "at": "2026-11-03T23:16:13.972Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.croninplumbingandheating.com/",
+      "title": "Hudson County Plumbers | Cronin Plumbing and Heating | Hoboken | Jersey City | New Jersey",
+      "ms": 5313,
+      "error": null,
+      "linkCount": 11
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "challenge",
+      "status": 429,
+      "error": null,
+      "url": "http://croninplumbingandheating.com/"
+    }
+  ],
+  "desktop": null,
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.croninplumbingandheating.com/",
+    "navMs": 5313,
+    "timing": {
+      "dcl": 1144,
+      "load": 3050,
+      "ttfb": 563
+    },
+    "viewportMeta": "width=320, user-scalable=yes",
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:2019207281",
+        "text": "Call Now",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12019207281"
+      },
+      {
+        "href": "tel:2019207281",
+        "text": "Phone",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12019207281"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Get A Quote"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "bottom_bar",
+        "cover": 0.108,
+        "sig": "quick_action_bar quick_action_bar fawjl8 wixui-quick-action-bar ",
+        "text": "phone\nget a quote"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 1210
+  },
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "https://www.croninplumbingandheating.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/cronin-plumbing-and-heating/desktop-home-access-failure.png",
+    "mobile_asis": "evidence/screenshots/cronin-plumbing-and-heating/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

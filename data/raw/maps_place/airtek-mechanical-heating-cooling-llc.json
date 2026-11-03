@@ -1,0 +1,25 @@
+{
+  "id": "airtek-mechanical-heating-cooling-llc",
+  "placeUrl": "https://www.google.com/maps/place/Airtek+Mechanical+Heating+%26+Cooling+LLC/data=!4m7!3m6!1s0x89c255fae60ee521:0xa75bc14d26d3d89b!8m2!3d40.8120275!4d-74.1248539!16s%2Fg%2F1q62bwr_h!19sChIJIeUO5vpVwokRm9jTJk3BW6c",
+  "retrievedAt": "2026-11-03T22:49:53.208Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Airtek Mechanical Heating & Cooling LLC",
+  "category": "Air conditioning repair service",
+  "address": "400 Valley Brook Ave, Lyndhurst, NJ 07071, United States ",
+  "phone": "+1 201-668-6366 ",
+  "website": "http://www.airtekmechanicalhvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8:30 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Airtek+Mechanical+Heating+%26+Cooling+LLC/data=!4m7!3m6!1s0x89c255fae60ee521:0xa75bc14d26d3d89b!8m2!3d40.8120275!4d-74.1248539!16s%2Fg%2F1q62bwr_h!19sChIJIeUO5vpVwokRm9jTJk3BW6c?hl=en",
+  "screenshot": "evidence/screenshots/airtek-mechanical-heating-cooling-llc/google-maps-listing.png"
+}

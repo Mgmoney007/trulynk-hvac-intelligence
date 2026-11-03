@@ -1,0 +1,10 @@
+{
+  "id": "new-jersey-ptac-services",
+  "query": "New Jersey PTAC Services.",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=New%20Jersey%20PTAC%20Services.&find_loc=Jersey%20City%2C%20NJ",
+  "retrievedAt": "2026-11-03T22:56:41.674Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [],
+  "error": null
+}

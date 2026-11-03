@@ -1,0 +1,25 @@
+{
+  "id": "super-service-plumbers-heating-and-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Super+Service+Plumbers+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2575ff699218d:0x24e0f79e277fba30!8m2!3d40.7585255!4d-74.0345604!16s%2Fg%2F1ygbb7nb0!19sChIJjSGZ9l9XwokRMLp_J5734CQ",
+  "retrievedAt": "2026-11-03T22:48:07.389Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Super Service Plumbers Heating and Cooling",
+  "category": "Air conditioning repair service",
+  "address": null,
+  "phone": "+1 201-345-5128 ",
+  "website": "https://superplumbersnj.com/hoboken/",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Super+Service+Plumbers+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2575ff699218d:0x24e0f79e277fba30!8m2!3d40.7585255!4d-74.0345604!16s%2Fg%2F1ygbb7nb0!19sChIJjSGZ9l9XwokRMLp_J5734CQ?hl=en",
+  "screenshot": "evidence/screenshots/super-service-plumbers-heating-and-cooling/google-maps-listing.png"
+}

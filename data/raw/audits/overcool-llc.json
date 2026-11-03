@@ -1,0 +1,1222 @@
+{
+  "firecrawl": [],
+  "id": "overcool-llc",
+  "name": "OverCool LLC",
+  "website": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+  "auditedAt": "2026-11-03T23:10:37.635Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+      "at": "2026-11-03T23:10:46.034Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+      "title": "OverCool Group Heating and Cooling Service | Commercial HVAC",
+      "ms": 8356,
+      "error": null,
+      "linkCount": 53
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.overcoolgroup.com/contact/",
+      "at": "2026-11-03T23:10:52.413Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.overcoolgroup.com/contact/",
+      "title": "Contact Us | Essex County, NJ | The OverCool Group",
+      "ms": 5018,
+      "error": null,
+      "linkCount": 42
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.overcoolgroup.com/about-us/",
+      "at": "2026-11-03T23:10:55.601Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.overcoolgroup.com/about-us/",
+      "title": "About Us | Commercial HVAC Company | The OverCool Group",
+      "ms": 2680,
+      "error": null,
+      "linkCount": 37
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+      "at": "2026-11-03T23:11:22.543Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+      "title": "OverCool Group Heating and Cooling Service | Commercial HVAC",
+      "ms": 7341,
+      "error": null,
+      "linkCount": 53
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+    "title": "OverCool Group Heating and Cooling Service | Commercial HVAC",
+    "lang": "en-US",
+    "metaDescription": "The OverCool Group Heating and Cooling Service provides comfortable environments for your Commercial & Residential needs.",
+    "h1": [
+      "Creating Comfortable Environments"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5278,
+    "bodyText": "Skip to content\n(201) 817-9808\nHOME\nABOUT US\nSERVICES\nBLOG\nGALLERY\nCONTACT US\nCreating Comfortable Environments\nHVAC, Temperature Control, And Air Quality Solutions For All Your Commercial & Residential Needs.\nContact Us Today\nSchedule An Appointment\nCommercial HVAC\nThat’s why businesses of all sizes turn to The OverCool Group for their commercial heating and air conditioning needs.\nLearn More\nAC Maintenance\nWhen you care for your air conditioner in the off-season, you can deal with fewer breakdowns during the hot summer days.\nLearn More\nHeating Maintenance\nHelp your family fight off the chills and shivers with an efficient heating system!\nLearn More\nPremier HVAC Company In Essex County, NJ\n\nFor over 20 years, The OverCool Group has been keeping homes and businesses throughout Essex County, NJ, feeling comfortable. From installing and repairing furnaces to maintaining and replacing air conditioners, we’re the local HVAC company that does it all. Our commercial and residential heating and cooling technicians have been trained, licensed, and certified to solve your HVAC problems whenever they occur.\n\nWhen you have questions or concerns about your AC or heating systems, you can count on The OverCool Group. We’re an HVAC company serving throughout Essex County, NJ, including Essex Fells, Glen Ridge, Livingston, Millburn, Montclair, North Caldwell, Roseland, South Orange, and Verona.\n\nResidential Heating And Cooling Services\n\nA subpar HVAC system is a stressful situation for any homeowner, which is why our technicians work quickly to repair yours or install or replace an entirely new one. We are here to ease the pain of home heating and air issues with promptness, affordable services, and industry-leading solutions.\n\nContact Us\nHeating Services\n\nThere’s no doubt about it; New Jersey winters can get pretty harsh. When the temperatures drop, you don’t want to be without a functioning heating system. Fortunately, we offer a suite of solutions designed to get you back up and running in no time. Our heating services include:\n\nHeating installation & replacement\nHeating repair\nHeating maintenance\nAir Conditioning Services\n\nWhen you live in Essex County, NJ, you know the importance of having a reliable HVAC company on your side. We will take care of your residential HVAC needs during those hot summer days! Our team works diligently to keep small problems from escalating into expensive catastrophes.\n\nKeep your household cool with our AC services, including:\n\nAC installation & replacement\nAC repair\nAC maintenance\nCommercial Heating And Cooling Services\n\nEmployees work more efficiently, and customers shop longer when the air temperature and air quality inside a building are up to par. The OverCool Group is committed to being an HVAC company that helps commercial properties throughout Essex County, NJ, maintain an excellent air conditioning and heating system.\n\nBecause commercial HVAC systems are more complex than residential HVAC systems, business owners and facility managers rely on expert service technicians. No matter the size of your building, The OverCool Group has the commercial HVAC solutions to heat and cool your space effectively.\n\nWhat People Say?\n\nCalled in the morning, Elie responded quickly and diagnosed the problem. Came back an hour later with the parts and got me up and running again. Highly recommend\n\nSCOTT BERMAN\n\n\nSuper professional , great service. Really goes the extra mile for the customer!\n\nFRAN PASCAL\n\n\nThey correctly diagnosed and fixed the problem with our heating system in a courteous and professional manner.\n\nDANIEL JACOBSON\n\n\nGreat experience. Jacob responded quickly and was able to schedule a service call that worked with our busy schedule and gave us a heads up an hour before they arrived and were right on time. Abe, the technician who came to work on our 30 yr old unit was very knowledgeable and honest about what should be done. He was able to get our unit up and running and monitored it for a while to make sure everything was ok. He explained the issue, what he did to fix it but also explained the areas where potential problems may come up due to wear and tear he observed. He did this all while explaining cost/benefit of replacing certain parts vs. a complete replacement in the future. Never felt like I was being sold, just good honest information which I greatly appreciated. When my unit finally stops working they will be the first ones I call to get a quote for a replacement due to the quality service and information I received from Abe and Jacob. Strongly recommend giving them a call if you have an issue.\n\nMARK MCCARTHY\n\nCOMPANIES WE WORK WITH:\nCommunities We Serve\n\nOur team has all of your HVAC needs covered — whether that’s furnace or boiler repairs, installations of mini splits, or commercial HVAC maintenance. We’re proud to offer heating repair and more services to the following communities throughout Essex County, NJ:\n\nEssex Fells\nGlen Ridge\nLivingston\nMillburn\nMontclair\nNorth Caldwell\nRoseland\nSouth Orange\nVerona\nProfessional HVAC Contractors For Heating Repairs\n\nEnsuring your home is well heated during the winter requires prompt repairs of problems with your boiler, furnace, and heat pump. We offer fast, effective, and friendly service. Want more information about our repair services, including our heating installation and replacement solutions? Contact us today!\n\nContact Us Today\nCHECK OUT OUR OTHER LOCATIONS!\n423 Boulevard\nPassaic, NJ 07055\n(201) 817-9808\ninfo@overcoolgroup.com\n381 North Street\nMiddletown, NY 10940\n(212) 927-9262\ninfo@overcoolgroup.com\n2354 Milto Rd.\nUniversity Heights, Ohio 44118\n(216) 279-0879\ninfo@overcoolgroup.com\n\n© 2022 OverCool Group, LLC. All Rights Reserved. Sitemap",
+    "links": [
+      {
+        "href": "#content",
+        "abs": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb#content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:12018179808",
+        "abs": "tel:12018179808",
+        "text": "(201) 817-9808",
+        "visible": true,
+        "aboveFold": true,
+        "h": 33,
+        "w": 1250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com",
+        "abs": "https://www.overcoolgroup.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 91,
+        "w": 372,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/",
+        "abs": "https://www.overcoolgroup.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 70,
+        "w": 86,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/about-us/",
+        "abs": "https://www.overcoolgroup.com/about-us/",
+        "text": "ABOUT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 70,
+        "w": 119,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb#",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 70,
+        "w": 137,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "text": "AC Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "text": "AC Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "text": "AC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "abs": "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "text": "Commercial HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "text": "Heating Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "text": "Heating Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "text": "Heating Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "abs": "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "text": "Mini Splits AC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/blog/",
+        "abs": "https://www.overcoolgroup.com/blog/",
+        "text": "BLOG",
+        "visible": true,
+        "aboveFold": true,
+        "h": 70,
+        "w": 82,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/gallery/",
+        "abs": "https://www.overcoolgroup.com/gallery/",
+        "text": "GALLERY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 70,
+        "w": 112,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/contact/",
+        "abs": "https://www.overcoolgroup.com/contact/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 70,
+        "w": 138,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/",
+        "abs": "https://www.overcoolgroup.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/about-us/",
+        "abs": "https://www.overcoolgroup.com/about-us/",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb#",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "text": "AC Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "text": "AC Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "text": "AC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "abs": "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "text": "Commercial HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "text": "Heating Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "text": "Heating Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "text": "Heating Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "abs": "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "text": "Mini Splits AC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/blog/",
+        "abs": "https://www.overcoolgroup.com/blog/",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/gallery/",
+        "abs": "https://www.overcoolgroup.com/gallery/",
+        "text": "Gallery",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/contact/",
+        "abs": "https://www.overcoolgroup.com/contact/",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/contact/",
+        "abs": "https://www.overcoolgroup.com/contact/",
+        "text": "Contact Us Today",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 237,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://clienthub.getjobber.com/client_hubs/b66172f8-300c-4252-bb4a-e6623d03a9ab/public/work_request/new",
+        "abs": "https://clienthub.getjobber.com/client_hubs/b66172f8-300c-4252-bb4a-e6623d03a9ab/public/work_request/new",
+        "text": "Schedule An Appointment",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 313,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "abs": "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "text": "Learn More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 131,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "text": "Learn More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 131,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "text": "Learn More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 131,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/contact/",
+        "abs": "https://www.overcoolgroup.com/contact/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 153,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "text": "Heating installation & replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 258,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "text": "Heating repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 107,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "text": "Heating maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 159,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "text": "AC installation & replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "text": "AC repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 69,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "abs": "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "text": "AC maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 122,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/commercial-HVAC-essex-county/",
+        "abs": "https://www.overcoolgroup.com/commercial-HVAC-essex-county/",
+        "text": "commercial HVAC",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 133,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "abs": "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "text": "mini splits",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 76,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/commercial-HVAC-essex-county/",
+        "abs": "https://www.overcoolgroup.com/commercial-HVAC-essex-county/",
+        "text": "commercial HVAC",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 133,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "abs": "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "text": "heating installation and replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 273,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.overcoolgroup.com/contact/",
+        "abs": "https://www.overcoolgroup.com/contact/",
+        "text": "Contact Us Today",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 183,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:12018179808",
+        "abs": "tel:12018179808",
+        "text": "(201) 817-9808",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 360,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@overcoolgroup.com",
+        "abs": "mailto:info@overcoolgroup.com",
+        "text": "info@overcoolgroup.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 360,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@overcoolgroup.com",
+        "abs": "mailto:info@overcoolgroup.com",
+        "text": "info@overcoolgroup.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 358,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@overcoolgroup.com",
+        "abs": "mailto:info@overcoolgroup.com",
+        "text": "info@overcoolgroup.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 360,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/sitemap",
+        "abs": "https://www.overcoolgroup.com/sitemap",
+        "text": "Sitemap",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 44,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Submit",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "/#gf_4",
+        "method": "post",
+        "id": "gform_4",
+        "cls": "",
+        "fieldCount": 4,
+        "fieldNames": [
+          "input_1",
+          "input_2",
+          "input_3",
+          "input_4"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "about:blank",
+      "https://maps.google.com/maps?q=OverCool%20Group&t=m&z=10&output=embed&iwloc=near"
+    ],
+    "scripts": [
+      "https://www.google-analytics.com/analytics.js",
+      "https://connect.facebook.net/signals/config/270222541464624?v=2.9.435&r=stable&domain=www.overcoolgroup.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-7XEVMQ3VWF&cx=c&gtm=4e6b21",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-N4MWS43",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.overcoolgroup.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://www.overcoolgroup.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://www.overcoolgroup.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.5.16",
+      "https://www.overcoolgroup.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.5.16",
+      "https://www.overcoolgroup.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://connect.podium.com/widget.js#ORG_TOKEN=120486e5-7657-4d55-9175-cab71f2fa615",
+      "https://www.overcoolgroup.com/wp-content/plugins/wp-google-places-review-slider/public/js/wprev-public-com-min.js?ver=18.4",
+      "https://www.overcoolgroup.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "https://www.overcoolgroup.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.14.2",
+      "https://www.overcoolgroup.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.14.2",
+      "https://www.overcoolgroup.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.14.2",
+      "https://www.overcoolgroup.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2",
+      "https://www.overcoolgroup.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.0",
+      "https://www.overcoolgroup.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.0",
+      "https://www.overcoolgroup.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.0",
+      "https://www.overcoolgroup.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "https://www.overcoolgroup.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.2.0",
+      "https://www.overcoolgroup.com/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23",
+      "https://www.overcoolgroup.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "https://www.overcoolgroup.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "https://www.overcoolgroup.com/wp-includes/js/dist/a11y.min.js?ver=31c6cec5a4ff7aff483d",
+      "https://www.overcoolgroup.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.5.16",
+      "https://www.overcoolgroup.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.5.16",
+      "https://www.overcoolgroup.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.0",
+      "https://www.overcoolgroup.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.0",
+      "https://www.overcoolgroup.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.0"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.overcoolgroup.com/",
+            "url": "https://www.overcoolgroup.com/",
+            "name": "OverCool Group Heating and Cooling Service | Commercial HVAC",
+            "isPartOf": {
+              "@id": "https://www.overcoolgroup.com/#website"
+            },
+            "about": {
+              "@id": "https://www.overcoolgroup.com/#organization"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.overcoolgroup.com/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.overcoolgroup.com/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.overcoolgroup.com/wp-content/uploads/2021/07/download-2.png",
+            "datePublished": "2021-06-29T20:07:21+00:00",
+            "dateModified": "2022-03-24T21:11:56+00:00",
+            "description": "The OverCool Group Heating and Cooling Service provides comfortable environments for your Commercial & Residential needs.",
+            "breadcrumb": {
+              "@id": "https://www.overcoolgroup.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.overcoolgroup.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.overcoolgroup.com/#primaryimage",
+            "url": "https://www.overcoolgroup.com/wp-content/uploads/2021/07/download-2.png",
+            "contentUrl": "https://www.overcoolgroup.com/wp-content/uploads/2021/07/download-2.png",
+            "width": 235,
+            "height": 137
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.overcoolgroup.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.overcoolgroup.com/#website",
+            "url": "https://www.overcoolgroup.com/",
+            "name": "OverCool Group",
+            "description": "Your SUPER-powered WP Engine Site",
+            "publisher": {
+              "@id": "https://www.overcoolgroup.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.overcoolgroup.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.overcoolgroup.com/#organization",
+            "name": "OverCool Group",
+            "url": "https://www.overcoolgroup.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.overcoolgroup.com/#/schema/logo/image/",
+              "url": "https://www.overcoolgroup.com/wp-content/uploads/2021/08/overcoolgroup-logo_blk.png",
+              "contentUrl": "https://www.overcoolgroup.com/wp-content/uploads/2021/08/overcoolgroup-logo_blk.png",
+              "width": 480,
+              "height": 146,
+              "caption": "OverCool Group"
+            },
+            "image": {
+              "@id": "https://www.overcoolgroup.com/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 17,
+    "timing": {
+      "dcl": 7075,
+      "load": 7831,
+      "ttfb": 631
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Podium Webchat failed to load because both the `locationSubsetIds` and `locationSubsetUids` list is empty."
+    ],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+    "navMs": 8356,
+    "tel": [
+      {
+        "href": "tel:12018179808",
+        "text": "(201) 817-9808",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018179808"
+      },
+      {
+        "href": "tel:12018179808",
+        "text": "(201) 817-9808",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018179808"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      },
+      {
+        "name": "Podium",
+        "kind": "messaging"
+      },
+      {
+        "name": "Jobber",
+        "kind": "field_service"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+    "navMs": 7341,
+    "timing": {
+      "dcl": 6003,
+      "load": 6819,
+      "ttfb": 460
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:12018179808",
+        "text": "(201) 817-9808",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018179808"
+      },
+      {
+        "href": "tel:12018179808",
+        "text": "(201) 817-9808",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018179808"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact Us Today",
+      "Schedule An Appointment"
+    ],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 5319
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.overcoolgroup.com/contact/",
+      "finalUrl": "https://www.overcoolgroup.com/contact/",
+      "status": 200,
+      "title": "Contact Us | Essex County, NJ | The OverCool Group",
+      "forms": [
+        {
+          "action": "/contact/#gf_4",
+          "method": "post",
+          "id": "gform_4",
+          "cls": "",
+          "fieldCount": 4,
+          "fieldNames": [
+            "input_1",
+            "input_2",
+            "input_3",
+            "input_4"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://maps.google.com/maps?q=OverCool%20Group&t=m&z=12&output=embed&iwloc=near",
+        "about:blank",
+        "https://maps.google.com/maps?q=OverCool%20Group&t=m&z=10&output=embed&iwloc=near"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@overcoolgroup.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:12018179808",
+          "text": "(201) 817-9808",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018179808"
+        },
+        {
+          "href": "tel:12018179808",
+          "text": "Need Fast Emergency Service? Call 201.817.9808 NOW!",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018179808"
+        },
+        {
+          "href": "tel:2018179808",
+          "text": "(201) 817-9808",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018179808"
+        },
+        {
+          "href": "tel:2018179808",
+          "text": "(201) 817-9808",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018179808"
+        },
+        {
+          "href": "tel:12018179808",
+          "text": "(201) 817-9808",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018179808"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n(201) 817-9808\nHOME\nABOUT US\nSERVICES\nBLOG\nGALLERY\nCONTACT US\nContact Us\nNeed Fast Emergency Service?\nCall 201.817.9808 NOW!\n423 Boulevard Passaic, NJ 07055\n(201) 817-9808\ninfo@overcoolgroup.com\nContact Us Today\nName(Required)\nPhone(Required)\nEmail(Required)\nMessage(Required)\nContact Us Today\nCHECK OUT OUR OTHER LOCATIONS!\n423 Boulevard\nPassaic, NJ 07055\n(201) 817-9808\ninfo@overcoolgroup.com\n381 North Street\nMiddletown, NY 10940\n(212) 927-9262\ninfo@overcoolgroup.com\n2354 Milto Rd.\nUniversity Heights, Ohio 44118\n(216) 279-0879\ninfo@overcoolgroup.com\n\n© 2022 OverCool Group, LLC. All Rights Reserved. Sitemap",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "Podium",
+          "kind": "messaging"
+        }
+      ],
+      "links": [
+        "https://www.overcoolgroup.com/contact/#content",
+        "https://www.overcoolgroup.com/",
+        "https://www.overcoolgroup.com/",
+        "https://www.overcoolgroup.com/about-us/",
+        "https://www.overcoolgroup.com/contact/#",
+        "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "https://www.overcoolgroup.com/blog/",
+        "https://www.overcoolgroup.com/gallery/",
+        "https://www.overcoolgroup.com/contact/",
+        "https://www.overcoolgroup.com/",
+        "https://www.overcoolgroup.com/about-us/",
+        "https://www.overcoolgroup.com/contact/#",
+        "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "https://www.overcoolgroup.com/blog/",
+        "https://www.overcoolgroup.com/gallery/",
+        "https://www.overcoolgroup.com/contact/",
+        "https://www.overcoolgroup.com/contact/",
+        "https://www.overcoolgroup.com/sitemap"
+      ]
+    },
+    "about": {
+      "url": "https://www.overcoolgroup.com/about-us/",
+      "finalUrl": "https://www.overcoolgroup.com/about-us/",
+      "status": 200,
+      "title": "About Us | Commercial HVAC Company | The OverCool Group",
+      "forms": [
+        {
+          "action": "/about-us/#gf_4",
+          "method": "post",
+          "id": "gform_4",
+          "cls": "",
+          "fieldCount": 4,
+          "fieldNames": [
+            "input_1",
+            "input_2",
+            "input_3",
+            "input_4"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "about:blank",
+        "https://maps.google.com/maps?q=OverCool%20Group&t=m&z=10&output=embed&iwloc=near"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@overcoolgroup.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:12018179808",
+          "text": "(201) 817-9808",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018179808"
+        },
+        {
+          "href": "tel:12018179808",
+          "text": "(201) 817-9808",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018179808"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n(201) 817-9808\nHOME\nABOUT US\nSERVICES\nBLOG\nGALLERY\nCONTACT US\nAbout Us\nThe OverCool Group Standard\n\nA commitment to excellence and dedication to our clients has produced 6,247 happy OverCool clients to date. You’ve got everything to gain by joining them!\n\nWhat We Do\n\nYour HVAC system regulates the temperature unevenly. Clogged ducts produce poor airflow, and unfiltered air aggravates allergy symptoms. The environment isn’t pleasant, and your bills are sky-high. You don’t have to put up with it. The OverCool Group helps you provide comfortable and safe spaces for the people you love and the businesses you lead.\n\nQuality\n\nThe use of high-quality materials so that your HVAC systems function better.\n\nExpertise\n\nYears of experience put to work for you, to create systems that suit your needs best.\n\nInnovation\n\nStaying current on industry trends to help service you, no matter the unique layout or challenge.\n\nSchedule An Appointment\nName(Required)\nPhone(Required)\nEmail(Required)\nMessage(Required)\nContact Us Today\nCHECK OUT OUR OTHER LOCATIONS!\n423 Boulevard\nPassaic, NJ 07055\n(201) 817-9808\ninfo@overcoolgroup.com\n381 North Street\nMiddletown, NY 10940\n(212) 927-9262\ninfo@overcoolgroup.com\n2354 Milto Rd.\nUniversity Heights, Ohio 44118\n(216) 279-0879\ninfo@overcoolgroup.com\n\n© 2022 OverCool Group, LLC. All Rights Reserved. Sitemap",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "Podium",
+          "kind": "messaging"
+        }
+      ],
+      "links": [
+        "https://www.overcoolgroup.com/about-us/#content",
+        "https://www.overcoolgroup.com/",
+        "https://www.overcoolgroup.com/",
+        "https://www.overcoolgroup.com/about-us/",
+        "https://www.overcoolgroup.com/about-us/#",
+        "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "https://www.overcoolgroup.com/blog/",
+        "https://www.overcoolgroup.com/gallery/",
+        "https://www.overcoolgroup.com/contact/",
+        "https://www.overcoolgroup.com/",
+        "https://www.overcoolgroup.com/about-us/",
+        "https://www.overcoolgroup.com/about-us/#",
+        "https://www.overcoolgroup.com/ac-installation-replacement-essex-county/",
+        "https://www.overcoolgroup.com/ac-maintenance-essex-county/",
+        "https://www.overcoolgroup.com/ac-repair-essex-county/",
+        "https://www.overcoolgroup.com/commercial-hvac-essex-county/",
+        "https://www.overcoolgroup.com/heating-installation-replacement-essex-county/",
+        "https://www.overcoolgroup.com/heating-maintenance-essex-county/",
+        "https://www.overcoolgroup.com/heating-repair-essex-county/",
+        "https://www.overcoolgroup.com/mini-splits-essex-county/",
+        "https://www.overcoolgroup.com/blog/",
+        "https://www.overcoolgroup.com/gallery/",
+        "https://www.overcoolgroup.com/contact/",
+        "https://www.overcoolgroup.com/contact/",
+        "https://www.overcoolgroup.com/sitemap"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 17,
+    "at": "2026-11-03T23:11:14.405Z",
+    "statusCounts": {
+      "200": 16,
+      "403": 1
+    },
+    "accessIssues": [
+      {
+        "url": "https://clienthub.getjobber.com/client_hubs/b66172f8-300c-4252-bb4a-e6623d03a9ab/public/work_request/new",
+        "status": 403,
+        "error": null
+      }
+    ],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "http://www.overcoolgroup.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": false
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/overcool-llc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/overcool-llc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/overcool-llc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/overcool-llc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/overcool-llc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2022,
+    "emails": [
+      "info@overcoolgroup.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Schedule An Appointment -> https://clienthub.getjobber.com/client_hubs/b66172f8-300c-4252-bb4a-e6623d03a9ab/public/work_request/new"
+    ]
+  }
+}

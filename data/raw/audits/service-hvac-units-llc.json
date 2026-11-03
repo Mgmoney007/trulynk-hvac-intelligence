@@ -1,0 +1,1518 @@
+{
+  "firecrawl": [],
+  "id": "service-hvac-units-llc",
+  "name": "Service HVAC Units LLC",
+  "website": "https://servicehvacunits.com/",
+  "auditedAt": "2026-11-03T22:53:39.499Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://servicehvacunits.com/",
+      "at": "2026-11-03T22:53:42.670Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.servicehvacunits.com/",
+      "title": "HVAC Contractor | Kearny, Newark, NJ | Service HVAC Units LLC",
+      "ms": 3114,
+      "error": null,
+      "linkCount": 81
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.servicehvacunits.com/contact",
+      "at": "2026-11-03T22:53:45.845Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.servicehvacunits.com/contact",
+      "title": "Contact an HVAC Contractor | Kearny, Newark, Jersey City, NJ | Service HVAC Units LLC",
+      "ms": 1877,
+      "error": null,
+      "linkCount": 70
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.servicehvacunits.com/about-us",
+      "at": "2026-11-03T22:53:47.642Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.servicehvacunits.com/about-us",
+      "title": "AC Services | Kearny, Newark, Jersey City, NJ | Service HVAC Units LLC",
+      "ms": 1433,
+      "error": null,
+      "linkCount": 71
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://servicehvacunits.com/",
+      "at": "2026-11-03T22:54:17.373Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.servicehvacunits.com/",
+      "title": "HVAC Contractor | Kearny, Newark, NJ | Service HVAC Units LLC",
+      "ms": 2759,
+      "error": null,
+      "linkCount": 56
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.servicehvacunits.com/",
+    "title": "HVAC Contractor | Kearny, Newark, NJ | Service HVAC Units LLC",
+    "lang": "en",
+    "metaDescription": "For a free estimate on AC installation, repair, and other general HVAC services, Choose Service HVAC Units LLC in Kearny, NJ! (201) 951-9532",
+    "h1": [
+      "It's that Time of Year Again"
+    ],
+    "viewportMeta": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 4395,
+    "bodyText": "Home\nAbout Us\nServices\nCooling\nAC Repair Services\nAC Replacement Services\nAC System Maintenance Services\nCentral AC Installation Services\nHeating\nHeat Pump Installations\nHeating System Maintenance\nHeating System Repairs\nHeating System Upgrades\nHVAC Maintenance\nDuctwork\nService Areas\nKearny, NJ\nNewark, NJ\nJersey City, NJ\nFAQ\nTestimonials\nOur Work\nContact Us\n\n(201) 951-9532\n\nIt's that Time of Year Again\nSCHEDULE YOUR HVAC SERVICES TODAY!\nContact Us \nHVAC Troubles? We'll Be There in a Jiffy.\nCHOOSE THE HVAC CONTRACTOR YOU CAN RELY ON IN KEARNY, NEWARK, NJ, JERSEY CITY, NJ & SURROUNDING AREAS\n\nWhen your HVAC system isn't working, it can become very hot or very cold in your home. The team at Service HVAC Units LLC wants to get you comfortable again as soon as possible. That's why we offer complete HVAC services for clients in and around Kearny, Newark, NJ, Jersey City, NJ & Surrounding Areas. When your heat or AC acts up, our crew will make sure it's repaired quickly and correctly.\n\n\n\n\nCall 201-951-9532 now to get your free estimate on any of the services from the trusted HVAC contractor in your area.\n\nOur Services\nCooling\nHeating\nHVAC Maintenance\nDuctwork\nTake Proper Care of Your HVAC System\n\nHIRE A REPUTABLE HVAC CONTRACTOR BASED IN KEARNY, NEWARK, NJ, JERSEY CITY, NJ & SURROUNDING AREAS\n\nContact Us \nTake Advantage Of Our Wide Range Of Services\n\nService HVAC Units is a licensed and certified HVAC contractor dedicated to client safety and satisfaction. Our crew is trained to install, maintain and repair all of the components in your HVAC system. Whether you need a basic tune-up or a total system replacement, we're the company to call. You can also count on us for:\n\n\nCentral AC installation services\nAC repair\nAir duct repair\nHeating system upgrades\nFurnace installation\nHVAC maintenance\n\n\n\n\nOur basic tune-up starts at $89. If you need emergency assistance, call our office at 201-951-9532 immediately.\n\nOur Reviews\nTRUST US TO MEET ALL YOUR HVAC NEEDS\n\nThe experts at Service HVAC Units have been providing HVAC services to communities in Kearny, NJ, Newark, NJ, Jersey City, NJ & Surrounding Areas for more than 20 years. Our crew is certified to work on both residential and commercial units, and we're also a certified dealer of Mr. Cool products. Our team is ready to repair your HVAC system or install a new one.\n\n\n\n\nLet us know what services your home or business needs, and we'll be out as soon as possible.\n\nQUICK LINKS\nHome\nAbout Us\nServices\nService Areas\nFAQ\nTestimonials\nContact Us\nOur Work\nCONTACT\n\n(201) 951-9532\n\n\nservicehvacunits@gmail.com\n\n\nKearny, NJ, 07032, United States\n\n\n \n \n\nWe Accept These Types of Payments:\n\n© 2026 \n\nAll Rights Reserved | Service HVAC Units\n\nShare by:",
+    "links": [
+      {
+        "href": "/",
+        "abs": "https://www.servicehvacunits.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.servicehvacunits.com/about-us",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.servicehvacunits.com/services",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://www.servicehvacunits.com/cooling",
+        "text": "Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-repair-services",
+        "abs": "https://www.servicehvacunits.com/ac-repair-services",
+        "text": "AC Repair Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-replacement-services",
+        "abs": "https://www.servicehvacunits.com/ac-replacement-services",
+        "text": "AC Replacement Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-system-maintenance-services",
+        "abs": "https://www.servicehvacunits.com/ac-system-maintenance-services",
+        "text": "AC System Maintenance Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/central-ac-installation-services",
+        "abs": "https://www.servicehvacunits.com/central-ac-installation-services",
+        "text": "Central AC Installation Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://www.servicehvacunits.com/heating",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heat-pump-installations",
+        "abs": "https://www.servicehvacunits.com/heat-pump-installations",
+        "text": "Heat Pump Installations",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-maintenance",
+        "abs": "https://www.servicehvacunits.com/heating-system-maintenance",
+        "text": "Heating System Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-repairs",
+        "abs": "https://www.servicehvacunits.com/heating-system-repairs",
+        "text": "Heating System Repairs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-upgrades",
+        "abs": "https://www.servicehvacunits.com/heating-system-upgrades",
+        "text": "Heating System Upgrades",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-maintenance",
+        "abs": "https://www.servicehvacunits.com/hvac-maintenance",
+        "text": "HVAC Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ductwork",
+        "abs": "https://www.servicehvacunits.com/ductwork",
+        "text": "Ductwork",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas",
+        "abs": "https://www.servicehvacunits.com/service-areas",
+        "text": "Service Areas",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/kearny-nj",
+        "abs": "https://www.servicehvacunits.com/kearny-nj",
+        "text": "Kearny, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/newark-nj",
+        "abs": "https://www.servicehvacunits.com/newark-nj",
+        "text": "Newark, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/jersey-city-nj",
+        "abs": "https://www.servicehvacunits.com/jersey-city-nj",
+        "text": "Jersey City, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.servicehvacunits.com/faq",
+        "text": "FAQ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/testimonials",
+        "abs": "https://www.servicehvacunits.com/testimonials",
+        "text": "Testimonials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/our-work",
+        "abs": "https://www.servicehvacunits.com/our-work",
+        "text": "Our Work",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.servicehvacunits.com/contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "abs": "tel:(201) 951-9532",
+        "text": "(201) 951-9532",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:servicehvacunits@gmail.com",
+        "abs": "mailto:servicehvacunits@gmail.com",
+        "text": "servicehvacunits@gmail.com",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/servicehvacunitsllc",
+        "abs": "https://facebook.com/servicehvacunitsllc",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://instagram.com/service_hvac_units_llc",
+        "abs": "https://instagram.com/service_hvac_units_llc",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:servicehvacunits@gmail.com",
+        "abs": "mailto:servicehvacunits@gmail.com",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.servicehvacunits.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "abs": "tel:(201) 951-9532",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.servicehvacunits.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 147,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.servicehvacunits.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 73,
+        "w": 62,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.servicehvacunits.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 73,
+        "w": 85,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.servicehvacunits.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 73,
+        "w": 100,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://www.servicehvacunits.com/cooling",
+        "text": "Cooling",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 182,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-repair-services",
+        "abs": "https://www.servicehvacunits.com/ac-repair-services",
+        "text": "AC Repair Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 282,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-replacement-services",
+        "abs": "https://www.servicehvacunits.com/ac-replacement-services",
+        "text": "AC Replacement Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 282,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-system-maintenance-services",
+        "abs": "https://www.servicehvacunits.com/ac-system-maintenance-services",
+        "text": "AC System Maintenance Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 282,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/central-ac-installation-services",
+        "abs": "https://www.servicehvacunits.com/central-ac-installation-services",
+        "text": "Central AC Installation Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 282,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://www.servicehvacunits.com/heating",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 182,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heat-pump-installations",
+        "abs": "https://www.servicehvacunits.com/heat-pump-installations",
+        "text": "Heat Pump Installations",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 253,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-maintenance",
+        "abs": "https://www.servicehvacunits.com/heating-system-maintenance",
+        "text": "Heating System Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 253,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-repairs",
+        "abs": "https://www.servicehvacunits.com/heating-system-repairs",
+        "text": "Heating System Repairs",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 253,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-upgrades",
+        "abs": "https://www.servicehvacunits.com/heating-system-upgrades",
+        "text": "Heating System Upgrades",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 253,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-maintenance",
+        "abs": "https://www.servicehvacunits.com/hvac-maintenance",
+        "text": "HVAC Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 182,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ductwork",
+        "abs": "https://www.servicehvacunits.com/ductwork",
+        "text": "Ductwork",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 182,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas",
+        "abs": "https://www.servicehvacunits.com/service-areas",
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": true,
+        "h": 73,
+        "w": 137,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/kearny-nj",
+        "abs": "https://www.servicehvacunits.com/kearny-nj",
+        "text": "Kearny, NJ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 150,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/newark-nj",
+        "abs": "https://www.servicehvacunits.com/newark-nj",
+        "text": "Newark, NJ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 150,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/jersey-city-nj",
+        "abs": "https://www.servicehvacunits.com/jersey-city-nj",
+        "text": "Jersey City, NJ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 150,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.servicehvacunits.com/faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 73,
+        "w": 48,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/testimonials",
+        "abs": "https://www.servicehvacunits.com/testimonials",
+        "text": "Testimonials",
+        "visible": true,
+        "aboveFold": true,
+        "h": 73,
+        "w": 111,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/our-work",
+        "abs": "https://www.servicehvacunits.com/our-work",
+        "text": "Our Work",
+        "visible": true,
+        "aboveFold": true,
+        "h": 73,
+        "w": 85,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.servicehvacunits.com/contact",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 73,
+        "w": 98,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.servicehvacunits.com/contact",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 264,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "abs": "tel:(201) 951-9532",
+        "text": "201-951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 104,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://www.servicehvacunits.com/cooling",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 240,
+        "w": 444,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://www.servicehvacunits.com/cooling",
+        "text": "Button",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://www.servicehvacunits.com/heating",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 240,
+        "w": 444,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://www.servicehvacunits.com/heating",
+        "text": "Button",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-maintenance",
+        "abs": "https://www.servicehvacunits.com/hvac-maintenance",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 240,
+        "w": 444,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-maintenance",
+        "abs": "https://www.servicehvacunits.com/hvac-maintenance",
+        "text": "Button",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ductwork",
+        "abs": "https://www.servicehvacunits.com/ductwork",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 240,
+        "w": 444,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ductwork",
+        "abs": "https://www.servicehvacunits.com/ductwork",
+        "text": "Button",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.servicehvacunits.com/contact",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 264,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "abs": "tel:(201) 951-9532",
+        "text": "201-951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 104,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/search?q=Service%20HVAC%20Units%20KEARNY%2C%20NJ&rlz=1C1GCEU_enUS867US868&oq=Service+HVAC+Units+KEARNY%2C+NJ&aqs=chrome..69i57j69i60.11926j0j7&sourceid=chrome&ie=UTF-8&sxsrf=ALeKk01SyI6-dQmi5qjMMLi8ItWwRF9fQQ:1596661978593&npsic=0&rflfq=1&rlha=0&rllag=40754789,-74131013,998&tbm=lcl&rldimm=763237806358170238&lqi=Ch1TZXJ2aWNlIEhWQUMgVW5pdHMgS0VBUk5ZLCBOSloyChJzZXJ2aWNlIGh2YWMgdW5pdHMiHHNlcnZpY2UgaHZhYyB1bml0cyBrZWFybnkgbmp6BktlYXJueQ&ved=2ahUKEwjcvr2w_YTrAhWxUt8KHVx_BIAQvS4wAHoECAsQIQ&rldoc=1&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14&rlst=f#lrd=0x89c25727135cafa3:0xa9790bdb7208a7e,3,,,&rlfi=hd:;si:763237806358170238,l,Ch1TZXJ2aWNlIEhWQUMgVW5pdHMgS0VBUk5ZLCBOSloyChJzZXJ2aWNlIGh2YWMgdW5pdHMiHHNlcnZpY2UgaHZhYyB1bml0cyBrZWFybnkgbmp6BktlYXJueQ;mv:[[40.7920849,-74.1390259],[40.7568553,-74.1503912]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14",
+        "abs": "https://www.google.com/search?q=Service%20HVAC%20Units%20KEARNY%2C%20NJ&rlz=1C1GCEU_enUS867US868&oq=Service+HVAC+Units+KEARNY%2C+NJ&aqs=chrome..69i57j69i60.11926j0j7&sourceid=chrome&ie=UTF-8&sxsrf=ALeKk01SyI6-dQmi5qjMMLi8ItWwRF9fQQ:1596661978593&npsic=0&rflfq=1&rlha=0&rllag=40754789,-74131013,998&tbm=lcl&rldimm=763237806358170238&lqi=Ch1TZXJ2aWNlIEhWQUMgVW5pdHMgS0VBUk5ZLCBOSloyChJzZXJ2aWNlIGh2YWMgdW5pdHMiHHNlcnZpY2UgaHZhYyB1bml0cyBrZWFybnkgbmp6BktlYXJueQ&ved=2ahUKEwjcvr2w_YTrAhWxUt8KHVx_BIAQvS4wAHoECAsQIQ&rldoc=1&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14&rlst=f#lrd=0x89c25727135cafa3:0xa9790bdb7208a7e,3,,,&rlfi=hd:;si:763237806358170238,l,Ch1TZXJ2aWNlIEhWQUMgVW5pdHMgS0VBUk5ZLCBOSloyChJzZXJ2aWNlIGh2YWMgdW5pdHMiHHNlcnZpY2UgaHZhYyB1bml0cyBrZWFybnkgbmp6BktlYXJueQ;mv:[[40.7920849,-74.1390259],[40.7568553,-74.1503912]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:14",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 198,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.servicehvacunits.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 162,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.servicehvacunits.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.servicehvacunits.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.servicehvacunits.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas",
+        "abs": "https://www.servicehvacunits.com/service-areas",
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.servicehvacunits.com/faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/testimonials",
+        "abs": "https://www.servicehvacunits.com/testimonials",
+        "text": "Testimonials",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.servicehvacunits.com/contact",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/our-work",
+        "abs": "https://www.servicehvacunits.com/our-work",
+        "text": "Our Work",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "abs": "tel:(201) 951-9532",
+        "text": "(201) 951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 113,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:servicehvacunits@gmail.com",
+        "abs": "mailto:servicehvacunits@gmail.com",
+        "text": "servicehvacunits@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 209,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/servicehvacunitsllc",
+        "abs": "https://facebook.com/servicehvacunitsllc",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 33,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://instagram.com/service_hvac_units_llc",
+        "abs": "https://instagram.com/service_hvac_units_llc",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 33,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:servicehvacunits@gmail.com",
+        "abs": "mailto:servicehvacunits@gmail.com",
+        "text": "email",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 33,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js",
+      "https://static.cdn-website.com/libs/bower-skrollr/skrollr.min.js",
+      "https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js",
+      "https://static.cdn-website.com/mnlt/production/6880/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js",
+      "https://static.cdn-website.com/mnlt/production/6880/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Service HVAC Units",
+        "url": "https://www.servicehvacunits.com/"
+      },
+      {
+        "@context": {
+          "@vocab": "http://schema.org/"
+        },
+        "@type": "HVACBusiness",
+        "name": "Service HVAC Units",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kearny",
+          "addressRegion": "NJ",
+          "postalCode": "07032",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "40.76463",
+          "longitude": "-74.14827"
+        },
+        "url": "https://www.servicehvacunits.com",
+        "description": "When your HVAC system isn't working, it can become very hot or very cold in your home. The team at Service HVAC Units LLC wants to get you comfortable again as soon as possible. That's why we offer complete HVAC services for clients in and around Kearny, Newark, NJ, Jersey City, NJ & Surrounding Areas. When your heat or AC acts up, our crew will make sure it's repaired quickly and correctly.",
+        "telephone": "(201) 951-9532",
+        "email": "servicehvacunits@gmail.com",
+        "logo": "https://irp.cdn-website.com/d2c70366/dms3rep/multi/logo.png",
+        "sameAs": [
+          "https://facebook.com/servicehvacunitsllc",
+          "https://instagram.com/service_hvac_units_llc"
+        ],
+        "image": [
+          "https://irp.cdn-website.com/d2c70366/dms3rep/multi/hvac2.jpg",
+          "https://irp.cdn-website.com/d2c70366/dms3rep/multi/hvac3.jpg",
+          "https://irp.cdn-website.com/d2c70366/dms3rep/multi/ac.jpg",
+          "https://irp.cdn-website.com/d2c70366/dms3rep/multi/hvac4.jpg",
+          "https://irp.cdn-website.com/d2c70366/dms3rep/multi/ac3.jpg"
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "09:00",
+            "closes": "18:00"
+          }
+        ],
+        "@id": "https://www.servicehvacunits.com",
+        "priceRange": "$"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 19,
+    "timing": {
+      "dcl": 1319,
+      "load": 2327,
+      "ttfb": 689
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.081,
+        "sig": " dmheadercontainer fheader d-header-wrapper showonlarge ",
+        "text": "home\nabout us\nservices\ncooling\nac repair services\nac replacement services\nac system maintenance services\ncentral ac inst"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.servicehvacunits.com/",
+    "navMs": 3114,
+    "tel": [
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "(201) 951-9532",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019519532"
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12019519532"
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "201-951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019519532"
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "201-951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019519532"
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "(201) 951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019519532"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.servicehvacunits.com/",
+    "navMs": 2759,
+    "timing": {
+      "dcl": 1559,
+      "load": 2103,
+      "ttfb": 458
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "Phone Icon",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12019519532"
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "201-951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019519532"
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "201-951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019519532"
+      },
+      {
+        "href": "tel:(201) 951-9532",
+        "text": "(201) 951-9532",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019519532"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact Us",
+      "facebook",
+      "Contact Us"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.113,
+        "sig": "hamburger-header-container hamburger-header-container p_hfcontainer ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 0.006,
+        "sig": "layout-drawer-hamburger layout-drawer-hamburger hamburger-on-header menu",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 31,
+    "brokenImages": [],
+    "textChars": 2706
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.servicehvacunits.com/contact",
+      "finalUrl": "https://www.servicehvacunits.com/contact",
+      "status": 200,
+      "title": "Contact an HVAC Contractor | Kearny, Newark, Jersey City, NJ | Service HVAC Units LLC",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "1024228578",
+          "cls": "dmRespDesignRow",
+          "fieldCount": 4,
+          "fieldNames": [
+            "dmform-0",
+            "dmform-1",
+            "dmform-2",
+            "dmform-3"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "servicehvacunits@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(201) 951-9532",
+          "text": "(201) 951-9532",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12019519532"
+        },
+        {
+          "href": "tel:(201) 951-9532",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12019519532"
+        },
+        {
+          "href": "tel:(201) 951-9532",
+          "text": "201-951-9532",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12019519532"
+        },
+        {
+          "href": "tel:(201) 951-9532",
+          "text": "(201) 951-9532",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12019519532"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home\nAbout Us\nServices\nCooling\nAC Repair Services\nAC Replacement Services\nAC System Maintenance Services\nCentral AC Installation Services\nHeating\nHeat Pump Installations\nHeating System Maintenance\nHeating System Repairs\nHeating System Upgrades\nHVAC Maintenance\nDuctwork\nService Areas\nKearny, NJ\nNewark, NJ\nJersey City, NJ\nFAQ\nTestimonials\nOur Work\nContact Us\n\n(201) 951-9532\n\nContact Us\nFind an HVAC Contractor in Kearny, NJ & surrounding areas\nCONTACT SERVICE HVAC UNITS TODAY\n\nThank you for choosing Service HVAC Units LLC, a top-rated HVAC contractor. We're proud to provide HVAC services to clients in Kearny, NJ, Newark, NJ & surrounding areas. Rely on us for AC repair and installation, as well as furnace installation and HVAC maintenance.\n\n\n\n\nFor more information about our services, or to schedule a consultation, call 201-951-9532 now. You can also use the form on this page to email us.\n\nSERVICE HVAC UNITS LLC\n\nKearny, NJ, 07032, United States\n\nservicehvacunits@gmail.com\n\n(201) 951-9532\n\n24/7\n\nName:\nEmail:\nPhone:\nMessage:\nQUICK LINKS\nHome\nAbout Us\nServices\nService Areas\nFAQ\nTestimonials\nContact Us\nOur Work\nCONTACT\n\n(201) 951-9532\n\n\nservicehvacunits@gmail.com\n\n\nKearny, NJ, 07032, United States\n\n\n \n \n\nWe Accept These Types of Payments:\n\n© 2026 \n\nAll Rights Reserved | Service HVAC Units\n\nShare by:",
+      "vendors": [],
+      "links": [
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/about-us",
+        "https://www.servicehvacunits.com/services",
+        "https://www.servicehvacunits.com/cooling",
+        "https://www.servicehvacunits.com/ac-repair-services",
+        "https://www.servicehvacunits.com/ac-replacement-services",
+        "https://www.servicehvacunits.com/ac-system-maintenance-services",
+        "https://www.servicehvacunits.com/central-ac-installation-services",
+        "https://www.servicehvacunits.com/heating",
+        "https://www.servicehvacunits.com/heat-pump-installations",
+        "https://www.servicehvacunits.com/heating-system-maintenance",
+        "https://www.servicehvacunits.com/heating-system-repairs",
+        "https://www.servicehvacunits.com/heating-system-upgrades",
+        "https://www.servicehvacunits.com/hvac-maintenance",
+        "https://www.servicehvacunits.com/ductwork",
+        "https://www.servicehvacunits.com/service-areas",
+        "https://www.servicehvacunits.com/kearny-nj",
+        "https://www.servicehvacunits.com/newark-nj",
+        "https://www.servicehvacunits.com/jersey-city-nj",
+        "https://www.servicehvacunits.com/faq",
+        "https://www.servicehvacunits.com/testimonials",
+        "https://www.servicehvacunits.com/our-work",
+        "https://www.servicehvacunits.com/contact",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/about-us",
+        "https://www.servicehvacunits.com/services",
+        "https://www.servicehvacunits.com/cooling",
+        "https://www.servicehvacunits.com/ac-repair-services",
+        "https://www.servicehvacunits.com/ac-replacement-services",
+        "https://www.servicehvacunits.com/ac-system-maintenance-services",
+        "https://www.servicehvacunits.com/central-ac-installation-services",
+        "https://www.servicehvacunits.com/heating",
+        "https://www.servicehvacunits.com/heat-pump-installations",
+        "https://www.servicehvacunits.com/heating-system-maintenance",
+        "https://www.servicehvacunits.com/heating-system-repairs",
+        "https://www.servicehvacunits.com/heating-system-upgrades",
+        "https://www.servicehvacunits.com/hvac-maintenance",
+        "https://www.servicehvacunits.com/ductwork",
+        "https://www.servicehvacunits.com/service-areas",
+        "https://www.servicehvacunits.com/kearny-nj",
+        "https://www.servicehvacunits.com/newark-nj",
+        "https://www.servicehvacunits.com/jersey-city-nj",
+        "https://www.servicehvacunits.com/faq",
+        "https://www.servicehvacunits.com/testimonials",
+        "https://www.servicehvacunits.com/our-work",
+        "https://www.servicehvacunits.com/contact",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/about-us",
+        "https://www.servicehvacunits.com/services",
+        "https://www.servicehvacunits.com/service-areas",
+        "https://www.servicehvacunits.com/faq",
+        "https://www.servicehvacunits.com/testimonials",
+        "https://www.servicehvacunits.com/contact",
+        "https://www.servicehvacunits.com/our-work"
+      ]
+    },
+    "about": {
+      "url": "https://www.servicehvacunits.com/about-us",
+      "finalUrl": "https://www.servicehvacunits.com/about-us",
+      "status": 200,
+      "title": "AC Services | Kearny, Newark, Jersey City, NJ | Service HVAC Units LLC",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "servicehvacunits@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(201) 951-9532",
+          "text": "(201) 951-9532",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12019519532"
+        },
+        {
+          "href": "tel:(201) 951-9532",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12019519532"
+        },
+        {
+          "href": "tel:(201) 951-9532",
+          "text": "(201) 951-9532",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12019519532"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home\nAbout Us\nServices\nCooling\nAC Repair Services\nAC Replacement Services\nAC System Maintenance Services\nCentral AC Installation Services\nHeating\nHeat Pump Installations\nHeating System Maintenance\nHeating System Repairs\nHeating System Upgrades\nHVAC Maintenance\nDuctwork\nService Areas\nKearny, NJ\nNewark, NJ\nJersey City, NJ\nFAQ\nTestimonials\nOur Work\nContact Us\n\n(201) 951-9532\n\nAbout Us\nContact Us \nReliable HVAC Professionals\nINDIVIDUALIZED HVAC OPTIONS\n\nService HVAC Units LLC is NJ licensed and fully insured company with over 20 year experience in both residential and commercial fields. It is a family owned business specializing in heating & cooling, servicing, repairing and installations of HVAC equipments.\n\nCUSTOMER SATISFACTION GUARANTEED\n\nWe offer a variety of money-saving solutions. We combine our use of the highest quality parts and equipment, and our dedication to delivering exceptional service to provide you with top quality service. Warranty included with all services.\n\n\nNJ Master Hvac/r Contractor Licensed #19HC00534200\n\n201-951-9532\n\nservicehvacunits@gmail.com\n\nContact Us \nQUICK LINKS\nHome\nAbout Us\nServices\nService Areas\nFAQ\nTestimonials\nContact Us\nOur Work\nCONTACT\n\n(201) 951-9532\n\n\nservicehvacunits@gmail.com\n\n\nKearny, NJ, 07032, United States\n\n\n \n \n\nWe Accept These Types of Payments:\n\n© 2026 \n\nAll Rights Reserved | Service HVAC Units\n\nShare by:",
+      "vendors": [],
+      "links": [
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/about-us",
+        "https://www.servicehvacunits.com/services",
+        "https://www.servicehvacunits.com/cooling",
+        "https://www.servicehvacunits.com/ac-repair-services",
+        "https://www.servicehvacunits.com/ac-replacement-services",
+        "https://www.servicehvacunits.com/ac-system-maintenance-services",
+        "https://www.servicehvacunits.com/central-ac-installation-services",
+        "https://www.servicehvacunits.com/heating",
+        "https://www.servicehvacunits.com/heat-pump-installations",
+        "https://www.servicehvacunits.com/heating-system-maintenance",
+        "https://www.servicehvacunits.com/heating-system-repairs",
+        "https://www.servicehvacunits.com/heating-system-upgrades",
+        "https://www.servicehvacunits.com/hvac-maintenance",
+        "https://www.servicehvacunits.com/ductwork",
+        "https://www.servicehvacunits.com/service-areas",
+        "https://www.servicehvacunits.com/kearny-nj",
+        "https://www.servicehvacunits.com/newark-nj",
+        "https://www.servicehvacunits.com/jersey-city-nj",
+        "https://www.servicehvacunits.com/faq",
+        "https://www.servicehvacunits.com/testimonials",
+        "https://www.servicehvacunits.com/our-work",
+        "https://www.servicehvacunits.com/contact",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/about-us",
+        "https://www.servicehvacunits.com/services",
+        "https://www.servicehvacunits.com/cooling",
+        "https://www.servicehvacunits.com/ac-repair-services",
+        "https://www.servicehvacunits.com/ac-replacement-services",
+        "https://www.servicehvacunits.com/ac-system-maintenance-services",
+        "https://www.servicehvacunits.com/central-ac-installation-services",
+        "https://www.servicehvacunits.com/heating",
+        "https://www.servicehvacunits.com/heat-pump-installations",
+        "https://www.servicehvacunits.com/heating-system-maintenance",
+        "https://www.servicehvacunits.com/heating-system-repairs",
+        "https://www.servicehvacunits.com/heating-system-upgrades",
+        "https://www.servicehvacunits.com/hvac-maintenance",
+        "https://www.servicehvacunits.com/ductwork",
+        "https://www.servicehvacunits.com/service-areas",
+        "https://www.servicehvacunits.com/kearny-nj",
+        "https://www.servicehvacunits.com/newark-nj",
+        "https://www.servicehvacunits.com/jersey-city-nj",
+        "https://www.servicehvacunits.com/faq",
+        "https://www.servicehvacunits.com/testimonials",
+        "https://www.servicehvacunits.com/our-work",
+        "https://www.servicehvacunits.com/contact",
+        "https://www.servicehvacunits.com/contact",
+        "https://www.servicehvacunits.com/contact",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/",
+        "https://www.servicehvacunits.com/about-us",
+        "https://www.servicehvacunits.com/services",
+        "https://www.servicehvacunits.com/service-areas",
+        "https://www.servicehvacunits.com/faq",
+        "https://www.servicehvacunits.com/testimonials",
+        "https://www.servicehvacunits.com/contact",
+        "https://www.servicehvacunits.com/our-work"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 24,
+    "at": "2026-11-03T22:54:14.562Z",
+    "statusCounts": {
+      "200": 23,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.servicehvacunits.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/service-hvac-units-llc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/service-hvac-units-llc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/service-hvac-units-llc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/service-hvac-units-llc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/service-hvac-units-llc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00534200"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": true,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "servicehvacunits@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "facebook -> https://facebook.com/servicehvacunitsllc"
+    ]
+  },
+  "ctaClickTests": []
+}

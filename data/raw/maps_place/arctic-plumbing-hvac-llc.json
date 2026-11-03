@@ -1,0 +1,25 @@
+{
+  "id": "arctic-plumbing-hvac-llc",
+  "placeUrl": "https://www.google.com/maps/place/Arctic+Plumbing+%26+HVAC+LLC/data=!4m7!3m6!1s0x89c2e51e9322fc27:0xac94d1bada48ba72!8m2!3d40.9226154!4d-74.3917234!16s%2Fg%2F11t5tb58dj!19sChIJJ_wikx7lwokRcrpI2rrRlKw",
+  "retrievedAt": "2026-11-03T22:54:29.352Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Arctic Plumbing & HVAC LLC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 973-557-6742 ",
+  "website": "http://arcticplumbinghvac.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Arctic+Plumbing+%26+HVAC+LLC/data=!4m7!3m6!1s0x89c2e51e9322fc27:0xac94d1bada48ba72!8m2!3d40.9226154!4d-74.3917234!16s%2Fg%2F11t5tb58dj!19sChIJJ_wikx7lwokRcrpI2rrRlKw?hl=en",
+  "screenshot": "evidence/screenshots/arctic-plumbing-hvac-llc/google-maps-listing.png"
+}

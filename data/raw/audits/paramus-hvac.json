@@ -1,0 +1,1321 @@
+{
+  "firecrawl": [],
+  "id": "paramus-hvac",
+  "name": "Paramus HVAC",
+  "website": "https://www.paramus-hvac.com/",
+  "auditedAt": "2026-11-03T23:02:07.824Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.paramus-hvac.com/",
+      "at": "2026-11-03T23:02:10.588Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://paramus-hvac.com/",
+      "title": "Paramus HVAC | 24/7 Heating & AC Repair, Paramus NJ",
+      "ms": 2731,
+      "error": null,
+      "linkCount": 68
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://paramus-hvac.com/contact",
+      "at": "2026-11-03T23:02:13.594Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://paramus-hvac.com/contact/",
+      "title": "Contact Us | 24/7 HVAC Service in Paramus, NJ - Paramus HVAC",
+      "ms": 1413,
+      "error": null,
+      "linkCount": 28
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://paramus-hvac.com/about-us",
+      "at": "2026-11-03T23:02:15.414Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://paramus-hvac.com/about-us/",
+      "title": "About Us | Local HVAC Experts in Paramus, NJ - Paramus HVAC",
+      "ms": 1045,
+      "error": null,
+      "linkCount": 25
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.paramus-hvac.com/",
+      "at": "2026-11-03T23:02:35.390Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://paramus-hvac.com/",
+      "title": "Paramus HVAC | 24/7 Heating & AC Repair, Paramus NJ",
+      "ms": 2638,
+      "error": null,
+      "linkCount": 68
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://paramus-hvac.com/",
+    "title": "Paramus HVAC | 24/7 Heating & AC Repair, Paramus NJ",
+    "lang": "en",
+    "metaDescription": "Paramus HVAC: 24/7 furnace, boiler, AC & ductless repair and installation for Paramus, NJ homes and businesses. Call (551) 239-1624.",
+    "h1": [
+      "PARAMUS HVAC – HEATING & AC REPAIR IN PARAMUS, NJ"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 8450,
+    "bodyText": "SKIP TO MAIN CONTENT\nHOME\nSERVICES\nABOUT US\nCONTACT\nPARAMUS HVAC – HEATING & AC REPAIR IN PARAMUS, NJ\nTotal Home Comfort,\nAll Year Round\n24 Hours a Day\n\nExperience the difference a reliable HVAC system can make in your home or business. Paramus HVAC provides fast, dependable heating and cooling service for every season, including hot water boiler repairs, furnace and central air service, ductless mini-split installation, system replacements, and preventative maintenance. From minor repairs to complete equipment upgrades, we focus on restoring dependable comfort while helping you get the best possible performance from your system. For any general property maintenance or repairs that fall outside of our specialized heating and cooling services, we recommend partnering with a trusted handyman.\n\nOur goal is simple: keep your space comfortable, efficient, and safe when you need it most. We work with homeowners and businesses throughout Bergen, Passaic, and Morris Counties, providing responsive service and straightforward recommendations tailored to your property’s needs.\n\nWhether you are dealing with no heat on a cold New Jersey night, weak air conditioning during a summer heat wave, uneven temperatures between rooms, or an aging system that is costing too much to run, our team is ready to help 24 hours a day. We carefully inspect the problem, explain your options in clear terms, and deliver practical solutions designed for lasting comfort, dependable performance, and improved energy efficiency.\n\n\n\n\n\n\n\n\nContact Us! \n\n \nI have read and understand the privacy policy.\nEnter the security code\nUnreadable? Regenerate\nSUBMIT\n \n24/7 Climate Control\nYou Can Count On\n\nHVAC emergencies don't wait for business hours, and neither do we. Our dedicated Paramus team is available around the clock to restore your heating and air conditioning systems. Trust our certified professionals for transparent pricing, quick response times, and lasting results when you need them most.\n\nCALL US\nComprehensive Climate Solutions for Every Space \n\nParamus HVAC provides a complete suite of residential and commercial climate control solutions, designed for maximum efficiency and longevity. We offer full-lifecycle support, from custom system design to expert installation and proactive preventative care.\n\n\n\n\nOur heating services ensure a warm sanctuary during harsh New Jersey winters. Whether you use a forced-air furnace, heat pump, or complex boiler, our technicians optimize performance to enhance heat distribution and lower utility costs. When the harsh winter gives way to summer heat, our reliable air conditioning service ensures your indoor environment remains consistently crisp and cool.\n\n\n\n\nFor cooling, we maintain a crisp, comfortable indoor environment. We handle everything from central air conditioning replacements to precise installations of versatile, whisper-quiet ductless mini-split systems—perfect for customized zoning without invasive ductwork.\n\n\n\n\nBeyond temperature control, we are committed to system reliability and indoor air quality. Our preventative maintenance plans feature comprehensive inspections and proactive part replacements to prevent major breakdowns. By maintaining optimal airflow and humidity, we protect your equipment and ensure your family’s everyday comfort.\n\nCALL US\nHVAC Services in Bergen County\nHeating & Air Conditioning\nBoilers & Hot Water Systems\nDuctless/Mini-Split Systems\nPreventative Maintenance & Tune-Ups\nIndoor Air Quality (IAQ) Solutions\nSteam Boilers\nSwap Outs/Change Outs\nNew and Existing Construction\nAnd So Much More!\nWe're Available 24 Hours a Day 7 Days A Week\n24/7 HVAC Repair & Installation \n\nDon’t let a failed furnace, leaking boiler, ineffective air conditioner, or rising energy bills disrupt your home or business. Paramus HVAC solves the heating and cooling problems that affect your comfort, safety, and budget—day or night. From emergency no-heat calls and boiler repairs to central air troubleshooting, ductless mini-split installation, indoor air-quality upgrades, and complete system replacements, our team delivers the right solution for your property.\n\n\n\n\nWe start with a thorough assessment, identify the real cause of the issue, and explain your repair or replacement options clearly before work begins. Our technicians focus on dependable repairs, efficient installations, proper airflow, and preventive maintenance that helps reduce surprise breakdowns and extend equipment life. Serving Bergen, Passaic, and Morris Counties 24/7, Paramus HVAC is ready to restore reliable comfort quickly. Call today to schedule service or request your free estimate. \n\nWhether you need a full upgrade or routine care, we deliver top-tier heat and cooling solutions, and we are specialists in energy-efficient HVAC solutions to keep your energy bills low and your rooms cozy.\n\n\n\n\nIf you are upgrading your home's layout, our experts work smoothly alongside local pros for handyman tasks, kitchen remodeling, bathroom remodeling, and kitchen and bathroom remodeling. We also help protect your living space from harsh drafts and high utility costs by recommending quality upgrades like closed cell spray foam insulation, professional spray foam insulation, and energy-saving spray foam insulation. Beyond climate control, protect your home against cold showers and leaks with fast, expert water heater repair and dependable plumbing repairs to keep everything running safely.\n\n\n\n\nA comfortable home starts with a clear understanding of the equipment. When choosing an HVAC contractor, ask how the assessment is handled and what the proposed work includes. Good questions about heating and cooling repairs begin with the symptoms, not a guess about which part needs replacing.\n\nCold rooms can have different causes. A conversation about heating repair, and AC repair you should consider the controls and the way heat reaches each space. Whether the next step involves furnace repairs or boiler service, ask for an explanation of the findings before approving the work.\n\nFor summer comfort, compare air conditioning repair with the scope of AC installation rather than assuming new equipment is the only answer. For a room without suitable ducts, ductless mini-split installation offers a different approach worth discussing.\n\nWhen the current equipment needs more attention, weigh HVAC system replacement against continued repairs. Ask what a change-out includes, what remains in place and how preventive HVAC maintenance will fit into caring for the system afterward.\n\nCALL US\nParamus Neighborhoods We Serve\n\nParamus HVAC serves homes in every part of Paramus, NJ 07652. That includes Arcola, Bergen Place, Dunkerhook, Fairway Oaks and Spring Valley, as well as the streets near Van Saun County Park and Saddle River County Park. We know that getting around the borough means planning around Route 4, Route 17 and the Garden State Parkway, especially near the malls. Wherever your home is in Paramus, call (551) 239-1624 for heating and cooling service.\n\nKeeping a Paramus House Warm, Cool and Code-Compliant\n\nParamus HVAC serves Paramus (Bergen County) and nearby Rochelle Park, Maywood, Oradell, Ridgewood and Fair Lawn, NJ.\n\nParamus is better known for Route 4 and Route 17 shopping than for its houses, but the borough's homes tell the real heating story. Census Bureau survey data (ACS 2019–2023) puts the median year built at 1963, and roughly six in ten housing units date from before 1960. That means plenty of post-war ranches, capes and split-levels whose original equipment has long since been swapped out at least once, often without anyone revisiting how the ductwork or radiators were sized.\n\nNatural gas dominates here: about 87% of occupied homes heat with utility gas, around 10% with electricity, and only about 1% still burn fuel oil. Gas service in Paramus comes from PSE&G, which also supplies the borough's electricity.\n\nWhat the local climate asks of your equipment\n\nThe nearest NOAA station with 1991–2020 climate normals, Teterboro Airport, averages about 4,700 heating degree days a year. January averages near 33°F with typical lows around 26°F, while July highs average about 87°F. A system here has to handle both a real winter and long humid stretches, so oversized air conditioners that cool quickly but never dehumidify are a common complaint in split-levels with upstairs bedrooms.\n\nPermits and inspections\n\nUnder the New Jersey Uniform Construction Code, swapping a furnace, boiler, central air unit or condensing unit for one of like capacity is classified as \"minor work.\" Notice goes to the Paramus construction office before work starts, a permit application follows within five business days, and an inspection is required. Repairs such as replacing a motor, control or section of duct count as ordinary maintenance and need no permit.\n\nRebates worth asking about\n\nPSE&G customers who own their home can get instant rebates on qualifying high-efficiency furnaces, boilers, central air and heat pumps, but only when a PSE&G participating contractor does the installation. Ask before you sign whether the rebate is already reflected in the price.\n\nRepair or replace?\n\nCost depends on fuel type, whether ducts can be reused, how hard the equipment is to reach, electrical upgrades needed for a heat pump, and permit fees. As a rule of thumb, frequent repeat breakdowns, a cracked heat exchanger, or a system that cannot keep the far bedrooms comfortable all point toward replacement; a single failed part on otherwise sound equipment usually points toward repair.\n\nContact Paramus HVAC Today!\n\nparamus-hvac.com\n\ninfo@paramus-hvac.com\n\nCALL US\n ",
+    "links": [
+      {
+        "href": "#main-content",
+        "abs": "https://paramus-hvac.com/#main-content",
+        "text": "SKIP TO MAIN CONTENT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 61,
+        "w": 408,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://paramus-hvac.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 86,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://paramus-hvac.com/services",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 119,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-and-air-conditioning",
+        "abs": "https://paramus-hvac.com/heating-and-air-conditioning",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/new-construction-hvac-existing-homes",
+        "abs": "https://paramus-hvac.com/new-construction-hvac-existing-homes",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-system-replacement-change-outs",
+        "abs": "https://paramus-hvac.com/hvac-system-replacement-change-outs",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/steam-boilers",
+        "abs": "https://paramus-hvac.com/steam-boilers",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality-solutions",
+        "abs": "https://paramus-hvac.com/indoor-air-quality-solutions",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-maintenance-tune-ups",
+        "abs": "https://paramus-hvac.com/hvac-maintenance-tune-ups",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split-systems",
+        "abs": "https://paramus-hvac.com/ductless-mini-split-systems",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/boilers-hot-water-systems",
+        "abs": "https://paramus-hvac.com/boilers-hot-water-systems",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/additional-hvac-services",
+        "abs": "https://paramus-hvac.com/additional-hvac-services",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 330,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://paramus-hvac.com/about-us",
+        "text": "ABOUT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 125,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://paramus-hvac.com/contact",
+        "text": "CONTACT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 123,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15512391624",
+        "abs": "tel:+15512391624",
+        "text": "Call",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "//PARAMUS-HVAC.COM",
+        "abs": "https://paramus-hvac.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 86,
+        "w": 588,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15512391624",
+        "abs": "tel:+15512391624",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 61,
+        "w": 179,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#!next",
+        "abs": "https://paramus-hvac.com/#!next",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "http://pointcookhandymanpros.com/",
+        "abs": "http://pointcookhandymanpros.com/",
+        "text": "handyman",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 82,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15512391624",
+        "abs": "tel:+15512391624",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 61,
+        "w": 179,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#privacy",
+        "abs": "https://paramus-hvac.com/#privacy",
+        "text": "I have read and understand the privacy policy.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 383,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://paramus-hvac.com/#",
+        "text": "Unreadable? Regenerate",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 21,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15512391624",
+        "abs": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 61,
+        "w": 179,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://prairievillehvac.com/",
+        "abs": "https://prairievillehvac.com/",
+        "text": "air conditioning service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 182,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15512391624",
+        "abs": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 61,
+        "w": 179,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-and-air-conditioning",
+        "abs": "https://paramus-hvac.com/heating-and-air-conditioning",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/boilers-hot-water-systems",
+        "abs": "https://paramus-hvac.com/boilers-hot-water-systems",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split-systems",
+        "abs": "https://paramus-hvac.com/ductless-mini-split-systems",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-maintenance-tune-ups",
+        "abs": "https://paramus-hvac.com/hvac-maintenance-tune-ups",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality-solutions",
+        "abs": "https://paramus-hvac.com/indoor-air-quality-solutions",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/steam-boilers",
+        "abs": "https://paramus-hvac.com/steam-boilers",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-system-replacement-change-outs",
+        "abs": "https://paramus-hvac.com/hvac-system-replacement-change-outs",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/new-construction-hvac-existing-homes",
+        "abs": "https://paramus-hvac.com/new-construction-hvac-existing-homes",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/additional-hvac-services",
+        "abs": "https://paramus-hvac.com/additional-hvac-services",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 348,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-and-air-conditioning",
+        "abs": "https://paramus-hvac.com/heating-and-air-conditioning",
+        "text": "emergency no-heat calls",
+        "visible": true,
+        "aboveFold": false,
+        "h": 57,
+        "w": 1017,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/boilers-hot-water-systems",
+        "abs": "https://paramus-hvac.com/boilers-hot-water-systems",
+        "text": "boiler repairs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 105,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-and-air-conditioning",
+        "abs": "https://paramus-hvac.com/heating-and-air-conditioning",
+        "text": "central air troubleshooting",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 210,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split-systems",
+        "abs": "https://paramus-hvac.com/ductless-mini-split-systems",
+        "text": "ductless mini-split installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 234,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality-solutions",
+        "abs": "https://paramus-hvac.com/indoor-air-quality-solutions",
+        "text": "indoor air-quality upgrades",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 213,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-system-replacement-change-outs",
+        "abs": "https://paramus-hvac.com/hvac-system-replacement-change-outs",
+        "text": "complete system replacements",
+        "visible": true,
+        "aboveFold": false,
+        "h": 57,
+        "w": 983,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-maintenance-tune-ups",
+        "abs": "https://paramus-hvac.com/hvac-maintenance-tune-ups",
+        "text": "preventive maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 190,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://hvac-sandiego.com/?utm_source=gemini",
+        "abs": "https://hvac-sandiego.com/?utm_source=gemini",
+        "text": "heat and cooling solutions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 203,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://hvacspringvalley.com/",
+        "abs": "https://hvacspringvalley.com/",
+        "text": "energy-efficient HVAC solutions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 57,
+        "w": 994,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "http://www.fairfieldhandymanpro.com/?utm_source=gemini",
+        "abs": "http://www.fairfieldhandymanpro.com/?utm_source=gemini",
+        "text": "handyman",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 82,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.altadenakitchenremodeling.com/?utm_source=gemini",
+        "abs": "https://www.altadenakitchenremodeling.com/?utm_source=gemini",
+        "text": "kitchen remodeling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 151,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://pomonacabathroomremodel.com/?utm_source=gemini",
+        "abs": "https://pomonacabathroomremodel.com/?utm_source=gemini",
+        "text": "bathroom remodeling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 171,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://portervillekitchenbathremodel.com/",
+        "abs": "https://portervillekitchenbathremodel.com/",
+        "text": "kitchen and bathroom remodeling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 266,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://sprayfoamcollegestationtx.com/?utm_source=gemini",
+        "abs": "https://sprayfoamcollegestationtx.com/?utm_source=gemini",
+        "text": "closed cell spray foam insulation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 252,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "http://www.yakimasprayfoaminsulation.com?utm_source=gemini",
+        "abs": "http://www.yakimasprayfoaminsulation.com/?utm_source=gemini",
+        "text": "spray foam insulation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 167,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.sugarlandsprayfoaminsulation.xyz/?utm_source=gemini",
+        "abs": "https://www.sugarlandsprayfoaminsulation.xyz/?utm_source=gemini",
+        "text": "spray foam insulation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 167,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "http://www.sunrisemanorwaterheaterrepair.com/?utm_source=gemini",
+        "abs": "http://www.sunrisemanorwaterheaterrepair.com/?utm_source=gemini",
+        "text": "water heater repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 153,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.soledadplumber.com/?utm_source=gemini",
+        "abs": "https://www.soledadplumber.com/?utm_source=gemini",
+        "text": "plumbing repairs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 132,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://wayne-hvac.com/",
+        "abs": "https://wayne-hvac.com/",
+        "text": "HVAC contractor",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 135,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://ridgewoodhvac.com/",
+        "abs": "https://ridgewoodhvac.com/",
+        "text": "heating and cooling repairs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 211,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://wyckoff-hvac.com/",
+        "abs": "https://wyckoff-hvac.com/",
+        "text": "heating repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 109,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://conversehvaccontractorpros.com/",
+        "abs": "https://conversehvaccontractorpros.com/",
+        "text": "AC repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 75,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://woodlandparkhvac.com/",
+        "abs": "https://woodlandparkhvac.com/",
+        "text": "furnace repairs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 119,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://mahwahhvac.com/",
+        "abs": "https://mahwahhvac.com/",
+        "text": "boiler service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 106,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://fairlawnhvac.com/",
+        "abs": "https://fairlawnhvac.com/",
+        "text": "air conditioning repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 174,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://hawthorne-hvac.com/",
+        "abs": "https://hawthorne-hvac.com/",
+        "text": "AC installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 116,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://ramsey-hvac.com/",
+        "abs": "https://ramsey-hvac.com/",
+        "text": "ductless mini-split installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 234,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://elmwoodparkhvac.com/",
+        "abs": "https://elmwoodparkhvac.com/",
+        "text": "HVAC system replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 211,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://waldwickhvac.com/",
+        "abs": "https://waldwickhvac.com/",
+        "text": "preventive HVAC maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 242,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15512391624",
+        "abs": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 61,
+        "w": 179,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#!next",
+        "abs": "https://paramus-hvac.com/#!next",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 26,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#!next",
+        "abs": "https://paramus-hvac.com/#!next",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 26,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@paramus-hvac.com",
+        "abs": "mailto:info@paramus-hvac.com",
+        "text": "info@paramus-hvac.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 322,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+15512391624",
+        "abs": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 61,
+        "w": 179,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "SUBMIT",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "id": "",
+        "cls": "",
+        "fieldCount": 8,
+        "fieldNames": [
+          "form_3916427988[ed-f-3916427991]",
+          "form_3916427988[ed-f-3916427994]",
+          "form_3916427988[ed-f-3916427997]",
+          "form_3916427988[ed-f-3916428000]",
+          "form_3916427988[ed-f-3916428006][]",
+          "form_3916427988[ed-f-3916428009][text]",
+          "news",
+          "tos"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://paramus-hvac.com/webcard/static/app.bundle.1793613452.js",
+      "https://paramus-hvac.com/js/custom.260920200022.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "HVACBusiness",
+        "name": "Paramus HVAC",
+        "url": "https://paramus-hvac.com/",
+        "logo": "https://paramus-hvac.com/images/0/28164724/ParamusHVAClogo-nhjsz5pWH_xNY8lhHmAx1A.jpg",
+        "image": "https://paramus-hvac.com/images/1024/28188780/07-central-ac-replacement-jIGBV5tWrknKGt2JijLEQA.jpg",
+        "telephone": "+15512391624",
+        "email": "info@paramus-hvac.com",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Paramus",
+          "addressRegion": "NJ",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Paramus, NJ",
+            "postalCode": "07652",
+            "containedInPlace": {
+              "@type": "AdministrativeArea",
+              "name": "Bergen County, NJ"
+            }
+          },
+          {
+            "@type": "AdministrativeArea",
+            "name": "Bergen County, NJ"
+          },
+          {
+            "@type": "AdministrativeArea",
+            "name": "Passaic County, NJ"
+          },
+          {
+            "@type": "AdministrativeArea",
+            "name": "Morris County, NJ"
+          }
+        ],
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 12,
+    "timing": {
+      "dcl": 2061,
+      "load": 2197,
+      "ttfb": 815
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://paramus-hvac.com/",
+    "navMs": 2731,
+    "tel": [
+      {
+        "href": "tel:+15512391624",
+        "text": "Call",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://paramus-hvac.com/",
+    "navMs": 2638,
+    "timing": {
+      "dcl": 1592,
+      "load": 2042,
+      "ttfb": 838
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+15512391624",
+        "text": "Call",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      },
+      {
+        "href": "tel:+15512391624",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15512391624"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Call"
+    ],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 1,
+    "brokenImages": [],
+    "textChars": 9627
+  },
+  "pages": {
+    "contact": {
+      "url": "https://paramus-hvac.com/contact",
+      "finalUrl": "https://paramus-hvac.com/contact/",
+      "status": 200,
+      "title": "Contact Us | 24/7 HVAC Service in Paramus, NJ - Paramus HVAC",
+      "forms": [
+        {
+          "action": "",
+          "method": "post",
+          "id": "",
+          "cls": "",
+          "fieldCount": 8,
+          "fieldNames": [
+            "form_3924503469[ed-f-3924503472]",
+            "form_3924503469[ed-f-3924503475]",
+            "form_3924503469[ed-f-3924503478]",
+            "form_3924503469[ed-f-3924503481]",
+            "form_3924503469[ed-f-3924503487][]",
+            "form_3924503469[ed-f-3924503490][text]",
+            "news",
+            "tos"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@paramus-hvac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+15512391624",
+          "text": "Call",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+15512391624"
+        },
+        {
+          "href": "tel:+15512391624",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+15512391624"
+        },
+        {
+          "href": "tel:+15512391624",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+15512391624"
+        },
+        {
+          "href": "tel:+15512391624",
+          "text": "CALL US",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+15512391624"
+        }
+      ],
+      "owners": [],
+      "bodyText": "SKIP TO MAIN CONTENT\nHOME\nSERVICES\nABOUT US\nCONTACT\n\nContact Us! \n\n \nI have read and understand the privacy policy.\nEnter the security code\nUnreadable? Regenerate\nSUBMIT\nYour Comfort, Our Priority.\n24 Hours a Day\n\nExperience the difference of a perfectly functioning HVAC system. Paramus HVAC specializes in fast, dependable heating and cooling services—including hot water boiler repair, ductless mini-split installation, and preventative maintenance—designed to keep your family comfortable in every season, 24 hours a day.\n\n\n\n\nLet’s Restore Your Home's Comfort.\n\nParamus HVAC provides fast, dependable service to Bergen, Passaic, and Morris Counties. Contact us today for 24/7 support!\n\n\n\n\nYour Trusted Paramus HVAC Experts.\n\nServing the heating and cooling needs of Bergen, Passaic, and Morris Counties. Reach out below for fast, local service when you need it most.\n\n\n\n\nContact Paramus HVAC Today!\n\nparamus-hvac.com\n\ninfo@paramus-hvac.com\n\nCALL US\n ",
+      "vendors": [],
+      "links": [
+        "https://paramus-hvac.com/contact/#main-content",
+        "https://paramus-hvac.com/",
+        "https://paramus-hvac.com/services",
+        "https://paramus-hvac.com/heating-and-air-conditioning",
+        "https://paramus-hvac.com/new-construction-hvac-existing-homes",
+        "https://paramus-hvac.com/hvac-system-replacement-change-outs",
+        "https://paramus-hvac.com/steam-boilers",
+        "https://paramus-hvac.com/indoor-air-quality-solutions",
+        "https://paramus-hvac.com/hvac-maintenance-tune-ups",
+        "https://paramus-hvac.com/ductless-mini-split-systems",
+        "https://paramus-hvac.com/boilers-hot-water-systems",
+        "https://paramus-hvac.com/additional-hvac-services",
+        "https://paramus-hvac.com/about-us",
+        "https://paramus-hvac.com/contact",
+        "https://paramus-hvac.com/",
+        "https://paramus-hvac.com/contact/#!next",
+        "https://paramus-hvac.com/contact/#privacy",
+        "https://paramus-hvac.com/contact/#",
+        "https://paramus-hvac.com/boilers-hot-water-systems",
+        "https://paramus-hvac.com/ductless-mini-split-systems",
+        "https://paramus-hvac.com/hvac-maintenance-tune-ups",
+        "https://paramus-hvac.com/contact/#!next",
+        "https://paramus-hvac.com/contact/#!next"
+      ]
+    },
+    "about": {
+      "url": "https://paramus-hvac.com/about-us",
+      "finalUrl": "https://paramus-hvac.com/about-us/",
+      "status": 200,
+      "title": "About Us | Local HVAC Experts in Paramus, NJ - Paramus HVAC",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@paramus-hvac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+15512391624",
+          "text": "Call",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+15512391624"
+        },
+        {
+          "href": "tel:+15512391624",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+15512391624"
+        },
+        {
+          "href": "tel:+15512391624",
+          "text": "CALL US",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+15512391624"
+        },
+        {
+          "href": "tel:+15512391624",
+          "text": "CALL US",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+15512391624"
+        }
+      ],
+      "owners": [],
+      "bodyText": "SKIP TO MAIN CONTENT\nHOME\nSERVICES\nABOUT US\nCONTACT\n \nOur Commitment to Comfort\n\nAt Paramus HVAC, we’re dedicated to keeping your home comfortable year-round. With years of experience in heating and cooling solutions, our licensed and insured technicians provide prompt, dependable service. As a local business rooted in the Paramus community, we understand the unique needs of homeowners here. Whether you need a quick repair or a complete system installation, you can trust us to deliver exceptional service every time.\n\nCALL US\nOur Core Values\nIntegrity\n\nWe believe in honest pricing and clear communication, ensuring you understand what you’re paying for.\n\nExpertise\n\nOur technicians are fully licensed and receive ongoing training to provide top-quality service.\n\nCommunity Focus\n\nWe are committed to serving the Paramus area, ensuring prompt and reliable HVAC solutions for our neighbors.\n\nWe're Open 24 hours, 7 days a week\n\n\n\n\nContact Paramus HVAC Today!\n\nparamus-hvac.com\n\ninfo@paramus-hvac.com\n\nCALL US\n ",
+      "vendors": [],
+      "links": [
+        "https://paramus-hvac.com/about-us/#main-content",
+        "https://paramus-hvac.com/",
+        "https://paramus-hvac.com/services",
+        "https://paramus-hvac.com/heating-and-air-conditioning",
+        "https://paramus-hvac.com/new-construction-hvac-existing-homes",
+        "https://paramus-hvac.com/hvac-system-replacement-change-outs",
+        "https://paramus-hvac.com/steam-boilers",
+        "https://paramus-hvac.com/indoor-air-quality-solutions",
+        "https://paramus-hvac.com/hvac-maintenance-tune-ups",
+        "https://paramus-hvac.com/ductless-mini-split-systems",
+        "https://paramus-hvac.com/boilers-hot-water-systems",
+        "https://paramus-hvac.com/additional-hvac-services",
+        "https://paramus-hvac.com/about-us",
+        "https://paramus-hvac.com/contact",
+        "https://paramus-hvac.com/",
+        "https://paramus-hvac.com/about-us/#!next",
+        "https://paramus-hvac.com/heating-and-air-conditioning",
+        "https://paramus-hvac.com/hvac-system-replacement-change-outs",
+        "https://paramus-hvac.com/about-us/#!next",
+        "https://paramus-hvac.com/about-us/#!next"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 15,
+    "at": "2026-11-03T23:02:32.706Z",
+    "statusCounts": {
+      "200": 15
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://paramus-hvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/paramus-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/paramus-hvac/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/paramus-hvac/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/paramus-hvac/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/paramus-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": true
+    },
+    "emails": [
+      "info@paramus-hvac.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "clifton-ac-repair-systems",
+  "placeUrl": "https://www.google.com/maps/place/Clifton+AC+Repair+Systems/data=!4m7!3m6!1s0x89c2ff06499d501f:0xa55ddc1d2b81b8c0!8m2!3d40.8577724!4d-74.1478181!16s%2Fg%2F11px_bsf35!19sChIJH1CdSQb_wokRwLiBKx3cXaU",
+  "retrievedAt": "2026-11-03T23:02:07.799Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Clifton AC Repair Systems",
+  "category": "HVAC contractor",
+  "address": "611 Van Houten Ave, Clifton, NJ 07013, United States ",
+  "phone": "+1 862-212-3080 ",
+  "website": "https://www.airconditioningrepairnewjersey.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Clifton+AC+Repair+Systems/data=!4m7!3m6!1s0x89c2ff06499d501f:0xa55ddc1d2b81b8c0!8m2!3d40.8577724!4d-74.1478181!16s%2Fg%2F11px_bsf35!19sChIJH1CdSQb_wokRwLiBKx3cXaU?hl=en",
+  "screenshot": "evidence/screenshots/clifton-ac-repair-systems/google-maps-listing.png"
+}

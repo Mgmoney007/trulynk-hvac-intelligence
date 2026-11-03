@@ -1,0 +1,25 @@
+{
+  "id": "vip-hvac-service-corporation",
+  "placeUrl": "https://www.google.com/maps/place/VIP+HVAC+SERVICE+CORPORATION/data=!4m7!3m6!1s0x89c3adad807d6f4b:0x400a02fe99f55ce5!8m2!3d40.7147015!4d-74.2766458!16s%2Fg%2F11d_zc7pcy!19sChIJS299gK2tw4kR5Vz1mf4CCkA",
+  "retrievedAt": "2026-11-03T23:09:58.992Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "VIP HVAC SERVICE CORPORATION",
+  "category": "HVAC contractor",
+  "address": "133 Atlanta Ave, Vauxhall, NJ 07088, United States ",
+  "phone": "+1 908-200-8505 ",
+  "website": "http://viphvacservice.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/VIP+HVAC+SERVICE+CORPORATION/data=!4m7!3m6!1s0x89c3adad807d6f4b:0x400a02fe99f55ce5!8m2!3d40.7147015!4d-74.2766458!16s%2Fg%2F11d_zc7pcy!19sChIJS299gK2tw4kR5Vz1mf4CCkA?hl=en",
+  "screenshot": "evidence/screenshots/vip-hvac-service-corporation/google-maps-listing.png"
+}

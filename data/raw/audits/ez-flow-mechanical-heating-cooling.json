@@ -1,0 +1,2726 @@
+{
+  "id": "ez-flow-mechanical-heating-cooling",
+  "name": "EZ Flow Mechanical Heating & Cooling",
+  "website": "http://ezflownj.com/",
+  "auditedAt": "2026-11-03T22:24:12.371Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://ezflownj.com/",
+      "at": "2026-11-03T22:24:16.025Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://ezflownj.com/",
+      "title": "Plumbing, Heating & Air Conditioning Repair in New Jersey",
+      "ms": 3240,
+      "error": null,
+      "linkCount": 120
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://ezflownj.com/contact-us/",
+      "at": "2026-11-03T22:24:19.363Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://ezflownj.com/contact-us/",
+      "title": "Contact us - EZ Flow Plumbing & Heating LLC",
+      "ms": 1970,
+      "error": null,
+      "linkCount": 130
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://ezflownj.com/about/",
+      "at": "2026-11-03T22:24:21.309Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://ezflownj.com/about/",
+      "title": "About us - EZ Flow Plumbing & Heating LLC",
+      "ms": 1492,
+      "error": null,
+      "linkCount": 149
+    },
+    {
+      "step": "desktop_booking",
+      "method": "playwright_chromium_desktop",
+      "url": "https://ezflownj.com/get-quote/",
+      "at": "2026-11-03T22:24:22.748Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://ezflownj.com/get-quote/",
+      "title": "Get a Free Quote - EZ Flow Plumbing & Heating LLC",
+      "ms": 1033,
+      "error": null,
+      "linkCount": 129
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://ezflownj.com/",
+      "at": "2026-11-03T22:25:25.131Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://ezflownj.com/",
+      "title": "Plumbing, Heating & Air Conditioning Repair in New Jersey",
+      "ms": 3337,
+      "error": null,
+      "linkCount": 120
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://ezflownj.com/",
+    "title": "Plumbing, Heating & Air Conditioning Repair in New Jersey",
+    "lang": "en-US",
+    "metaDescription": "For expert plumbing, heating & air conditioning repair in New Jersey call EZ Flow HVAC Company. Serving Bergen, Passaic, Essex & Morris County, 24/7 service!",
+    "h1": [
+      "Licensed Heating, Air Conditioning & Plumbing Services in North Jersey"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1, maximum-scale=2.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1376,
+    "scrollHeight": 8421,
+    "bodyText": "973-337-1200\n24/7 Service\nRated 5 Stars\nFree Quote\nLicensed & Insured\nGoogle\n \nYelp\n \nFacebook-f\nHome\nAir Conditioning\nServices\nAbout us\nContact us\nService Areas\nRequest Service\nLicensed Heating, Air Conditioning & Plumbing Services in North Jersey\n\nEZ Flow Plumbing & Heating LLC provides licensed heating, air conditioning, and plumbing repair, installation, and maintenance for homes and businesses across North Jersey.\n\nRequest a Free Quote\nCall Now\nLicensed & Insured\n24/7 Emergency Service\nFamily-Owned 20+ Years\nSatisfaction Guaranteed\n5-Star Google Rating\nOF EXPERIENCE\n0\n+ YEARS\nAbout Company\n20 Years of Heating, Cooling & Plumbing Service in New Jersey\n\nA failed furnace, a broken air conditioner, and a clogged drain have one thing in common: none of them wait for a convenient time. EZ Flow was built to answer that call directly. We have licensed technicians who handle heating, air conditioning, and plumbing under one company.\n\nEZ Flow Plumbing & Heating LLC is an insured, family-owned contractor providing residential and commercial services across Bergen, Passaic, Essex, and Morris Counties, New Jersey. Our technicians are available 24/7 for emergency repairs, and every completed job is backed by a 100% satisfaction guarantee.\n\nFull-Service Heating, AC & Plumbing\n\nWe provide full service across three core trades, and each one is staffed by technicians trained specifically in that system.\n\nHeating Services In New Jersey\nAir Conditioning Services In New Jersey\nPlumbing Services In New Jersey\nEZ Flow provides complete heating services in New Jersey for homes and businesses, including heating repair, installation, replacement, and maintenance. Our technicians work on furnaces, boilers, gas heating systems, and oil heating systems throughout North Jersey. Whether you need emergency heating repair or a full system upgrade, we can help keep your property warm and comfortable.\nHeating Repair\nHeating Installation & Replacement\nHeating Maintenance\nOil-To-Gas Conversion\nRepair, Maintenance, or Installation? We Do All Three, Right.\n\nYou don’t always need a new system. Sometimes you just need an honest diagnosis.\n\nRepair\n\nSomething broke and need repairing, we find out why, then fix it. We provide same day diagnosis, upfront price, and we fix the actual cause. \n\nLearn More\nMaintenance\n\nRegular maintenance for your furnace, boiler, AC, or plumbing system before summer or winters help you avoid sudden problems later on. \n\nLearn More\nInstallation\n\nSystem has gotten older than 10 to 15 years and is worn out. We size systems correctly and install it professionally.\n\nLearn More\nWhy Choose EZ Flow for Heating and Plumbing Emergencies?\n\nPlenty of contractors can show up eventually. Fewer combine licensed expertise across three trades with a response time and guarantee you can actually count on.\n\nLicensed & Insured:\nEvery technician is licensed for the trade they perform, and every job is covered by insurance from start to finish.\n24/7 Emergency Response:\nHeating, cooling, and plumbing emergencies get a real technician dispatched, any hour, any day.\n20 Years Experience:\nFamily-owned and operated locally, with two decades of experience in the homes and buildings we serve.\nTrained on Major Brands:\nTechnicians are trained to service York, Ruud, Rheem, Lennox, Carrier, Goodman, American Standard, A.O. Smith, and Haier equipment.\nUpfront Pricing:\nYou approve a clear quote before any repair, replacement, or installation begins.\nSatisfaction Guarantee:\nEvery completed job is backed by a guarantee, not just a handshake.\nEquipment and Strategy Behind Every Job\n\nReliable repairs depend on the right diagnostic tools. Our crew carries combustion analyzers to check furnace and boiler efficiency, manifold gauge sets, and digital leak detectors for refrigerant work. We bring sewer cameras to inspect drain and sewer lines before recommending a system repair or replacement.\n\nThis matters because it changes the advice you get. A camera inspection can show that a sewer line needs a targeted repair instead of a full replacement, and a combustion analyzer reading can confirm a furnace is running safely rather than relying on a visual check alone.\n\nWe also carry parts and equipment from major manufacturers, including York, Ruud, Rheem, Lennox, Carrier, Goodman, American Standard, A.O. Smith, and Haier, so most existing systems in the area can be serviced without a lengthy special order.\n\nWarning Signs Worth Calling About\nMost heating, cooling, and plumbing failures give some warning before they become emergencies. Catching these early usually costs less than waiting for a full breakdown.\nIf any of these sound familiar, it is worth a call before the system fails outright, especially before a peak season like a cold snap or a summer heat wave.\nHeating:\nShort cycling, a yellow or flickering pilot light, banging or rattling from the furnace, or rooms that heat unevenly.\nAir Conditioning:\nWarm air from the vents, ice forming on the unit, a sudden spike in your electric bill, or a musty smell when the system runs.\nPlumbing:\nSlow drains in more than one fixture, gurgling sounds from pipes, a water heater that runs out of hot water quickly, or damp spots near the basement floor.\nHow We Work\n01\nContact Us:\nCall or send a request online.\n02\nGet a Technician:\nA licensed pro is dispatched to your location.\n03\nReview your Quote:\nApprove the price before any work starts.\n04\nJob Done, Guaranteed:\nEvery repair is backed by our satisfaction guarantee.\nAreas We Cover Across North Jersey\n\nEZ Flow provides heating, air conditioning, and plumbing service across multiple counties and towns in New Jersey. Call (973) 337-1200. We may still be able to help.\n\nBergen County\nEZ Flow serves homes and businesses throughout Bergen County, including Paramus, Franklin Lakes, Fair Lawn, Mahwah, Bergenfield, Wyckoff, and Ridgewood. Our team provides plumbing, heating, and air conditioning services across these Bergen County communities.\nPassaic County\nOur Passaic County service area includes Clifton, Wayne, West Milford, Ringwood, Paterson, Totowa, and Little Falls. EZ Flow provides plumbing, heating, and cooling services for homeowners and businesses throughout these local communities.\nMorris County\nEZ Flow provides service throughout Morris County, including Morristown, Denville, Parsippany, Boonton, Madison, Randolph, and Rockaway. Customers across these communities can turn to our team for plumbing, heating, air conditioning, and emergency service.\nEssex County\nWe also serve communities throughout Essex County, including Fairfield, Bloomfield, East Orange, Essex Fells, Montclair, Livingston, and West Orange. EZ Flow provides plumbing, heating, and air conditioning services for residential and commercial properties throughout the area.\nFeedback from Our Customers\n\nOur customers consistently rate us 5-stars for exceptional service with utmost professionalism.\n\nFrequently Asked Questions\nIs EZ Flow Licensed And Insured In New Jersey?\nDo You Provide Real 24/7 Emergency Service?\nWhat Towns And Counties Does EZ Flow Serve?\nDo You Work On Oil Heating Systems, Or Only Gas?\nCan You Handle Heating, Air Conditioning, And Plumbing Together?\nWhat Brands Do You Install And Repair?\nReady to Get Your Heating, Cooling, or Plumbing Systems Fixed?\n\nHave a heating, cooling, or plumbing problem that cannot wait?\n\nCall us now for licensed, 24/7 emergency service in New Jersey, or request a free quote online.\n\nCall Now",
+    "links": [
+      {
+        "href": "https://ezflownj.com/",
+        "abs": "https://ezflownj.com/",
+        "text": "EZ Flow Plumbing & Heating LLC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:19733371200",
+        "abs": "tel:19733371200",
+        "text": "973-337-1200",
+        "visible": true,
+        "aboveFold": true,
+        "h": 28,
+        "w": 397,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/get-quote/",
+        "abs": "https://ezflownj.com/get-quote/",
+        "text": "Free Quote",
+        "visible": true,
+        "aboveFold": true,
+        "h": 28,
+        "w": 109,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://g.page/ezflowplumbing?share",
+        "abs": "https://g.page/ezflowplumbing?share",
+        "text": "Google",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 18,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.yelp.com/biz/ez-flow-plumbing-and-heating-wayne",
+        "abs": "https://www.yelp.com/biz/ez-flow-plumbing-and-heating-wayne",
+        "text": "Yelp",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 18,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/ezflownj",
+        "abs": "https://www.facebook.com/ezflownj",
+        "text": "Facebook-f",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 18,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com",
+        "abs": "https://ezflownj.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 80,
+        "w": 160,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/",
+        "abs": "https://ezflownj.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 71,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning/",
+        "abs": "https://ezflownj.com/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 168,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/ac-repair/",
+        "abs": "https://ezflownj.com/ac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning-replacement/",
+        "abs": "https://ezflownj.com/air-conditioning-replacement/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning-installation/",
+        "abs": "https://ezflownj.com/air-conditioning-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning-inspection/",
+        "abs": "https://ezflownj.com/air-conditioning-inspection/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning-maintenance/",
+        "abs": "https://ezflownj.com/air-conditioning-maintenance/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/ductless-mini-split-systems/",
+        "abs": "https://ezflownj.com/ductless-mini-split-systems/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 60,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/emergency-ac-repair/",
+        "abs": "https://ezflownj.com/emergency-ac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/",
+        "abs": "https://ezflownj.com/hvac/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 101,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/",
+        "abs": "https://ezflownj.com/hvac/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "abs": "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 60,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/hvac-maintenance/",
+        "abs": "https://ezflownj.com/hvac/hvac-maintenance/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/hvac-repair/",
+        "abs": "https://ezflownj.com/hvac/hvac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/emergency-hvac/",
+        "abs": "https://ezflownj.com/hvac/emergency-hvac/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/plumbing/",
+        "abs": "https://ezflownj.com/plumbing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/heating-services/",
+        "abs": "https://ezflownj.com/service/heating-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "abs": "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "abs": "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 60,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/hot-water-heater-repair/",
+        "abs": "https://ezflownj.com/service/hot-water-heater-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 60,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "abs": "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/gas-hot-water-heater/",
+        "abs": "https://ezflownj.com/service/gas-hot-water-heater/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "abs": "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "abs": "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 60,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "abs": "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/oil-steam-boilers/",
+        "abs": "https://ezflownj.com/service/oil-steam-boilers/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/about/",
+        "abs": "https://ezflownj.com/about/",
+        "text": "About us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 106,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/customer-reviews/",
+        "abs": "https://ezflownj.com/customer-reviews/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/blog/",
+        "abs": "https://ezflownj.com/blog/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/deals-coupons/",
+        "abs": "https://ezflownj.com/deals-coupons/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/contact-us/",
+        "abs": "https://ezflownj.com/contact-us/",
+        "text": "Contact us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 124,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/clifton-nj-plumber/",
+        "abs": "https://ezflownj.com/clifton-nj-plumber/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/fairfield-nj-plumber/",
+        "abs": "https://ezflownj.com/fairfield-nj-plumber/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/paramus-nj-plumber/",
+        "abs": "https://ezflownj.com/paramus-nj-plumber/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/morristown-nj-plumber/",
+        "abs": "https://ezflownj.com/morristown-nj-plumber/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/secaucus-nj-plumber/",
+        "abs": "https://ezflownj.com/secaucus-nj-plumber/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/wayne-nj-plumber/",
+        "abs": "https://ezflownj.com/wayne-nj-plumber/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://ezflownj.com/#",
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 146,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-bergen-county/",
+        "abs": "https://ezflownj.com/hvac-bergen-county/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-paramus/",
+        "abs": "https://ezflownj.com/hvac-paramus/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-franklin-lakes/",
+        "abs": "https://ezflownj.com/hvac-franklin-lakes/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-fair-lawn/",
+        "abs": "https://ezflownj.com/hvac-fair-lawn/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-mahwah/",
+        "abs": "https://ezflownj.com/hvac-mahwah/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-bergenfield/",
+        "abs": "https://ezflownj.com/hvac-bergenfield/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-wyckoff/",
+        "abs": "https://ezflownj.com/hvac-wyckoff/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-passaic-county/",
+        "abs": "https://ezflownj.com/hvac-passaic-county/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-morris-county/",
+        "abs": "https://ezflownj.com/hvac-morris-county/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/contact-us/",
+        "abs": "https://ezflownj.com/contact-us/",
+        "text": "Request Service",
+        "visible": true,
+        "aboveFold": true,
+        "h": 39,
+        "w": 179,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com",
+        "abs": "https://ezflownj.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/",
+        "abs": "https://ezflownj.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning/",
+        "abs": "https://ezflownj.com/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/ac-repair/",
+        "abs": "https://ezflownj.com/ac-repair/",
+        "text": "AC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning-replacement/",
+        "abs": "https://ezflownj.com/air-conditioning-replacement/",
+        "text": "AC Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning-installation/",
+        "abs": "https://ezflownj.com/air-conditioning-installation/",
+        "text": "AC Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning-inspection/",
+        "abs": "https://ezflownj.com/air-conditioning-inspection/",
+        "text": "AC Inspection",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/air-conditioning-maintenance/",
+        "abs": "https://ezflownj.com/air-conditioning-maintenance/",
+        "text": "AC Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/ductless-mini-split-systems/",
+        "abs": "https://ezflownj.com/ductless-mini-split-systems/",
+        "text": "Ductless Mini-Split Systems",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/emergency-ac-repair/",
+        "abs": "https://ezflownj.com/emergency-ac-repair/",
+        "text": "Emergency AC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/",
+        "abs": "https://ezflownj.com/hvac/",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/",
+        "abs": "https://ezflownj.com/hvac/",
+        "text": "HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "abs": "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "text": "HVAC Installation & Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/hvac-maintenance/",
+        "abs": "https://ezflownj.com/hvac/hvac-maintenance/",
+        "text": "HVAC Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/hvac-repair/",
+        "abs": "https://ezflownj.com/hvac/hvac-repair/",
+        "text": "HVAC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac/emergency-hvac/",
+        "abs": "https://ezflownj.com/hvac/emergency-hvac/",
+        "text": "Emergency HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/plumbing/",
+        "abs": "https://ezflownj.com/plumbing/",
+        "text": "Plumbing Repairs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/heating-services/",
+        "abs": "https://ezflownj.com/service/heating-services/",
+        "text": "Heating Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "abs": "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "text": "Drain & Sewer Cleaning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "abs": "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "text": "Water Damage & Sump Pumps",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/hot-water-heater-repair/",
+        "abs": "https://ezflownj.com/service/hot-water-heater-repair/",
+        "text": "Hot Water Heater Repair & Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "abs": "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "text": "Gas Hot Air Furnaces",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/gas-hot-water-heater/",
+        "abs": "https://ezflownj.com/service/gas-hot-water-heater/",
+        "text": "Gas Hot Water Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "abs": "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "text": "Gas Steam Boiler",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "abs": "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "text": "Oil To Gas Conversion Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "abs": "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "text": "Oil Hot Air Furnaces",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/service/oil-steam-boilers/",
+        "abs": "https://ezflownj.com/service/oil-steam-boilers/",
+        "text": "Oil Steam Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/about/",
+        "abs": "https://ezflownj.com/about/",
+        "text": "About us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/customer-reviews/",
+        "abs": "https://ezflownj.com/customer-reviews/",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/blog/",
+        "abs": "https://ezflownj.com/blog/",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/deals-coupons/",
+        "abs": "https://ezflownj.com/deals-coupons/",
+        "text": "Offers & Coupons",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/contact-us/",
+        "abs": "https://ezflownj.com/contact-us/",
+        "text": "Contact us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/clifton-nj-plumber/",
+        "abs": "https://ezflownj.com/clifton-nj-plumber/",
+        "text": "Clifton NJ Plumber",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/fairfield-nj-plumber/",
+        "abs": "https://ezflownj.com/fairfield-nj-plumber/",
+        "text": "Fairfield NJ Plumber",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/paramus-nj-plumber/",
+        "abs": "https://ezflownj.com/paramus-nj-plumber/",
+        "text": "Paramus NJ Plumber",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/morristown-nj-plumber/",
+        "abs": "https://ezflownj.com/morristown-nj-plumber/",
+        "text": "Morristown NJ Plumber",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/secaucus-nj-plumber/",
+        "abs": "https://ezflownj.com/secaucus-nj-plumber/",
+        "text": "Secaucus NJ Plumber",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/wayne-nj-plumber/",
+        "abs": "https://ezflownj.com/wayne-nj-plumber/",
+        "text": "Wayne NJ Plumber",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://ezflownj.com/#",
+        "text": "Service Areas",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-bergen-county/",
+        "abs": "https://ezflownj.com/hvac-bergen-county/",
+        "text": "Bergen County",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-paramus/",
+        "abs": "https://ezflownj.com/hvac-paramus/",
+        "text": "Paramus",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-franklin-lakes/",
+        "abs": "https://ezflownj.com/hvac-franklin-lakes/",
+        "text": "Franklin Lakes",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-fair-lawn/",
+        "abs": "https://ezflownj.com/hvac-fair-lawn/",
+        "text": "Fair Lawn",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-mahwah/",
+        "abs": "https://ezflownj.com/hvac-mahwah/",
+        "text": "Mahwah",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-bergenfield/",
+        "abs": "https://ezflownj.com/hvac-bergenfield/",
+        "text": "Bergenfield",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-wyckoff/",
+        "abs": "https://ezflownj.com/hvac-wyckoff/",
+        "text": "Wyckoff",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-passaic-county/",
+        "abs": "https://ezflownj.com/hvac-passaic-county/",
+        "text": "Passaic County",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/hvac-morris-county/",
+        "abs": "https://ezflownj.com/hvac-morris-county/",
+        "text": "Morris County",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/get-quote/",
+        "abs": "https://ezflownj.com/get-quote/",
+        "text": "Request a Free Quote",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 258,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/contact-us/",
+        "abs": "https://ezflownj.com/contact-us/",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 159,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/contact-us/",
+        "abs": "https://ezflownj.com/contact-us/",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 178,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://ezflownj.com/deals-coupons/",
+        "abs": "https://ezflownj.com/deals-coupons/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/clifton-nj-plumber/",
+        "abs": "https://ezflownj.com/clifton-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/wayne-nj-plumber/",
+        "abs": "https://ezflownj.com/wayne-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/morristown-nj-plumber/",
+        "abs": "https://ezflownj.com/morristown-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/paramus-nj-plumber/",
+        "abs": "https://ezflownj.com/paramus-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/fairfield-nj-plumber/",
+        "abs": "https://ezflownj.com/fairfield-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/secaucus-nj-plumber/",
+        "abs": "https://ezflownj.com/secaucus-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/fairfield-nj-plumber/",
+        "abs": "https://ezflownj.com/fairfield-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/secaucus-nj-plumber/",
+        "abs": "https://ezflownj.com/secaucus-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/morristown-nj-plumber/",
+        "abs": "https://ezflownj.com/morristown-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/wayne-nj-plumber/",
+        "abs": "https://ezflownj.com/wayne-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/paramus-nj-plumber/",
+        "abs": "https://ezflownj.com/paramus-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://ezflownj.com/clifton-nj-plumber/",
+        "abs": "https://ezflownj.com/clifton-nj-plumber/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/ezflownj/",
+        "abs": "https://www.facebook.com/ezflownj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 50,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Air Conditioning",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "About us",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Contact us",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "HVAC Services",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "About us",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Contact us",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Service Areas",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Bergen County",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Heating Services In New Jersey",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Air Conditioning Services In New Jersey",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Plumbing Services In New Jersey",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Heating Repair",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Heating Installation & Replacement",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Heating Maintenance",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Oil-To-Gas Conversion",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "AC Repair",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "AC Installation",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "AC Maintenance",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Ductless Mini-Split Installation",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Plumbing Repair",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Drain Cleaning & Sewer Services",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Water Heater Repair",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Sump Pump Installation & Repair",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Is EZ Flow Licensed And Insured In New Jersey?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do You Provide Real 24/7 Emergency Service?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "What Towns And Counties Does EZ Flow Serve?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do You Work On Oil Heating Systems, Or Only Gas?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Can You Handle Heating, Air Conditioning, And Plumbing Toget",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "What Brands Do You Install And Repair?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://ezflownj.com/",
+        "method": "get",
+        "id": "",
+        "cls": "search-form",
+        "fieldCount": 1,
+        "fieldNames": [
+          "s"
+        ],
+        "visible": false,
+        "hasSubmit": false,
+        "submitDisabled": null,
+        "isSearch": true
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://ezflownj.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+      "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": [
+              "Organization",
+              "Person"
+            ],
+            "@id": "https://ezflownj.com/#person",
+            "name": "EZ Flow",
+            "url": "https://ezflownj.com",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://ezflownj.com/#logo",
+              "url": "https://ezflownj.com/wp-content/uploads/2026/07/ez-flow-logo-150x150.png",
+              "contentUrl": "https://ezflownj.com/wp-content/uploads/2026/07/ez-flow-logo-150x150.png",
+              "caption": "EZ Flow",
+              "inLanguage": "en-US"
+            },
+            "image": {
+              "@id": "https://ezflownj.com/#logo"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://ezflownj.com/#website",
+            "url": "https://ezflownj.com",
+            "name": "EZ Flow",
+            "publisher": {
+              "@id": "https://ezflownj.com/#person"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://ezflownj.com/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://ezflownj.com/wp-content/uploads/2026/10/frame-1.png",
+            "url": "https://ezflownj.com/wp-content/uploads/2026/10/frame-1.png",
+            "width": "384",
+            "height": "384",
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://ezflownj.com/#webpage",
+            "url": "https://ezflownj.com/",
+            "name": "Plumbing, Heating &amp; Air Conditioning Repair in New Jersey",
+            "datePublished": "2026-10-01T03:53:20-04:00",
+            "dateModified": "2026-10-07T19:35:12-04:00",
+            "about": {
+              "@id": "https://ezflownj.com/#person"
+            },
+            "isPartOf": {
+              "@id": "https://ezflownj.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://ezflownj.com/wp-content/uploads/2026/10/frame-1.png"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://ezflownj.com/author/ezflow/",
+            "name": "EZ Flow",
+            "url": "https://ezflownj.com/author/ezflow/",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://secure.gravatar.com/avatar/67659c56e0f07562b50c45bad0796396b8d44f5b1dcd7c06e6129c8401d67cbc?s=96&amp;d=mm&amp;r=g",
+              "url": "https://secure.gravatar.com/avatar/67659c56e0f07562b50c45bad0796396b8d44f5b1dcd7c06e6129c8401d67cbc?s=96&amp;d=mm&amp;r=g",
+              "caption": "EZ Flow",
+              "inLanguage": "en-US"
+            },
+            "sameAs": [
+              "https://ezflownj.com/"
+            ]
+          },
+          {
+            "@type": "Article",
+            "headline": "Plumbing, Heating &amp; Air Conditioning Repair in New Jersey",
+            "keywords": "Plumbing,Heating,Air Conditioning,HVAC",
+            "datePublished": "2026-10-01T03:53:20-04:00",
+            "dateModified": "2026-10-07T19:35:12-04:00",
+            "author": {
+              "@id": "https://ezflownj.com/author/ezflow/",
+              "name": "EZ Flow"
+            },
+            "publisher": {
+              "@id": "https://ezflownj.com/#person"
+            },
+            "description": "For expert plumbing, heating &amp; air conditioning repair in New Jersey call EZ Flow HVAC Company. Serving Bergen, Passaic, Essex &amp; Morris County, 24/7 service!",
+            "name": "Plumbing, Heating &amp; Air Conditioning Repair in New Jersey",
+            "@id": "https://ezflownj.com/#richSnippet",
+            "isPartOf": {
+              "@id": "https://ezflownj.com/#webpage"
+            },
+            "image": {
+              "@id": "https://ezflownj.com/wp-content/uploads/2026/10/frame-1.png"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://ezflownj.com/#webpage"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 25,
+    "timing": {
+      "dcl": 2087,
+      "load": 2553,
+      "ttfb": 1670
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://ezflownj.com/",
+    "navMs": 3240,
+    "tel": [
+      {
+        "href": "tel:19733371200",
+        "text": "973-337-1200",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733371200"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://ezflownj.com/",
+    "navMs": 3337,
+    "timing": {
+      "dcl": 2417,
+      "load": 2601,
+      "ttfb": 1876
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, maximum-scale=2.0",
+    "innerWidth": 393,
+    "scrollWidth": 393,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:19733371200",
+        "text": "973-337-1200",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733371200"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 1,
+    "brokenImages": [],
+    "textChars": 7289
+  },
+  "pages": {
+    "contact": {
+      "url": "https://ezflownj.com/contact-us/",
+      "finalUrl": "https://ezflownj.com/contact-us/",
+      "status": 200,
+      "title": "Contact us - EZ Flow Plumbing & Heating LLC",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "fluentform_4",
+          "cls": "frm-fluent-form fluent_form_4 ff-el-form-top ff_form_instance_4_1 ff-form-loadin",
+          "fieldCount": 7,
+          "fieldNames": [
+            "item_4__fluent_sf",
+            "input_text",
+            "email",
+            "input_text_1",
+            "input_text_2",
+            "datetime",
+            "description"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": "https://ezflownj.com/",
+          "method": "get",
+          "id": "",
+          "cls": "search-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": true
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:19733371200",
+          "text": "973-337-1200",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:19733371200",
+          "text": "Call (973) 337-1200 today!",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-337-1200",
+          "text": "CLIFTON",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-337-1200",
+          "text": "CLIFTON",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-607-4004",
+          "text": "MORRISTOWN",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736074004"
+        },
+        {
+          "href": "tel:1973-607-4004",
+          "text": "MORRISTOWN",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736074004"
+        },
+        {
+          "href": "tel:1973-287-3310",
+          "text": "FAIRFIELD",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732873310"
+        },
+        {
+          "href": "tel:1973-287-3310",
+          "text": "FAIRFIELD",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732873310"
+        },
+        {
+          "href": "tel:1201-351-7711",
+          "text": "SECAUCUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013517711"
+        },
+        {
+          "href": "tel:1201-351-7711",
+          "text": "SECAUCUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013517711"
+        },
+        {
+          "href": "tel:1201-399-3139",
+          "text": "PARAMUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013993139"
+        },
+        {
+          "href": "tel:1201-399-3139",
+          "text": "PARAMUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013993139"
+        },
+        {
+          "href": "tel:1973-771-6444",
+          "text": "WAYNE",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19737716444"
+        },
+        {
+          "href": "tel:1973-771-6444",
+          "text": "WAYNE",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19737716444"
+        }
+      ],
+      "owners": [],
+      "bodyText": "973-337-1200\n24/7 Service\nRated 5 Stars\nFree Quote\nLicensed & Insured\nGoogle\n \nYelp\n \nFacebook-f\nHome\nAir Conditioning\nServices\nAbout us\nContact us\nService Areas\nRequest Service\nReach Out to Us\nPlumbers Near You\n\nLooking for plumbers near you? Trust EZ Flow with your next plumbing, heating or cooling project or service. With six convenient North Jersey locations, we can get to your job quickly. To get started, fill out the form one this page or for even faster service, call one of our locations below. Or you can just contact our main office and we’ll route your promptly\n\nPhone :\nCall (973) 337-1200 today! /\nDrop a message\nContact Us\nService Info\nSUBMIT\nWhat Our Client Say\n\nCall Today For a Free Estimate\nCLIFTON\n\n(973) 337-1200\n\nMORRISTOWN\n\n(973) 607-4004\n\nFAIRFIELD\n\n(973) 287-3310\n\nSECAUCUS\n\n(201) 351-7711\n\nPARAMUS\n\n(201) 399-3139\n\nWAYNE\n\n(973) 771-6444\n\nThese Are Just Some of The Manufacturers\nWe Carry, Install And Service\nSAVE $25 INSTANTLY*\n\nOn A/C Repairs of $250 or more – See Details\n\nSee More Ways to Save\nNJ PLUMBER & HVAC COMPANY\n\nEZ Flow Mechanical, Heating and Air Conditioning is a family-owned and operated business serving New Jersey for the last 20 years. We offer full-service Heating & Air Conditioning, Plumbing and Installation & Repair Service. We provide our customers with personalized and convenient experiences to get their heating and air conditioning back into working order.\n\nConvenient Locations\n277 Harding Ave, Clifton NJ 07011\n1150 Hamburg Tpk, Wayne NJ 07470\n260 Salem St, Morristown NJ 07869\n1 Kalisa Way, Paramus NJ 07652\n3 Oconnor Drive, Fairfield, NJ 07004\n1322 Paterson Plank Rd, Secaucus NJ 07094\nQuick Links\nHeating Repair in Fairfield NJ\nPlumbing Repairs in Secaucus NJ\nAir Conditioning in Morristown NJ\nHeater Service in Wayne NJ\nHot Water Heater in Paramus NJ\nPlumbing Repairs in Clifton NJ\nCALL US 24 HOUR\nOffice: (973) 337-1200\nMobile: (973) 277-3500\nFacebook\n\nCopyright © EZ Flow 2026. All right reserved.\n\nDeveloped by We Interactive",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://ezflownj.com/",
+        "https://ezflownj.com/get-quote/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/air-conditioning/",
+        "https://ezflownj.com/ac-repair/",
+        "https://ezflownj.com/air-conditioning-replacement/",
+        "https://ezflownj.com/air-conditioning-installation/",
+        "https://ezflownj.com/air-conditioning-inspection/",
+        "https://ezflownj.com/air-conditioning-maintenance/",
+        "https://ezflownj.com/ductless-mini-split-systems/",
+        "https://ezflownj.com/emergency-ac-repair/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "https://ezflownj.com/hvac/hvac-maintenance/",
+        "https://ezflownj.com/hvac/hvac-repair/",
+        "https://ezflownj.com/hvac/emergency-hvac/",
+        "https://ezflownj.com/plumbing/",
+        "https://ezflownj.com/service/heating-services/",
+        "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "https://ezflownj.com/service/hot-water-heater-repair/",
+        "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "https://ezflownj.com/service/gas-hot-water-heater/",
+        "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "https://ezflownj.com/service/oil-steam-boilers/",
+        "https://ezflownj.com/about/",
+        "https://ezflownj.com/customer-reviews/",
+        "https://ezflownj.com/blog/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/contact-us/#",
+        "https://ezflownj.com/hvac-bergen-county/",
+        "https://ezflownj.com/hvac-paramus/",
+        "https://ezflownj.com/hvac-franklin-lakes/",
+        "https://ezflownj.com/hvac-fair-lawn/",
+        "https://ezflownj.com/hvac-mahwah/",
+        "https://ezflownj.com/hvac-bergenfield/",
+        "https://ezflownj.com/hvac-wyckoff/",
+        "https://ezflownj.com/hvac-passaic-county/",
+        "https://ezflownj.com/hvac-morris-county/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/air-conditioning/",
+        "https://ezflownj.com/ac-repair/",
+        "https://ezflownj.com/air-conditioning-replacement/",
+        "https://ezflownj.com/air-conditioning-installation/",
+        "https://ezflownj.com/air-conditioning-inspection/",
+        "https://ezflownj.com/air-conditioning-maintenance/",
+        "https://ezflownj.com/ductless-mini-split-systems/",
+        "https://ezflownj.com/emergency-ac-repair/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "https://ezflownj.com/hvac/hvac-maintenance/",
+        "https://ezflownj.com/hvac/hvac-repair/",
+        "https://ezflownj.com/hvac/emergency-hvac/",
+        "https://ezflownj.com/plumbing/",
+        "https://ezflownj.com/service/heating-services/",
+        "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "https://ezflownj.com/service/hot-water-heater-repair/",
+        "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "https://ezflownj.com/service/gas-hot-water-heater/",
+        "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "https://ezflownj.com/service/oil-steam-boilers/",
+        "https://ezflownj.com/about/",
+        "https://ezflownj.com/customer-reviews/",
+        "https://ezflownj.com/blog/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/contact-us/#",
+        "https://ezflownj.com/hvac-bergen-county/",
+        "https://ezflownj.com/hvac-paramus/",
+        "https://ezflownj.com/hvac-franklin-lakes/",
+        "https://ezflownj.com/hvac-fair-lawn/",
+        "https://ezflownj.com/hvac-mahwah/",
+        "https://ezflownj.com/hvac-bergenfield/",
+        "https://ezflownj.com/hvac-wyckoff/",
+        "https://ezflownj.com/hvac-passaic-county/",
+        "https://ezflownj.com/hvac-morris-county/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/clifton-nj-plumber/"
+      ]
+    },
+    "about": {
+      "url": "https://ezflownj.com/about/",
+      "finalUrl": "https://ezflownj.com/about/",
+      "status": 200,
+      "title": "About us - EZ Flow Plumbing & Heating LLC",
+      "forms": [
+        {
+          "action": "https://ezflownj.com/",
+          "method": "get",
+          "id": "",
+          "cls": "search-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": true
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:19733371200",
+          "text": "973-337-1200",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-337-1200",
+          "text": "CLIFTON",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-337-1200",
+          "text": "CLIFTON",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-607-4004",
+          "text": "MORRISTOWN",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736074004"
+        },
+        {
+          "href": "tel:1973-607-4004",
+          "text": "MORRISTOWN",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736074004"
+        },
+        {
+          "href": "tel:1973-287-3310",
+          "text": "FAIRFIELD",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732873310"
+        },
+        {
+          "href": "tel:1973-287-3310",
+          "text": "FAIRFIELD",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732873310"
+        },
+        {
+          "href": "tel:1201-351-7711",
+          "text": "SECAUCUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013517711"
+        },
+        {
+          "href": "tel:1201-351-7711",
+          "text": "SECAUCUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013517711"
+        },
+        {
+          "href": "tel:1201-399-3139",
+          "text": "PARAMUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013993139"
+        },
+        {
+          "href": "tel:1201-399-3139",
+          "text": "PARAMUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013993139"
+        },
+        {
+          "href": "tel:1973-771-6444",
+          "text": "WAYNE",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19737716444"
+        },
+        {
+          "href": "tel:1973-771-6444",
+          "text": "WAYNE",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19737716444"
+        }
+      ],
+      "owners": [],
+      "bodyText": "973-337-1200\n24/7 Service\nRated 5 Stars\nFree Quote\nLicensed & Insured\nGoogle\n \nYelp\n \nFacebook-f\nHome\nAir Conditioning\nServices\nAbout us\nContact us\nService Areas\nRequest Service\nAbout Us\nEZ Flow Plumbing, Heating & Air Conditioning\n\n“EZ Flow Plumbing & Heating LLC is a family-owned and operated business serving New Jersey for the last 20 years.\n\nOffering full-service Air Conditioning and Repair Service, Plumbing, Heating and Cooling in Clifton, NJ. We provide our customers with personalized and convenient experiences to get their heating, cooling, and other equipment back into working order.\n\nEZ FLOW provides Full-Service Plumbing, Heating, Air Conditioning and Drain Cleaning Services ....\n- Fully Insured, Licensed And Bonded\n- We guarantee our work for one full year in writing\n- Up Front Pricing – You Get The Price Before We Start The Job\n- We Charge By The Job – Not By The Hour\n- Experience – No Guesswork\n- We clean up after ourselves before we leave\n- Master Plumber License\n- Home Improvement Contractors\n24 Hour Services\nResidential & Commercial\nHonest & Reliable\nAir & Heating Repairs\nFree Quotations\nHonest & Reliable\nHeating Projects\n0\n+\nCooling Projects\n0\n+\nPlumbing Projects\n0\n+\nHVAC Services We Offer\n\nAir Conditioning Repair\nGas Hot Water Boilers\nOil Steam Boilers\nAir Conditioning Maintenance\nGas Hot Air Furnaces\nOil Hot Air Furnaces\nHeating Services\nGas Steam Boiler Services\nOil To Gas Conversion Services\nDrain & Sewer Cleaning\nHot Water Heater Services\nWater Damage & Sump Pumps\nCall Today For a Free Estimate\nCLIFTON\n\n(973) 337-1200\n\nMORRISTOWN\n\n(973) 607-4004\n\nFAIRFIELD\n\n(973) 287-3310\n\nSECAUCUS\n\n(201) 351-7711\n\nPARAMUS\n\n(201) 399-3139\n\nWAYNE\n\n(973) 771-6444\n\nThese Are Just Some of The Manufacturers\nWe Carry, Install And Service",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://ezflownj.com/",
+        "https://ezflownj.com/get-quote/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/air-conditioning/",
+        "https://ezflownj.com/ac-repair/",
+        "https://ezflownj.com/air-conditioning-replacement/",
+        "https://ezflownj.com/air-conditioning-installation/",
+        "https://ezflownj.com/air-conditioning-inspection/",
+        "https://ezflownj.com/air-conditioning-maintenance/",
+        "https://ezflownj.com/ductless-mini-split-systems/",
+        "https://ezflownj.com/emergency-ac-repair/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "https://ezflownj.com/hvac/hvac-maintenance/",
+        "https://ezflownj.com/hvac/hvac-repair/",
+        "https://ezflownj.com/hvac/emergency-hvac/",
+        "https://ezflownj.com/plumbing/",
+        "https://ezflownj.com/service/heating-services/",
+        "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "https://ezflownj.com/service/hot-water-heater-repair/",
+        "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "https://ezflownj.com/service/gas-hot-water-heater/",
+        "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "https://ezflownj.com/service/oil-steam-boilers/",
+        "https://ezflownj.com/about/",
+        "https://ezflownj.com/customer-reviews/",
+        "https://ezflownj.com/blog/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/hvac-bergen-county/",
+        "https://ezflownj.com/hvac-paramus/",
+        "https://ezflownj.com/hvac-franklin-lakes/",
+        "https://ezflownj.com/hvac-fair-lawn/",
+        "https://ezflownj.com/hvac-mahwah/",
+        "https://ezflownj.com/hvac-bergenfield/",
+        "https://ezflownj.com/hvac-wyckoff/",
+        "https://ezflownj.com/hvac-passaic-county/",
+        "https://ezflownj.com/hvac-morris-county/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/air-conditioning/",
+        "https://ezflownj.com/ac-repair/",
+        "https://ezflownj.com/air-conditioning-replacement/",
+        "https://ezflownj.com/air-conditioning-installation/",
+        "https://ezflownj.com/air-conditioning-inspection/",
+        "https://ezflownj.com/air-conditioning-maintenance/",
+        "https://ezflownj.com/ductless-mini-split-systems/",
+        "https://ezflownj.com/emergency-ac-repair/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "https://ezflownj.com/hvac/hvac-maintenance/",
+        "https://ezflownj.com/hvac/hvac-repair/",
+        "https://ezflownj.com/hvac/emergency-hvac/",
+        "https://ezflownj.com/plumbing/",
+        "https://ezflownj.com/service/heating-services/",
+        "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "https://ezflownj.com/service/hot-water-heater-repair/",
+        "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "https://ezflownj.com/service/gas-hot-water-heater/",
+        "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "https://ezflownj.com/service/oil-steam-boilers/",
+        "https://ezflownj.com/about/",
+        "https://ezflownj.com/customer-reviews/",
+        "https://ezflownj.com/blog/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/hvac-bergen-county/",
+        "https://ezflownj.com/hvac-paramus/",
+        "https://ezflownj.com/hvac-franklin-lakes/",
+        "https://ezflownj.com/hvac-fair-lawn/",
+        "https://ezflownj.com/hvac-mahwah/",
+        "https://ezflownj.com/hvac-bergenfield/",
+        "https://ezflownj.com/hvac-wyckoff/",
+        "https://ezflownj.com/hvac-passaic-county/",
+        "https://ezflownj.com/hvac-morris-county/",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/about/#",
+        "https://ezflownj.com/service/air-conditioning/",
+        "https://ezflownj.com/service/gas-hot-water-heater/",
+        "https://ezflownj.com/service/oil-steam-boilers/",
+        "https://ezflownj.com/service/plumbing/",
+        "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "https://ezflownj.com/service/heating-services/",
+        "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "https://ezflownj.com/service/hot-water-heater-repair-replacement/",
+        "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/clifton-nj-plumber/"
+      ]
+    },
+    "booking": {
+      "url": "https://ezflownj.com/get-quote/",
+      "finalUrl": "https://ezflownj.com/get-quote/",
+      "status": 200,
+      "title": "Get a Free Quote - EZ Flow Plumbing & Heating LLC",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "fluentform_3",
+          "cls": "frm-fluent-form fluent_form_3 ff-el-form-top ff_form_instance_3_1 ff-form-loadin",
+          "fieldCount": 5,
+          "fieldNames": [
+            "item_3__fluent_sf",
+            "input_text",
+            "email",
+            "input_text_1",
+            "description"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": "https://ezflownj.com/",
+          "method": "get",
+          "id": "",
+          "cls": "search-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": true
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:19733371200",
+          "text": "973-337-1200",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-337-1200",
+          "text": "CLIFTON",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-337-1200",
+          "text": "CLIFTON",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733371200"
+        },
+        {
+          "href": "tel:1973-607-4004",
+          "text": "MORRISTOWN",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736074004"
+        },
+        {
+          "href": "tel:1973-607-4004",
+          "text": "MORRISTOWN",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736074004"
+        },
+        {
+          "href": "tel:1973-287-3310",
+          "text": "FAIRFIELD",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732873310"
+        },
+        {
+          "href": "tel:1973-287-3310",
+          "text": "FAIRFIELD",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732873310"
+        },
+        {
+          "href": "tel:1201-351-7711",
+          "text": "SECAUCUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013517711"
+        },
+        {
+          "href": "tel:1201-351-7711",
+          "text": "SECAUCUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013517711"
+        },
+        {
+          "href": "tel:1201-399-3139",
+          "text": "PARAMUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013993139"
+        },
+        {
+          "href": "tel:1201-399-3139",
+          "text": "PARAMUS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013993139"
+        },
+        {
+          "href": "tel:1973-771-6444",
+          "text": "WAYNE",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19737716444"
+        },
+        {
+          "href": "tel:1973-771-6444",
+          "text": "WAYNE",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19737716444"
+        }
+      ],
+      "owners": [],
+      "bodyText": "973-337-1200\n24/7 Service\nRated 5 Stars\nFree Quote\nLicensed & Insured\nGoogle\n \nYelp\n \nFacebook-f\nHome\nAir Conditioning\nServices\nAbout us\nContact us\nService Areas\nRequest Service\nGet a Free Quote\nFill out the form below and our experts will provide you with a free quote ASAP.\nRequest a Service\nSEND REQUEST\nCall Today For a Free Estimate\nCLIFTON\n\n(973) 337-1200\n\nMORRISTOWN\n\n(973) 607-4004\n\nFAIRFIELD\n\n(973) 287-3310\n\nSECAUCUS\n\n(201) 351-7711\n\nPARAMUS\n\n(201) 399-3139\n\nWAYNE\n\n(973) 771-6444\n\nThese Are Just Some of The Manufacturers\nWe Carry, Install And Service\nSAVE $25 INSTANTLY*\n\nOn A/C Repairs of $250 or more – See Details\n\nSee More Ways to Save\nNJ PLUMBER & HVAC COMPANY\n\nEZ Flow Mechanical, Heating and Air Conditioning is a family-owned and operated business serving New Jersey for the last 20 years. We offer full-service Heating & Air Conditioning, Plumbing and Installation & Repair Service. We provide our customers with personalized and convenient experiences to get their heating and air conditioning back into working order.\n\nConvenient Locations\n277 Harding Ave, Clifton NJ 07011\n1150 Hamburg Tpk, Wayne NJ 07470\n260 Salem St, Morristown NJ 07869\n1 Kalisa Way, Paramus NJ 07652\n3 Oconnor Drive, Fairfield, NJ 07004\n1322 Paterson Plank Rd, Secaucus NJ 07094\nQuick Links\nHeating Repair in Fairfield NJ\nPlumbing Repairs in Secaucus NJ\nAir Conditioning in Morristown NJ\nHeater Service in Wayne NJ\nHot Water Heater in Paramus NJ\nPlumbing Repairs in Clifton NJ\nCALL US 24 HOUR\nOffice: (973) 337-1200\nMobile: (973) 277-3500\nFacebook\n\nCopyright © EZ Flow 2026. All right reserved.\n\nDeveloped by We Interactive",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://ezflownj.com/",
+        "https://ezflownj.com/get-quote/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/air-conditioning/",
+        "https://ezflownj.com/ac-repair/",
+        "https://ezflownj.com/air-conditioning-replacement/",
+        "https://ezflownj.com/air-conditioning-installation/",
+        "https://ezflownj.com/air-conditioning-inspection/",
+        "https://ezflownj.com/air-conditioning-maintenance/",
+        "https://ezflownj.com/ductless-mini-split-systems/",
+        "https://ezflownj.com/emergency-ac-repair/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "https://ezflownj.com/hvac/hvac-maintenance/",
+        "https://ezflownj.com/hvac/hvac-repair/",
+        "https://ezflownj.com/hvac/emergency-hvac/",
+        "https://ezflownj.com/plumbing/",
+        "https://ezflownj.com/service/heating-services/",
+        "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "https://ezflownj.com/service/hot-water-heater-repair/",
+        "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "https://ezflownj.com/service/gas-hot-water-heater/",
+        "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "https://ezflownj.com/service/oil-steam-boilers/",
+        "https://ezflownj.com/about/",
+        "https://ezflownj.com/customer-reviews/",
+        "https://ezflownj.com/blog/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/get-quote/#",
+        "https://ezflownj.com/hvac-bergen-county/",
+        "https://ezflownj.com/hvac-paramus/",
+        "https://ezflownj.com/hvac-franklin-lakes/",
+        "https://ezflownj.com/hvac-fair-lawn/",
+        "https://ezflownj.com/hvac-mahwah/",
+        "https://ezflownj.com/hvac-bergenfield/",
+        "https://ezflownj.com/hvac-wyckoff/",
+        "https://ezflownj.com/hvac-passaic-county/",
+        "https://ezflownj.com/hvac-morris-county/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/",
+        "https://ezflownj.com/air-conditioning/",
+        "https://ezflownj.com/ac-repair/",
+        "https://ezflownj.com/air-conditioning-replacement/",
+        "https://ezflownj.com/air-conditioning-installation/",
+        "https://ezflownj.com/air-conditioning-inspection/",
+        "https://ezflownj.com/air-conditioning-maintenance/",
+        "https://ezflownj.com/ductless-mini-split-systems/",
+        "https://ezflownj.com/emergency-ac-repair/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/",
+        "https://ezflownj.com/hvac/hvac-installation-replacement/",
+        "https://ezflownj.com/hvac/hvac-maintenance/",
+        "https://ezflownj.com/hvac/hvac-repair/",
+        "https://ezflownj.com/hvac/emergency-hvac/",
+        "https://ezflownj.com/plumbing/",
+        "https://ezflownj.com/service/heating-services/",
+        "https://ezflownj.com/service/drain-sewer-cleaning/",
+        "https://ezflownj.com/service/water-damage-sump-pumps/",
+        "https://ezflownj.com/service/hot-water-heater-repair/",
+        "https://ezflownj.com/service/gas-hot-air-furnaces/",
+        "https://ezflownj.com/service/gas-hot-water-heater/",
+        "https://ezflownj.com/service/gas-steam-boiler-services/",
+        "https://ezflownj.com/service/oil-to-gas-conversion-services/",
+        "https://ezflownj.com/service/oil-hot-air-furnaces/",
+        "https://ezflownj.com/service/oil-steam-boilers/",
+        "https://ezflownj.com/about/",
+        "https://ezflownj.com/customer-reviews/",
+        "https://ezflownj.com/blog/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/contact-us/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/get-quote/#",
+        "https://ezflownj.com/hvac-bergen-county/",
+        "https://ezflownj.com/hvac-paramus/",
+        "https://ezflownj.com/hvac-franklin-lakes/",
+        "https://ezflownj.com/hvac-fair-lawn/",
+        "https://ezflownj.com/hvac-mahwah/",
+        "https://ezflownj.com/hvac-bergenfield/",
+        "https://ezflownj.com/hvac-wyckoff/",
+        "https://ezflownj.com/hvac-passaic-county/",
+        "https://ezflownj.com/hvac-morris-county/",
+        "https://ezflownj.com/deals-coupons/",
+        "https://ezflownj.com/clifton-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/fairfield-nj-plumber/",
+        "https://ezflownj.com/secaucus-nj-plumber/",
+        "https://ezflownj.com/morristown-nj-plumber/",
+        "https://ezflownj.com/wayne-nj-plumber/",
+        "https://ezflownj.com/paramus-nj-plumber/",
+        "https://ezflownj.com/clifton-nj-plumber/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 50,
+    "at": "2026-11-03T22:25:20.943Z",
+    "statusCounts": {
+      "200": 49,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://ezflownj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/ez-flow-mechanical-heating-cooling/desktop-home.png",
+    "desktop_full": "evidence/screenshots/ez-flow-mechanical-heating-cooling/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/ez-flow-mechanical-heating-cooling/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/ez-flow-mechanical-heating-cooling/desktop-about.png",
+    "desktop_booking": "evidence/screenshots/ez-flow-mechanical-heating-cooling/desktop-booking.png",
+    "mobile_asis": "evidence/screenshots/ez-flow-mechanical-heating-cooling/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": true
+    },
+    "yearsClaim": 20,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Free Quote -> https://ezflownj.com/get-quote/",
+      "Facebook-f -> https://www.facebook.com/ezflownj",
+      "Request Service -> https://ezflownj.com/contact-us/",
+      "Request a Free Quote -> https://ezflownj.com/get-quote/"
+    ]
+  },
+  "ctaClickTests": []
+}

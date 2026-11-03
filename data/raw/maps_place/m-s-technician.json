@@ -1,0 +1,25 @@
+{
+  "id": "m-s-technician",
+  "placeUrl": "https://www.google.com/maps/place/M%26S+Technician/data=!4m7!3m6!1s0x89c2f7e8b1bb7c95:0x10595789cd3257ef!8m2!3d40.8889839!4d-74.2017037!16s%2Fg%2F11fxcd9wkt!19sChIJlXy7sej3wokR71cyzYlXWRA",
+  "retrievedAt": "2026-11-03T23:01:04.467Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "M&S Technician",
+  "category": "HVAC contractor",
+  "address": "4 Winslow Pl, Woodland Park, NJ 07424, United States ",
+  "phone": "+1 908-528-0535 ",
+  "website": "https://mstechnicians.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday9 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/M%26S+Technician/data=!4m7!3m6!1s0x89c2f7e8b1bb7c95:0x10595789cd3257ef!8m2!3d40.8889839!4d-74.2017037!16s%2Fg%2F11fxcd9wkt!19sChIJlXy7sej3wokR71cyzYlXWRA?hl=en",
+  "screenshot": "evidence/screenshots/m-s-technician/google-maps-listing.png"
+}

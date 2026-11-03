@@ -1,0 +1,25 @@
+{
+  "id": "sm-heating-and-air-conditioning-inc",
+  "placeUrl": "https://www.google.com/maps/place/SM+Heating+and+Air+Conditioning+Inc./data=!4m7!3m6!1s0x89c3036e405722f1:0x7147f9caf6ea2f4c!8m2!3d41.0066353!4d-74.2921953!16s%2Fg%2F1tppsxgj!19sChIJ8SJXQG4Dw4kRTC_q9sr5R3E",
+  "retrievedAt": "2026-11-03T22:56:47.889Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "SM Heating and Air Conditioning Inc.",
+  "category": "Air conditioning contractor",
+  "address": "94 Wanaque Ave #1, Pompton Lakes, NJ 07442, United States ",
+  "phone": "+1 973-628-6472 ",
+  "website": "http://www.smheatingandair.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/SM+Heating+and+Air+Conditioning+Inc./data=!4m7!3m6!1s0x89c3036e405722f1:0x7147f9caf6ea2f4c!8m2!3d41.0066353!4d-74.2921953!16s%2Fg%2F1tppsxgj!19sChIJ8SJXQG4Dw4kRTC_q9sr5R3E?hl=en",
+  "screenshot": "evidence/screenshots/sm-heating-and-air-conditioning-inc/google-maps-listing.png"
+}

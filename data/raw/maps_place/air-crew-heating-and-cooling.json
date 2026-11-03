@@ -1,0 +1,25 @@
+{
+  "id": "air-crew-heating-and-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Air+Crew+Heating+and+Cooling/data=!4m7!3m6!1s0xc334c66f326c14f:0xb17adca5241018ab!8m2!3d40.8807373!4d-74.2612383!16s%2Fg%2F11ty8418xt!19sChIJT8Em82ZMMwwRqxgQJKXcerE",
+  "retrievedAt": "2026-11-03T23:09:16.538Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Air Crew Heating and Cooling",
+  "category": "HVAC contractor",
+  "address": "37 Van Ness Ave, Fairfield, NJ 07004, United States ",
+  "phone": "+1 201-772-2004 ",
+  "website": "http://www.aircrewhvacnj.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Air+Crew+Heating+and+Cooling/data=!4m7!3m6!1s0xc334c66f326c14f:0xb17adca5241018ab!8m2!3d40.8807373!4d-74.2612383!16s%2Fg%2F11ty8418xt!19sChIJT8Em82ZMMwwRqxgQJKXcerE?hl=en",
+  "screenshot": "evidence/screenshots/air-crew-heating-and-cooling/google-maps-listing.png"
+}

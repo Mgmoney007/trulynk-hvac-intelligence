@@ -1,0 +1,25 @@
+{
+  "id": "premium-mechanical-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Premium+Mechanical+HVAC/data=!4m7!3m6!1s0x6e50eadf2f1525c9:0x1e3c1f73997d9993!8m2!3d40.897583!4d-74.3917234!16s%2Fg%2F11npy8jhnn!19sChIJySUVL9_qUG4Rk5l9mXMfPB4",
+  "retrievedAt": "2026-11-03T23:10:20.572Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Premium Mechanical HVAC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 973-403-1230 ",
+  "website": "https://premiumhvacnj.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Premium+Mechanical+HVAC/data=!4m7!3m6!1s0x6e50eadf2f1525c9:0x1e3c1f73997d9993!8m2!3d40.897583!4d-74.3917234!16s%2Fg%2F11npy8jhnn!19sChIJySUVL9_qUG4Rk5l9mXMfPB4?hl=en",
+  "screenshot": "evidence/screenshots/premium-mechanical-hvac/google-maps-listing.png"
+}

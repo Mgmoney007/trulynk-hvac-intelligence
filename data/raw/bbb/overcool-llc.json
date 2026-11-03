@@ -1,0 +1,10 @@
+{
+  "id": "overcool-llc",
+  "query": "OverCool LLC",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=OverCool%20LLC&find_loc=Passaic%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:17:44.500Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [],
+  "error": null
+}

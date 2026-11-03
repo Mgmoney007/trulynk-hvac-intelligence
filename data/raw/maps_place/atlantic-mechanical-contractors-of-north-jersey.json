@@ -1,0 +1,25 @@
+{
+  "id": "atlantic-mechanical-contractors-of-north-jersey",
+  "placeUrl": "https://www.google.com/maps/place/Atlantic+Mechanical+Contractors+of+North+Jersey/data=!4m7!3m6!1s0x89c2fdf1bee4f98f:0x48c6b69721874ced!8m2!3d40.8801425!4d-74.1455347!16s%2Fg%2F11c44qddc2!19sChIJj_nkvvH9wokR7UyHIZe2xkg",
+  "retrievedAt": "2026-11-03T23:04:06.795Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Atlantic Mechanical Contractors of North Jersey",
+  "category": "HVAC contractor",
+  "address": "251 Piaget Ave, Clifton, NJ 07011, United States ",
+  "phone": "+1 973-453-5698 ",
+  "website": "https://atlantic-heatingcooling.com/plumbing-heating-air-conditioning-services-in-clifton-nj/",
+  "rating": 4.5,
+  "reviews": null,
+  "rateBoxText": "4.5",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Atlantic+Mechanical+Contractors+of+North+Jersey/data=!4m7!3m6!1s0x89c2fdf1bee4f98f:0x48c6b69721874ced!8m2!3d40.8801425!4d-74.1455347!16s%2Fg%2F11c44qddc2!19sChIJj_nkvvH9wokR7UyHIZe2xkg?hl=en",
+  "screenshot": "evidence/screenshots/atlantic-mechanical-contractors-of-north-jersey/google-maps-listing.png"
+}

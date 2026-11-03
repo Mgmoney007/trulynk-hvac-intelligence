@@ -1,0 +1,1421 @@
+{
+  "firecrawl": [],
+  "id": "hvac-metals-llc",
+  "name": "HVAC Metals, LLC",
+  "website": "https://www.hvacmetalsllc.com/",
+  "auditedAt": "2026-11-03T23:15:31.292Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.hvacmetalsllc.com/",
+      "at": "2026-11-03T23:15:36.730Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvacmetalsllc.com/",
+      "title": "Home - HVAC Metals LLC",
+      "ms": 5398,
+      "error": null,
+      "linkCount": 68
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.hvacmetalsllc.com/contact",
+      "at": "2026-11-03T23:15:40.135Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvacmetalsllc.com/contact/",
+      "title": "Contact - HVAC Metals LLC",
+      "ms": 2153,
+      "error": null,
+      "linkCount": 50
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.hvacmetalsllc.com/",
+      "at": "2026-11-03T23:15:59.123Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvacmetalsllc.com/",
+      "title": "Home - HVAC Metals LLC",
+      "ms": 3009,
+      "error": null,
+      "linkCount": 68
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.hvacmetalsllc.com/",
+    "title": "Home - HVAC Metals LLC",
+    "lang": "en-US",
+    "metaDescription": "HVAC METALS LLC; Builds rectangular, round, and oval ductwork in both single- and double-wall designs, using galvanized steel, stainless steel, copper, aluminum, PCD, and galvanneal",
+    "h1": [
+      "CUSTOM SHEET METAL",
+      "DUCTWORK SYSTEMS"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5880,
+    "bodyText": "Consent\nDetails\nAbout\nThis website uses cookies\n\nWe use cookies to personalize content and ads, run social media features, and analyze traffic. We also share your site usage data with our analytics, social, and advertising partners.\n\nAllow all\nHome\n \nAbout Us\n \nServices\n \nGallery\n \nBlog\n \nContact\nCALL NOW \nCALL NOW \nCUSTOM SHEET METAL\nFABRICATION SHOP\n\nHVAC Ductwork Welding and Custom Fabrication Bending and Shering\nMANUFACTURING PROTOTYING\n\nDISCOVER MORE \nDISCOVER MORE \nDUCTWORK SYSTEMS\nCUSTOM HVAC SOLUTIONS\n\nGalvanized Steel Ducts Fittings Airflow Optimization and Easy Installation\n\nDISCOVER MORE \nDISCOVER MORE \nCustom HVAC Sheet Metal Fabrication & Ductwork Manufacturing In NJ\n\nHVAC Metals LLC is a specialized B2B custom sheet metal fabrication shop located in Kearny, New Jersey, providing wholesale HVAC ductwork and contractor supplies across NJ, NY, and PA. We manufacture precision rectangular, spiral, and oval ductwork, along with custom HVAC curbs, curb adapters, and equipment rails. Utilizing high-quality galvanized steel, stainless steel, and aluminum, our facility leverages advanced welding, panel bending, and precision laser cutting to deliver exact shop drawings and durable commercial HVAC components.\n\nWHO WE ARE\nPanel Bending Kearny, New Jersey\n\nIs our new state of the art panel bending machine was just added to our lineup. The innovative design, streamlines downstream processes, reducing production time and increasing efficiency and mass production accuracy\n\nHVAC Metals, LLC\n\nFounded in 2015, HVAC Metals, LLC is a family-owned and family-operated shop guided by quality, integrity, and pride. We provide custom-made products for HVAC contractors across New Jersey, with galvanized steel as our go-to material thanks to its durability, corrosion resistance, and reliable airflow performance in the state’s humid and unpredictable climate.\n\nOUR SERVICES\nWe Offer Effective Solutions\nSheet Metal Fabrication\nCustom Sheet Metal Fabrication is the process of cutting\nLEARN MORE \nLEARN MORE \nDuctwork & Custom\nCustom Sheet Metal Fabrication is the process of cutting\nLEARN MORE \nLEARN MORE \nSheet Metal Trends\nCustom Sheet Metal Fabrication is the process of cutting\nLEARN MORE \nLEARN MORE \nCUSTOM DUCTWORK & METAL FABRICATION\nHVAC Ductwork\n\nHVAC METALS builds rectangular, round, and oval ductwork in both single- and double-wall designs, using galvanized steel, stainless steel, copper, aluminum, PCD, and galvanneal. Our duct systems are made for long-lasting performance, tight air seals, and full compliance with New Jersey HVAC codes. While many contractors choose aluminum for lighter installs or flexible duct for tight areas, galvanized steel continues to be the strongest and most dependable choice for residential and commercial projects.\n\nWelding and Custom Fabrication\nBending and Shearing\nEstimates and Shop Drawings\nPresision Laser Cutting\nOUR BLOG\nLatest News\nVIEW ALL POST\nVIEW ALL POST\n18 OCT\nWarehouse Destratification Duct Layout | Hudson County NJ\nREAD MORE ABOUT WAREHOUSE DESTRATIFICATION DUCT LAYOUT | HUDSON COUNTY NJ\nREAD MORE\n18 OCT\nHospital Isolation Monitor Enclosures | Hudson NJ\nREAD MORE ABOUT HOSPITAL ISOLATION MONITOR ENCLOSURES | HUDSON NJ\nREAD MORE\n18 OCT\n316L Salt-Air Duct Fabrication | Hudson County NJ\nREAD MORE ABOUT 316L SALT-AIR DUCT FABRICATION | HUDSON COUNTY NJ\nREAD MORE\nCONTACT US\nLet’s Work Together\n\nWe’d love to share more with you, please complete this form and\nour dedicated team will get back to you shortly.\n\nFields marked with an * are required\nFabrication for HVAC and custom work\nHVAC METALS\nHome\nAbout Us\nGallery\nBlog\nContact\nSERVICES\nSheet Metal Trends\nDuctwork & Custom\nSheet Metal Fabrication\nCONTACT\n183 Garfield Avenue Kearny, NJ 07032\n(201) 991-2206\nart@hvacllc.com\n© 2026 HVAC Metals Developed By OpenFS LLC\nCall Us Now\n\n(201) 991-2206",
+    "links": [
+      {
+        "href": "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+        "abs": "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+        "text": "Cookiebot by Usercentrics - opens in a new window",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 175,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Consent",
+        "visible": true,
+        "aboveFold": true,
+        "h": 57,
+        "w": 300,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Details",
+        "visible": true,
+        "aboveFold": true,
+        "h": 57,
+        "w": 300,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "[#IABV2SETTINGS#]",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 57,
+        "w": 300,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Show details",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Cookiebot1",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.cookiebot.com/goto/privacy-policy/",
+        "abs": "https://www.cookiebot.com/goto/privacy-policy/",
+        "text": "Learn more about this provider",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Google1",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://business.safety.google/privacy/",
+        "abs": "https://business.safety.google/privacy/",
+        "text": "Learn more about this provider",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Google2",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://business.safety.google/privacy/",
+        "abs": "https://business.safety.google/privacy/",
+        "text": "Learn more about this provider",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Google5",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://business.safety.google/privacy/",
+        "abs": "https://business.safety.google/privacy/",
+        "text": "Learn more about this provider",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.cookiebot.com",
+        "abs": "https://www.cookiebot.com/",
+        "text": "Cookiebot",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.hvacmetalsllc.com/",
+        "text": "go to home page",
+        "visible": true,
+        "aboveFold": true,
+        "h": 17,
+        "w": 147,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/",
+        "abs": "https://www.hvacmetalsllc.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 90,
+        "w": 46,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/about-us/",
+        "abs": "https://www.hvacmetalsllc.com/about-us/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 90,
+        "w": 71,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 90,
+        "w": 68,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "abs": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/gallery/",
+        "abs": "https://www.hvacmetalsllc.com/gallery/",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": true,
+        "h": 90,
+        "w": 55,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/blog/",
+        "abs": "https://www.hvacmetalsllc.com/blog/",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": true,
+        "h": 90,
+        "w": 34,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/contact/",
+        "abs": "https://www.hvacmetalsllc.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 90,
+        "w": 61,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 991-2206",
+        "abs": "tel:(201) 991-2206",
+        "text": "CALL NOW CALL NOW",
+        "visible": true,
+        "aboveFold": true,
+        "h": 66,
+        "w": 180,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#offcanvasExample",
+        "abs": "https://www.hvacmetalsllc.com/#offcanvasExample",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.hvacmetalsllc.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 50,
+        "w": 105,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/",
+        "abs": "https://www.hvacmetalsllc.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 399,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/about-us/",
+        "abs": "https://www.hvacmetalsllc.com/about-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 399,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvacmetalsllc.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 399,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "text": "Sheet Metal Fabrication",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "abs": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "text": "Ductwork & Custom",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "text": "Sheet Metal Trends",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/gallery/",
+        "abs": "https://www.hvacmetalsllc.com/gallery/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 399,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/blog/",
+        "abs": "https://www.hvacmetalsllc.com/blog/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 399,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/contact/",
+        "abs": "https://www.hvacmetalsllc.com/contact/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 399,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.hvacmetalsllc.com/contact",
+        "text": "DISCOVER MORE DISCOVER MORE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 66,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.hvacmetalsllc.com/contact",
+        "text": "DISCOVER MORE DISCOVER MORE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 66,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "text": "Sheet Metal Fabrication",
+        "visible": true,
+        "aboveFold": false,
+        "h": 72,
+        "w": 175,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "text": "LEARN MORE LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 66,
+        "w": 203,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "abs": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "text": "Ductwork & Custom",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 292,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "abs": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "text": "LEARN MORE LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 66,
+        "w": 203,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "text": "Sheet Metal Trends",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 284,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "text": "LEARN MORE LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 66,
+        "w": 203,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://www.hvacmetalsllc.com/blog",
+        "text": "VIEW ALL POST VIEW ALL POST",
+        "visible": true,
+        "aboveFold": false,
+        "h": 66,
+        "w": 210,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/warehouse-destratification-duct-layout-new-jersey/",
+        "abs": "https://www.hvacmetalsllc.com/warehouse-destratification-duct-layout-new-jersey/",
+        "text": "Warehouse Destratification Duct Layout | Hudson County NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 216,
+        "w": 414,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/warehouse-destratification-duct-layout-new-jersey/",
+        "abs": "https://www.hvacmetalsllc.com/warehouse-destratification-duct-layout-new-jersey/",
+        "text": "Warehouse Destratification Duct Layout | Hudson County NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 398,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/warehouse-destratification-duct-layout-new-jersey/",
+        "abs": "https://www.hvacmetalsllc.com/warehouse-destratification-duct-layout-new-jersey/",
+        "text": "READ MORE ABOUT WAREHOUSE DESTRATIFICATION DUCT LAYOUT | HUDSON COUNTY NJ READ M",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 165,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/hospital-isolation-pressure-monitor-panel-enclosures-hudson/",
+        "abs": "https://www.hvacmetalsllc.com/hospital-isolation-pressure-monitor-panel-enclosures-hudson/",
+        "text": "Hospital Isolation Monitor Enclosures | Hudson NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 216,
+        "w": 414,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/hospital-isolation-pressure-monitor-panel-enclosures-hudson/",
+        "abs": "https://www.hvacmetalsllc.com/hospital-isolation-pressure-monitor-panel-enclosures-hudson/",
+        "text": "Hospital Isolation Monitor Enclosures | Hudson NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 313,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/hospital-isolation-pressure-monitor-panel-enclosures-hudson/",
+        "abs": "https://www.hvacmetalsllc.com/hospital-isolation-pressure-monitor-panel-enclosures-hudson/",
+        "text": "READ MORE ABOUT HOSPITAL ISOLATION MONITOR ENCLOSURES | HUDSON NJ READ MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 165,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/316l-duct-fabrication-salt-air-facilities-hudson/",
+        "abs": "https://www.hvacmetalsllc.com/316l-duct-fabrication-salt-air-facilities-hudson/",
+        "text": "316L Salt-Air Duct Fabrication | Hudson County NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 216,
+        "w": 414,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/316l-duct-fabrication-salt-air-facilities-hudson/",
+        "abs": "https://www.hvacmetalsllc.com/316l-duct-fabrication-salt-air-facilities-hudson/",
+        "text": "316L Salt-Air Duct Fabrication | Hudson County NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 379,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/316l-duct-fabrication-salt-air-facilities-hudson/",
+        "abs": "https://www.hvacmetalsllc.com/316l-duct-fabrication-salt-air-facilities-hudson/",
+        "text": "READ MORE ABOUT 316L SALT-AIR DUCT FABRICATION | HUDSON COUNTY NJ READ MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 165,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.hvacmetalsllc.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 67,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/about-us/",
+        "abs": "https://www.hvacmetalsllc.com/about-us/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 92,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/gallery/",
+        "abs": "https://www.hvacmetalsllc.com/gallery/",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 75,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/blog/",
+        "abs": "https://www.hvacmetalsllc.com/blog/",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 56,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/contact/",
+        "abs": "https://www.hvacmetalsllc.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 81,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "text": "Sheet Metal Trends",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 169,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "abs": "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "text": "Ductwork & Custom",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 173,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "abs": "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "text": "Sheet Metal Fabrication",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 201,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:(201) 991-2206",
+        "abs": "tel:(201) 991-2206",
+        "text": "(201) 991-2206",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 118,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:art@hvacllc.com ",
+        "abs": "mailto:art@hvacllc.com",
+        "text": "art@hvacllc.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 131,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://digitalmarketingnewjersey.us/",
+        "abs": "https://digitalmarketingnewjersey.us/",
+        "text": "OpenFS LLC",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 95,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:(201) 991-2206",
+        "abs": "tel:(201) 991-2206",
+        "text": "Call Us Now (201) 991-2206",
+        "visible": true,
+        "aboveFold": true,
+        "h": 58,
+        "w": 212,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Necessary 2",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Cookiebot1",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Google1",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Preferences 0",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Statistics 2",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Google2",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Marketing 5",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Google5",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Unclassified 0",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "[#IABV2_LABEL_PURPOSES#]",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "[#IABV2_LABEL_FEATURES#]",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "[#IABV2_LABEL_PARTNERS#]",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Deny",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Allow selection",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Customize",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Allow all",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Sent Message",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "get",
+        "id": "",
+        "cls": "",
+        "fieldCount": 5,
+        "fieldNames": [
+          "nf-field-1-textbox",
+          "email",
+          "phone",
+          "nf-field-3",
+          "nf-field-hp"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1394559360047!2d-74.1414717!3d40.7589574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2543e0a12acc7%3A0x489c2f73829fa0c0!2sHVAC%20Metals!5e0!3m2!1ses-419!2sbo!4v1720465609498!5m2!1ses-419!2sbo",
+      "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+    ],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/destination?id=AW-16703688637&cx=c&gtm=4e6b21",
+      "https://consent.cookiebot.com/8c89a25c-9e59-4db3-9c9e-1a8aeed98fdf/cc.js?renew=false&referer=www.hvacmetalsllc.com&dnt=false&init=false",
+      "https://www.gstatic.com/call-tracking/call-tracking_9.js",
+      "https://www.gstatic.com/wcm/loader.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-J6ETWBNTYL&cx=c&gtm=4e6b21",
+      "https://consent.cookiebot.com/uc.js?cbid=8c89a25c-9e59-4db3-9c9e-1a8aeed98fdf&implementation=gtm&consentmode-dataredaction=dynamic",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-KZ853J7M",
+      "https://www.hvacmetalsllc.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://www.hvacmetalsllc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://www.hvacmetalsllc.com/wp-content/themes/hvac-openfs/assets/vendor/bootstrap/js/bootstrap.min.js?ver=5.3.2",
+      "https://www.hvacmetalsllc.com/wp-content/themes/hvac-openfs/assets/vendor/aos/aos.js?ver=3.6.0",
+      "https://www.hvacmetalsllc.com/wp-content/themes/hvac-openfs/assets/vendor/swiper/swiper-bundle.min.js?ver=11.0.5",
+      "https://www.hvacmetalsllc.com/wp-content/themes/hvac-openfs/assets/js/script.js?ver=1786792210",
+      "https://www.hvacmetalsllc.com/wp-includes/js/underscore.min.js?ver=1.13.8",
+      "https://www.hvacmetalsllc.com/wp-includes/js/backbone.min.js?ver=1.6.1",
+      "https://www.hvacmetalsllc.com/wp-content/plugins/ninja-forms/assets/js/min/front-end-deps.js?ver=3.15.0",
+      "https://www.hvacmetalsllc.com/wp-content/plugins/ninja-forms/assets/js/min/front-end.js?ver=3.15.0"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.hvacmetalsllc.com/#webpage",
+            "url": "https://www.hvacmetalsllc.com/",
+            "name": "Custom HVAC Sheet Metal Fabrication & Ductwork Manufacturing in NJ | HVAC Metals LLC",
+            "description": "HVAC Metals LLC is a specialized B2B custom sheet metal fabrication shop located in Kearny, New Jersey, providing wholesale HVAC ductwork and contractor supplies across NJ, NY, and PA.",
+            "isPartOf": {
+              "@id": "https://www.hvacmetalsllc.com/#website"
+            },
+            "about": [
+              {
+                "@type": "Thing",
+                "name": "HVAC",
+                "sameAs": "https://en.wikipedia.org/wiki/HVAC"
+              },
+              {
+                "@type": "Thing",
+                "name": "Sheet metal",
+                "sameAs": "https://en.wikipedia.org/wiki/Sheet_metal"
+              },
+              {
+                "@type": "Thing",
+                "name": "Metal fabrication",
+                "sameAs": "https://en.wikipedia.org/wiki/Metal_fabrication"
+              }
+            ],
+            "mentions": [
+              {
+                "@type": "Place",
+                "name": "New Jersey",
+                "sameAs": "https://en.wikipedia.org/wiki/New_Jersey"
+              },
+              {
+                "@type": "Place",
+                "name": "New York",
+                "sameAs": "https://en.wikipedia.org/wiki/New_York_(state)"
+              },
+              {
+                "@type": "Place",
+                "name": "Pennsylvania",
+                "sameAs": "https://en.wikipedia.org/wiki/Pennsylvania"
+              }
+            ],
+            "speakable": {
+              "@type": "SpeakableSpecification",
+              "cssSelector": [
+                "#hvac-metals-overview"
+              ]
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.hvacmetalsllc.com/#website",
+            "url": "https://www.hvacmetalsllc.com/",
+            "name": "HVAC Metals LLC",
+            "publisher": {
+              "@id": "https://www.hvacmetalsllc.com/#organization"
+            }
+          },
+          {
+            "@type": [
+              "Organization",
+              "LocalBusiness"
+            ],
+            "@id": "https://www.hvacmetalsllc.com/#organization",
+            "name": "HVAC Metals, LLC",
+            "url": "https://www.hvacmetalsllc.com/",
+            "telephone": "+1-201-991-2206",
+            "priceRange": "$$",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://www.hvacmetalsllc.com/#logo",
+              "url": "https://www.hvacmetalsllc.com/wp-content/uploads/2024/07/favicon-hvac.png",
+              "caption": "HVAC Metals, LLC"
+            },
+            "image": {
+              "@id": "https://www.hvacmetalsllc.com/#logo"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "181-183 Garfield Ave",
+              "addressLocality": "Kearny",
+              "addressRegion": "NJ",
+              "postalCode": "07032",
+              "addressCountry": "US"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "40.7589574",
+              "longitude": "-74.1440466"
+            },
+            "sameAs": [
+              "https://www.facebook.com/HVACMetalsllc",
+              "https://www.linkedin.com/company/hvac-metals-llc-nj",
+              "https://www.instagram.com/hvacmetalsllc/"
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.hvacmetalsllc.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.hvacmetalsllc.com/"
+              }
+            ]
+          },
+          {
+            "@type": "FAQPage",
+            "@id": "https://www.hvacmetalsllc.com/#faq",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "Where is HVAC Metals LLC located and what areas do you serve?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "HVAC Metals LLC is hyper-locally situated at 181-183 Garfield Ave in Kearny, New Jersey. We provide direct job site deliveries of custom ductwork and HVAC supplies to commercial contractors across all of NJ, New York City (NY), and Eastern Pennsylvania (PA)."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What types of custom HVAC sheet metal products do you manufacture?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "We operate a full-service B2B fabrication shop producing custom rectangular, spiral, and oval ductwork. We also manufacture HVAC roof curbs, curb adapters, and equipment rails using high-quality galvanized steel, stainless steel, and aluminum."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you sell HVAC supplies to homeowners or the general public?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No, HVAC Metals LLC is strictly a B2B wholesale manufacturer and supplier. We partner exclusively with licensed HVAC contractors, mechanical contractors, and sheet metal installers. We do not offer retail sales, DIY supplies, or residential home AC repairs."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What advanced metal fabrication services do you offer in your New Jersey shop?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Our Kearny, NJ facility is equipped for precision manufacturing, offering advanced panel bending, precision laser cutting, custom welding, and exact shop drawings to ensure your commercial ductwork meets all local tri-state building codes."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How fast can you deliver custom ductwork to job sites in NJ and NY?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "We prioritize fast turnaround times for our contractor partners. Using our own dedicated fleet of box trucks, we schedule job site deliveries as early as 6:00 AM throughout New Jersey and the NYC metropolitan area to keep your installation crews moving."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 37,
+    "timing": {
+      "dcl": 3696,
+      "load": 4649,
+      "ttfb": 2378
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "cookie",
+        "cover": 0.264,
+        "sig": "cybotcookiebotdialog cybotcookiebotdialogactive ",
+        "text": "consent\ndetails\nabout\nthis website uses cookies\n\nwe use cookies to personalize content and ads, run social media feature"
+      },
+      {
+        "kind": "other",
+        "cover": 0.01,
+        "sig": " floatwapp-movil ",
+        "text": "call us now\n\n(201) 991-2206"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.hvacmetalsllc.com/",
+    "navMs": 5398,
+    "tel": [
+      {
+        "href": "tel:(201) 991-2206",
+        "text": "CALL NOW CALL NOW",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12019912206"
+      },
+      {
+        "href": "tel:(201) 991-2206",
+        "text": "(201) 991-2206",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019912206"
+      },
+      {
+        "href": "tel:(201) 991-2206",
+        "text": "Call Us Now (201) 991-2206",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019912206"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.hvacmetalsllc.com/",
+    "navMs": 3009,
+    "timing": {
+      "dcl": 1796,
+      "load": 2344,
+      "ttfb": 374
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(201) 991-2206",
+        "text": "CALL NOW CALL NOW",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12019912206"
+      },
+      {
+        "href": "tel:(201) 991-2206",
+        "text": "(201) 991-2206",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019912206"
+      },
+      {
+        "href": "tel:(201) 991-2206",
+        "text": "Call Us Now (201) 991-2206",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019912206"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "CALL NOW CALL NOW",
+      "Call Us Now (201) 991-2206"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "cookie",
+        "cover": 0.572,
+        "sig": "cybotcookiebotdialog cybotcookiebotdialogactive ",
+        "text": "consent\ndetails\nabout\nthis website uses cookies\n\nwe use cookies to personalize content and ads, run social media feature"
+      },
+      {
+        "kind": "other",
+        "cover": 0.048,
+        "sig": " floatwapp-movil ",
+        "text": "call us now\n\n(201) 991-2206"
+      }
+    ],
+    "maxBlockingCover": 0.572,
+    "smallTapTargets": 1,
+    "visibleNavLinks": 3,
+    "brokenImages": [],
+    "textChars": 3782
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.hvacmetalsllc.com/contact",
+      "finalUrl": "https://www.hvacmetalsllc.com/contact/",
+      "status": 200,
+      "title": "Contact - HVAC Metals LLC",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "",
+          "cls": "",
+          "fieldCount": 5,
+          "fieldNames": [
+            "nf-field-1-textbox",
+            "email",
+            "phone",
+            "nf-field-3",
+            "nf-field-hp"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1394559360047!2d-74.1414717!3d40.7589574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2543e0a12acc7%3A0x489c2f73829fa0c0!2sHVAC%20Metals%2C%20LLC!5e0!3m2!1ses-419!2sbo!4v1777062762869!5m2!1ses-419!2sbo",
+        "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "art@hvacllc.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(201) 991-2206",
+          "text": "CALL NOW CALL NOW",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12019912206"
+        },
+        {
+          "href": "tel:(201) 991-2206",
+          "text": "(201) 991-2206",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12019912206"
+        },
+        {
+          "href": "tel:(201) 991-2206",
+          "text": "Call Us Now (201) 991-2206",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12019912206"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Consent\nDetails\nAbout\nThis website uses cookies\n\nWe use cookies to personalize content and ads, run social media features, and analyze traffic. We also share your site usage data with our analytics, social, and advertising partners.\n\nAllow all\nHome\n \nAbout Us\n \nServices\n \nGallery\n \nBlog\n \nContact\nCALL NOW \nCALL NOW \nContact\nCONTACT US\nGet In Touch With Our Team\nFields marked with an * are required\nContact\nInformation\nYou can contact us using the following information.\nLocation\n\n183 Garfield Avenue Kearny, NJ 07032\n\nPhone\n\nOffice: (201) 991-2206, Fax: 201-299-3620\nart@hvacllc.com\n\nFabrication for HVAC and custom work\nHVAC METALS\nHome\nAbout Us\nGallery\nBlog\nContact\nSERVICES\nSheet Metal Trends\nDuctwork & Custom\nSheet Metal Fabrication\nCONTACT\n183 Garfield Avenue Kearny, NJ 07032\n(201) 991-2206\nart@hvacllc.com\n© 2026 HVAC Metals Developed By OpenFS LLC\nCall Us Now\n\n(201) 991-2206",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/",
+        "https://www.hvacmetalsllc.com/",
+        "https://www.hvacmetalsllc.com/about-us/",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "https://www.hvacmetalsllc.com/gallery/",
+        "https://www.hvacmetalsllc.com/blog/",
+        "https://www.hvacmetalsllc.com/contact/",
+        "https://www.hvacmetalsllc.com/contact/#offcanvasExample",
+        "https://www.hvacmetalsllc.com/",
+        "https://www.hvacmetalsllc.com/",
+        "https://www.hvacmetalsllc.com/about-us/",
+        "https://www.hvacmetalsllc.com/contact/#",
+        "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/",
+        "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "https://www.hvacmetalsllc.com/gallery/",
+        "https://www.hvacmetalsllc.com/blog/",
+        "https://www.hvacmetalsllc.com/contact/",
+        "https://www.hvacmetalsllc.com/",
+        "https://www.hvacmetalsllc.com/about-us/",
+        "https://www.hvacmetalsllc.com/gallery/",
+        "https://www.hvacmetalsllc.com/blog/",
+        "https://www.hvacmetalsllc.com/contact/",
+        "https://www.hvacmetalsllc.com/service/sheet-metal-trends/",
+        "https://www.hvacmetalsllc.com/service/ductwork-custom/",
+        "https://www.hvacmetalsllc.com/service/sheet-metal-fabrication/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 13,
+    "at": "2026-11-03T23:15:55.082Z",
+    "statusCounts": {
+      "200": 13
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.hvacmetalsllc.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/hvac-metals-llc/desktop-home.png",
+    "desktop_clean": "evidence/screenshots/hvac-metals-llc/desktop-home-overlays-hidden.png",
+    "desktop_full": "evidence/screenshots/hvac-metals-llc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/hvac-metals-llc/desktop-contact.png",
+    "mobile_asis": "evidence/screenshots/hvac-metals-llc/mobile-home.png",
+    "mobile_clean": "evidence/screenshots/hvac-metals-llc/mobile-home-overlays-hidden.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 2015,
+    "copyrightYear": 2026,
+    "emails": [
+      "art@hvacllc.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

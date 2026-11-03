@@ -1,0 +1,971 @@
+{
+  "firecrawl": [],
+  "id": "jf-mechanical-heating-air-conditioning",
+  "name": "JF Mechanical Heating & Air Conditioning",
+  "website": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+  "auditedAt": "2026-11-03T23:05:17.135Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+      "at": "2026-11-03T23:05:28.737Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+      "title": "Heating & A/c Installation & Repair in Passaic, NJ | JF Mechanical Heating & Air Conditioning",
+      "ms": 11559,
+      "error": null,
+      "linkCount": 42
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Our-Team",
+      "at": "2026-11-03T23:05:40.186Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Our-Team",
+      "title": "Our Team | Passaic, NJ",
+      "ms": 10947,
+      "error": null,
+      "linkCount": 33
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+      "at": "2026-11-03T23:06:04.651Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+      "title": "Heating & A/c Installation & Repair in Passaic, NJ | JF Mechanical Heating & Air Conditioning",
+      "ms": 11054,
+      "error": null,
+      "linkCount": 42
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+    "title": "Heating & A/c Installation & Repair in Passaic, NJ | JF Mechanical Heating & Air Conditioning",
+    "lang": "en",
+    "metaDescription": "JF Mechanical Heating & Air Conditioning is a family-owned and operated business that has been providing quality HVAC services to the Passaic, NJ area for ",
+    "h1": [
+      "JF Mechanical Heating & Air Conditioning"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5418,
+    "bodyText": "HOME\nSERVICES\nGALLERIES\nREVIEWS\nBLOG\n\nSend us a Text\nCall Now\nJF Mechanical Heating & Air Conditioning\n\nQuality Heating & A/C Installation & Repair service in Passaic and surrounding areas. We provide professional service and offer free quotes. Reach out today to learn how we can help.\n\nGet a Free Quote\nFamily Owned\nLocally Owned\nInsured\nAbout Us\n\nJF Mechanical Heating & Air Conditioning is a family-owned and operated business that has been providing quality HVAC services to the Passaic, NJ area for years. We offer a wide range of services, from installation and repair to maintenance and replacement, and we always put our customers first. Contact us today for all your HVAC needs!\n\nConnect with us on Social\nFacebook\nGoogle\nWHAT WE ARE BEST AT\nOur Services\nHeating\nHeating\n\nOur heating service offers quality installation, repair and replacement services for furnaces, boilers and heat pumps. With years of experience in the industry, our technicians are experts at keeping your home warm all winter long.\n\nVentilation\nVentilation\n\nIf you're looking for a quality ventilation service, our team is here to help. We can provide you with top-of-the-line ventilation systems that will keep your home comfortable and improve your indoor air quality. Contact us today to learn more!\n\nAir Conditioning\nAir Conditioning\n\nWe are a full-service air conditioning company, providing installation, repair, and replacement services for homeowners in our service area. We have extensive experience with all types of air conditioners and can help you find the perfect cooling solution for your home.\n\nReady to get started?\nBook an appointment today.\nGet a Free Quote\nSEE WHY OUR CUSTOMERS LOVE US\nOur Best Work\nSee more photos\nTestimonials & Reviews\n\nDon't just take our word for it\n\nLeave us a review on Google\n\nLeave us a review on Facebook\n\nFAQs\nWhat's the best way to reach you?\nDo you provide free estimates?\nHow are you different?\nService Areas\n\nProudly Serving Passaic & Surrounding Areas\n\nReady to get started?\nBook an appointment today.\nGet a Free Quote\nFooter\n\nJF Mechanical Heating & Air Conditioning\nPassaic, NJ 07055, US\njuancarlos198215@yahoo.com\n\nFacebook\nGoogle\nCOMPANY\nHome\nGalleries\nReviews\nSitemap\nSERVICES\nHeating\nVentilation\nAir Conditioning\nSERVICE AREAS\nPassaic, NJ\nHOURS\nSun: 8:00am - 6:00pm\nMon: 8:00am - 6:00pm\nTue: 8:00am - 6:00pm\nWed: 8:00am - 6:00pm\nThu: 8:00am - 6:00pm\nFri: 8:00am - 6:00pm\nSat: 8:00am - 6:00pm\nDesigned by",
+    "links": [
+      {
+        "href": " ./",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 150,
+        "w": 180,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " ./ ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 50,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " service-Heating ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Heating",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " service-Ventilation ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Ventilation",
+        "text": "Ventilation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " service-Air-Conditioning ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Air-Conditioning",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " gallery-Our-Team ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Our-Team",
+        "text": "Our Team",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " gallery-Past-Work ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Past-Work",
+        "text": "Past Work",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " gallery-All ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-All",
+        "text": "All Photos",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " reviews ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/reviews",
+        "text": "REVIEWS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 71,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": " blog ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/blog",
+        "text": "BLOG",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 46,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+        "abs": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 44,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://maps.google.com/maps?cid=2059445020182266057",
+        "abs": "https://maps.google.com/maps?cid=2059445020182266057",
+        "text": "Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 44,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "service-Heating",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Heating",
+        "text": "Heating Heating Our heating service offers quality installation, repair and repl",
+        "visible": true,
+        "aboveFold": false,
+        "h": 299,
+        "w": 299,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "service-Ventilation",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Ventilation",
+        "text": "Ventilation Ventilation If you're looking for a quality ventilation service, our",
+        "visible": true,
+        "aboveFold": false,
+        "h": 299,
+        "w": 299,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "service-Air-Conditioning",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Air-Conditioning",
+        "text": "Air Conditioning Air Conditioning We are a full-service air conditioning company",
+        "visible": true,
+        "aboveFold": false,
+        "h": 299,
+        "w": 299,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "gallery-All",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-All",
+        "text": "See more photos",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 171,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://search.google.com/local/writereview?placeid=ChIJscUmFFv5wokRyUBpnlWelBw",
+        "abs": "https://search.google.com/local/writereview?placeid=ChIJscUmFFv5wokRyUBpnlWelBw",
+        "text": "Leave us a review on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 64,
+        "w": 212,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456/reviews",
+        "abs": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456/reviews",
+        "text": "Leave us a review on Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 64,
+        "w": 212,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+        "abs": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+        "text": "Leave us a review on Facebook",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+        "abs": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 24,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://maps.google.com/maps?cid=2059445020182266057",
+        "abs": "https://maps.google.com/maps?cid=2059445020182266057",
+        "text": "Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 24,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "./",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 53,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "gallery-All",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-All",
+        "text": "Galleries",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 74,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "reviews",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/reviews",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 71,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "sitemap.xml",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/sitemap.xml",
+        "text": "Sitemap",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 69,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "service-Heating",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Heating",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 67,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "service-Ventilation",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Ventilation",
+        "text": "Ventilation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 87,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "service-Air-Conditioning",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Air-Conditioning",
+        "text": "Air Conditioning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 129,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": " ./",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": " ./ ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "service-Heating",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Heating",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "service-Ventilation",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Ventilation",
+        "text": "Ventilation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "service-Air-Conditioning",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Air-Conditioning",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "gallery-Our-Team",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Our-Team",
+        "text": "Our Team",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "gallery-Past-Work",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Past-Work",
+        "text": "Past Work",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "gallery-All",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-All",
+        "text": "All Photos",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": " reviews ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/reviews",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": " blog ",
+        "abs": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/blog",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://prosite.prophone.com/legal/privacy-policy",
+        "abs": "https://prosite.prophone.com/legal/privacy-policy",
+        "text": "Privacy Policy",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://search.google.com/local/writereview?placeid=ChIJscUmFFv5wokRyUBpnlWelBw",
+        "abs": "https://search.google.com/local/writereview?placeid=ChIJscUmFFv5wokRyUBpnlWelBw",
+        "text": "Google",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456/reviews",
+        "abs": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456/reviews",
+        "text": "Facebook",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+        "abs": "https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+        "text": "Facebook",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Open/CLose menu TODO:",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "GALLERIES",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Send us a Text",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Get a Free Quote",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Get a Free Quote",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Your browser does not support the video tag.",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Your browser does not support the video tag.",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Your browser does not support the video tag.",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "What's the best way to reach you?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do you provide free estimates?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "How are you different?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Get a Free Quote",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Send Us a Text",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Galleries",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send us a Text",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Call Now",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close modal",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Skip to previous slide",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Skip to next slide",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close modal",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Agree & Send",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close modal",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "get",
+        "id": "contactModal",
+        "cls": "flex flex-col flex-grow overflow-hidden sm:w-full",
+        "fieldCount": 11,
+        "fieldNames": [
+          "full-name",
+          "phone-number",
+          "address",
+          "email",
+          "date",
+          "service-645140",
+          "service-645141",
+          "service-645142",
+          "service-other",
+          "service-other-text",
+          "paragraph-55e2709d-bc59-4007-bdb0-1576f60df852"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ld-uOAnAAAAACS7jwMHAJ3Rbt3tvEafIIDkG5jR&co=aHR0cHM6Ly9wcm9zaXRlLnByb3Bob25lLmNvbTo0NDM.&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&anchor-ms=20000&execute-ms=30000&cb=1h4vieqjck9e"
+    ],
+    "scripts": [
+      "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__en.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-FJ8QMD5KLH",
+      "https://cdn.segment.com/next-integrations/actions/google-analytics-4-web/aeadee7d142fb4d69ca8.js",
+      "https://cdn.segment.com/analytics.js/v1/Z6dq7zq7CtZubdSRrh4EHjCsAasGDPiE/analytics.min.js",
+      "https://unpkg.com/@googlemaps/markerclusterer/dist/index.min.js",
+      "https://cdn.jsdelivr.net/npm/@nylas/web-elements@1.1.0/dist/nylas-web-elements/nylas-web-elements.esm.js",
+      "https://cdn.jsdelivr.net/npm/siema@1.5.1/dist/siema.min.js",
+      "https://cdn.jsdelivr.net/npm/@alpinejs/intersect@3.x.x/dist/cdn.min.js",
+      "https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js",
+      "https://cdn.jsdelivr.net/npm/focus-visible@5.2.0/dist/focus-visible.min.js",
+      "https://cdn.jsdelivr.net/npm/@alpinejs/focus@3.x.x/dist/cdn.min.js",
+      "https://cdn.jsdelivr.net/npm/alpinejs@3.10.5/dist/cdn.min.js",
+      "https://cdn.jsdelivr.net/npm/external-svg-loader@latest/dist/svg-loader.min.js",
+      "https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/intlTelInput.min.js",
+      "https://unpkg.com/img-comparison-slider@7/dist/index.js",
+      "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js",
+      "https://maps.googleapis.com/maps/api/js?key=AIzaSyA29PezDaZOMTtUJoLP9CDVNw0AV8r9JCg&callback=afterGoogleMapsLoaded&libraries=places",
+      "https://maps.googleapis.com/maps-api-v3/api/js/66/12d/map.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/66/12d/geometry.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/66/12d/poly.js",
+      "https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/utils.js",
+      "https://www.google.com/recaptcha/api.js?render=6Ld-uOAnAAAAACS7jwMHAJ3Rbt3tvEafIIDkG5jR"
+    ],
+    "jsonLd": [],
+    "brokenImages": [
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/160x160/filters:strip_exif()/filters:no_upscale()/filters:format(webp)/media/f5f3eae3-a663-4185-a02d-efb791fa64cf.jpeg",
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/1500x1500/filters:strip_exif()/filters:no_upscale()/filters:format(webp)/media/be15bd47-674e-4d33-b92a-92606c532121.png",
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/300x300/filters:strip_exif()/filters:no_upscale()/media/2402058a-e1d5-4ec6-bd93-52ea65a16194.png",
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/300x300/filters:strip_exif()/filters:no_upscale()/media/8d4c127f-748b-4e1c-8c1d-eda7ce95e7c3.png",
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/300x300/filters:strip_exif()/filters:no_upscale()/media/3cd797a7-7c40-4766-a81f-2dd2ee768a4a.png"
+    ],
+    "imageCount": 27,
+    "timing": {
+      "dcl": 2359,
+      "load": 3514,
+      "ttfb": 979
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "requestStorageAccess: Permission denied."
+    ],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.196,
+        "sig": "nav-bar fixed w-screen top-0 inset-x-0 z-50 ",
+        "text": "home\nservices\ngalleries\nreviews\nblog\n\nsend us a text\ncall now"
+      },
+      {
+        "kind": "other",
+        "cover": 0.003,
+        "sig": " grecaptcha-badge ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+    "navMs": 11559,
+    "tel": [],
+    "vendors": [
+      {
+        "name": "Google reCAPTCHA",
+        "kind": "captcha"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+    "navMs": 11054,
+    "timing": {
+      "dcl": 1792,
+      "load": 3008,
+      "ttfb": 594
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [],
+    "telAboveFold": false,
+    "ctaAboveFold": [
+      "Get a Free Quote"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.145,
+        "sig": "nav-bar fixed w-screen top-0 inset-x-0 z-50 ",
+        "text": "menu"
+      },
+      {
+        "kind": "other",
+        "cover": 0.016,
+        "sig": " grecaptcha-badge ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 1,
+    "brokenImages": [
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/320x320/filters:strip_exif()/filters:no_upscale()/filters:format(webp)/media/f5f3eae3-a663-4185-a02d-efb791fa64cf.jpeg",
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/1500x1500/filters:strip_exif()/filters:no_upscale()/filters:format(webp)/media/be15bd47-674e-4d33-b92a-92606c532121.png",
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/300x300/filters:strip_exif()/filters:no_upscale()/media/2402058a-e1d5-4ec6-bd93-52ea65a16194.png",
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/300x300/filters:strip_exif()/filters:no_upscale()/media/8d4c127f-748b-4e1c-8c1d-eda7ce95e7c3.png",
+      "https://d3p2r6ofnvoe67.cloudfront.net/fit-in/300x300/filters:strip_exif()/filters:no_upscale()/media/3cd797a7-7c40-4766-a81f-2dd2ee768a4a.png"
+    ],
+    "textChars": 2351
+  },
+  "pages": {
+    "about": {
+      "url": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Our-Team",
+      "finalUrl": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Our-Team",
+      "status": 200,
+      "title": "Our Team | Passaic, NJ",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "contactModal",
+          "cls": "flex flex-col flex-grow overflow-hidden sm:w-full",
+          "fieldCount": 11,
+          "fieldNames": [
+            "full-name",
+            "phone-number",
+            "address",
+            "email",
+            "date",
+            "service-645140",
+            "service-645141",
+            "service-645142",
+            "service-other",
+            "service-other-text",
+            "paragraph-55e2709d-bc59-4007-bdb0-1576f60df852"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ld-uOAnAAAAACS7jwMHAJ3Rbt3tvEafIIDkG5jR&co=aHR0cHM6Ly9wcm9zaXRlLnByb3Bob25lLmNvbTo0NDM.&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&anchor-ms=20000&execute-ms=30000&cb=ycghkx4s74xj"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "juancarlos198215@yahoo.com"
+      ],
+      "tel": [],
+      "owners": [],
+      "bodyText": "HOME\nSERVICES\nGALLERIES\nREVIEWS\nBLOG\n\nSend us a Text\nCall Now\nOUR BEST WORK\nOur Team\n\nReady to get started?\nBook an appointment today.\nGet a Free Quote\nFooter\n\nJF Mechanical Heating & Air Conditioning\nPassaic, NJ 07055, US\njuancarlos198215@yahoo.com\n\nFacebook\nGoogle\nCOMPANY\nHome\nGalleries\nReviews\nSitemap\nSERVICES\nHeating\nVentilation\nAir Conditioning\nSERVICE AREAS\nPassaic, NJ\nHOURS\nSun: 8:00am - 6:00pm\nMon: 8:00am - 6:00pm\nTue: 8:00am - 6:00pm\nWed: 8:00am - 6:00pm\nThu: 8:00am - 6:00pm\nFri: 8:00am - 6:00pm\nSat: 8:00am - 6:00pm\nDesigned by",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        }
+      ],
+      "links": [
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Heating",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Ventilation",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Air-Conditioning",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Our-Team",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Past-Work",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-All",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/reviews",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/blog",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-All",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/reviews",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/sitemap.xml",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Heating",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Ventilation",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Air-Conditioning",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Heating",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Ventilation",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/service-Air-Conditioning",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Our-Team",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-Past-Work",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/gallery-All",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/reviews",
+        "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/blog",
+        "https://prosite.prophone.com/legal/privacy-policy"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 13,
+    "at": "2026-11-03T23:05:52.522Z",
+    "statusCounts": {
+      "200": 11,
+      "400": 2
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://prosite.prophone.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/jf-mechanical-heating-air-conditioning/desktop-home.png",
+    "desktop_full": "evidence/screenshots/jf-mechanical-heating-air-conditioning/desktop-home-full.png",
+    "desktop_about": "evidence/screenshots/jf-mechanical-heating-air-conditioning/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/jf-mechanical-heating-air-conditioning/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [
+      "juancarlos198215@yahoo.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Facebook -> https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+      "Leave us a review on Facebook -> https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456/reviews",
+      "Leave us a review on Facebook -> https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+      "Facebook -> https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456",
+      "Facebook -> https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456/reviews",
+      "Facebook -> https://facebook.com/Jf-mechanical-heating-air-conditioning-108710864604456"
+    ]
+  }
+}

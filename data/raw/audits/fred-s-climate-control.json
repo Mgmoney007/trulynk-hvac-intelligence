@@ -1,0 +1,1246 @@
+{
+  "firecrawl": [],
+  "id": "fred-s-climate-control",
+  "name": "fred-s-climate-control",
+  "website": "https://fredsclimate.com/",
+  "auditedAt": "2026-11-03T23:37:53.524Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://fredsclimate.com/",
+      "at": "2026-11-03T23:37:56.709Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://fredsclimate.com/",
+      "title": "HVAC Services in North Jersey | Fred's Climate Control",
+      "ms": 3009,
+      "error": null,
+      "linkCount": 54
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://fredsclimate.com/contact",
+      "at": "2026-11-03T23:38:00.323Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://fredsclimate.com/contact",
+      "title": "Free HVAC Estimate | Fred's Climate Control",
+      "ms": 1849,
+      "error": null,
+      "linkCount": 42
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://fredsclimate.com/",
+      "at": "2026-11-03T23:38:24.325Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://fredsclimate.com/",
+      "title": "HVAC Services in North Jersey | Fred's Climate Control",
+      "ms": 2176,
+      "error": null,
+      "linkCount": 54
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://fredsclimate.com/",
+    "title": "HVAC Services in North Jersey | Fred's Climate Control",
+    "lang": "en",
+    "metaDescription": "Heating, AC, boilers, mini splits and rooftop units in Hudson, Bergen, Passaic & Essex County, NJ. Licensed & insured, 20+ years, free estimates. Call 973-393-8027.",
+    "h1": [
+      "Heating and air conditioning service you can count on"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5409,
+    "bodyText": "Skip to content\nMon–Sat 9am–6pm · Emergencies 24/7\nNJ HVACR Lic. #19HC00273200 · Licensed & insured\nServices\nService Areas\nReviews\nEspañol\n973-393-8027\nFree Estimate\n\nHEATING & COOLING IN NORTH JERSEY\n\nHeating and air conditioning service you can count on\n\nInstallation, repair and maintenance for homes and businesses in Hudson, Bergen, Passaic and Essex County. Licensed, insured and trusted for more than 20 years.\n\nGet a free estimate\nCall now: 973-393-8027\n133 Google reviews\nLicensed & insured\nFree estimates\n20+ years of experience\nOur services\n\nHeating, cooling and air quality for homes, rentals and businesses.\n\nAC Installation & Replacement\n\nNew central air and AC systems for homes and businesses, sized right and installed to last.\n\nLearn more\nAC Repair\n\nFast diagnosis and repair when your air conditioner stops cooling — often the same day.\n\nLearn more\nHeating & Boilers\n\nInstallation, repair and maintenance of furnaces, boilers and heating systems.\n\nLearn more\nDuctless Mini Splits\n\nEfficient heating and cooling for rooms, additions and buildings without ductwork.\n\nLearn more\nCommercial & Rooftop Units\n\nService, repair and installation of rooftop units and commercial HVAC for businesses.\n\nLearn more\nDuctwork & Duct Cleaning\n\nNew ductwork, repairs and thorough duct cleaning for better airflow and cleaner air.\n\nLearn more\nIndoor Air Quality\n\nFilters, purifiers and humidity control so your family breathes cleaner air.\n\nLearn more\nWater Heaters\n\nWater heater repair and replacement so you're never left without hot water.\n\nLearn more\nEmergency HVAC Service\n\nNo heat in winter or no AC in a heat wave? Call us — we respond fast.\n\nLearn more\nMaintenance Plans\n\nRegular tune-ups that prevent breakdowns, lower bills and extend equipment life.\n\nLearn more\nWhy North Jersey calls Fred\n20+ years of experience\n\nResidential and commercial HVAC, from window-unit replacements to rooftop units lifted by crane.\n\nLicensed & fully insured\n\nNJ HVACR license #19HC00273200. Work done right and up to code.\n\nFree, honest estimates\n\nFred explains the problem in plain words and gives you options — no pressure.\n\nEnglish & Spanish\n\nWe speak your language. Hablamos español.\n\nWhat our customers say\n\n133 reviews on Google from homeowners and businesses across North Jersey.\n\nReviews →\n“Vino un tecnico Mauricio muy profesional que me dio soluciones inmediatas a mi máquina HVC y el mismo dia mi problema fue resuelto! Recomendados 100%.”\n\nViviana Gomez\n\nGoogle · July 2026\n\n“I had no hot water and when I went to check my water heater I found water around the heater. I called my normal guy and he said he wouldn't be able to get here today or very late. I saw Fred walking out of the building and decided to ask him if he worked on water heaters. He right away said yes let me look at it, saw the tank was no longer good and decided to help me even though they had a big job fixing the AC with one of my neighbors. They were there from about 1-8 pm working on both of our jobs and did a great job! I would 100% recommend Fred and his team. Plus the price was also very reasonable.”\n\nJoel Miller\n\nGoogle · June 2026\n\n“Fred was efficient and very knowledgeable. He knew what had to be done. I recommend him to any one who needs AC maintenance and service. Very reliable.”\n\nJohn Fortunato\n\nGoogle · July 2026\n\n“Fred did a through diagnosis of our Ac system and did a good job fixing multiple issues. He is friendly and explains the problem and solution in detail. I highly recommend Fred and his crew.”\n\nKunal Rathore\n\nGoogle · June 2026\n\n“Fred came over on a very hot day after calling a few other companies that where busy fred came aded gas to my condenser and replaced a few filters and know thanks to him I'm enjoying great cooling will follow him and recommend him before any other company cause he's committed to customers needs”\n\nAna Rosa Milian\n\nGoogle · July 2026\n\n“Fred gave me fast friendly service and went above and beyond to find what was wrong, to make my AC fully operational and it works beautifully!”\n\nJody Hopp\n\nGoogle · June 2026\n\nAreas we serve\n\nWe serve homes and businesses across four counties in North Jersey. Don't see your town? Call us — we probably cover it.\n\nHudson County\nNorth Bergen\nUnion City\nWest New York\nJersey City\nBayonne\nBergen County\nFort Lee\nEdgewater\nHackensack\nTeaneck\nFair Lawn\nMoonachie\nPassaic County\nPaterson\nClifton\nPassaic\nWayne\nEssex County\n\nThroughout the county\n\nNeed heat, AC or a new system?\n\nSend us a photo of your equipment and get a free estimate. Fred will contact you soon.\n\nFollow us:\nGet a free estimate\n973-393-8027\nWhatsApp\n\n“Service We're Proud of”\n\nNJ HVACR Lic. #19HC00273200\n\nLicensed & insured · Free estimates\n\nServices\nAC Installation & Replacement\nAC Repair\nHeating & Boilers\nDuctless Mini Splits\nCommercial & Rooftop Units\nDuctwork & Duct Cleaning\nIndoor Air Quality\nWater Heaters\nEmergency HVAC Service\nMaintenance Plans\nService Areas\nHudson County\nBergen County\nPassaic County\nEssex County\nReviews\nFree Estimate\nPrivacy Policy\nContact\n973-393-8027\nfredsclimate@gmail.com\n6714 Meadowview Ave\nNorth Bergen, NJ 07047\nMon–Sat 9am–6pm · Emergencies 24/7\nFollow us\n\n© Fred's Climate Control. All rights reserved.\n\nChat with us",
+    "links": [
+      {
+        "href": "#main",
+        "abs": "https://fredsclimate.com/#main",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595336614786",
+        "abs": "https://www.facebook.com/profile.php?id=61595336614786",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 24,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/fredsclimatecontrol/",
+        "abs": "https://www.instagram.com/fredsclimatecontrol/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 24,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://fredsclimate.com/",
+        "text": "Fred's Climate Control",
+        "visible": true,
+        "aboveFold": true,
+        "h": 48,
+        "w": 120,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://fredsclimate.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 23,
+        "w": 62,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/areas",
+        "abs": "https://fredsclimate.com/areas",
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": true,
+        "h": 23,
+        "w": 100,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://fredsclimate.com/reviews",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": true,
+        "h": 23,
+        "w": 60,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/es",
+        "abs": "https://fredsclimate.com/es",
+        "text": "Español",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 79,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733938027",
+        "abs": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": true,
+        "aboveFold": true,
+        "h": 23,
+        "w": 131,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://fredsclimate.com/contact",
+        "text": "Free Estimate",
+        "visible": true,
+        "aboveFold": true,
+        "h": 39,
+        "w": 130,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/es",
+        "abs": "https://fredsclimate.com/es",
+        "text": "ES",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://fredsclimate.com/contact",
+        "text": "Get a free estimate",
+        "visible": true,
+        "aboveFold": true,
+        "h": 60,
+        "w": 212,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733938027",
+        "abs": "tel:+19733938027",
+        "text": "Call now: 973-393-8027",
+        "visible": true,
+        "aboveFold": true,
+        "h": 60,
+        "w": 289,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://fredsclimate.com/services/ac-installation",
+        "text": "AC Installation & Replacement New central air and AC systems for homes and busin",
+        "visible": true,
+        "aboveFold": false,
+        "h": 262,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://fredsclimate.com/services/ac-repair",
+        "text": "AC Repair Fast diagnosis and repair when your air conditioner stops cooling — of",
+        "visible": true,
+        "aboveFold": false,
+        "h": 262,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heating-boilers",
+        "abs": "https://fredsclimate.com/services/heating-boilers",
+        "text": "Heating & Boilers Installation, repair and maintenance of furnaces, boilers and ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 262,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/mini-splits",
+        "abs": "https://fredsclimate.com/services/mini-splits",
+        "text": "Ductless Mini Splits Efficient heating and cooling for rooms, additions and buil",
+        "visible": true,
+        "aboveFold": false,
+        "h": 262,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/rooftop-units",
+        "abs": "https://fredsclimate.com/services/rooftop-units",
+        "text": "Commercial & Rooftop Units Service, repair and installation of rooftop units and",
+        "visible": true,
+        "aboveFold": false,
+        "h": 262,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ductwork-duct-cleaning",
+        "abs": "https://fredsclimate.com/services/ductwork-duct-cleaning",
+        "text": "Ductwork & Duct Cleaning New ductwork, repairs and thorough duct cleaning for be",
+        "visible": true,
+        "aboveFold": false,
+        "h": 262,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/air-quality",
+        "abs": "https://fredsclimate.com/services/air-quality",
+        "text": "Indoor Air Quality Filters, purifiers and humidity control so your family breath",
+        "visible": true,
+        "aboveFold": false,
+        "h": 238,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/water-heaters",
+        "abs": "https://fredsclimate.com/services/water-heaters",
+        "text": "Water Heaters Water heater repair and replacement so you're never left without h",
+        "visible": true,
+        "aboveFold": false,
+        "h": 238,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-service",
+        "abs": "https://fredsclimate.com/services/emergency-service",
+        "text": "Emergency HVAC Service No heat in winter or no AC in a heat wave? Call us — we r",
+        "visible": true,
+        "aboveFold": false,
+        "h": 238,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/maintenance-plans",
+        "abs": "https://fredsclimate.com/services/maintenance-plans",
+        "text": "Maintenance Plans Regular tune-ups that prevent breakdowns, lower bills and exte",
+        "visible": true,
+        "aboveFold": false,
+        "h": 262,
+        "w": 363,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://fredsclimate.com/reviews",
+        "text": "Reviews →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 84,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595336614786",
+        "abs": "https://www.facebook.com/profile.php?id=61595336614786",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/fredsclimatecontrol/",
+        "abs": "https://www.instagram.com/fredsclimatecontrol/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://fredsclimate.com/contact",
+        "text": "Get a free estimate",
+        "visible": true,
+        "aboveFold": false,
+        "h": 84,
+        "w": 166,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733938027",
+        "abs": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": true,
+        "aboveFold": false,
+        "h": 84,
+        "w": 161,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://wa.me/19733938027",
+        "abs": "https://wa.me/19733938027",
+        "text": "WhatsApp",
+        "visible": true,
+        "aboveFold": false,
+        "h": 84,
+        "w": 169,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://fredsclimate.com/services/ac-installation",
+        "text": "AC Installation & Replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 198,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://fredsclimate.com/services/ac-repair",
+        "text": "AC Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 66,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/heating-boilers",
+        "abs": "https://fredsclimate.com/services/heating-boilers",
+        "text": "Heating & Boilers",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 113,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/mini-splits",
+        "abs": "https://fredsclimate.com/services/mini-splits",
+        "text": "Ductless Mini Splits",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 129,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/rooftop-units",
+        "abs": "https://fredsclimate.com/services/rooftop-units",
+        "text": "Commercial & Rooftop Units",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 185,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ductwork-duct-cleaning",
+        "abs": "https://fredsclimate.com/services/ductwork-duct-cleaning",
+        "text": "Ductwork & Duct Cleaning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 174,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/air-quality",
+        "abs": "https://fredsclimate.com/services/air-quality",
+        "text": "Indoor Air Quality",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 115,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/water-heaters",
+        "abs": "https://fredsclimate.com/services/water-heaters",
+        "text": "Water Heaters",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 95,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/emergency-service",
+        "abs": "https://fredsclimate.com/services/emergency-service",
+        "text": "Emergency HVAC Service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 171,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/maintenance-plans",
+        "abs": "https://fredsclimate.com/services/maintenance-plans",
+        "text": "Maintenance Plans",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 125,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas",
+        "abs": "https://fredsclimate.com/areas",
+        "text": "Hudson County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 103,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas",
+        "abs": "https://fredsclimate.com/areas",
+        "text": "Bergen County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 99,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas",
+        "abs": "https://fredsclimate.com/areas",
+        "text": "Passaic County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 103,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas",
+        "abs": "https://fredsclimate.com/areas",
+        "text": "Essex County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 91,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://fredsclimate.com/reviews",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 55,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/contact",
+        "abs": "https://fredsclimate.com/contact",
+        "text": "Free Estimate",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 90,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/privacy",
+        "abs": "https://fredsclimate.com/privacy",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+19733938027",
+        "abs": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 250,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:fredsclimate@gmail.com",
+        "abs": "mailto:fredsclimate@gmail.com",
+        "text": "fredsclimate@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 250,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://maps.app.goo.gl/tc8En5NBeGCjcjgcA",
+        "abs": "https://maps.app.goo.gl/tc8En5NBeGCjcjgcA",
+        "text": "6714 Meadowview Ave North Bergen, NJ 07047",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 250,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=61595336614786",
+        "abs": "https://www.facebook.com/profile.php?id=61595336614786",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/fredsclimatecontrol/",
+        "abs": "https://www.instagram.com/fredsclimatecontrol/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+19733938027",
+        "abs": "tel:+19733938027",
+        "text": "Call",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://wa.me/19733938027",
+        "abs": "https://wa.me/19733938027",
+        "text": "WhatsApp",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://fredsclimate.com/contact",
+        "text": "Free Estimate",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Chat with us",
+        "visible": true,
+        "aboveFold": true
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://fredsclimate.com/_next/static/immutable/chunks/0lotqaap2y791.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/32fw9or16bgbs.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/2vnpl11aewgk9.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/turbopack-1cvbnb3nlabgn.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/1431h84mknoy7.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/1n-slxkl6yrg0.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/27129sr3bnzcs.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/1fo28gqtcad6f.js",
+      "https://fredsclimate.com/_next/static/immutable/chunks/3douyljdx_-l2.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "HVACBusiness",
+        "@id": "https://fredsclimate.com/#business",
+        "name": "Fred's Climate Control",
+        "slogan": "Service We're Proud of",
+        "url": "https://fredsclimate.com",
+        "logo": "https://fredsclimate.com/img/logo.png",
+        "image": "https://fredsclimate.com/img/rooftop-repair.jpg",
+        "telephone": "+1-973-393-8027",
+        "email": "fredsclimate@gmail.com",
+        "founder": {
+          "@type": "Person",
+          "name": "Fred Sanchez"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6714 Meadowview Ave",
+          "addressLocality": "North Bergen",
+          "addressRegion": "NJ",
+          "postalCode": "07047",
+          "addressCountry": "US"
+        },
+        "hasMap": "https://maps.app.goo.gl/tc8En5NBeGCjcjgcA",
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "opens": "09:00",
+            "closes": "18:00"
+          }
+        ],
+        "areaServed": [
+          {
+            "@type": "AdministrativeArea",
+            "name": "Hudson County, NJ"
+          },
+          {
+            "@type": "AdministrativeArea",
+            "name": "Bergen County, NJ"
+          },
+          {
+            "@type": "AdministrativeArea",
+            "name": "Passaic County, NJ"
+          },
+          {
+            "@type": "AdministrativeArea",
+            "name": "Essex County, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "North Bergen, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Union City, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "West New York, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Jersey City, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Bayonne, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Fort Lee, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Edgewater, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Hackensack, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Teaneck, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Fair Lawn, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Moonachie, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Paterson, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Clifton, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Passaic, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Wayne, NJ"
+          }
+        ],
+        "knowsLanguage": [
+          "en",
+          "es"
+        ],
+        "priceRange": "$$",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "HVAC services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "AC Installation & Replacement",
+                "url": "https://fredsclimate.com/services/ac-installation"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "AC Repair",
+                "url": "https://fredsclimate.com/services/ac-repair"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Heating & Boilers",
+                "url": "https://fredsclimate.com/services/heating-boilers"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Ductless Mini Splits",
+                "url": "https://fredsclimate.com/services/mini-splits"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Commercial & Rooftop Units",
+                "url": "https://fredsclimate.com/services/rooftop-units"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Ductwork & Duct Cleaning",
+                "url": "https://fredsclimate.com/services/ductwork-duct-cleaning"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Indoor Air Quality",
+                "url": "https://fredsclimate.com/services/air-quality"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Water Heaters",
+                "url": "https://fredsclimate.com/services/water-heaters"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Emergency HVAC Service",
+                "url": "https://fredsclimate.com/services/emergency-service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Maintenance Plans",
+                "url": "https://fredsclimate.com/services/maintenance-plans"
+              }
+            }
+          ]
+        },
+        "sameAs": [
+          "https://www.facebook.com/profile.php?id=61595336614786",
+          "https://www.instagram.com/fredsclimatecontrol/",
+          "https://maps.app.goo.gl/tc8En5NBeGCjcjgcA"
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 6,
+    "timing": {
+      "dcl": 574,
+      "load": 1119,
+      "ttfb": 418
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.121,
+        "sig": " sticky top-0 z-40 border-b border-slate-200 bg-white/95 backdrop-blur ",
+        "text": "mon–sat 9am–6pm · emergencies 24/7\nnj hvacr lic. #19hc00273200 · licensed & insured\nservices\nservice areas\nreviews\nespañ"
+      },
+      {
+        "kind": "chat",
+        "cover": 0.006,
+        "sig": " fixed bottom-20 right-4 z-50 flex items-center gap-2 rounded-full bg-brand p-3.5 sm:px-4 sm:py-3 font-semibold text-whi",
+        "text": "chat with us"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://fredsclimate.com/",
+    "navMs": 3009,
+    "tel": [
+      {
+        "href": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733938027"
+      },
+      {
+        "href": "tel:+19733938027",
+        "text": "Call now: 973-393-8027",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733938027"
+      },
+      {
+        "href": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733938027"
+      },
+      {
+        "href": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733938027"
+      },
+      {
+        "href": "tel:+19733938027",
+        "text": "Call",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733938027"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://fredsclimate.com/",
+    "navMs": 2176,
+    "timing": {
+      "dcl": 278,
+      "load": 678,
+      "ttfb": 168
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733938027"
+      },
+      {
+        "href": "tel:+19733938027",
+        "text": "Call now: 973-393-8027",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733938027"
+      },
+      {
+        "href": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733938027"
+      },
+      {
+        "href": "tel:+19733938027",
+        "text": "973-393-8027",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733938027"
+      },
+      {
+        "href": "tel:+19733938027",
+        "text": "Call",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733938027"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Get a free estimate",
+      "Call now: 973-393-8027",
+      "Call",
+      "Free Estimate"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.104,
+        "sig": " sticky top-0 z-40 border-b border-slate-200 bg-white/95 backdrop-blur ",
+        "text": "es"
+      },
+      {
+        "kind": "bottom_bar",
+        "cover": 0.095,
+        "sig": " fixed inset-x-0 bottom-0 z-40 grid grid-cols-3 border-t border-slate-200 bg-white shadow-[0_-4px_12px_rgba(0,0,0,0.06)]",
+        "text": "call\nwhatsapp\nfree estimate"
+      },
+      {
+        "kind": "chat",
+        "cover": 0.009,
+        "sig": " fixed bottom-20 right-4 z-50 flex items-center gap-2 rounded-full bg-brand p-3.5 sm:px-4 sm:py-3 font-semibold text-whi",
+        "text": "chat with us"
+      }
+    ],
+    "maxBlockingCover": 0.009,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 5081
+  },
+  "pages": {
+    "contact": {
+      "url": "https://fredsclimate.com/contact",
+      "finalUrl": "https://fredsclimate.com/contact",
+      "status": 200,
+      "title": "Free HVAC Estimate | Fred's Climate Control",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "",
+          "cls": "space-y-4",
+          "fieldCount": 10,
+          "fieldNames": [
+            "website",
+            "name",
+            "phone",
+            "email",
+            "customer_type",
+            "service_interest",
+            "address",
+            "preferred_date",
+            "message",
+            "files"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "fredsclimate@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19733938027",
+          "text": "973-393-8027",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733938027"
+        },
+        {
+          "href": "tel:+19733938027",
+          "text": "Call now 973-393-8027",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733938027"
+        },
+        {
+          "href": "tel:+19733938027",
+          "text": "973-393-8027",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733938027"
+        },
+        {
+          "href": "tel:+19733938027",
+          "text": "Call",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733938027"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\nMon–Sat 9am–6pm · Emergencies 24/7\nNJ HVACR Lic. #19HC00273200 · Licensed & insured\nServices\nService Areas\nReviews\nEspañol\n973-393-8027\nFree Estimate\nGet your free estimate\n\nTell us what you need and attach photos or videos of your equipment. Fred will contact you, usually the same day.\n\nWebsite \nFull name *\nPhone\nEmail\nI am a…\nHomeowner\nBusiness owner\nRenter\nLandlord\nOther\nService needed\nChoose one\nAC Installation & Replacement\nAC Repair\nHeating & Boilers\nDuctless Mini Splits\nCommercial & Rooftop Units\nDuctwork & Duct Cleaning\nIndoor Air Quality\nWater Heaters\nEmergency HVAC Service\nMaintenance Plans\nOther / not sure\nAddress or town\nPreferred date (optional)\nTell us what's going on\n\nPhotos or videos (optional, up to 10)\n\nA photo of the unit and its label helps us give you a faster estimate.\n\nPhotos or videos\nSend request\n\nBy sending this form you agree to be contacted about your request. See our privacy policy.\n\nCall now\n973-393-8027\nWhatsApp\n\nFollow us\n\nFacebook\nInstagram\nfredsclimate@gmail.com\n6714 Meadowview Ave, North Bergen, NJ 07047\nMon–Sat 9am–6pm · Emergencies 24/7\n\nNJ HVACR Lic. #19HC00273200 · Licensed & insured · Free estimates\n\n“Service We're Proud of”\n\nNJ HVACR Lic. #19HC00273200\n\nLicensed & insured · Free estimates\n\nServices\nAC Installation & Replacement\nAC Repair\nHeating & Boilers\nDuctless Mini Splits\nCommercial & Rooftop Units\nDuctwork & Duct Cleaning\nIndoor Air Quality\nWater Heaters\nEmergency HVAC Service\nMaintenance Plans\nService Areas\nHudson County\nBergen County\nPassaic County\nEssex County\nReviews\nFree Estimate\nPrivacy Policy\nContact\n973-393-8027\nfredsclimate@gmail.com\n6714 Meadowview Ave\nNorth Bergen, NJ 07047\nMon–Sat 9am–6pm · Emergencies 24/7\nFollow us\n\n© Fred's Climate Control. All rights reserved.\n\nChat with us",
+      "vendors": [],
+      "links": [
+        "https://fredsclimate.com/contact#main",
+        "https://fredsclimate.com/",
+        "https://fredsclimate.com/services",
+        "https://fredsclimate.com/areas",
+        "https://fredsclimate.com/reviews",
+        "https://fredsclimate.com/es/contact",
+        "https://fredsclimate.com/contact",
+        "https://fredsclimate.com/es/contact",
+        "https://fredsclimate.com/privacy",
+        "https://fredsclimate.com/services/ac-installation",
+        "https://fredsclimate.com/services/ac-repair",
+        "https://fredsclimate.com/services/heating-boilers",
+        "https://fredsclimate.com/services/mini-splits",
+        "https://fredsclimate.com/services/rooftop-units",
+        "https://fredsclimate.com/services/ductwork-duct-cleaning",
+        "https://fredsclimate.com/services/air-quality",
+        "https://fredsclimate.com/services/water-heaters",
+        "https://fredsclimate.com/services/emergency-service",
+        "https://fredsclimate.com/services/maintenance-plans",
+        "https://fredsclimate.com/areas",
+        "https://fredsclimate.com/areas",
+        "https://fredsclimate.com/areas",
+        "https://fredsclimate.com/areas",
+        "https://fredsclimate.com/reviews",
+        "https://fredsclimate.com/contact",
+        "https://fredsclimate.com/privacy",
+        "https://fredsclimate.com/contact"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 19,
+    "at": "2026-11-03T23:38:21.029Z",
+    "statusCounts": {
+      "200": 18,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://fredsclimate.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/fred-s-climate-control/desktop-home.png",
+    "desktop_clean": "evidence/screenshots/fred-s-climate-control/desktop-home-overlays-hidden.png",
+    "desktop_full": "evidence/screenshots/fred-s-climate-control/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/fred-s-climate-control/desktop-contact.png",
+    "mobile_asis": "evidence/screenshots/fred-s-climate-control/mobile-home.png",
+    "mobile_clean": "evidence/screenshots/fred-s-climate-control/mobile-home-overlays-hidden.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00273200"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "yearsClaim": 20,
+    "emails": [
+      "fredsclimate@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Facebook -> https://www.facebook.com/profile.php?id=61595336614786",
+      "Free Estimate -> https://fredsclimate.com/contact",
+      "Get a free estimate -> https://fredsclimate.com/contact",
+      "Facebook -> https://www.facebook.com/profile.php?id=61595336614786",
+      "Get a free estimate -> https://fredsclimate.com/contact",
+      "Free Estimate -> https://fredsclimate.com/contact",
+      "Facebook -> https://www.facebook.com/profile.php?id=61595336614786",
+      "Free Estimate -> https://fredsclimate.com/contact"
+    ]
+  },
+  "ctaClickTests": []
+}

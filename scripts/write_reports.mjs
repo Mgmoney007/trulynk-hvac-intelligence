@@ -12,8 +12,22 @@ const screening = (await fs.readFile(path.join(ROOT, 'data/screening_log.csv'), 
 
 const pct = x => `${Math.round(x * 100)}%`;
 const link = p => p ? `[${p}](${p})` : '';
-const verifiedFixable = r => r.findings.filter(f => f.kind === 'defect' && f.status === 'Verified');
-const friction = r => r.findings.filter(f => f.kind === 'friction');
+const SEV = { high: 0, medium: 1, low: 2, none: 3 };
+const bySev = (a, b) => (SEV[a.severity] - SEV[b.severity]) || (Number(!!b.conversionPath) - Number(!!a.conversionPath));
+const verifiedFixable = r => r.findings.filter(f => f.kind === 'defect' && f.status === 'Verified').sort(bySev);
+const LABEL = {
+  'A-BROKEN-LINK': 'Broken internal/navigation link (reproduced 404/5xx)', 'A-LISTING-WEBSITE-ERROR': 'Website on Google listing returns a server error',
+  'A-EMPTY-WEBSITE': 'Website on Google listing is empty', 'A-PARKED-WEBSITE': 'Website on Google listing is a parked placeholder',
+  'A-DEAD-CTA': 'Call-to-action buttons do nothing when clicked', 'A-TEL-MISMATCH': 'Tap-to-call link dials a different number than shown',
+  'A-TEL-MALFORMED': 'Malformed tap-to-call link', 'A-NO-HTTPS-REDIRECT': 'HTTP does not redirect to HTTPS', 'A-MOBILE-OVERFLOW': 'Mobile page wider than screen',
+  'A-BROKEN-IMAGES': 'Images fail to load on homepage', 'A-WRONG-MARKET-COPY': 'Site copy targets the wrong market', 'B-PHONE-INCONSISTENT': 'Site phone links omit the Google listing number',
+  'B-NOINDEX-SUSPECTED': 'Possible noindex on homepage', 'F-NO-TEL-LINKS': 'Phone number not tap-to-call', 'F-NO-FORM-OR-BOOKING': 'No web form or online booking on crawled pages',
+  'F-NO-MOBILE-CALL-ABOVE-FOLD': 'No call button on first mobile screen', 'F-NO-MOBILE-CTA': 'No call/book action on first mobile screen', 'F-BLOCKING-OVERLAY': 'Pop-up covers >30% of first mobile screen',
+  'F-SLOW-MOBILE-LOAD': 'Slow mobile load (single lab sample)', 'F-TRUST-CONTENT-GAPS': 'Financing/testimonials/service-area not found on crawled pages',
+  'O-NO-REVIEW-REQUEST-TOOL': 'No review-request tool visible', 'O-NO-TEXT-OR-CHAT': 'No chat/text widget visible', 'O-NO-ONLINE-SCHEDULING': 'No online scheduling tool visible',
+  'O-FORM-LEAD-ROUTING': 'Web-form leads: routing/follow-up candidate', 'O-MAINTENANCE-PLAN-AUTOMATION': 'Maintenance plan: renewal automation candidate',
+};
+const friction = r => r.findings.filter(f => f.kind === 'friction').sort(bySev);
 const rcv = r => r.findings.filter(f => f.status === 'Requires Client Verification' || (f.status === 'Suggestive'));
 const loc = co => `${co.street ? co.street + ', ' : ''}${co.city || '?'}, NJ ${co.zip || ''} (${co.county} County)`;
 
@@ -62,7 +76,10 @@ top.forEach((r, i) => {
 await fs.writeFile(path.join(ROOT, 'pass_1_top_10.md'), md);
 
 // ---------------- Research queue ----------------
-const queue = scored.filter(r => r.pr.tier === 'C' || (r.pr.tier === 'B' && (r.conf.total < 75 || r.opp.coverage < 0.85)));
+// Research queue: all Priority C, Priority B with open evidence gaps, and Priority D companies that have a verified
+// high-severity defect but were deferred only for lack of capacity evidence.
+const queue = scored.filter(r => r.pr.tier === 'C' || (r.pr.tier === 'B' && (r.conf.total < 75 || r.opp.coverage < 0.8 || (r.co.conflicts || []).length))
+  || (r.pr.tier === 'D' && /operating capacity/.test(r.pr.reason) && r.findings.some(f => f.kind === 'defect' && f.status === 'Verified' && f.severity === 'high')));
 let q = `# TruLynk Pass 1: Research Queue\n\nGenerated ${today()}. These businesses show possible opportunity but the evidence is not strong enough for outreach. Each entry lists exactly what is missing.\n\n`;
 q += `| Company | County | Tier | Opportunity (provisional) | Max possible | Coverage | Evidence Confidence |\n|---|---|---|---|---|---|---|\n`;
 for (const r of queue) q += `| ${r.co.name} | ${r.co.county} | ${r.pr.tier} | ${r.opp.provisional ?? 'n/a'} | ${r.opp.maxPossible} | ${pct(r.opp.coverage)} | ${r.conf.total} |\n`;
@@ -88,22 +105,29 @@ const withVerifiedDefect = scored.filter(r => verifiedFixable(r).some(f => ['hig
 const highConf = scored.filter(r => r.conf.total >= 75);
 const codeCounts = {};
 for (const r of scored) for (const c of new Set(r.findings.filter(f => ['defect', 'friction', 'opportunity'].includes(f.kind)).map(f => f.code))) codeCounts[c] = (codeCounts[c] || 0) + 1;
-const titleFor = c => (scored.flatMap(r => r.findings).find(f => f.code === c) || {}).title?.replace(/\(.*$/, '').replace(/:.*$/, '') || c;
+const titleFor = c => LABEL[c] || c;
 const credits = usage.reduce((a, u) => a + (Number(u.creditsUsed) || 0), 0);
 const excludedCount = screening.filter(l => l.includes(',excluded,')).length;
 let s = `# TruLynk Pass 1: Executive Summary\n\nGenerated ${today()}. Scope: independent HVAC businesses in Hudson, Bergen, Passaic and Essex counties, NJ.\n\n`;
 s += `## Results\n\n| Metric | Value |\n|---|---|\n`;
 s += `| Verified businesses screened in final set | ${scored.length} |\n| County distribution | Hudson ${county('Hudson')}, Bergen ${county('Bergen')}, Passaic ${county('Passaic')}, Essex ${county('Essex')} |\n`;
-s += `| With a directly verified fixable defect (medium/high) | ${withVerifiedDefect.length} |\n| With high-confidence evidence (Evidence Confidence >= 75) | ${highConf.length} |\n`;
+s += `| With a directly verified fixable defect (medium/high) | ${withVerifiedDefect.length} |\n| Evidence Confidence >= 75 (all) | ${highConf.length} |\n| ...of which also have a verified medium/high defect | ${highConf.filter(r => withVerifiedDefect.includes(r)).length} (the rest are well-documented results with no material defect) |\n`;
 s += `| Priority A (contact-ready) | ${tiers[0][1]} |\n| Priority B (research-ready) | ${tiers[1][1]} |\n| Priority C (unverified hypothesis, research queue) | ${tiers[2][1]} |\n| Priority D (defer) | ${tiers[3][1]} |\n`;
-s += `| Requiring further research (research queue) | ${queue.length} |\n| Google Maps places reviewed in discovery | ${(await fs.readdir(path.join(ROOT, 'data/raw/maps_search'))).length} queries, ${screening.length} unique places |\n| Places excluded at screening (with reasons) | ${excludedCount} (see data/screening_log.csv) |\n| Firecrawl credits used (logged) | ${credits} across ${usage.length} calls |\n\n`;
+const notVerified = screening.filter(l => /listing_not_verified/.test(l) && !/no_website|category_not_hvac|franchise|leadgen|throwaway|supplier|duplicate_of|generic_keyword/.test(l)).length;
+const preExcluded = screening.filter(l => /,excluded,/.test(l) && /no_website|category_not_hvac|franchise|leadgen|throwaway|supplier|duplicate_of|generic_keyword/.test(l)).length;
+const postExcluded = excludedCount - notVerified - preExcluded;
+const eligible = screening.filter(l => /,eligible,/.test(l)).length;
+s += `| Requiring further research (research queue) | ${queue.length} |\n| Discovery | ${(await fs.readdir(path.join(ROOT, 'data/raw/maps_search'))).length} Google Maps queries, ${screening.length} unique places |\n`;
+s += `| Excluded by rule before listing check (no website, franchise, supplier, throwaway domain, duplicate...) | ${preExcluded} |\n| Passed pre-screen but listing not checked (enough candidates already) | ${notVerified} |\n`;
+s += `| Excluded after listing check / manual review (closed, out of area, no address, not residential HVAC...) | ${postExcluded} |\n| Eligible after verification | ${eligible} (top 12-13 per county by search prominence selected) |\n`;
+s += `| Firecrawl credits used (logged) | ${credits} across ${usage.length} calls |\n\nPer-place reasons: \`data/screening_log.csv\`.\n\n`;
 s += `## Most common findings across the ${scored.length} businesses\n\n| Finding | Businesses |\n|---|---|\n`;
 for (const [c, n] of Object.entries(codeCounts).sort((a, b) => b[1] - a[1]).slice(0, 14)) s += `| ${titleFor(c)} (\`${c}\`) | ${n} |\n`;
 s += `\nCodes starting with \`O-\` are operational opportunities that require client verification. They are inferred from what is not visible on the website, not from knowledge of internal systems.\n\n`;
 s += `## Strongest five prospects\n\n`;
-scored.filter(r => ['A', 'B'].includes(r.pr.tier)).slice(0, 5).forEach((r, i) => {
+scored.filter(r => ['A', 'B', 'C'].includes(r.pr.tier)).slice(0, 5).forEach((r, i) => {
   const vf = verifiedFixable(r)[0] || friction(r)[0];
-  s += `${i + 1}. **${r.co.name}** (${r.co.city}, ${r.co.county}): Tier ${r.pr.tier}, Opportunity ${r.opp.provisional}, Confidence ${r.conf.total}. ${vf ? vf.title : ''}\n`;
+  s += `${i + 1}. **${r.co.name}** (${r.co.city}, ${r.co.county}): Priority ${r.pr.tier}${r.pr.tier === 'C' ? ' (research queue, not sales-ready)' : ''}, Opportunity ${r.opp.provisional ?? 'n/a (coverage ' + Math.round(r.opp.coverage * 100) + '%)'}, Confidence ${r.conf.total}. Strongest verified finding: ${vf ? vf.title : 'none'}\n`;
 });
 s += `\n## Tier distribution by county\n\n| County | A | B | C | D |\n|---|---|---|---|---|\n`;
 for (const k of ['Hudson', 'Bergen', 'Passaic', 'Essex']) s += `| ${k} | ${['A', 'B', 'C', 'D'].map(t => scored.filter(r => r.co.county === k && r.pr.tier === t).length).join(' | ')} |\n`;

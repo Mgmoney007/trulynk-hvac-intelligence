@@ -1,0 +1,25 @@
+{
+  "id": "prestige-air-mechanical-corp",
+  "placeUrl": "https://www.google.com/maps/place/Prestige+Air+Mechanical+Corp/data=!4m7!3m6!1s0x89c3073dd30fbc07:0x62907680c8eb2747!8m2!3d40.8739792!4d-74.0494013!16s%2Fg%2F11j8l0pwz9!19sChIJB7wP0z0Hw4kRRyfryIB2kGI",
+  "retrievedAt": "2026-11-03T22:59:18.062Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Prestige Air Mechanical Corp",
+  "category": "HVAC contractor",
+  "address": "134 Porter St, Hackensack, NJ 07601, United States ",
+  "phone": "+1 201-347-2222 ",
+  "website": "https://prestige-air-llc.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Prestige+Air+Mechanical+Corp/data=!4m7!3m6!1s0x89c3073dd30fbc07:0x62907680c8eb2747!8m2!3d40.8739792!4d-74.0494013!16s%2Fg%2F11j8l0pwz9!19sChIJB7wP0z0Hw4kRRyfryIB2kGI?hl=en",
+  "screenshot": "evidence/screenshots/prestige-air-mechanical-corp/google-maps-listing.png"
+}

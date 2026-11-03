@@ -1,0 +1,25 @@
+{
+  "id": "ray-s-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Ray%E2%80%99s+Hvac/data=!4m7!3m6!1s0x89c3ad058f1d00b5:0x7e3f24a3333e5067!8m2!3d40.7301395!4d-74.300328!16s%2Fg%2F11gvzglyk1!19sChIJtQAdjwWtw4kRZ1A-M6MkP34",
+  "retrievedAt": "2026-11-03T23:13:31.479Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Ray’s Hvac",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-780-3062 ",
+  "website": "http://rayshvacmechanical.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Ray%E2%80%99s+Hvac/data=!4m7!3m6!1s0x89c3ad058f1d00b5:0x7e3f24a3333e5067!8m2!3d40.7301395!4d-74.300328!16s%2Fg%2F11gvzglyk1!19sChIJtQAdjwWtw4kRZ1A-M6MkP34?hl=en",
+  "screenshot": "evidence/screenshots/ray-s-hvac/google-maps-listing.png"
+}

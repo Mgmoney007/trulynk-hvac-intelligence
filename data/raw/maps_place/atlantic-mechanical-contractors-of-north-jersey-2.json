@@ -1,0 +1,25 @@
+{
+  "id": "atlantic-mechanical-contractors-of-north-jersey-2",
+  "placeUrl": "https://www.google.com/maps/place/Atlantic+Mechanical+Contractors+of+North+Jersey/data=!4m7!3m6!1s0xa066a8c56ba8d831:0xe0f70cfc1bc3e5c2!8m2!3d40.9332924!4d-74.231392!16s%2Fg%2F11rr1r1lvj!19sChIJMdioa8WoZqARwuXDG_wM9-A",
+  "retrievedAt": "2026-11-03T23:03:02.936Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Atlantic Mechanical Contractors of North Jersey",
+  "category": "Plumber",
+  "address": "66 Sylvan Terrace, Wayne, NJ 07470, United States ",
+  "phone": "+1 973-554-3134 ",
+  "website": "https://atlanticwaynenjhvacplumber.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Atlantic+Mechanical+Contractors+of+North+Jersey/data=!4m7!3m6!1s0xa066a8c56ba8d831:0xe0f70cfc1bc3e5c2!8m2!3d40.9332924!4d-74.231392!16s%2Fg%2F11rr1r1lvj!19sChIJMdioa8WoZqARwuXDG_wM9-A?hl=en",
+  "screenshot": "evidence/screenshots/atlantic-mechanical-contractors-of-north-jersey-2/google-maps-listing.png"
+}

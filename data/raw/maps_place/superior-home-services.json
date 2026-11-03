@@ -1,0 +1,25 @@
+{
+  "id": "superior-home-services",
+  "placeUrl": "https://www.google.com/maps/place/Superior+Home+Services/data=!4m7!3m6!1s0x89c2ffe9f8924af3:0xb76b74c54c401222!8m2!3d40.8928043!4d-74.1438788!16s%2Fg%2F11ntgw5bwv!19sChIJ80qS-On_wokRIhJATMV0a7c",
+  "retrievedAt": "2026-11-03T23:07:07.451Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Superior Home Services",
+  "category": "HVAC contractor",
+  "address": "367 Knickerbocker Ave, Paterson, NJ 07503, United States ",
+  "phone": "+1 201-468-4369 ",
+  "website": "https://www.superiorplumbingandhvac.com/?utm_source=omg-gbp&utm_medium=webclick",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Superior+Home+Services/data=!4m7!3m6!1s0x89c2ffe9f8924af3:0xb76b74c54c401222!8m2!3d40.8928043!4d-74.1438788!16s%2Fg%2F11ntgw5bwv!19sChIJ80qS-On_wokRIhJATMV0a7c?hl=en",
+  "screenshot": "evidence/screenshots/superior-home-services/google-maps-listing.png"
+}

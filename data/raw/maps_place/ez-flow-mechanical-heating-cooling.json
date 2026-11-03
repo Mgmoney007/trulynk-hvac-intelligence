@@ -1,0 +1,25 @@
+{
+  "id": "ez-flow-mechanical-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/EZ+Flow+Mechanical+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2feebb39389db:0x24f372e7a8ca5f91!8m2!3d40.8740135!4d-74.1506617!16s%2Fg%2F11_txj6gc!19sChIJ24mTs-v-wokRkV_KqOdy8yQ",
+  "retrievedAt": "2026-11-03T23:01:57.185Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "EZ Flow Mechanical Heating & Cooling",
+  "category": "HVAC contractor",
+  "address": "277 Harding Ave, Clifton, NJ 07011, United States ",
+  "phone": "+1 973-337-1200 ",
+  "website": "http://ezflownj.com/",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/EZ+Flow+Mechanical+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2feebb39389db:0x24f372e7a8ca5f91!8m2!3d40.8740135!4d-74.1506617!16s%2Fg%2F11_txj6gc!19sChIJ24mTs-v-wokRkV_KqOdy8yQ?hl=en",
+  "screenshot": "evidence/screenshots/ez-flow-mechanical-heating-cooling/google-maps-listing.png"
+}

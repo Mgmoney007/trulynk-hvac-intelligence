@@ -5,7 +5,7 @@
 import path from 'node:path';
 import fs from 'node:fs/promises';
 import { ROOT, readJson, writeJson } from './lib/util.mjs';
-import { parseAddress, countyForCity } from './lib/geo.mjs';
+import { parseAddress, countyForCity, siteAddress } from './lib/geo.mjs';
 
 const TARGET = { Hudson: 12, Bergen: 13, Passaic: 12, Essex: 13 };
 const [mode, nArg] = process.argv.slice(2);
@@ -24,13 +24,19 @@ for (const c of pre) {
     else {
       addr = parseAddress(place.address);
       county = mr.county || countyForCity(addr.city);
+      // Service-area listings hide their address; fall back to the address the business publishes on its own site.
+      if (!addr.street) {
+        const audit = await readJson(path.join(ROOT, 'data/raw/audits', `${c.id}.json`), null);
+        const sa = siteAddress(audit);
+        if (sa && countyForCity(sa.city)) { addr = { ...sa, viaSite: true }; county = mr.county || countyForCity(sa.city); }
+      }
       if (place.permanentlyClosed) reasons.push('permanently_closed');
       if (place.temporarilyClosed) reasons.push('temporarily_closed');
-      if (!place.address) reasons.push('no_public_address_county_unverified');
-      else if (!county) reasons.push(`outside_target_counties(${addr.city || place.address})`);
+      if (!place.address && !addr.viaSite) reasons.push('no_public_address_county_unverified');
+      else if (!county) reasons.push(`outside_target_counties(${addr.city || place.address || 'unknown'})`);
       // Google hides review counts in the logged-out view used here, so demand is screened on rating presence + street address.
       if (place.rating == null) reasons.push('no_google_rating_no_review_evidence');
-      if (!addr.street && place.address) reasons.push('no_street_address_on_listing');
+      if (!addr.street && place.address && !addr.viaSite) reasons.push('no_street_address_on_listing');
       if ((c.softFlags || []).some(f => f.startsWith('town_keyword')) && !addr.street && !mr.verifiedEntity) reasons.push('possible_keyword_listing_unverified_entity');
       if (place.category && /supplier|supply|store|duct cleaning|appliance/i.test(place.category)) reasons.push(`non_contractor_category(${place.category})`);
     }

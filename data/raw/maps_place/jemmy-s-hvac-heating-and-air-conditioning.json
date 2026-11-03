@@ -1,0 +1,25 @@
+{
+  "id": "jemmy-s-hvac-heating-and-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/Jemmy%27s+HVAC+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c2f9f1bee5fb67:0x8e45291e3253fdc!8m2!3d40.8860273!4d-74.0421239!16s%2Fg%2F11cm_qb8s9!19sChIJZ_vlvvH5wokR3D8l45FS5Ag",
+  "retrievedAt": "2026-11-03T22:55:01.069Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Jemmy's HVAC Heating and Air Conditioning",
+  "category": "HVAC contractor",
+  "address": "241 Main St Ste 407, Hackensack, NJ 07601, United States ",
+  "phone": "+1 201-285-4793 ",
+  "website": "http://jemmyshvacnj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7:30 AM–7:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Jemmy%27s+HVAC+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c2f9f1bee5fb67:0x8e45291e3253fdc!8m2!3d40.8860273!4d-74.0421239!16s%2Fg%2F11cm_qb8s9!19sChIJZ_vlvvH5wokR3D8l45FS5Ag?hl=en",
+  "screenshot": "evidence/screenshots/jemmy-s-hvac-heating-and-air-conditioning/google-maps-listing.png"
+}

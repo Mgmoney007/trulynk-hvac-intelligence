@@ -1,0 +1,25 @@
+{
+  "id": "eco-plumbing-heating-air-conditioning-2",
+  "placeUrl": "https://www.google.com/maps/place/Eco+Plumbing+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2578c0f6e766b:0x9ae0fcd151e88b4c!8m2!3d40.8182215!4d-74.0112845!16s%2Fg%2F11cn3tksjx!19sChIJa3ZuD4xXwokRTIvoUdH84Jo",
+  "retrievedAt": "2026-11-03T22:48:28.971Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Eco Plumbing Heating & Air Conditioning",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-425-0747 ",
+  "website": "https://www.ecoplumbinghvac.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Eco+Plumbing+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2578c0f6e766b:0x9ae0fcd151e88b4c!8m2!3d40.8182215!4d-74.0112845!16s%2Fg%2F11cn3tksjx!19sChIJa3ZuD4xXwokRTIvoUdH84Jo?hl=en",
+  "screenshot": "evidence/screenshots/eco-plumbing-heating-air-conditioning-2/google-maps-listing.png"
+}

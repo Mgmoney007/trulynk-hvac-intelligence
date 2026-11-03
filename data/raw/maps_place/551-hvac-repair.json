@@ -1,0 +1,25 @@
+{
+  "id": "551-hvac-repair",
+  "placeUrl": "https://www.google.com/maps/place/551+HVAC+Repair/data=!4m7!3m6!1s0x28904d0bb388e127:0x70e7ee8c0b390198!8m2!3d40.88306!4d-74.0880917!16s%2Fg%2F11wmjqpjc0!19sChIJJ-GIswtNkCgRmAE5C4zu53A",
+  "retrievedAt": "2026-11-03T22:57:09.067Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "551 HVAC Repair",
+  "category": "HVAC contractor",
+  "address": "115 Dell Glen Ave 1st Floor, Lodi, NJ 07644, United States ",
+  "phone": "+1 551-365-3500 ",
+  "website": "https://hvacinstallationandrepairnj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/551+HVAC+Repair/data=!4m7!3m6!1s0x28904d0bb388e127:0x70e7ee8c0b390198!8m2!3d40.88306!4d-74.0880917!16s%2Fg%2F11wmjqpjc0!19sChIJJ-GIswtNkCgRmAE5C4zu53A?hl=en",
+  "screenshot": "evidence/screenshots/551-hvac-repair/google-maps-listing.png"
+}

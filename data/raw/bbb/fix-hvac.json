@@ -1,0 +1,29 @@
+{
+  "id": "fix-hvac",
+  "query": "Fix Hvac",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Fix%20Hvac&find_loc=Fort%20Lee%2C%20NJ",
+  "retrievedAt": "2026-11-03T22:55:47.657Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Simple Fix HVAC Professionals, LLC",
+      "rating": "A+",
+      "phone": "(845) 637-9393",
+      "address": "33 Airport Center Dr Ste 104, New Windsor, NY 12553-4725",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/new-windsor/profile/heating-and-air-conditioning/simple-fix-hvac-professionals-llc-0121-166730"
+    },
+    {
+      "ad": false,
+      "name": "Quick Fix HVAC Plumbing and Electric Corp.",
+      "rating": "A",
+      "phone": "(718) 701-5748",
+      "address": "9614 101st Ave, Ozone Park, NY 11416-2520",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/ozone-park/profile/plumbing-and-heating/quick-fix-hvac-plumbing-and-electric-corp-0121-87175801"
+    }
+  ],
+  "error": null
+}

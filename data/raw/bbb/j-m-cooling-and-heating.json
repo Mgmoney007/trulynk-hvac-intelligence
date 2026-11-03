@@ -1,0 +1,110 @@
+{
+  "id": "j-m-cooling-and-heating",
+  "query": "J&M Cooling and Heating",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=J%26M%20Cooling%20and%20Heating&find_loc=Fairfield%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:20:18.760Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [
+    {
+      "ad": false,
+      "name": "M&P Heating and Cooling",
+      "rating": "A+",
+      "phone": "(516) 557-5619",
+      "address": "31 Teamster Ln, Levittown, NY 11756-5225",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/levittown/profile/heating-and-air-conditioning/mike-pats-heating-cooling-llc-0121-87158926"
+    },
+    {
+      "ad": false,
+      "name": "J & R Cooling and Heating Corp.",
+      "rating": "A+",
+      "phone": "(646) 315-3963",
+      "address": "137 Trenton Ct, Staten Island, NY 10309-3923",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/staten-island/profile/heating-and-air-conditioning/j-r-cooling-and-heating-corp-0121-87158388"
+    },
+    {
+      "ad": false,
+      "name": "Ian M Bowers Quality Heating and Cooling Specialist",
+      "rating": "A+",
+      "phone": "(570) 861-2706",
+      "address": "723 Decatur St, Bethlehem, PA 18017-4807",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/bethlehem/profile/heating-and-air-conditioning/ian-m-bowers-quality-heating-and-cooling-specialist-0241-236005452"
+    },
+    {
+      "ad": false,
+      "name": "J & J Heating and Cooling LLC",
+      "rating": "A+",
+      "phone": "(908) 258-8066",
+      "address": "1781 Union Ave, Union, NJ 07083-5520",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/union/profile/residential-air-conditioning-contractors/j-j-heating-and-cooling-llc-0221-90180594"
+    },
+    {
+      "ad": false,
+      "name": "J & C Heating and Cooling",
+      "rating": "A+",
+      "phone": "(484) 544-9364",
+      "address": "18 S Broad St, Bangor, PA 18013-2210",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/bangor/profile/heating-and-air-conditioning/j-c-heating-and-cooling-0241-235999418"
+    },
+    {
+      "ad": false,
+      "name": "Ian M Bowers Quality Heating and Cooling Specialist",
+      "rating": "A+",
+      "phone": "(570) 861-2706",
+      "address": "4198 Independence Ln, Walnutport, PA 18088-9793",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/walnutport/profile/heating-and-air-conditioning/ian-m-bowers-quality-heating-and-cooling-specialist-0241-236005452/addressId/224855"
+    },
+    {
+      "ad": false,
+      "name": "J & J Plumbing & Heating",
+      "rating": null,
+      "phone": "(717) 291-5555",
+      "address": "PO Box 7208, Lancaster, PA 17604-7208",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/lancaster/profile/air-conditioning-contractor/j-j-heating-cooling-inc-0241-70000519/addressId/27621"
+    },
+    {
+      "ad": false,
+      "name": "J & J Plumbing & Heating",
+      "rating": null,
+      "phone": "(717) 291-5555",
+      "address": "136 Keller Avenue, Lancaster, PA 17601-4068",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/lancaster/profile/air-conditioning-contractor/j-j-heating-cooling-inc-0241-70000519"
+    },
+    {
+      "ad": false,
+      "name": "M & M heating and cooling, LLC",
+      "rating": null,
+      "phone": "(717) 440-7550",
+      "address": "1935 E Berlin Rd, New Oxford, PA 17350-9633",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/new-oxford/profile/heating-and-air-conditioning/m-m-heating-and-cooling-llc-0241-236110542"
+    },
+    {
+      "ad": false,
+      "name": "J&R Heating and Cooling Services",
+      "rating": null,
+      "phone": "(240) 357-7758",
+      "address": "810 Ewing Dr, Westminster, MD 21158-4203",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/md/westminster/profile/heating-and-air-conditioning/jr-heating-and-cooling-services-0011-90377745"
+    },
+    {
+      "ad": false,
+      "name": "J. Serenson Heating and Cooling, LLC",
+      "rating": "A+",
+      "phone": "(860) 637-0080",
+      "address": "Watertown, CT 06795-2772",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/watertown/profile/residential-air-conditioning-contractors/j-serenson-heating-and-cooling-llc-0111-87094073"
+    }
+  ],
+  "error": null
+}

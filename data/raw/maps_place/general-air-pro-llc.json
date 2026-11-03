@@ -1,0 +1,25 @@
+{
+  "id": "general-air-pro-llc",
+  "placeUrl": "https://www.google.com/maps/place/General+Air+Pro+LLC/data=!4m7!3m6!1s0x89c255f40cc29b8f:0xc5382e70d9ef3aed!8m2!3d40.7908215!4d-74.1380976!16s%2Fg%2F11m71p7g6g!19sChIJj5vCDPRVwokR7Trv2XAuOMU",
+  "retrievedAt": "2026-11-03T22:51:50.341Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "General Air Pro LLC",
+  "category": "HVAC contractor",
+  "address": "2 High St, North Arlington, NJ 07031, United States ",
+  "phone": "+1 609-248-6446 ",
+  "website": "https://generalairpro.com/?utm_source=Google+Business+listing",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/General+Air+Pro+LLC/data=!4m7!3m6!1s0x89c255f40cc29b8f:0xc5382e70d9ef3aed!8m2!3d40.7908215!4d-74.1380976!16s%2Fg%2F11m71p7g6g!19sChIJj5vCDPRVwokR7Trv2XAuOMU?hl=en",
+  "screenshot": "evidence/screenshots/general-air-pro-llc/google-maps-listing.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "urban-mechanical-nj",
+  "placeUrl": "https://www.google.com/maps/place/Urban+Mechanical+NJ/data=!4m7!3m6!1s0x3dcdf90295d4b83:0x9dc140103cb24ab3!8m2!3d40.9388045!4d-74.304999!16s%2Fg%2F11rptgc43s!19sChIJg0tdKZDf3AMRs0qyPBBAwZ0",
+  "retrievedAt": "2026-11-03T23:08:33.517Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Urban Mechanical NJ",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-687-1074 ",
+  "website": "http://urbanmechanicalnj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Urban+Mechanical+NJ/data=!4m7!3m6!1s0x3dcdf90295d4b83:0x9dc140103cb24ab3!8m2!3d40.9388045!4d-74.304999!16s%2Fg%2F11rptgc43s!19sChIJg0tdKZDf3AMRs0qyPBBAwZ0?hl=en",
+  "screenshot": "evidence/screenshots/urban-mechanical-nj/google-maps-listing.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "american-way-plumbing-heating-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/American+Way+Plumbing,+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c25732720b7645:0x77bade28c483931b!8m2!3d40.732786!4d-74.0730869!16s%2Fg%2F1hc4ytwqs!19sChIJRXYLcjJXwokRG5ODxCjeunc",
+  "retrievedAt": "2026-11-03T22:49:21.402Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "American Way Plumbing, Heating & Air Conditioning",
+  "category": "Heating contractor",
+  "address": null,
+  "phone": "+1 201-865-4440 ",
+  "website": "https://plumbingheatingcoolingnj.com/service-areas/city-of-jersey-city-nj-plumber-heating-air-conditioning-service-repair-installation/",
+  "rating": 4.1,
+  "reviews": null,
+  "rateBoxText": "4.1",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/American+Way+Plumbing,+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c25732720b7645:0x77bade28c483931b!8m2!3d40.732786!4d-74.0730869!16s%2Fg%2F1hc4ytwqs!19sChIJRXYLcjJXwokRG5ODxCjeunc?hl=en",
+  "screenshot": "evidence/screenshots/american-way-plumbing-heating-air-conditioning/google-maps-listing.png"
+}

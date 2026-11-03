@@ -1,0 +1,25 @@
+{
+  "id": "cronin-plumbing-and-heating",
+  "placeUrl": "https://www.google.com/maps/place/Cronin+Plumbing+and+Heating/data=!4m7!3m6!1s0x89c2596736d12031:0xb195943b00fc2ff8!8m2!3d40.7643894!4d-74.025079!16s%2Fg%2F11rfwgd5jc!19sChIJMSDRNmdZwokR-C_8ADuUlbE",
+  "retrievedAt": "2026-11-03T22:53:15.138Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Cronin Plumbing and Heating",
+  "category": "Plumber",
+  "address": "299 Park Ave, Weehawken Township, NJ 07086, United States ",
+  "phone": "+1 201-920-7281 ",
+  "website": "http://croninplumbingandheating.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–6 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Cronin+Plumbing+and+Heating/data=!4m7!3m6!1s0x89c2596736d12031:0xb195943b00fc2ff8!8m2!3d40.7643894!4d-74.025079!16s%2Fg%2F11rfwgd5jc!19sChIJMSDRNmdZwokR-C_8ADuUlbE?hl=en",
+  "screenshot": "evidence/screenshots/cronin-plumbing-and-heating/google-maps-listing.png"
+}

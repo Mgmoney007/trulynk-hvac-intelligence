@@ -1,0 +1,25 @@
+{
+  "id": "ultimate-aire-systems-inc",
+  "placeUrl": "https://www.google.com/maps/place/Ultimate+Aire+Systems,+Inc./data=!4m7!3m6!1s0x89c30292c9ad9ea3:0x260da04341abc40e!8m2!3d40.9611886!4d-74.2416349!16s%2Fg%2F1tg2ff2x!19sChIJo56tyZICw4kRDsSrQUOgDSY",
+  "retrievedAt": "2026-11-03T23:05:52.774Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Ultimate Aire Systems, Inc.",
+  "category": "Air conditioning repair service",
+  "address": "1160 Hamburg Tpke #4, Wayne, NJ 07470, United States ",
+  "phone": "+1 862-626-2975 ",
+  "website": "https://www.ultimateaire.com/ac-repair-wayne-nj/?utm_campaign=gmb",
+  "rating": 4.6,
+  "reviews": null,
+  "rateBoxText": "4.6",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Ultimate+Aire+Systems,+Inc./data=!4m7!3m6!1s0x89c30292c9ad9ea3:0x260da04341abc40e!8m2!3d40.9611886!4d-74.2416349!16s%2Fg%2F1tg2ff2x!19sChIJo56tyZICw4kRDsSrQUOgDSY?hl=en",
+  "screenshot": "evidence/screenshots/ultimate-aire-systems-inc/google-maps-listing.png"
+}

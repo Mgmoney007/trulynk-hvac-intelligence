@@ -1,0 +1,25 @@
+{
+  "id": "fred-s-climate-control",
+  "placeUrl": "https://www.google.com/maps/place/Fred%27s+Climate+Control/data=!4m7!3m6!1s0x89c2595e52722d03:0x42f6e58040319a01!8m2!3d40.797981!4d-74.01947!16s%2Fg%2F11ly2sw669!19sChIJAy1yUl5ZwokRAZoxQIDl9kI",
+  "retrievedAt": "2026-11-03T22:49:10.921Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Fred's Climate Control",
+  "category": "HVAC contractor",
+  "address": "6714 Meadowview Ave, North Bergen, NJ 07047, United States ",
+  "phone": "+1 973-393-8027 ",
+  "website": "https://fredsclimate.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Fred%27s+Climate+Control/data=!4m7!3m6!1s0x89c2595e52722d03:0x42f6e58040319a01!8m2!3d40.797981!4d-74.01947!16s%2Fg%2F11ly2sw669!19sChIJAy1yUl5ZwokRAZoxQIDl9kI?hl=en",
+  "screenshot": "evidence/screenshots/fred-s-climate-control/google-maps-listing.png"
+}

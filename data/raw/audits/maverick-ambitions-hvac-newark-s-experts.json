@@ -1,0 +1,1614 @@
+{
+  "firecrawl": [],
+  "id": "maverick-ambitions-hvac-newark-s-experts",
+  "name": "Maverick Ambitions HVAC- Newark's Experts",
+  "website": "https://www.mahvacnj.com/",
+  "auditedAt": "2026-11-03T23:13:00.108Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.mahvacnj.com/",
+      "at": "2026-11-03T23:13:02.979Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.mahvacnj.com/",
+      "title": "Newark HVAC Services | Maverick Ambitions HVAC",
+      "ms": 2838,
+      "error": null,
+      "linkCount": 67
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.mahvacnj.com/get-in-touch",
+      "at": "2026-11-03T23:13:05.820Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.mahvacnj.com/get-in-touch",
+      "title": "Contact Maverick Ambitions HVAC | 24/7 Newark NJ",
+      "ms": 1798,
+      "error": null,
+      "linkCount": 65
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.mahvacnj.com/get-to-know-us",
+      "at": "2026-11-03T23:13:07.956Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.mahvacnj.com/get-to-know-us",
+      "title": "About Maverick Ambitions HVAC | Newark, NJ",
+      "ms": 1660,
+      "error": null,
+      "linkCount": 56
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.mahvacnj.com/",
+      "at": "2026-11-03T23:13:30.359Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.mahvacnj.com/",
+      "title": "Newark HVAC Services | Maverick Ambitions HVAC",
+      "ms": 3467,
+      "error": null,
+      "linkCount": 69
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.mahvacnj.com/",
+    "title": "Newark HVAC Services | Maverick Ambitions HVAC",
+    "lang": "en",
+    "metaDescription": "Trusted 24/7 HVAC in Newark, NJ since 2012. Call Maverick Ambitions HVAC for AC, heating, and emergency service today.",
+    "h1": [
+      "EXPERT HVAC CONTRACTOR"
+    ],
+    "viewportMeta": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 6104,
+    "bodyText": "Master HVAC License: 19HC00912900\n\n\nMaverick Ambitions HVAC\n\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n(862) 279-3408\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n\nMaster HVAC License: 19HC00912900\n\n\nCoolest Summers Warmest Winters\n\nEXPERT HVAC CONTRACTOR\n\nResidential & Commercial HVAC Installations, Repairs and Service.\n\n﻿Servicing Essex, Union, Middlesex, Union and Bergen Counties \n\nCall (862) 279-3408\n\nAvailable 24/7,  including emergencies.\n\nMaverick Ambitions HVAC is a licensed HVAC contractor serving Newark, NJ and surrounding communities in Essex, Union, and Hudson counties since 2012, operating 24 hours a day, 365 days a year, under Master HVAC License 19HC00912900.\n\nMaverick Ambitions HVAC provides residential AC installation, AC repair, heating installation and repair, AC maintenance, emergency HVAC service, and commercial AC service across Newark and northern New Jersey. Same-day appointments are available. The diagnostic fee applies toward repair cost. Call (862) 279-3408 to schedule.\n\nIn 23 years of HVAC work across Newark and northern New Jersey, founder John Brown has seen every failure mode a residential or commercial system can produce. After completing installations across hundreds of Newark homes, we have learned that sizing and placement decisions made at installation determine system performance for the next fifteen years. Maverick Ambitions HVAC has provided residential and commercial HVAC service in Newark, NJ since 2012.\n\nRESIDENTIAL AND COMMERCIAL HVAC SERVICES IN NEWARK\n\nFrom first-time AC installation to 24-hour emergency heating repair, we handle the full range of residential and commercial HVAC needs right here in the Newark area.\n\nResidential AC Installation\n\nA correctly sized and licensed AC installation keeps Newark homes cool all summer while protecting the manufacturer warranty.\n\nLearn more\nResidential AC Services\n\nFrom seasonal tune-ups to full system replacements, we handle every residential AC need in one visit.\n\nLearn more\nAC Maintenance\n\nOur $17.99/month tune-up plan keeps your system running efficiently and catches small faults before they become expensive repairs.\n\nLearn more\nHeating Installation & Repair\n\nLicensed heating installation and fast repair response keeps Newark properties warm through every New Jersey winter.\n\nLearn more\n24-Hour Emergency HVAC\n\nWhen your system fails at 2 a.m. in July or January, we respond, no voicemail, no next-day callback.\n\nLearn more\nCommercial AC Services\n\nRestaurants, gyms, and commercial properties across Newark rely on us for licensed commercial AC installation, repair, and emergency coverage.\n\nLearn more\n23 YEARS OF LICENSED HVAC EXPERTISE IN NEWARK\n\nIn 23 years of HVAC work across Newark and northern New Jersey, John Brown has seen every failure mode a residential or commercial system can produce. He founded Maverick Ambitions HVAC in 2012 and has operated from Newark ever since, building a track record based on how systems actually perform, not on how they look on a quote sheet.\n\nWe hold Master HVAC License 19HC00912900, verifiable through the New Jersey Division of Consumer Affairs. A licensed contractor protects you from voided manufacturer warranties, failed municipal inspections, and personal liability that unlicensed work can create. Every job we complete is done to code and fully documented.\n\nThe diagnostic fee you pay at the service call applies directly toward the repair cost. It is not a sunk cost, if the repair moves forward, you pay only once. That structure reduces the risk of picking up the phone when something goes wrong.\n\nMaverick Ambitions HVAC is locally owned and operated from 52 Cypress St, Newark, NJ 07108, not a franchise, not a call center routing jobs to subcontractors. We are available 24 hours a day, every day of the year, and we answer our own phones.\n\nHVAC COVERAGE ACROSS NEWARK AND 20+ NORTHERN NEW JERSEY COMMUNITIES\n\nWe serve Newark and the surrounding communities across Essex, Union, and Hudson counties. That includes East Orange, Irvington, Orange, West Orange, Bloomfield, Elizabeth, Belleville, and Kearny, among others. For the full list of covered areas, visit our Service Areas page or give us a call.\n\nSee All Service Areas\nOr call us now - (862) 279-3408\nWHAT NEWARK CUSTOMERS SAY ABOUT MAVERICK AMBITIONS HVAC\n\nThese reviews come directly from verified Google customers across our Newark service area.\n\n⭐⭐⭐⭐⭐\n\nMr. Brown is an amazing worker! He did not disappoint, came right in, made sure all of my needs were met and completed the job with no questions asked. He has a forever customer in me! Thank you for all of your hard work and dedication.\n\n\n\n\nAshley K.\n\n⭐⭐⭐⭐⭐\n\nI highly recommend Maverick HVAC Services. John has assisted us with AC repairs during the summer and, most recently, with heating issues for a tenant who was without hot water. He responded immediately, kept his word by returning to complete the job, and went above and beyond by educating us on how to navigate this extreme winter weather. We truly appreciate John’s expertise, reliability, and professionalism.\n\n\n\n\nHC Acquisitions\n\n⭐⭐⭐⭐⭐\n\nJohn is the best teacher. Very knowledgeable and helps with all questions. Help me put in my mini split as a lab.\n\n\n\n\nIvan C.\n\n⭐⭐⭐⭐⭐\n\nGreat experience , very professional came & change components to get my AC running back efficiently right before summer\n\n\n\n\nCharles M.\n\n⭐⭐⭐⭐⭐\n\nhe came to my house and did an amazing job! great service.\n\n\n\n\nKiara A.\n\n⭐⭐⭐⭐⭐\n\nMr. Brown is an amazing worker! He did not disappoint, came right in, made sure all of my needs were met and completed the job with no questions asked. He has a forever customer in me! Thank you for all of your hard work and dedication.\n\n\n\n\nAshley K.\n\n⭐⭐⭐⭐⭐\n\nI highly recommend Maverick HVAC Services. John has assisted us with AC repairs during the summer and, most recently, with heating issues for a tenant who was without hot water. He responded immediately, kept his word by returning to complete the job, and went above and beyond by educating us on how to navigate this extreme winter weather. We truly appreciate John’s expertise, reliability, and professionalism.\n\n\n\n\nHC Acquisitions\n\nCOMMON HVAC QUESTIONS FROM NEWARK HOMEOWNERS\n\nMaverick Ambitions HVAC answers the questions Newark-area homeowners ask most before booking a service call.\n\nDoes Maverick Ambitions HVAC really offer 24-hour emergency HVAC service in Newark?\n\nYes, we offer genuine 24/7 availability every day of the year, including weekends and holidays. When you call (862) 279-3408, a real technician responds, not an answering service. Operating from our base at 52 Cypress St, Newark, we reach most Newark-area calls within a short drive.\n\nWhich cities does Maverick Ambitions HVAC serve?\n\nWe are based in Newark and cover Essex, Union, and Hudson counties, including East Orange, Irvington, Elizabeth, Bloomfield, Jersey City, Union Township, West Orange, and Belleville. Visit /service-areas for the full list of communities we serve.\n\nIs Maverick Ambitions HVAC licensed and insured in New Jersey?\n\nYes, we hold Master HVAC License 19HC00912900, which you can verify through the New Jersey Division of Consumer Affairs. We also carry full liability insurance. Licensed work protects your manufacturer warranty and ensures the job passes municipal inspection, something unlicensed contractors cannot guarantee.\n\nDoes the diagnostic fee get applied toward the repair cost?\n\nYes, the diagnostic fee you pay at the service call applies toward your total repair cost. It is not a separate charge on top of the repair. If the repair moves forward, you pay only once. Call (862) 279-3408 to book a diagnostic visit.\n\nHow long has Maverick Ambitions HVAC been serving Newark?\n\nWe have been operating in Newark since 2012, under founder John Brown, who brings 23 years of hands-on HVAC experience. We are locally owned and operated from 52 Cypress St, Newark, not a franchise and not a national chain routing calls to subcontractors.\n\nREACH MAVERICK AMBITIONS HVAC ANY TIME, DAY OR NIGHT\n\nSame-day service is available, and the diagnostic fee applies toward the repair cost. The fastest way to reach us is (862) 279-3408.\n\nCall (862) 279-3408 for Same-Day Service\n\nCoolest Summers Warmest Winters\n\nHome\nMaverick Ambitions HVAC\n\nCOOLEST SUMMERS. WARMEST WINTERS.\n\nLicensed HVAC contractor serving Newark, NJ and North Jersey since 2012. Residential and commercial heating, cooling, and emergency service.\n\nQUICK LINKS\n\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n\nCONTACT US\n\nPhone: (862) 279-3408\n\nEmail: info@mahvac.co\n\nNewark, NJ\nServing Essex, Union & Hudson Counties\n\nMaster HVAC License #19HC00912900\n\nBUSINESS HOURS\n\nMon - Sun\nOpen 24 Hours\n\n24-Hour Emergency\n\nContent, including images, displayed on this website is protected by copyright laws. Downloading, republication, retransmission or reproduction of content on this website is strictly prohibited. Terms of Use| Privacy Policy",
+    "links": [
+      {
+        "href": "https://www.facebook.com/MaverickAmbitions/",
+        "abs": "https://www.facebook.com/MaverickAmbitions/",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.linkedin.com/in/maverick-ambitions-hvac-llc-a9966a251",
+        "abs": "https://www.linkedin.com/in/maverick-ambitions-hvac-llc-a9966a251",
+        "text": "linkedin",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/CA6gfk7srfF7l8nxN",
+        "abs": "https://share.google/CA6gfk7srfF7l8nxN",
+        "text": "google_my_business",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.mahvacnj.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 150,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.mahvacnj.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 83,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-to-know-us",
+        "abs": "https://www.mahvacnj.com/get-to-know-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 107,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services-options",
+        "abs": "https://www.mahvacnj.com/services-options",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 124,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/residential-ac-installs-experts",
+        "abs": "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "text": "Residential AC Installs",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 256,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/residential-ac-specialists",
+        "abs": "https://www.mahvacnj.com/residential-ac-specialists",
+        "text": "Residential AC Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 256,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-ac-experts",
+        "abs": "https://www.mahvacnj.com/commercial-ac-experts",
+        "text": "Commercial AC Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 256,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-maintenance-services",
+        "abs": "https://www.mahvacnj.com/ac-maintenance-services",
+        "text": "AC Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 256,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-installation-repair-options",
+        "abs": "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "text": "HVAC Installation & Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 256,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-installation-repair-options",
+        "abs": "https://www.mahvacnj.com/heating-installation-repair-options",
+        "text": "Heating Installation & Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 256,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/emergency-hvac-services",
+        "abs": "https://www.mahvacnj.com/emergency-hvac-services",
+        "text": "Emergency HVAC Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 233,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/common-faq",
+        "abs": "https://www.mahvacnj.com/common-faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 68,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/gallery",
+        "abs": "https://www.mahvacnj.com/gallery",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 91,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-in-touch",
+        "abs": "https://www.mahvacnj.com/get-in-touch",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 121,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "abs": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 241,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:8622793408",
+        "abs": "tel:8622793408",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.mahvacnj.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-to-know-us",
+        "abs": "https://www.mahvacnj.com/get-to-know-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services-options",
+        "abs": "https://www.mahvacnj.com/services-options",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/residential-ac-installs-experts",
+        "abs": "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "text": "Residential AC Installs",
+        "visible": true,
+        "aboveFold": true,
+        "h": 39,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/residential-ac-specialists",
+        "abs": "https://www.mahvacnj.com/residential-ac-specialists",
+        "text": "Residential AC Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 39,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-ac-experts",
+        "abs": "https://www.mahvacnj.com/commercial-ac-experts",
+        "text": "Commercial AC Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 39,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-maintenance-services",
+        "abs": "https://www.mahvacnj.com/ac-maintenance-services",
+        "text": "AC Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 39,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-installation-repair-options",
+        "abs": "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "text": "HVAC Installation & Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 39,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-installation-repair-options",
+        "abs": "https://www.mahvacnj.com/heating-installation-repair-options",
+        "text": "Heating Installation & Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 39,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/emergency-hvac-services",
+        "abs": "https://www.mahvacnj.com/emergency-hvac-services",
+        "text": "Emergency HVAC Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/common-faq",
+        "abs": "https://www.mahvacnj.com/common-faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/gallery",
+        "abs": "https://www.mahvacnj.com/gallery",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-in-touch",
+        "abs": "https://www.mahvacnj.com/get-in-touch",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/MaverickAmbitions/",
+        "abs": "https://www.facebook.com/MaverickAmbitions/",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.linkedin.com/in/maverick-ambitions-hvac-llc-a9966a251",
+        "abs": "https://www.linkedin.com/in/maverick-ambitions-hvac-llc-a9966a251",
+        "text": "linkedin",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/CA6gfk7srfF7l8nxN",
+        "abs": "https://share.google/CA6gfk7srfF7l8nxN",
+        "text": "google_my_business",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "abs": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 109,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/residential-ac-installs-experts",
+        "abs": "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/residential-ac-specialists",
+        "abs": "https://www.mahvacnj.com/residential-ac-specialists",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-maintenance-services",
+        "abs": "https://www.mahvacnj.com/ac-maintenance-services",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-installation-repair-options",
+        "abs": "https://www.mahvacnj.com/heating-installation-repair-options",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/emergency-hvac-services",
+        "abs": "https://www.mahvacnj.com/emergency-hvac-services",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-ac-experts",
+        "abs": "https://www.mahvacnj.com/commercial-ac-experts",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas-we-proudly-serve",
+        "abs": "https://www.mahvacnj.com/areas-we-proudly-serve",
+        "text": "See All Service Areas",
+        "visible": true,
+        "aboveFold": false,
+        "h": 57,
+        "w": 231,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "abs": "tel:(862) 279-3408",
+        "text": "Or call us now - (862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "h": 57,
+        "w": 297,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "abs": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 109,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "abs": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 109,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "abs": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 109,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/MaverickAmbitions/",
+        "abs": "https://www.facebook.com/MaverickAmbitions/",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.linkedin.com/in/maverick-ambitions-hvac-llc-a9966a251",
+        "abs": "https://www.linkedin.com/in/maverick-ambitions-hvac-llc-a9966a251",
+        "text": "linkedin",
+        "visible": true,
+        "aboveFold": false,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/CA6gfk7srfF7l8nxN",
+        "abs": "https://share.google/CA6gfk7srfF7l8nxN",
+        "text": "google_my_business",
+        "visible": true,
+        "aboveFold": false,
+        "h": 31,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.mahvacnj.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-to-know-us",
+        "abs": "https://www.mahvacnj.com/get-to-know-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services-options",
+        "abs": "https://www.mahvacnj.com/services-options",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/residential-ac-installs-experts",
+        "abs": "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "text": "Residential AC Installs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/residential-ac-specialists",
+        "abs": "https://www.mahvacnj.com/residential-ac-specialists",
+        "text": "Residential AC Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-ac-experts",
+        "abs": "https://www.mahvacnj.com/commercial-ac-experts",
+        "text": "Commercial AC Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-maintenance-services",
+        "abs": "https://www.mahvacnj.com/ac-maintenance-services",
+        "text": "AC Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-installation-repair-options",
+        "abs": "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "text": "HVAC Installation & Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-installation-repair-options",
+        "abs": "https://www.mahvacnj.com/heating-installation-repair-options",
+        "text": "Heating Installation & Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/emergency-hvac-services",
+        "abs": "https://www.mahvacnj.com/emergency-hvac-services",
+        "text": "Emergency HVAC Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/common-faq",
+        "abs": "https://www.mahvacnj.com/common-faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/gallery",
+        "abs": "https://www.mahvacnj.com/gallery",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-in-touch",
+        "abs": "https://www.mahvacnj.com/get-in-touch",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 325,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "abs": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 95,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:info@mahvac.co",
+        "abs": "mailto:info@mahvac.co",
+        "text": "info@mahvac.co",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 114,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/t/tou-and-privacy#TOU",
+        "abs": "https://www.mahvacnj.com/t/tou-and-privacy#TOU",
+        "text": "Terms of Use",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 567,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/t/tou-and-privacy#PP",
+        "abs": "https://www.mahvacnj.com/t/tou-and-privacy#PP",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 14,
+        "w": 74,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close menu",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "go to slide 1",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 2",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 3",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 4",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 5",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Does Maverick Ambitions HVAC really offer 24-hour emergency ",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Which cities does Maverick Ambitions HVAC serve?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Is Maverick Ambitions HVAC licensed and insured in New Jerse",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Does the diagnostic fee get applied toward the repair cost?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "How long has Maverick Ambitions HVAC been serving Newark?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=G-430GX94GCR&cx=c&gtm=4e6b21",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-WB5354GB",
+      "https://tags.tiqcdn.com/utag/marketingcenter/common/prod/utag.js",
+      "https://d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js",
+      "https://tags.tiqcdn.com/utag/marketingcenter/common/prod/utag.10.js?utv=ut4.49.202502261816",
+      "https://tags.tiqcdn.com/utag/marketingcenter/common/prod/utag.19.js?utv=ut4.49.202611021850",
+      "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=marketingcenter/common/202610240246&cb=1793747581481",
+      "https://static.cdn-website.com/mnlt/production/6892/_dm/s/rt/dist/scripts/d-js-runtime-flex-package.min.js",
+      "https://ms-cdn.multiscreensite.com/runtime-react/4308/res/js/runtime-react.js",
+      "https://mpactions.superpages.com/actionthru/js/dxmscript.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Maverick Ambitions HVAC",
+        "url": "https://www.mahvacnj.com/"
+      },
+      {
+        "@context": {
+          "@vocab": "http://schema.org/"
+        },
+        "@type": "LocalBusiness",
+        "name": "Maverick Ambitions HVAC",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Newark",
+          "addressRegion": "New Jersey"
+        },
+        "areaServed": [
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Newark, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "East Orange, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Irvington, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Orange, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "West Orange, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Bloomfield, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Belleville, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Elizabeth, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Union Township, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Hillside, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Roselle, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Roselle Park, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Linden, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Cranford, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Maplewood, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Millburn, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Kenilworth, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Clark, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Springfield, New Jersey, United States"
+            }
+          },
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Short Hills, New Jersey, United States"
+            }
+          }
+        ],
+        "url": "https://www.mahvacnj.com",
+        "description": "Trusted 24/7 HVAC in Newark, NJ since 2012. Call Maverick Ambitions HVAC for AC, heating, and emergency service today.",
+        "telephone": "8622793408",
+        "email": "info@mahvac.co",
+        "logo": "https://irp.cdn-website.com/2bf41262/dms3rep/multi/Logo-a22ec649.png",
+        "sameAs": [
+          "https://facebook.com/MaverickAmbitions/",
+          "https://linkedin.com/in/maverick-ambitions-hvac-llc-a9966a251"
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "24:00"
+          }
+        ],
+        "@id": "https://www.mahvacnj.com"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 3,
+    "timing": {
+      "dcl": 1456,
+      "load": 2170,
+      "ttfb": 366
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.233,
+        "sig": "flex-header  ",
+        "text": "master hvac license: 19hc00912900\n\n\nmaverick ambitions hvac\n\nhome\nabout us\nservices\nresidential ac installs\nresidential "
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.mahvacnj.com/",
+    "navMs": 2838,
+    "tel": [
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:8622793408",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "Or call us now - (862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Duda",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.mahvacnj.com/",
+    "navMs": 3467,
+    "timing": {
+      "dcl": 1662,
+      "load": 2034,
+      "ttfb": 320
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:8622793408",
+        "text": "fa-phone",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:+18622793408",
+        "text": "Call (862) 279-3408",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "Or call us now - (862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:+18622793408",
+        "text": "Call (862) 279-3408 for Same-Day Service",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      },
+      {
+        "href": "tel:(862) 279-3408",
+        "text": "(862) 279-3408",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18622793408"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact Us",
+      "facebook",
+      "Call (862) 279-3408"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.185,
+        "sig": "flex-header  ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 26,
+    "brokenImages": [],
+    "textChars": 9144
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.mahvacnj.com/get-in-touch",
+      "finalUrl": "https://www.mahvacnj.com/get-in-touch",
+      "status": 200,
+      "title": "Contact Maverick Ambitions HVAC | 24/7 Newark NJ",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "2134c6d6",
+          "cls": "flex-element group form-widget",
+          "fieldCount": 6,
+          "fieldNames": [
+            "1378627640",
+            "1862567857",
+            "1289469085",
+            "1225769376",
+            "1686625770",
+            "1171290547"
+          ],
+          "visible": true,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@mahvac.co"
+      ],
+      "tel": [
+        {
+          "href": "tel:(862) 279-3408",
+          "text": "(862) 279-3408",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18622793408"
+        },
+        {
+          "href": "tel:8622793408",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18622793408"
+        },
+        {
+          "href": "tel:(862) 279-3408",
+          "text": "(862) 279-3408",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18622793408"
+        },
+        {
+          "href": "tel:(862) 279-3408",
+          "text": "(862) 279-3408",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18622793408"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Master HVAC License: 19HC00912900\n\n\nMaverick Ambitions HVAC\n\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n(862) 279-3408\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n\nMaster HVAC License: 19HC00912900\n\n\nREACH US ANY TIME.\nFull Name\nPhone Number\nEmail Address\nService Address\nService Type\nSelect a service type\nAC Installation\nAC Repair\nHeating Repair\nHeating Installation\nCommercial Refrigeration\nHVAC Tune-Up\nEmergency Service\nOther\nTell us more about your issue\nSend my request\n\nWe respond within one business hour and are available 24 hours a day, every day of the year.\n\nMaverick Ambitions HVAC, 52 Cypress St, Newark, NJ 07108\n\n(862) 279-3408\n(862) 405-8700\ninfo@mahvac.co\n\nOpen 24 hours a day, Monday through Sunday, including holidays. 24-hour emergency HVAC service available.\n\nMaverick Ambitions HVAC serves Newark, East Orange, Irvington, Orange, West Orange, Bloomfield, Belleville, Elizabeth, Union Township, Hillside, Roselle, Roselle Park, Linden, Cranford, Maplewood, South Orange, Millburn, Kenilworth, Clark, Springfield, and Short Hills, NJ.\n\nNeed help now? Call our team directly -- we pick up around the clock. You can also explore all HVAC services or view our service areas.\n\nCall (862) 279-3408\n\nFind us at 52 Cypress St, Newark, NJ 07108, or call (862) 279-3408 and we come to you.\n\nMAVERICK AMBITIONS HVAC IS AVAILABLE 24 HOURS A DAY, EVERY DAY OF THE YEAR -- INCLUDING NIGHTS, WEEKENDS, AND HOLIDAYS.\n\nWhen your heating or cooling fails, call us now. A real technician answers -- not an automated system.\n\nCall us now\nHome\nContact Us\nMaverick Ambitions HVAC\n\nCOOLEST SUMMERS. WARMEST WINTERS.\n\nLicensed HVAC contractor serving Newark, NJ and North Jersey since 2012. Residential and commercial heating, cooling, and emergency service.\n\nQUICK LINKS\n\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n\nCONTACT US\n\nPhone: (862) 279-3408\n\nEmail: info@mahvac.co\n\nNewark, NJ\nServing Essex, Union & Hudson Counties\n\nMaster HVAC License #19HC00912900\n\nBUSINESS HOURS\n\nMon - Sun\nOpen 24 Hours\n\n24-Hour Emergency\n\nContent, including images, displayed on this website is protected by copyright laws. Downloading, republication, retransmission or reproduction of content on this website is strictly prohibited. Terms of Use| Privacy Policy",
+      "vendors": [],
+      "links": [
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/get-to-know-us",
+        "https://www.mahvacnj.com/services-options",
+        "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "https://www.mahvacnj.com/residential-ac-specialists",
+        "https://www.mahvacnj.com/commercial-ac-experts",
+        "https://www.mahvacnj.com/ac-maintenance-services",
+        "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "https://www.mahvacnj.com/heating-installation-repair-options",
+        "https://www.mahvacnj.com/emergency-hvac-services",
+        "https://www.mahvacnj.com/common-faq",
+        "https://www.mahvacnj.com/gallery",
+        "https://www.mahvacnj.com/get-in-touch",
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/get-to-know-us",
+        "https://www.mahvacnj.com/services-options",
+        "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "https://www.mahvacnj.com/residential-ac-specialists",
+        "https://www.mahvacnj.com/commercial-ac-experts",
+        "https://www.mahvacnj.com/ac-maintenance-services",
+        "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "https://www.mahvacnj.com/heating-installation-repair-options",
+        "https://www.mahvacnj.com/emergency-hvac-services",
+        "https://www.mahvacnj.com/common-faq",
+        "https://www.mahvacnj.com/gallery",
+        "https://www.mahvacnj.com/get-in-touch",
+        "https://www.mahvacnj.com/get-in-touch",
+        "https://www.mahvacnj.com/get-in-touch",
+        "https://www.mahvacnj.com/services-options",
+        "https://www.mahvacnj.com/areas-we-proudly-serve",
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/get-to-know-us",
+        "https://www.mahvacnj.com/services-options",
+        "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "https://www.mahvacnj.com/residential-ac-specialists",
+        "https://www.mahvacnj.com/commercial-ac-experts",
+        "https://www.mahvacnj.com/ac-maintenance-services",
+        "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "https://www.mahvacnj.com/heating-installation-repair-options",
+        "https://www.mahvacnj.com/emergency-hvac-services",
+        "https://www.mahvacnj.com/common-faq",
+        "https://www.mahvacnj.com/gallery",
+        "https://www.mahvacnj.com/get-in-touch",
+        "https://www.mahvacnj.com/t/tou-and-privacy#TOU",
+        "https://www.mahvacnj.com/t/tou-and-privacy#PP"
+      ]
+    },
+    "about": {
+      "url": "https://www.mahvacnj.com/get-to-know-us",
+      "finalUrl": "https://www.mahvacnj.com/get-to-know-us",
+      "status": 200,
+      "title": "About Maverick Ambitions HVAC | Newark, NJ",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@mahvac.co"
+      ],
+      "tel": [
+        {
+          "href": "tel:(862) 279-3408",
+          "text": "(862) 279-3408",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18622793408"
+        },
+        {
+          "href": "tel:8622793408",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18622793408"
+        },
+        {
+          "href": "tel:(862) 279-3408",
+          "text": "(862) 279-3408",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18622793408"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Master HVAC License: 19HC00912900\n\n\nMaverick Ambitions HVAC\n\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n(862) 279-3408\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n\nMaster HVAC License: 19HC00912900\n\n\nCoolest Summers Warmest Winters\n\nEXPERT HVAC CONTRACTOR\n\nResidential & Commercial HVAC Installations, Repairs and Service.\n\n﻿Servicing Essex, Union, Middlesex, Union and Bergen Counties \n\nCall (862) 279-3408\n\nAvailable 24/7,  including emergencies.\n\nMAVERICK AMBITIONS HVAC SERVES NEWARK, AROUND THE CLOCK\n\nMaverick Ambitions HVAC is a licensed HVAC contractor serving Newark, NJ and surrounding communities across Essex, Union, and Hudson counties since 2012, holding Master HVAC License 19HC00912900.\n\nMaverick Ambitions HVAC is a Newark-based HVAC company founded in 2012. We install, repair, and maintain residential and commercial heating and cooling systems across northern New Jersey. Licensed under Master HVAC License 19HC00912900, we operate 24 hours a day, seven days a week, including emergency response.\n\nJOHN BROWN BUILT THIS BUSINESS ON 23 YEARS OF HANDS-ON HVAC WORK\n\nJohn Brown has worked in the HVAC trade for 23 years. In 2012, he established Maverick Ambitions HVAC, a deliberate decision to build something permanent in the community where he works.\n\nNewark's housing stock is genuinely varied. Two-family homes in the North Ward, multi-unit Ironbound buildings with aging ductwork, older South Ward properties with equipment that predates modern efficiency standards, each situation teaches you something. That depth of local knowledge shows up on every job in how we size equipment, route ductwork, and match systems to the actual structure, not a generic spec sheet.\n\nWe work 24 hours a day, seven days a week. John Brown's team handles every job directly, no subcontractors, no handoffs. The expertise you expect when you call us is what actually shows up at your door, every time.\n\nVERIFIED CREDENTIALS THAT PROTECT EVERY CUSTOMER\nMaster HVAC License 19HC00912900\n\nMaverick Ambitions HVAC holds New Jersey Master HVAC License 19HC00912900, verifiable through the NJ Division of Consumer Affairs. Every installation and repair is performed by a licensed technician, no unlicensed subcontractors, no shortcuts.\n\nOperating in Newark Since 2012\n\nFounded at 52 Cypress St, Newark, NJ 07108, Maverick Ambitions HVAC has completed residential and commercial HVAC work across Essex, Union, and Hudson counties for over a decade. Local roots mean faster response and genuine familiarity with Newark's housing stock.\n\n24-Hour Availability, Every Day of the Year\n\nWe answer calls at 2 a.m. in July and on Thanksgiving morning in November. Our 24-hour availability is an operational fact, not a marketing line, and it includes genuine emergency response for both residential and commercial customers.\n\nFully insured. No diagnostic fee is ever a sunk cost; it applies toward your repair.\n\nCOMMON QUESTIONS ABOUT MAVERICK AMBITIONS HVAC\nIs Maverick Ambitions HVAC a licensed HVAC contractor in New Jersey?\n\nYes. Maverick Ambitions HVAC holds New Jersey Master HVAC License 19HC00912900, issued by the NJ Division of Consumer Affairs. We carry full liability insurance, and the license has been active since we established the business in Newark in 2012. Every job is performed by a licensed technician on staff.\n\nHow long has Maverick Ambitions HVAC been in business in Newark?\n\nWe have operated continuously from our Newark base at 52 Cypress St since 2012. Founder John Brown brings 23 years of hands-on HVAC experience to that tenure, meaning our institutional knowledge of Newark's residential and commercial stock stretches well beyond our founding year.\n\nWho actually does the HVAC work; is it employees or subcontractors?\n\nEvery job is handled by Maverick Ambitions HVAC's own technicians, we do not subcontract. That matters because it means the same level of expertise and accountability shows up on every visit, with no handoff to an unknown third party whose training and licensing we cannot vouch for directly.\n\nWhat makes Maverick Ambitions HVAC different from other Newark HVAC companies?\n\nOur 24-hour availability is genuine, you reach a technician, not an answering service. The diagnostic fee you pay applies toward your repair cost, so it is never money spent for nothing. We are locally owned and operate out of 52 Cypress St in Newark, which means faster dispatch and real familiarity with the city's housing stock.\n\nCALL MAVERICK AMBITIONS HVAC TODAY\n\nReach us any time, day or night, weekends and holidays included. Our team answers every call and dispatches from our Newark base at 52 Cypress St.\n\nCall (862) 279-3408\n\nAvailable 24 hours a day, 7 days a week, including emergencies.\n\nCoolest Summers Warmest Winters\n\nHome\nAbout Us\nMaverick Ambitions HVAC\n\nCOOLEST SUMMERS. WARMEST WINTERS.\n\nLicensed HVAC contractor serving Newark, NJ and North Jersey since 2012. Residential and commercial heating, cooling, and emergency service.\n\nQUICK LINKS\n\nHome\nAbout Us\nServices\nResidential AC Installs\nResidential AC Services\nCommercial AC Services\nAC Maintenance\nHVAC Installation & Repair\nHeating Installation & Repair\nEmergency HVAC Services\nFAQ\nGallery\nContact Us\n\nCONTACT US\n\nPhone: (862) 279-3408\n\nEmail: info@mahvac.co\n\nNewark, NJ\nServing Essex, Union & Hudson Counties\n\nMaster HVAC License #19HC00912900\n\nBUSINESS HOURS\n\nMon - Sun\nOpen 24 Hours\n\n24-Hour Emergency\n\nContent, including images, displayed on this website is protected by copyright laws. Downloading, republication, retransmission or reproduction of content on this website is strictly prohibited. Terms of Use| Privacy Policy",
+      "vendors": [],
+      "links": [
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/get-to-know-us",
+        "https://www.mahvacnj.com/services-options",
+        "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "https://www.mahvacnj.com/residential-ac-specialists",
+        "https://www.mahvacnj.com/commercial-ac-experts",
+        "https://www.mahvacnj.com/ac-maintenance-services",
+        "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "https://www.mahvacnj.com/heating-installation-repair-options",
+        "https://www.mahvacnj.com/emergency-hvac-services",
+        "https://www.mahvacnj.com/common-faq",
+        "https://www.mahvacnj.com/gallery",
+        "https://www.mahvacnj.com/get-in-touch",
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/get-to-know-us",
+        "https://www.mahvacnj.com/services-options",
+        "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "https://www.mahvacnj.com/residential-ac-specialists",
+        "https://www.mahvacnj.com/commercial-ac-experts",
+        "https://www.mahvacnj.com/ac-maintenance-services",
+        "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "https://www.mahvacnj.com/heating-installation-repair-options",
+        "https://www.mahvacnj.com/emergency-hvac-services",
+        "https://www.mahvacnj.com/common-faq",
+        "https://www.mahvacnj.com/gallery",
+        "https://www.mahvacnj.com/get-in-touch",
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/",
+        "https://www.mahvacnj.com/get-to-know-us",
+        "https://www.mahvacnj.com/services-options",
+        "https://www.mahvacnj.com/residential-ac-installs-experts",
+        "https://www.mahvacnj.com/residential-ac-specialists",
+        "https://www.mahvacnj.com/commercial-ac-experts",
+        "https://www.mahvacnj.com/ac-maintenance-services",
+        "https://www.mahvacnj.com/hvac-installation-repair-options",
+        "https://www.mahvacnj.com/heating-installation-repair-options",
+        "https://www.mahvacnj.com/emergency-hvac-services",
+        "https://www.mahvacnj.com/common-faq",
+        "https://www.mahvacnj.com/gallery",
+        "https://www.mahvacnj.com/get-in-touch",
+        "https://www.mahvacnj.com/t/tou-and-privacy#TOU",
+        "https://www.mahvacnj.com/t/tou-and-privacy#PP"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 16,
+    "at": "2026-11-03T23:13:25.745Z",
+    "statusCounts": {
+      "200": 15,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.mahvacnj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/maverick-ambitions-hvac-newark-s-experts/desktop-home.png",
+    "desktop_full": "evidence/screenshots/maverick-ambitions-hvac-newark-s-experts/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/maverick-ambitions-hvac-newark-s-experts/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/maverick-ambitions-hvac-newark-s-experts/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/maverick-ambitions-hvac-newark-s-experts/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00912900"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 2012,
+    "emails": [
+      "info@mahvac.co"
+    ],
+    "owners": [
+      "John Brown |  across Newark and northern New Jersey, founder John Brown has seen every fail",
+      "John Brown | n operating in Newark since 2012, under founder John Brown, who brings 23 year",
+      "New Jersey | of HVAC work across Newark and northern New Jersey, founder John Brown has seen"
+    ],
+    "bookingLinkTexts": [
+      "facebook -> https://www.facebook.com/MaverickAmbitions/",
+      "facebook -> https://www.facebook.com/MaverickAmbitions/",
+      "facebook -> https://www.facebook.com/MaverickAmbitions/"
+    ]
+  }
+}

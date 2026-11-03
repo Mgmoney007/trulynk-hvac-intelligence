@@ -1,0 +1,25 @@
+{
+  "id": "go-green-heating-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/Go+Green+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f8b084e6b033:0xfc469d73f7da6212!8m2!3d40.8221072!4d-74.1355722!16s%2Fg%2F1q6h_2r2b!19sChIJM7DmhLD4wokREmLa93OdRvw",
+  "retrievedAt": "2026-11-03T23:08:54.936Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Go Green Heating & Air Conditioning",
+  "category": "HVAC contractor",
+  "address": "602 Hartford Dr, Nutley, NJ 07110, United States ",
+  "phone": "+1 201-921-6736 ",
+  "website": "https://www.gogreenhvacnj.com/",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–9 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Go+Green+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f8b084e6b033:0xfc469d73f7da6212!8m2!3d40.8221072!4d-74.1355722!16s%2Fg%2F1q6h_2r2b!19sChIJM7DmhLD4wokREmLa93OdRvw?hl=en",
+  "screenshot": "evidence/screenshots/go-green-heating-air-conditioning/google-maps-listing.png"
+}

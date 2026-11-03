@@ -1,0 +1,94 @@
+{
+  "firecrawl": [],
+  "id": "reiner-group-inc",
+  "name": "Reiner Group, Inc.",
+  "website": "https://www.reinerac.com/?utm_source=GBPlisting&utm_medium=organic",
+  "auditedAt": "2026-11-03T23:00:47.219Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.reinerac.com/?utm_source=GBPlisting&utm_medium=organic",
+      "at": "2026-11-03T23:01:41.849Z",
+      "access": "challenge",
+      "status": 403,
+      "finalUrl": "https://www.reinerac.com/?utm_source=GBPlisting&utm_medium=organic",
+      "title": "Just a moment...",
+      "ms": 24996,
+      "error": null,
+      "linkCount": 2
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.reinerac.com/?utm_source=GBPlisting&utm_medium=organic",
+      "at": "2026-11-03T23:02:35.252Z",
+      "access": "challenge",
+      "status": 403,
+      "finalUrl": "https://www.reinerac.com/?utm_source=GBPlisting&utm_medium=organic",
+      "title": "Just a moment...",
+      "ms": 25099,
+      "error": null,
+      "linkCount": 2
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "challenge",
+      "status": 403,
+      "error": null,
+      "url": "https://www.reinerac.com/?utm_source=GBPlisting&utm_medium=organic"
+    },
+    {
+      "step": "mobile_home",
+      "access": "challenge",
+      "status": 403,
+      "error": null,
+      "url": "https://www.reinerac.com/?utm_source=GBPlisting&utm_medium=organic"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "https://www.reinerac.com/",
+    "httpStatus": 403,
+    "httpError": null,
+    "httpsStatus": 403,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/reiner-group-inc/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/reiner-group-inc/mobile-home-access-failure.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

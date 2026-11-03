@@ -1,0 +1,25 @@
+{
+  "id": "jimmy-s-arctic-heating-air-conditioning-repair",
+  "placeUrl": "https://www.google.com/maps/place/Jimmy%27s+Arctic+Heating+%26+Air+Conditioning+Repair/data=!4m7!3m6!1s0x89c259d851e26935:0xe183b43cf69f7c62!8m2!3d40.7492386!4d-74.0283459!16s%2Fg%2F1thcnpv9!19sChIJNWniUdhZwokRYnyf9jy0g-E",
+  "retrievedAt": "2026-11-03T22:48:18.423Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Jimmy's Arctic Heating & Air Conditioning Repair",
+  "category": "Air conditioning repair service",
+  "address": "1016 Bloomfield St, Hoboken, NJ 07030, United States ",
+  "phone": "+1 201-408-7730 ",
+  "website": "https://www.jimmysarcticair.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–7 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Jimmy%27s+Arctic+Heating+%26+Air+Conditioning+Repair/data=!4m7!3m6!1s0x89c259d851e26935:0xe183b43cf69f7c62!8m2!3d40.7492386!4d-74.0283459!16s%2Fg%2F1thcnpv9!19sChIJNWniUdhZwokRYnyf9jy0g-E?hl=en",
+  "screenshot": "evidence/screenshots/jimmy-s-arctic-heating-air-conditioning-repair/google-maps-listing.png"
+}

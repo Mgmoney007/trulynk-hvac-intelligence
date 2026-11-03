@@ -1,0 +1,25 @@
+{
+  "id": "margo-plumbing-heating-cooling-inc",
+  "placeUrl": "https://www.google.com/maps/place/MarGo+Plumbing+Heating+Cooling+Inc./data=!4m7!3m6!1s0x89c301ce5d8b2adf:0x66b09e754a7b9ff0!8m2!3d40.875719!4d-74.2972769!16s%2Fg%2F1tjxglfc!19sChIJ3yqLXc4Bw4kR8J97SnWesGY",
+  "retrievedAt": "2026-11-03T23:08:44.062Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "MarGo Plumbing Heating Cooling Inc.",
+  "category": "Plumber",
+  "address": "145 Fairfield Rd, Fairfield, NJ 07004, United States ",
+  "phone": "+1 973-890-9878 ",
+  "website": "https://www.margoplumbing.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/MarGo+Plumbing+Heating+Cooling+Inc./data=!4m7!3m6!1s0x89c301ce5d8b2adf:0x66b09e754a7b9ff0!8m2!3d40.875719!4d-74.2972769!16s%2Fg%2F1tjxglfc!19sChIJ3yqLXc4Bw4kR8J97SnWesGY?hl=en",
+  "screenshot": "evidence/screenshots/margo-plumbing-heating-cooling-inc/google-maps-listing.png"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "duct-mate-inc",
+  "query": "Duct Mate Inc.",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Duct%20Mate%20Inc.&find_loc=Hackensack%2C%20NJ",
+  "retrievedAt": "2026-11-03T22:55:01.584Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": {
+    "ad": false,
+    "name": "Duct Mate Inc",
+    "rating": null,
+    "phone": "(201) 488-8002",
+    "address": "190 Lexington Ave, Hackensack, NJ 07601",
+    "accredited": true,
+    "href": "https://www.bbb.org/us/nj/hackensack/profile/heating-contractors/duct-mate-inc-0221-90226087",
+    "basis": "phone",
+    "nameSimilarity": 1
+  },
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Duct Mate Inc",
+      "rating": null,
+      "phone": "(201) 488-8002",
+      "address": "190 Lexington Ave, Hackensack, NJ 07601",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/hackensack/profile/heating-contractors/duct-mate-inc-0221-90226087"
+    }
+  ],
+  "error": null
+}

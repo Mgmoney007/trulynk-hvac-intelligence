@@ -1,0 +1,25 @@
+{
+  "id": "sparrow-ac-repair-co",
+  "placeUrl": "https://www.google.com/maps/place/Sparrow+AC+Repair+Co/data=!4m7!3m6!1s0x89c2e127885993c3:0x4cfac59601b5128a!8m2!3d41.062875!4d-74.133891!16s%2Fg%2F11xs8_vb27!19sChIJw5NZiCfhwokRihK1AZbF-kw",
+  "retrievedAt": "2026-11-03T23:00:22.349Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Sparrow AC Repair Co",
+  "category": "HVAC contractor",
+  "address": "145 N Franklin Tpke Ste 921, Ramsey, NJ 07446, United States ",
+  "phone": "+1 551-955-0804 ",
+  "website": "https://sparrowacramsey.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Sparrow+AC+Repair+Co/data=!4m7!3m6!1s0x89c2e127885993c3:0x4cfac59601b5128a!8m2!3d41.062875!4d-74.133891!16s%2Fg%2F11xs8_vb27!19sChIJw5NZiCfhwokRihK1AZbF-kw?hl=en",
+  "screenshot": "evidence/screenshots/sparrow-ac-repair-co/google-maps-listing.png"
+}

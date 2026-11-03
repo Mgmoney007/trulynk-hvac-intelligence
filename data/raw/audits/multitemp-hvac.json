@@ -1,0 +1,386 @@
+{
+  "firecrawl": [],
+  "id": "multitemp-hvac",
+  "name": "Multitemp HVAC",
+  "website": "http://multitemphvac.com/",
+  "auditedAt": "2026-11-03T23:13:43.106Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://multitemphvac.com/",
+      "at": "2026-11-03T23:13:47.713Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://multitemphvac.com/",
+      "title": "Multi Temp Inc.",
+      "ms": 4552,
+      "error": null,
+      "linkCount": 10
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://multitemphvac.com/Contact",
+      "at": "2026-11-03T23:13:49.594Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://multitemphvac.com/Contact",
+      "title": "Multi Temp Inc. | Contact",
+      "ms": 1388,
+      "error": null,
+      "linkCount": 9
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://multitemphvac.com/About",
+      "at": "2026-11-03T23:13:51.553Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://multitemphvac.com/About",
+      "title": "Multi Temp Inc. | About",
+      "ms": 1809,
+      "error": null,
+      "linkCount": 8
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://multitemphvac.com/",
+      "at": "2026-11-03T23:14:03.119Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://multitemphvac.com/",
+      "title": "Multi Temp Inc.",
+      "ms": 3053,
+      "error": null,
+      "linkCount": 10
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://multitemphvac.com/",
+    "title": "Multi Temp Inc.",
+    "lang": "en-US",
+    "metaDescription": null,
+    "h1": [],
+    "viewportMeta": "initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 1052,
+    "bodyText": "\nHeating & Cooling - Caldwell New Jersey\n\n\nCall us at 973-239-2500\n\nHOME\nABOUT\nSERVICES\nPHOTOS\nCONTACT\n\t\t\n\t\nMULTI TEMP LLC. - HEATING & COOLING SERVICES\n\nYou can put your trust in Multi Temp, LLC.. We provide professional installations and quality service to all of our customers. All of our services and products are guaranteed. We have been in business for over 25 years. Our unparalleled service, competitive prices, and overall value are why our loyal customers won't go anywhere else. We look forward to serving you!\n\nMulti Temp, the name you can trust!\n\n\n\n\nMulti Temp, LLC.\n74 Smull Ave\nCaldwell NJ, 07006\nOffice: (973) 239-2500\nCell: (973) 768-7234\ndave@multitemphvac.com\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\nCopyright © Multitemp HVAC. All Rights Reserved\n\n\nDesigned by CD Meyer Inc..",
+    "links": [
+      {
+        "href": "#",
+        "abs": "https://multitemphvac.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://multitemphvac.com/",
+        "abs": "https://multitemphvac.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 82,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://multitemphvac.com/About",
+        "abs": "https://multitemphvac.com/About",
+        "text": "ABOUT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 90,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://multitemphvac.com/Services",
+        "abs": "https://multitemphvac.com/Services",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 111,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://multitemphvac.com/Photos",
+        "abs": "https://multitemphvac.com/Photos",
+        "text": "PHOTOS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 99,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://multitemphvac.com/Contact",
+        "abs": "https://multitemphvac.com/Contact",
+        "text": "CONTACT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 107,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:dave@multitemphvac.com",
+        "abs": "mailto:dave@multitemphvac.com",
+        "text": "dave@multitemphvac.com",
+        "visible": true,
+        "aboveFold": true,
+        "h": 16,
+        "w": 165,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:dave@multitemphvac.com",
+        "abs": "mailto:dave@multitemphvac.com",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 16,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/LinkClick.aspx?link=https%3a%2f%2fwww.facebook.com%2fMultitemp-HVAC-190219291012243%2f&tabid=55&portalid=0&mid=416",
+        "abs": "https://multitemphvac.com/LinkClick.aspx?link=https%3a%2f%2fwww.facebook.com%2fMultitemp-HVAC-190219291012243%2f&tabid=55&portalid=0&mid=416",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 75,
+        "w": 75,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "http://cdmeyer.com/",
+        "abs": "http://cdmeyer.com/",
+        "text": "CD Meyer Inc.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 64,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [],
+    "forms": [
+      {
+        "action": "/",
+        "method": "post",
+        "id": "Form",
+        "cls": "",
+        "fieldCount": 0,
+        "fieldNames": [],
+        "visible": true,
+        "hasSubmit": false,
+        "submitDisabled": null,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=G-63R5EY5M27",
+      "https://multitemphvac.com/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=294",
+      "https://multitemphvac.com/Resources/libraries/jQuery-UI/01_13_02/jquery-ui.min.js?cdv=294",
+      "https://multitemphvac.com/WebResource.axd?d=pynGkmcFUV1uzZgYHPyAgW_0utLagRl1iFRwNurXmeMpAsz9PHXSCmZG8sE1&t=639190664600000000",
+      "https://multitemphvac.com/Portals/0-System/Skins/MULHVAC/script.js",
+      "https://multitemphvac.com/Portals/0-System/Skins/MULHVAC/script.responsive.js",
+      "https://multitemphvac.com/ScriptResource.axd?d=NJmAwtEo3Ir7-Kbf8Hpyz5e5ojZZ59GjLYvEyOkCk3HqUvIrGYJ1WmV0a8W_a4YJDjDHHVpu77BFY-aSeAA20lBCwvw0CHJoJfCzmxYvmnOv2t7EGuEbIay8xzCt-pDp6FbOWg2&t=ffffffffbec1863d",
+      "https://multitemphvac.com/ScriptResource.axd?d=dwY9oWetJoL0I_EuVKEuQKhanv4XqP4olqjv-ukWDX916RS6R7D0PW5Pu3gQN61tkWKe5X6X19Z0-BuTFfz_LGFnYjERq98rPa3QIEEotz10fEj3znszUi_QZj6QnFS5iXLhyhfB6jOEGFw-0&t=ffffffffbec1863d",
+      "https://multitemphvac.com/js/dnn.modalpopup.js?cdv=294",
+      "https://multitemphvac.com/js/dnncore.js?cdv=294"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 2,
+    "timing": {
+      "dcl": 2932,
+      "load": 4022,
+      "ttfb": 1546
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://multitemphvac.com/",
+    "navMs": 4552,
+    "tel": [],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://multitemphvac.com/",
+    "navMs": 3053,
+    "timing": {
+      "dcl": 2004,
+      "load": 2495,
+      "ttfb": 725
+    },
+    "viewportMeta": "initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [],
+    "telAboveFold": false,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 1,
+    "brokenImages": [],
+    "textChars": 725
+  },
+  "pages": {
+    "contact": {
+      "url": "https://multitemphvac.com/Contact",
+      "finalUrl": "https://multitemphvac.com/Contact",
+      "status": 200,
+      "title": "Multi Temp Inc. | Contact",
+      "forms": [
+        {
+          "action": "/Contact",
+          "method": "post",
+          "id": "Form",
+          "cls": "",
+          "fieldCount": 0,
+          "fieldNames": [],
+          "visible": true,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "dave@multitemphvac.com",
+        "chris@multitemphvac.com"
+      ],
+      "tel": [],
+      "owners": [],
+      "bodyText": "\nHeating & Cooling - Caldwell New Jersey\n\n\nCall us at 973-239-2500\n\nHOME\nABOUT\nSERVICES\nPHOTOS\nCONTACT\n\t\t\n\t\nMULTI TEMP INC.\n\nDavid Ruesch\n74 Smull Ave\nCaldwell NJ, 07006\nOffice: (973) 239-2500\nCell: (973) 768-7234\ndave@multitemphvac.com\n\n\nChris Ruesch\nOffice: (973) 239-2500\nCell: (973) 487-0548\nchris@multitemphvac.com\n\n\n\n\n\n\t\n\t\t\n\nCopyright © Multitemp HVAC. All Rights Reserved\n\n\nDesigned by CD Meyer Inc..",
+      "vendors": [],
+      "links": [
+        "https://multitemphvac.com/Contact#",
+        "https://multitemphvac.com/",
+        "https://multitemphvac.com/About",
+        "https://multitemphvac.com/Services",
+        "https://multitemphvac.com/Photos",
+        "https://multitemphvac.com/Contact",
+        "https://multitemphvac.com/LinkClick.aspx?link=https%3a%2f%2fwww.facebook.com%2fMultitemp-HVAC-190219291012243%2f&tabid=89&portalid=0&mid=418"
+      ]
+    },
+    "about": {
+      "url": "https://multitemphvac.com/About",
+      "finalUrl": "https://multitemphvac.com/About",
+      "status": 200,
+      "title": "Multi Temp Inc. | About",
+      "forms": [
+        {
+          "action": "/About",
+          "method": "post",
+          "id": "Form",
+          "cls": "",
+          "fieldCount": 0,
+          "fieldNames": [],
+          "visible": true,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [],
+      "owners": [],
+      "bodyText": "\nHeating & Cooling - Caldwell New Jersey\n\n\nCall us at 973-239-2500\n\nHOME\nABOUT\nSERVICES\nPHOTOS\nCONTACT\n\t\t\n\t\nABOUT US\nFor over 25 years, the team at Multi Temp has diligently worked to built a solid reputation in northern New Jersey. While others seek to profit by cutting corners or recommending unnecessary services to customers, we at Multi Temp believe that a good reputation and consistent service to our customers will continue to help us maintain our reputation as a trusted business.\n\n\n\n\n\n\n\n\n\t\n\t\t\n\nCopyright © Multitemp HVAC. All Rights Reserved\n\n\nDesigned by CD Meyer Inc..",
+      "vendors": [],
+      "links": [
+        "https://multitemphvac.com/About#",
+        "https://multitemphvac.com/",
+        "https://multitemphvac.com/About",
+        "https://multitemphvac.com/Services",
+        "https://multitemphvac.com/Photos",
+        "https://multitemphvac.com/Contact"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 7,
+    "at": "2026-11-03T23:13:58.999Z",
+    "statusCounts": {
+      "200": 5,
+      "400": 2
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://multitemphvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/multitemp-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/multitemp-hvac/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/multitemp-hvac/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/multitemp-hvac/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/multitemp-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [
+      "dave@multitemphvac.com",
+      "chris@multitemphvac.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

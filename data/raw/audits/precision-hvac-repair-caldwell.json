@@ -1,0 +1,120 @@
+{
+  "firecrawl": [
+    {
+      "at": "2026-11-03T23:29:37.608Z",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://precisionclimatecontrolcaldwell.com/",
+      "purpose": "fallback: confirm HTTP 503 from second network",
+      "statusCode": 503,
+      "title": "Site not available",
+      "tel": [],
+      "mailto": [],
+      "linkCount": 1,
+      "vendors": [],
+      "screenshot": "evidence/screenshots/precision-hvac-repair-caldwell/firecrawl-desktop.png",
+      "scrapeId": "01a1a3bd-2411-738d-8d25-d3eb2213abc4",
+      "creditsUsed": 1,
+      "proxyUsed": "basic"
+    }
+  ],
+  "id": "precision-hvac-repair-caldwell",
+  "name": "Precision HVAC Repair Caldwell",
+  "website": "https://precisionclimatecontrolcaldwell.com/",
+  "auditedAt": "2026-11-03T23:09:08.035Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://precisionclimatecontrolcaldwell.com/",
+      "at": "2026-11-03T23:09:13.333Z",
+      "access": "http_error",
+      "status": 503,
+      "finalUrl": "https://precisionclimatecontrolcaldwell.com/",
+      "title": "Site not available",
+      "ms": 943,
+      "error": null,
+      "linkCount": 1
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://precisionclimatecontrolcaldwell.com/",
+      "at": "2026-11-03T23:09:18.790Z",
+      "access": "http_error",
+      "status": 503,
+      "finalUrl": "https://precisionclimatecontrolcaldwell.com/",
+      "title": "Site not available",
+      "ms": 1199,
+      "error": null,
+      "linkCount": 1
+    },
+    {
+      "step": "firecrawl_desktop",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://precisionclimatecontrolcaldwell.com/",
+      "at": "2026-11-03T23:29:37.608Z",
+      "access": "http_error",
+      "status": 503
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "http_error",
+      "status": 503,
+      "error": null,
+      "url": "https://precisionclimatecontrolcaldwell.com/"
+    },
+    {
+      "step": "mobile_home",
+      "access": "http_error",
+      "status": 503,
+      "error": null,
+      "url": "https://precisionclimatecontrolcaldwell.com/"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "http://precisionclimatecontrolcaldwell.com/",
+    "httpStatus": 503,
+    "httpError": null,
+    "httpsStatus": 503,
+    "httpsError": null,
+    "redirectsToHttps": false
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/precision-hvac-repair-caldwell/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/precision-hvac-repair-caldwell/mobile-home-access-failure.png",
+    "firecrawl_desktop": "evidence/screenshots/precision-hvac-repair-caldwell/firecrawl-desktop.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

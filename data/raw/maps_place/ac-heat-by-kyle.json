@@ -1,0 +1,25 @@
+{
+  "id": "ac-heat-by-kyle",
+  "placeUrl": "https://www.google.com/maps/place/AC+%26+Heat+by+Kyle/data=!4m7!3m6!1s0x89c2552a907e696d:0x94c188c67f714e81!8m2!3d40.7590353!4d-74.2297961!16s%2Fg%2F11jb9mh4cv!19sChIJbWl-kCpVwokRgU5xf8aIwZQ",
+  "retrievedAt": "2026-11-03T23:07:18.022Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "AC & Heat by Kyle",
+  "category": "Air conditioning contractor",
+  "address": "315 S Harrison St #713, East Orange, NJ 07018, United States ",
+  "phone": "+1 908-759-9170 ",
+  "website": "https://www.acandheatbykyle.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/AC+%26+Heat+by+Kyle/data=!4m7!3m6!1s0x89c2552a907e696d:0x94c188c67f714e81!8m2!3d40.7590353!4d-74.2297961!16s%2Fg%2F11jb9mh4cv!19sChIJbWl-kCpVwokRgU5xf8aIwZQ?hl=en",
+  "screenshot": "evidence/screenshots/ac-heat-by-kyle/google-maps-listing.png"
+}

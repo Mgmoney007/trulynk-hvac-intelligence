@@ -1,0 +1,640 @@
+{
+  "firecrawl": [],
+  "id": "ultra-air",
+  "name": "Ultra Air",
+  "website": "https://www.ultraairductless.com/",
+  "auditedAt": "2026-11-03T23:05:55.971Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.ultraairductless.com/",
+      "at": "2026-11-03T23:05:58.595Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.ultraairductless.com/",
+      "title": "[Ultra Air] - [Clifton, NJ] - [Home]",
+      "ms": 2557,
+      "error": null,
+      "linkCount": 24
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.ultraairductless.com/contact",
+      "at": "2026-11-03T23:06:02.465Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.ultraairductless.com/contact",
+      "title": "[Ultra Air] - [Clifton, NJ] - [Contact]",
+      "ms": 2989,
+      "error": null,
+      "linkCount": 25
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.ultraairductless.com/about-us",
+      "at": "2026-11-03T23:06:04.729Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.ultraairductless.com/about-us",
+      "title": "[Ultra Air] - [Clifton, NJ] - [About Us]",
+      "ms": 1996,
+      "error": null,
+      "linkCount": 24
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.ultraairductless.com/",
+      "at": "2026-11-03T23:06:18.104Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.ultraairductless.com/",
+      "title": "[Ultra Air] - [Clifton, NJ] - [Home]",
+      "ms": 1982,
+      "error": null,
+      "linkCount": 28
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.ultraairductless.com/",
+    "title": "[Ultra Air] - [Clifton, NJ] - [Home]",
+    "lang": "en",
+    "metaDescription": "Reach out to Ultra Air in Clifton, NJ today for professional heating and cooling services. We provided prompt, efficient, and reliable service!",
+    "h1": [
+      "Financing options & emergency services available!",
+      "Professional Heating and Cooling Services with over 30 Years of Experience"
+    ],
+    "viewportMeta": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 3310,
+    "bodyText": "Call us: (973) 450-1141\n \n \n \nHome\nAbout Us\nHeating & Air Conditioning\nDuctless Units\nIce Machines\nRefrigeration\nHumidifiers & Air Purifiers\nTestimonials\nContact\nModern Technology Delivered by Old Fashioned Service\nFinancing options & emergency services available! \n Professional Heating and Cooling Services with over 30 Years of Experience\nUltra Air is proud to continue providing outstanding service and products to our residential and commercial customers since 1991. From installation of air conditioning, heating and refrigeration systems, to ductless heating and cooling units, air purifiers, humidifiers, seasonal maintenance, and service contracts, we cover all of your HVAC comfort needs!\nRefrigeration services\nNeed a refrigerator installed in your restaurant? We offer refrigeration service to commercial and franchise restaurants. We service walk-in refrigerators and freezers. Follett Ice, Delfield, Norlake, Bev-air, True, Manitowoc Ice Machines, Hosizaki Ice, and Scotsman are just some of the brands we service. We have factory trained technicians. They can help you with any installation or service problems you have!\nOur team\nNot only do we have an experienced, and professional team of technicians, but we also use state-of-the-art equipment. We are up to date on all the latest tools to help finish your project on time, and within budget. We also strive to keep our prices fair by leveraging our experience and relationships with manufacturers to create a streamlined and cost-efficient process. We’re not happy until you're happy!\nFor heating and cooling services call  (973) 450-1141!\nUltra Air\n19 Main Ave.\nClifton, NJ 07014\n(973) 450-1141\nultraair@comcast.net\n \n \n \nBuilt by Vivial  |  Privacy Policy\nShare by:",
+    "links": [
+      {
+        "href": "tel:+19734501141",
+        "abs": "tel:+19734501141",
+        "text": "Call us: (973) 450-1141",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 370,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/Ultra-Air-Inc-547202161970275/",
+        "abs": "https://facebook.com/Ultra-Air-Inc-547202161970275/",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 49,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://twitter.com/UltraAirInc",
+        "abs": "https://twitter.com/UltraAirInc",
+        "text": "twitter",
+        "visible": true,
+        "aboveFold": true,
+        "h": 49,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://instagram.com/ultraairnj/",
+        "abs": "https://instagram.com/ultraairnj/",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 49,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/search?q=ultra+air+at+clifton+NJ&rlz=1C1GCEA_enPH1009PH1009&oq=ultra+air+at+clifton+NJ&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkxMDJqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#lrd=0x89c2ff42e46a0f1d:0xb8c6ddae86b017b2,1,,,,",
+        "abs": "https://www.google.com/search?q=ultra+air+at+clifton+NJ&rlz=1C1GCEA_enPH1009PH1009&oq=ultra+air+at+clifton+NJ&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkxMDJqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#lrd=0x89c2ff42e46a0f1d:0xb8c6ddae86b017b2,1,,,,",
+        "text": "google_my_business",
+        "visible": true,
+        "aboveFold": true,
+        "h": 49,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ultraairductless.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 260,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ultraairductless.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 164,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ultraairductless.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 59,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.ultraairductless.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 84,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/Heating-Air-Conditioning",
+        "abs": "https://www.ultraairductless.com/Heating-Air-Conditioning",
+        "text": "Heating & Air Conditioning",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 216,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/Ductless-Units",
+        "abs": "https://www.ultraairductless.com/Ductless-Units",
+        "text": "Ductless Units",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 123,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ice-machines",
+        "abs": "https://www.ultraairductless.com/ice-machines",
+        "text": "Ice Machines",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 112,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-refrigeration",
+        "abs": "https://www.ultraairductless.com/commercial-refrigeration",
+        "text": "Refrigeration",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 115,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/Humidifiers-Air-Purifiers",
+        "abs": "https://www.ultraairductless.com/Humidifiers-Air-Purifiers",
+        "text": "Humidifiers & Air Purifiers",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 213,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/testimonials",
+        "abs": "https://www.ultraairductless.com/testimonials",
+        "text": "Testimonials",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 108,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.ultraairductless.com/contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 75,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ultraairductless.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 220,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:ultraair@comcast.net",
+        "abs": "mailto:ultraair@comcast.net",
+        "text": "ultraair@comcast.net",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 150,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/Ultra-Air-Inc-547202161970275/",
+        "abs": "https://facebook.com/Ultra-Air-Inc-547202161970275/",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://twitter.com/UltraAirInc",
+        "abs": "https://twitter.com/UltraAirInc",
+        "text": "twitter",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://instagram.com/ultraairnj/",
+        "abs": "https://instagram.com/ultraairnj/",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/search?q=ultra+air+at+clifton+NJ&rlz=1C1GCEA_enPH1009PH1009&oq=ultra+air+at+clifton+NJ&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkxMDJqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#lrd=0x89c2ff42e46a0f1d:0xb8c6ddae86b017b2,1,,,,",
+        "abs": "https://www.google.com/search?q=ultra+air+at+clifton+NJ&rlz=1C1GCEA_enPH1009PH1009&oq=ultra+air+at+clifton+NJ&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkxMDJqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#lrd=0x89c2ff42e46a0f1d:0xb8c6ddae86b017b2,1,,,,",
+        "text": "google_my_business",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "http://www.vivial.net",
+        "abs": "http://www.vivial.net/",
+        "text": "Built by Vivial",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 84,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "http://www.vivial.net/privacy",
+        "abs": "http://www.vivial.net/privacy",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 85,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://widgets.vcdnita.com/assets/livesite.js?1793747",
+      "https://d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js",
+      "https://static.cdn-website.com/libs/bower-skrollr/skrollr.min.js",
+      "https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js",
+      "https://static.cdn-website.com/mnlt/production/6892/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js",
+      "https://static.cdn-website.com/mnlt/production/6892/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 8,
+    "timing": {
+      "dcl": 675,
+      "load": 1892,
+      "ttfb": 256
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://www.ultraairductless.com/",
+    "navMs": 2557,
+    "tel": [
+      {
+        "href": "tel:+19734501141",
+        "text": "Call us: (973) 450-1141",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19734501141"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.ultraairductless.com/",
+    "navMs": 1982,
+    "timing": {
+      "dcl": 585,
+      "load": 1252,
+      "ttfb": 192
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+19734501141",
+        "text": "Call Us",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19734501141"
+      },
+      {
+        "href": "tel:+19734501141",
+        "text": "Call Us",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19734501141"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "facebook",
+      "Call Us"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.113,
+        "sig": "hamburger-header-container hamburger-header-container p_hfcontainer ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 0.006,
+        "sig": "layout-drawer-hamburger layout-drawer-hamburger hamburger-on-header menu",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 9,
+    "brokenImages": [],
+    "textChars": 1679
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.ultraairductless.com/contact",
+      "finalUrl": "https://www.ultraairductless.com/contact",
+      "status": 200,
+      "title": "[Ultra Air] - [Clifton, NJ] - [Contact]",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "1167246842",
+          "cls": "dmRespDesignRow",
+          "fieldCount": 5,
+          "fieldNames": [
+            "dmform-0",
+            "dmform-1",
+            "dmform-2",
+            "dmform-3",
+            "g-recaptcha-response"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz&co=aHR0cHM6Ly93d3cudWx0cmFhaXJkdWN0bGVzcy5jb206NDQz&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&theme=light&size=normal&anchor-ms=20000&execute-ms=30000&cb=w1ppe82zpgjj",
+        "https://www.facebook.com/v2.6/plugins/page.php?adapt_container_width=true&app_id=221172037939312&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dffb6b6690cc8e6e7b%26domain%3Dwww.ultraairductless.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.ultraairductless.com%252Ff51eb08bfd9ca18a3%26relation%3Dparent.parent&container_width=414&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2FUltra-Air-Inc-547202161970275%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=false&tabs=timeline&width=500",
+        "https://www.google.com/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&k=6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz&bft=0dAFcWeA4xAqVIzRnYy39nJf_gsPAAhtriGjRWnA8DWK_NYDkFrfANAFm-toemD3D5tq6scYKFDHFgaBhbiqzWeA8_D64mNnyDzQ"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "ultraair@comcast.net"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19734501141",
+          "text": "Call us: (973) 450-1141",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19734501141"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Call us: (973) 450-1141\n \n \n \nHome\nAbout Us\nHeating & Air Conditioning\nDuctless Units\nIce Machines\nRefrigeration\nHumidifiers & Air Purifiers\nTestimonials\nContact\nWhether you're looking for installation, repairs, or maintenance for your heating or cooling system, count on us for prompt, affordable and honest service. Our passion is giving you the most comfortable living environment possible. Reach out to Ultra Air in Clifton, NJ today to learn more. We can’t wait to work with you!\nContact information\nUltra Air\n19 Main Ave.\nClifton, NJ 07014\n(973) 450-1141\nultraair@comcast.net\nHours of operation\nMon - Fri\n8:00 am - 4:30 pm\nSat - Sun\nClosed\nEmergency Calls Available Saturday and Sunday\nPayment methods\nWe accept  Visa, MasterCard, Discover, American Express, Cash and Check.\n\n\nFinancing options also available! \nSend us a message\nName:\nEmail:\nPhone:\nMessage:\nUltra Air\n19 Main Ave.\nClifton, NJ 07014\n(973) 450-1141\nultraair@comcast.net\n \n \n \nBuilt by Vivial  |  Privacy Policy\nShare by:",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        }
+      ],
+      "links": [
+        "https://www.ultraairductless.com/",
+        "https://www.ultraairductless.com/",
+        "https://www.ultraairductless.com/",
+        "https://www.ultraairductless.com/about-us",
+        "https://www.ultraairductless.com/Heating-Air-Conditioning",
+        "https://www.ultraairductless.com/Ductless-Units",
+        "https://www.ultraairductless.com/ice-machines",
+        "https://www.ultraairductless.com/commercial-refrigeration",
+        "https://www.ultraairductless.com/Humidifiers-Air-Purifiers",
+        "https://www.ultraairductless.com/testimonials",
+        "https://www.ultraairductless.com/contact",
+        "https://www.ultraairductless.com/"
+      ]
+    },
+    "about": {
+      "url": "https://www.ultraairductless.com/about-us",
+      "finalUrl": "https://www.ultraairductless.com/about-us",
+      "status": 200,
+      "title": "[Ultra Air] - [Clifton, NJ] - [About Us]",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "ultraair@comcast.net"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19734501141",
+          "text": "Call us: (973) 450-1141",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19734501141"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Call us: (973) 450-1141\n \n \n \nHome\nAbout Us\nHeating & Air Conditioning\nDuctless Units\nIce Machines\nRefrigeration\nHumidifiers & Air Purifiers\nTestimonials\nContact\nExpert Heating and Air Conditioning \nIf you’re looking for experience, don’t look any further. For over 30 years we have been working closely with our suppliers and our customers to create outstanding service. We believe that communication and transparency are crucial to success!\nLicensed professionals\nEstablished in 1991, Ultra Air services the North and Central Jersey area. We are licensed, EPA certified, and carry New Jersey HVAC licenses and certifications. We are also HVACR contractor certified. Our team at Ultra Air Inc are licensed professionals trained to service the residential, commercial and industrial air conditioning, heating, and refrigeration equipment.  \nInstallation and maintenance\nOur featured brands include Mitsubishi Electric, Goodman, Luxaire, Aprilaire, Follett, American Standard and more. We service and repair all brands of ice machines. We offer a range of financing options, and have emergency services available. With our thorough research and attention to detail, we get the job done right. So whether you're looking for installation, repairs, or maintenance for your heating, cooling or refrigeration system, count on us for prompt, affordable and honest service.\nFor heating and air conditioning services call  (973) 450-1141!\nUltra Air\n19 Main Ave.\nClifton, NJ 07014\n(973) 450-1141\nultraair@comcast.net\n \n \n \nBuilt by Vivial  |  Privacy Policy\nShare by:",
+      "vendors": [],
+      "links": [
+        "https://www.ultraairductless.com/",
+        "https://www.ultraairductless.com/",
+        "https://www.ultraairductless.com/",
+        "https://www.ultraairductless.com/about-us",
+        "https://www.ultraairductless.com/Heating-Air-Conditioning",
+        "https://www.ultraairductless.com/Ductless-Units",
+        "https://www.ultraairductless.com/ice-machines",
+        "https://www.ultraairductless.com/commercial-refrigeration",
+        "https://www.ultraairductless.com/Humidifiers-Air-Purifiers",
+        "https://www.ultraairductless.com/testimonials",
+        "https://www.ultraairductless.com/contact",
+        "https://www.ultraairductless.com/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 10,
+    "at": "2026-11-03T23:06:14.967Z",
+    "statusCounts": {
+      "200": 9,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.ultraairductless.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/ultra-air/desktop-home.png",
+    "desktop_full": "evidence/screenshots/ultra-air/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/ultra-air/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/ultra-air/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/ultra-air/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 1991,
+    "yearsClaim": 30,
+    "emails": [
+      "ultraair@comcast.net"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "facebook -> https://facebook.com/Ultra-Air-Inc-547202161970275/",
+      "facebook -> https://facebook.com/Ultra-Air-Inc-547202161970275/"
+    ]
+  }
+}

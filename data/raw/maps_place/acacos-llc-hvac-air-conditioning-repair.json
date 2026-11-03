@@ -1,0 +1,25 @@
+{
+  "id": "acacos-llc-hvac-air-conditioning-repair",
+  "placeUrl": "https://www.google.com/maps/place/Acacos+LLC+HVAC+%26+Air+Conditioning+Repair/data=!4m7!3m6!1s0x4775aeda8afd9b61:0x341822b5611a471f!8m2!3d40.8732931!4d-74.1765889!16s%2Fg%2F11kc32jpvw!19sChIJYZv9itqudUcRH0caYbUiGDQ",
+  "retrievedAt": "2026-11-03T23:04:17.660Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Acacos LLC HVAC & Air Conditioning Repair",
+  "category": "HVAC contractor",
+  "address": "1401 Van Houten Ave, Clifton, NJ 07013, United States ",
+  "phone": "+1 201-373-2461 ",
+  "website": "https://www.acacos.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–11 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Acacos+LLC+HVAC+%26+Air+Conditioning+Repair/data=!4m7!3m6!1s0x4775aeda8afd9b61:0x341822b5611a471f!8m2!3d40.8732931!4d-74.1765889!16s%2Fg%2F11kc32jpvw!19sChIJYZv9itqudUcRH0caYbUiGDQ?hl=en",
+  "screenshot": "evidence/screenshots/acacos-llc-hvac-air-conditioning-repair/google-maps-listing.png"
+}

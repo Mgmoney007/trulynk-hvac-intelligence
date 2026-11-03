@@ -1,0 +1,1322 @@
+{
+  "firecrawl": [],
+  "id": "master-group-hvac",
+  "name": "Master Group HVAC",
+  "website": "https://mgplumbinghvac.com/",
+  "auditedAt": "2026-11-03T23:07:41.802Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://mgplumbinghvac.com/",
+      "at": "2026-11-03T23:07:46.190Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://mgplumbinghvac.com/",
+      "title": "HVAC Contractor in Woodland Park, NJ | MG Plumbing Heating and Cooling",
+      "ms": 4351,
+      "error": null,
+      "linkCount": 62
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://mgplumbinghvac.com/home",
+      "at": "2026-11-03T23:07:50.320Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://mgplumbinghvac.com/",
+      "title": "HVAC Contractor in Woodland Park, NJ | MG Plumbing Heating and Cooling",
+      "ms": 3105,
+      "error": null,
+      "linkCount": 62
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://mgplumbinghvac.com/",
+      "at": "2026-11-03T23:08:08.231Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://mgplumbinghvac.com/",
+      "title": "HVAC Contractor in Woodland Park, NJ | MG Plumbing Heating and Cooling",
+      "ms": 4931,
+      "error": null,
+      "linkCount": 62
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://mgplumbinghvac.com/",
+    "title": "HVAC Contractor in Woodland Park, NJ | MG Plumbing Heating and Cooling",
+    "lang": "en-US",
+    "metaDescription": "MG Plumbing Heating and Cooling offers expert HVAC services in Woodland Park, NJ. Reliable heating, cooling & plumbing solutions. Call now!",
+    "h1": [
+      "HVAC Contractor in Woodland Park, NJ"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 6510,
+    "bodyText": "Skip to content\n\nContact us for a Free Quote today\n\n(973) 363-9732\nServices\nService Areas\nAbout Us\nHow It Works\nReviews\n(973) 363-9732\nHVAC Contractor in Woodland Park, NJ\n\nMG Plumbing Heating and Cooling is your trusted HVAC contractor in Woodland Park, NJ, delivering expert heating, cooling, and plumbing solutions for homes and businesses. Our skilled team ensures comfort year-round with reliable repairs, installations, and maintenance. Trust MG Plumbing Heating and Cooling for dependable service backed by local expertise.\n\nCooling Services\nHeating Services\nPlumbing Services\n\nGet your FREE\n\nQuote Today\n\nChoose Service*\n- Choose Service -\nCooling Services\nHeating Services\nPlumbing Services\nAddress\nName\nPhone\nEmail\nGet A FREE Quote\n\nBy pressing 'Get a FREE Quote' you are agreeing to our terms and conditions and privacy policy, and consenting to receive text messages. To unsubscribe, text STOP to (973) 363-9732.\n\nOUR PROCESS・ WHAT MAKES US STAND OUT\n\nProfessional HVAC Services In Woodland Park, NJ Just For You\n\nWe make heating, cooling, and plumbing simple, reliable, and stress-free!\n\nSchedule Your Appointment\n\nContact our friendly team to book a convenient time for service. We listen to your needs, answer questions, and prepare everything for a smooth visit.\n\nExpert On-Site Assessment\n\nOur certified HVAC and plumbing technicians arrive on time, inspect your system, and clearly explain your best repair or replacement options.\n\nReliable Service & Follow-Up\n\nWe complete the work with precision, ensure everything functions perfectly, and follow up to confirm your total satisfaction.\n\nGet A Free Quote\n\nTESTIMONIALS ・ WHAT CLIENTS SAY ABOUT US\n\nWhat Our Clients Say About MG Plumbing Heating And Cooling In Woodland Park, NJ\n\nDiscover why homeowners and businesses trust us for dependable HVAC and plumbing services backed by skilled workmanship and local expertise.\n\nGet A Free Quote\n\nAbout Us\n\nMG Plumbing Heating and Cooling\nMG Plumbing Heating and Cooling is a locally trusted HVAC contractor serving Woodland Park, NJ. With years of hands-on experience, we deliver high-quality heating, cooling, and plumbing solutions for homes and businesses. Our licensed team values punctuality, transparency, and lasting results — ensuring every job is done right the first time.\nLocal Expertise: We understand Woodland Park’s seasonal challenges and tailor our HVAC and plumbing services to keep you comfortable year-round.\nFull-Service Solutions: One call covers heating, cooling, and plumbing needs for your home or business, saving you time and hassle.\nCommitment to Quality: From premium parts to skilled workmanship, we prioritize durability and performance in every project we take on.\nGet A Free Quote\nGot Questions? We’ve Got Answers!\nFrequently Asked Questions\n\nWe hear these a lot. So, we figured we'd put the answers right here to save everyone some time. \n\nGet In Touch With Us\n\nFeel free to reach out to us anytime.\nWe're here to help!\n\nPhone Number\n\n(973) 363-9732\n\nEmail\n\noffice@mastergroupnj.com\n\nAddress\n\n22 Hillery St, Woodland Park, NJ 07424, United States\n\nSend Us a Message\nName \nEnter Full Address \nEmail \nPhone \nChoose Service \n- Choose Service -\nCooling Services\nHeating Services\nPlumbing Services\nMessage \nSubmit\nQuick Links\nServices\nAbout Us\nHow It Works\nReviews\nServices\nCooling Services\nHeating Services\nPlumbing Services\nService Areas\nPassaic County, NJ\nMorris County, NJ\nView All Service Areas\n© 2025 MG Plumbing Heating and Cooling. All rights reserved.",
+    "links": [
+      {
+        "href": "#content",
+        "abs": "https://mgplumbinghvac.com/#content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-363-9732",
+        "abs": "tel:973-363-9732",
+        "text": "(973) 363-9732",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 192,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com",
+        "abs": "https://mgplumbinghvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 133,
+        "w": 100,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/",
+        "abs": "https://mgplumbinghvac.com/services/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 131,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "text": "Plumbing Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "text": "Heating Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "text": "Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/",
+        "abs": "https://mgplumbinghvac.com/service-areas/",
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 176,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "abs": "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "text": "Passaic County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "abs": "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "text": "Morris County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/home/#about",
+        "abs": "https://mgplumbinghvac.com/home/#about",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 110,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/home/#process",
+        "abs": "https://mgplumbinghvac.com/home/#process",
+        "text": "How It Works",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 145,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/home/#reviews",
+        "abs": "https://mgplumbinghvac.com/home/#reviews",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 103,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/",
+        "abs": "https://mgplumbinghvac.com/services/",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "text": "Plumbing Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "text": "Heating Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "text": "Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/",
+        "abs": "https://mgplumbinghvac.com/service-areas/",
+        "text": "Service Areas",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "abs": "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "text": "Passaic County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "abs": "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "text": "Morris County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/home/#about",
+        "abs": "https://mgplumbinghvac.com/home/#about",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/home/#process",
+        "abs": "https://mgplumbinghvac.com/home/#process",
+        "text": "How It Works",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/home/#reviews",
+        "abs": "https://mgplumbinghvac.com/home/#reviews",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-363-9732",
+        "abs": "tel:973-363-9732",
+        "text": "(973) 363-9732",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 183,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://mgplumbinghvac.com/#",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 379,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://mgplumbinghvac.com/#contact",
+        "text": "Get A Free Quote",
+        "visible": true,
+        "aboveFold": false,
+        "h": 58,
+        "w": 243,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 43,
+        "w": 168,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 43,
+        "w": 168,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 43,
+        "w": 168,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://mgplumbinghvac.com/#contact",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 58,
+        "w": 243,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://mgplumbinghvac.com/#contact",
+        "text": "Get A Free Quote",
+        "visible": true,
+        "aboveFold": false,
+        "h": 58,
+        "w": 243,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.wpnj.us/",
+        "abs": "https://www.wpnj.us/",
+        "text": "Woodland Park, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 169,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://mgplumbinghvac.com/#contact",
+        "text": "Get A Free Quote",
+        "visible": true,
+        "aboveFold": false,
+        "h": 58,
+        "w": 243,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-363-9732",
+        "abs": "tel:973-363-9732",
+        "text": "Phone Number",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 38,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:973-363-9732",
+        "abs": "tel:973-363-9732",
+        "text": "Phone Number",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 111,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:office@mastergroupnj.com",
+        "abs": "mailto:office@mastergroupnj.com",
+        "text": "Email",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 38,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:office@mastergroupnj.com",
+        "abs": "mailto:office@mastergroupnj.com",
+        "text": "Email",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://maps.app.goo.gl/zfdjjLRtop15um2N6",
+        "abs": "https://maps.app.goo.gl/zfdjjLRtop15um2N6",
+        "text": "Address",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 38,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://maps.app.goo.gl/zfdjjLRtop15um2N6",
+        "abs": "https://maps.app.goo.gl/zfdjjLRtop15um2N6",
+        "text": "Address",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 61,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com",
+        "abs": "https://mgplumbinghvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 109,
+        "w": 118,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://mgplumbinghvac.com/#",
+        "text": "Instagram",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://mgplumbinghvac.com/#",
+        "text": "Facebook",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/",
+        "abs": "https://mgplumbinghvac.com/services/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 165,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/home#about",
+        "abs": "https://mgplumbinghvac.com/home#about",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 165,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/home#process",
+        "abs": "https://mgplumbinghvac.com/home#process",
+        "text": "How It Works",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 165,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/home#reviews",
+        "abs": "https://mgplumbinghvac.com/home#reviews",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 165,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/",
+        "abs": "https://mgplumbinghvac.com/services/",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/home#about",
+        "abs": "https://mgplumbinghvac.com/home#about",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/home#process",
+        "abs": "https://mgplumbinghvac.com/home#process",
+        "text": "How It Works",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/home#reviews",
+        "abs": "https://mgplumbinghvac.com/home#reviews",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "text": "Cooling Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 165,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "text": "Heating Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 165,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "text": "Plumbing Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 165,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "text": "Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "text": "Heating Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "abs": "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "text": "Plumbing Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "abs": "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "text": "Passaic County, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 212,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "abs": "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "text": "Morris County, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 212,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/",
+        "abs": "https://mgplumbinghvac.com/service-areas/",
+        "text": "View All Service Areas",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 212,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "abs": "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "text": "Passaic County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "abs": "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "text": "Morris County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://mgplumbinghvac.com/service-areas/",
+        "abs": "https://mgplumbinghvac.com/service-areas/",
+        "text": "View All Service Areas",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Get A FREE Quote",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Submit",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "post",
+        "id": "",
+        "cls": "elementor-form",
+        "fieldCount": 6,
+        "fieldNames": [
+          "form_fields[field_b8d57e2]",
+          "form_fields[address]",
+          "form_fields[name]",
+          "form_fields[phone]",
+          "form_fields[email]",
+          "g-recaptcha-response"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": null,
+        "method": "post",
+        "id": "",
+        "cls": "elementor-form",
+        "fieldCount": 7,
+        "fieldNames": [
+          "form_fields[field_0cb03e5]",
+          "form_fields[address]",
+          "form_fields[field_7f7e69c]",
+          "form_fields[field_25805e6]",
+          "form_fields[field_6ae8d6b]",
+          "form_fields[message]",
+          "g-recaptcha-response"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfT7LArAAAAADqtCb8vPrR9Ol7mXbGrCpe7Zdvp&co=aHR0cHM6Ly9tZ3BsdW1iaW5naHZhYy5jb206NDQz&hl=en&type=v3&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&badge=bottomleft&sa=Form&anchor-ms=20000&execute-ms=30000&cb=1jb7i4mdyc13",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfT7LArAAAAADqtCb8vPrR9Ol7mXbGrCpe7Zdvp&co=aHR0cHM6Ly9tZ3BsdW1iaW5naHZhYy5jb206NDQz&hl=en&type=v3&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&badge=bottomleft&sa=Form&anchor-ms=20000&execute-ms=30000&cb=pb69trq5avyz",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.53296347227!2d-74.2021981239647!3d40.904058671365355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6014d91860277117%3A0x45f1a619896eecdf!2sMG%20Plumbing%2CHeating%2CCooling%26Electrical!5e0!3m2!1sen!2sau!4v1754867758009!5m2!1sen!2sau"
+    ],
+    "scripts": [
+      "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__en.js",
+      "https://mgplumbinghvac.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://mgplumbinghvac.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.34.1",
+      "https://mgplumbinghvac.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.5",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.34.1",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.34.1",
+      "https://mgplumbinghvac.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.34.1",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.7.8",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.7.8",
+      "https://www.google.com/recaptcha/api.js?render=explicit&ver=3.34.0",
+      "https://cdn.trustindex.io/loader.js?ver=1",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.34.0",
+      "https://mgplumbinghvac.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6",
+      "https://mgplumbinghvac.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.34.0",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.34.0",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.7.8",
+      "https://mgplumbinghvac.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.7.8"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://mgplumbinghvac.com/",
+            "url": "https://mgplumbinghvac.com/",
+            "name": "HVAC Contractor in Woodland Park, NJ | MG Plumbing Heating and Cooling",
+            "isPartOf": {
+              "@id": "https://mgplumbinghvac.com/#website"
+            },
+            "about": {
+              "@id": "https://mgplumbinghvac.com/#organization"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://mgplumbinghvac.com/#primaryimage"
+            },
+            "image": {
+              "@id": "https://mgplumbinghvac.com/#primaryimage"
+            },
+            "thumbnailUrl": "https://mgplumbinghvac.com/wp-content/uploads/2025/02/67115003f90caba871b24da3_reviews.webp",
+            "datePublished": "2025-02-27T21:50:34+00:00",
+            "dateModified": "2025-08-24T22:31:46+00:00",
+            "description": "MG Plumbing Heating and Cooling offers expert HVAC services in Woodland Park, NJ. Reliable heating, cooling & plumbing solutions. Call now!",
+            "breadcrumb": {
+              "@id": "https://mgplumbinghvac.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://mgplumbinghvac.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://mgplumbinghvac.com/#primaryimage",
+            "url": "https://mgplumbinghvac.com/wp-content/uploads/2025/02/67115003f90caba871b24da3_reviews.webp",
+            "contentUrl": "https://mgplumbinghvac.com/wp-content/uploads/2025/02/67115003f90caba871b24da3_reviews.webp",
+            "width": 1046,
+            "height": 93
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://mgplumbinghvac.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://mgplumbinghvac.com/#website",
+            "url": "https://mgplumbinghvac.com/",
+            "name": "MG Plumbing Heating and Cooling",
+            "description": "",
+            "publisher": {
+              "@id": "https://mgplumbinghvac.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mgplumbinghvac.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://mgplumbinghvac.com/#organization",
+            "name": "MG Plumbing Heating and Cooling",
+            "url": "https://mgplumbinghvac.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://mgplumbinghvac.com/#/schema/logo/image/",
+              "url": "https://mgplumbinghvac.com/wp-content/uploads/2025/08/logo-mg.png",
+              "contentUrl": "https://mgplumbinghvac.com/wp-content/uploads/2025/08/logo-mg.png",
+              "width": 966,
+              "height": 1280,
+              "caption": "MG Plumbing Heating and Cooling"
+            },
+            "image": {
+              "@id": "https://mgplumbinghvac.com/#/schema/logo/image/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How quickly can MG Plumbing Heating and Cooling respond to emergencies?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We offer prompt service in Woodland Park, NJ, often arriving the same day for urgent HVAC or plumbing issues. Our team prioritizes your comfort and safety."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you service both residential and commercial properties?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — MG Plumbing Heating and Cooling provides expert heating, cooling, and plumbing solutions for homes, offices, and commercial spaces in Woodland Park."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How can I extend the life of my HVAC system?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Regular maintenance is key. MG Plumbing Heating and Cooling offers seasonal tune-ups to improve efficiency, reduce repairs, and extend system life."
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 8,
+    "timing": {
+      "dcl": 2464,
+      "load": 3248,
+      "ttfb": 461
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "requestStorageAccess: Permission denied.",
+      "requestStorageAccess: Permission denied."
+    ],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.003,
+        "sig": " grecaptcha-badge ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://mgplumbinghvac.com/",
+    "navMs": 4351,
+    "tel": [
+      {
+        "href": "tel:973-363-9732",
+        "text": "(973) 363-9732",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733639732"
+      },
+      {
+        "href": "tel:973-363-9732",
+        "text": "(973) 363-9732",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733639732"
+      },
+      {
+        "href": "tel:973-363-9732",
+        "text": "Phone Number",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733639732"
+      },
+      {
+        "href": "tel:973-363-9732",
+        "text": "Phone Number",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733639732"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Google reCAPTCHA",
+        "kind": "captcha"
+      },
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://mgplumbinghvac.com/",
+    "navMs": 4931,
+    "timing": {
+      "dcl": 2855,
+      "load": 3846,
+      "ttfb": 258
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:973-363-9732",
+        "text": "(973) 363-9732",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733639732"
+      },
+      {
+        "href": "tel:973-363-9732",
+        "text": "(973) 363-9732",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733639732"
+      },
+      {
+        "href": "tel:973-363-9732",
+        "text": "Phone Number",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733639732"
+      },
+      {
+        "href": "tel:973-363-9732",
+        "text": "Phone Number",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733639732"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 10,
+    "visibleNavLinks": 12,
+    "brokenImages": [],
+    "textChars": 3144
+  },
+  "pages": {
+    "about": {
+      "url": "https://mgplumbinghvac.com/home",
+      "finalUrl": "https://mgplumbinghvac.com/",
+      "status": 200,
+      "title": "HVAC Contractor in Woodland Park, NJ | MG Plumbing Heating and Cooling",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "",
+          "cls": "elementor-form",
+          "fieldCount": 6,
+          "fieldNames": [
+            "form_fields[field_b8d57e2]",
+            "form_fields[address]",
+            "form_fields[name]",
+            "form_fields[phone]",
+            "form_fields[email]",
+            "g-recaptcha-response"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": null,
+          "method": "post",
+          "id": "",
+          "cls": "elementor-form",
+          "fieldCount": 7,
+          "fieldNames": [
+            "form_fields[field_0cb03e5]",
+            "form_fields[address]",
+            "form_fields[field_7f7e69c]",
+            "form_fields[field_25805e6]",
+            "form_fields[field_6ae8d6b]",
+            "form_fields[message]",
+            "g-recaptcha-response"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfT7LArAAAAADqtCb8vPrR9Ol7mXbGrCpe7Zdvp&co=aHR0cHM6Ly9tZ3BsdW1iaW5naHZhYy5jb206NDQz&hl=en&type=v3&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&badge=bottomleft&sa=Form&anchor-ms=20000&execute-ms=30000&cb=hc5a7ngow5zh",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfT7LArAAAAADqtCb8vPrR9Ol7mXbGrCpe7Zdvp&co=aHR0cHM6Ly9tZ3BsdW1iaW5naHZhYy5jb206NDQz&hl=en&type=v3&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&badge=bottomleft&sa=Form&anchor-ms=20000&execute-ms=30000&cb=fez82cg6cnbo",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.53296347227!2d-74.2021981239647!3d40.904058671365355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6014d91860277117%3A0x45f1a619896eecdf!2sMG%20Plumbing%2CHeating%2CCooling%26Electrical!5e0!3m2!1sen!2sau!4v1754867758009!5m2!1sen!2sau"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "office@mastergroupnj.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:973-363-9732",
+          "text": "(973) 363-9732",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733639732"
+        },
+        {
+          "href": "tel:973-363-9732",
+          "text": "(973) 363-9732",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733639732"
+        },
+        {
+          "href": "tel:973-363-9732",
+          "text": "Phone Number",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733639732"
+        },
+        {
+          "href": "tel:973-363-9732",
+          "text": "Phone Number",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19733639732"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n\nContact us for a Free Quote today\n\n(973) 363-9732\nServices\nService Areas\nAbout Us\nHow It Works\nReviews\n(973) 363-9732\nHVAC Contractor in Woodland Park, NJ\n\nMG Plumbing Heating and Cooling is your trusted HVAC contractor in Woodland Park, NJ, delivering expert heating, cooling, and plumbing solutions for homes and businesses. Our skilled team ensures comfort year-round with reliable repairs, installations, and maintenance. Trust MG Plumbing Heating and Cooling for dependable service backed by local expertise.\n\nCooling Services\nHeating Services\nPlumbing Services\n\nGet your FREE\n\nQuote Today\n\nChoose Service*\n- Choose Service -\nCooling Services\nHeating Services\nPlumbing Services\nAddress\nName\nPhone\nEmail\nGet A FREE Quote\n\nBy pressing 'Get a FREE Quote' you are agreeing to our terms and conditions and privacy policy, and consenting to receive text messages. To unsubscribe, text STOP to (973) 363-9732.\n\nOUR PROCESS・ WHAT MAKES US STAND OUT\n\nProfessional HVAC Services In Woodland Park, NJ Just For You\n\nWe make heating, cooling, and plumbing simple, reliable, and stress-free!\n\nSchedule Your Appointment\n\nContact our friendly team to book a convenient time for service. We listen to your needs, answer questions, and prepare everything for a smooth visit.\n\nExpert On-Site Assessment\n\nOur certified HVAC and plumbing technicians arrive on time, inspect your system, and clearly explain your best repair or replacement options.\n\nReliable Service & Follow-Up\n\nWe complete the work with precision, ensure everything functions perfectly, and follow up to confirm your total satisfaction.\n\nGet A Free Quote\n\nTESTIMONIALS ・ WHAT CLIENTS SAY ABOUT US\n\nWhat Our Clients Say About MG Plumbing Heating And Cooling In Woodland Park, NJ\n\nDiscover why homeowners and businesses trust us for dependable HVAC and plumbing services backed by skilled workmanship and local expertise.\n\nGet A Free Quote\n\nAbout Us\n\nMG Plumbing Heating and Cooling\nMG Plumbing Heating and Cooling is a locally trusted HVAC contractor serving Woodland Park, NJ. With years of hands-on experience, we deliver high-quality heating, cooling, and plumbing solutions for homes and businesses. Our licensed team values punctuality, transparency, and lasting results — ensuring every job is done right the first time.\nLocal Expertise: We understand Woodland Park’s seasonal challenges and tailor our HVAC and plumbing services to keep you comfortable year-round.\nFull-Service Solutions: One call covers heating, cooling, and plumbing needs for your home or business, saving you time and hassle.\nCommitment to Quality: From premium parts to skilled workmanship, we prioritize durability and performance in every project we take on.\nGet A Free Quote\nGot Questions? We’ve Got Answers!\nFrequently Asked Questions\n\nWe hear these a lot. So, we figured we'd put the answers right here to save everyone some time. \n\nGet In Touch With Us\n\nFeel free to reach out to us anytime.\nWe're here to help!\n\nPhone Number\n\n(973) 363-9732\n\nEmail\n\noffice@mastergroupnj.com\n\nAddress\n\n22 Hillery St, Woodland Park, NJ 07424, United States\n\nSend Us a Message\nName \nEnter Full Address \nEmail \nPhone \nChoose Service \n- Choose Service -\nCooling Services\nHeating Services\nPlumbing Services\nMessage \nSubmit\nQuick Links\nServices\nAbout Us\nHow It Works\nReviews\nServices\nCooling Services\nHeating Services\nPlumbing Services\nService Areas\nPassaic County, NJ\nMorris County, NJ\nView All Service Areas\n© 2025 MG Plumbing Heating and Cooling. All rights reserved.",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://mgplumbinghvac.com/#content",
+        "https://mgplumbinghvac.com/",
+        "https://mgplumbinghvac.com/services/",
+        "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/service-areas/",
+        "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "https://mgplumbinghvac.com/home/#about",
+        "https://mgplumbinghvac.com/home/#process",
+        "https://mgplumbinghvac.com/home/#reviews",
+        "https://mgplumbinghvac.com/services/",
+        "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/service-areas/",
+        "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "https://mgplumbinghvac.com/home/#about",
+        "https://mgplumbinghvac.com/home/#process",
+        "https://mgplumbinghvac.com/home/#reviews",
+        "https://mgplumbinghvac.com/#",
+        "https://mgplumbinghvac.com/#contact",
+        "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/#contact",
+        "https://mgplumbinghvac.com/#contact",
+        "https://mgplumbinghvac.com/#contact",
+        "https://mgplumbinghvac.com/",
+        "https://mgplumbinghvac.com/#",
+        "https://mgplumbinghvac.com/#",
+        "https://mgplumbinghvac.com/services/",
+        "https://mgplumbinghvac.com/home#about",
+        "https://mgplumbinghvac.com/home#process",
+        "https://mgplumbinghvac.com/home#reviews",
+        "https://mgplumbinghvac.com/services/",
+        "https://mgplumbinghvac.com/home#about",
+        "https://mgplumbinghvac.com/home#process",
+        "https://mgplumbinghvac.com/home#reviews",
+        "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/cooling-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/heating-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/services/plumbing-services-woodland-park-nj/",
+        "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "https://mgplumbinghvac.com/service-areas/",
+        "https://mgplumbinghvac.com/service-areas/passaic-county-nj/",
+        "https://mgplumbinghvac.com/service-areas/morris-county-nj/",
+        "https://mgplumbinghvac.com/service-areas/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 10,
+    "at": "2026-11-03T23:08:02.479Z",
+    "statusCounts": {
+      "200": 10
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://mgplumbinghvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/master-group-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/master-group-hvac/desktop-home-full.png",
+    "desktop_about": "evidence/screenshots/master-group-hvac/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/master-group-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": true
+    },
+    "copyrightYear": 2025,
+    "emails": [
+      "office@mastergroupnj.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Get A Free Quote -> https://mgplumbinghvac.com/#contact",
+      "Get A Free Quote -> https://mgplumbinghvac.com/#contact",
+      "Get A Free Quote -> https://mgplumbinghvac.com/#contact",
+      "Facebook -> https://mgplumbinghvac.com/#"
+    ]
+  }
+}

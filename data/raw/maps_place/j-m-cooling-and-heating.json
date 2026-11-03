@@ -1,0 +1,25 @@
+{
+  "id": "j-m-cooling-and-heating",
+  "placeUrl": "https://www.google.com/maps/place/J%26M+Cooling+and+Heating/data=!4m7!3m6!1s0x89c30085a0abffff:0xb64929f5dba5bc95!8m2!3d40.8734903!4d-74.2901915!16s%2Fg%2F11gmyx5vtc!19sChIJ__-roIUAw4kRlbyl2_UpSbY",
+  "retrievedAt": "2026-11-03T23:10:52.541Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "J&M Cooling and Heating",
+  "category": "Furnace repair service",
+  "address": "14 Spielman Rd, Fairfield, NJ 07004, United States ",
+  "phone": "+1 862-407-4325 ",
+  "website": "https://jmcoolingheating.com/furnace-repair/?utm_source=gbp&utm_medium=organic",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/J%26M+Cooling+and+Heating/data=!4m7!3m6!1s0x89c30085a0abffff:0xb64929f5dba5bc95!8m2!3d40.8734903!4d-74.2901915!16s%2Fg%2F11gmyx5vtc!19sChIJ__-roIUAw4kRlbyl2_UpSbY?hl=en",
+  "screenshot": "evidence/screenshots/j-m-cooling-and-heating/google-maps-listing.png"
+}

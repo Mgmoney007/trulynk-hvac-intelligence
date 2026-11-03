@@ -1,0 +1,129 @@
+{
+  "firecrawl": [
+    {
+      "at": "2026-11-03T23:29:38.336Z",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://www.totalcomfort.biz/",
+      "purpose": "fallback: Cloudflare challenge unreachable from research environment",
+      "statusCode": 200,
+      "title": "Bergen County HVAC & Plumbing | Total Comfort Services LLC",
+      "tel": [
+        {
+          "href": "tel:2013081757",
+          "e164": "+12013081757"
+        },
+        {
+          "href": "tel:(201) 308-1757",
+          "e164": "+12013081757"
+        }
+      ],
+      "mailto": [],
+      "linkCount": 7,
+      "vendors": [],
+      "screenshot": "evidence/screenshots/total-comfort-services-llc/firecrawl-desktop.png",
+      "scrapeId": "01a1a3bd-2411-74fb-8cd3-9a93de833f0d",
+      "creditsUsed": 1,
+      "proxyUsed": "basic"
+    }
+  ],
+  "id": "total-comfort-services-llc",
+  "name": "Total Comfort Services LLC",
+  "website": "https://www.totalcomfort.biz/?utm_source=gbp",
+  "auditedAt": "2026-11-03T22:58:58.910Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.totalcomfort.biz/?utm_source=gbp",
+      "at": "2026-11-03T22:59:52.456Z",
+      "access": "challenge",
+      "status": 403,
+      "finalUrl": "https://www.totalcomfort.biz/?utm_source=gbp",
+      "title": "Just a moment...",
+      "ms": 24879,
+      "error": null,
+      "linkCount": 2
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.totalcomfort.biz/?utm_source=gbp",
+      "at": "2026-11-03T23:00:45.863Z",
+      "access": "challenge",
+      "status": 403,
+      "finalUrl": "https://www.totalcomfort.biz/?utm_source=gbp",
+      "title": "Just a moment...",
+      "ms": 24743,
+      "error": null,
+      "linkCount": 2
+    },
+    {
+      "step": "firecrawl_desktop",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://www.totalcomfort.biz/",
+      "at": "2026-11-03T23:29:38.336Z",
+      "access": "ok",
+      "status": 200
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "challenge",
+      "status": 403,
+      "error": null,
+      "url": "https://www.totalcomfort.biz/?utm_source=gbp"
+    },
+    {
+      "step": "mobile_home",
+      "access": "challenge",
+      "status": 403,
+      "error": null,
+      "url": "https://www.totalcomfort.biz/?utm_source=gbp"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "https://www.totalcomfort.biz/",
+    "httpStatus": 403,
+    "httpError": null,
+    "httpsStatus": 403,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/total-comfort-services-llc/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/total-comfort-services-llc/mobile-home-access-failure.png",
+    "firecrawl_desktop": "evidence/screenshots/total-comfort-services-llc/firecrawl-desktop.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

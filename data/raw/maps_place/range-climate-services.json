@@ -1,0 +1,25 @@
+{
+  "id": "range-climate-services",
+  "placeUrl": "https://www.google.com/maps/place/Range+Climate+Services/data=!4m7!3m6!1s0x89c25306d56ae627:0xafff21b9e6b86846!8m2!3d40.7195674!4d-74.1453954!16s%2Fg%2F11yybvf6k_!19sChIJJ-Zq1QZTwokRRmi45rkh_68",
+  "retrievedAt": "2026-11-03T23:12:06.078Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Range Climate Services",
+  "category": "HVAC contractor",
+  "address": "300 Wilson Ave #3, Newark, NJ 07105, United States ",
+  "phone": "+1 973-381-5095 ",
+  "website": "https://rangeclimateservices.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Range+Climate+Services/data=!4m7!3m6!1s0x89c25306d56ae627:0xafff21b9e6b86846!8m2!3d40.7195674!4d-74.1453954!16s%2Fg%2F11yybvf6k_!19sChIJJ-Zq1QZTwokRRmi45rkh_68?hl=en",
+  "screenshot": "evidence/screenshots/range-climate-services/google-maps-listing.png"
+}

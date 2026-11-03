@@ -1,0 +1,25 @@
+{
+  "id": "bloomfield-cooling-heating-electric-inc",
+  "placeUrl": "https://www.google.com/maps/place/Bloomfield+Cooling,+Heating+%26+Electric+Inc./data=!4m7!3m6!1s0x89c25589ffbaeebf:0xab53c5e140ed597f!8m2!3d40.8845124!4d-74.2236874!16s%2Fg%2F1tfm2c73!19sChIJv-66_4lVwokRf1ntQOHFU6s",
+  "retrievedAt": "2026-11-03T23:07:28.690Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Bloomfield Cooling, Heating & Electric Inc.",
+  "category": "HVAC contractor",
+  "address": "127 Paterson Ave, Little Falls Township, NJ 07424, United States ",
+  "phone": "+1 973-237-0505 ",
+  "website": "http://www.bloomfieldcooling.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7:30 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Bloomfield+Cooling,+Heating+%26+Electric+Inc./data=!4m7!3m6!1s0x89c25589ffbaeebf:0xab53c5e140ed597f!8m2!3d40.8845124!4d-74.2236874!16s%2Fg%2F1tfm2c73!19sChIJv-66_4lVwokRf1ntQOHFU6s?hl=en",
+  "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/google-maps-listing.png"
+}

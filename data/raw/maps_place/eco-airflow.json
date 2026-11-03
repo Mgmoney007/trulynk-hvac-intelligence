@@ -1,0 +1,25 @@
+{
+  "id": "eco-airflow",
+  "placeUrl": "https://www.google.com/maps/place/Eco+AirFlow/data=!4m7!3m6!1s0x89c2fc0cb8c817cd:0xe827ca76bd1161b7!8m2!3d40.9132512!4d-74.1311725!16s%2Fg%2F11fnypdnb7!19sChIJzRfIuAz8wokRt2ERvXbKJ-g",
+  "retrievedAt": "2026-11-03T22:58:56.997Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Eco AirFlow",
+  "category": "HVAC contractor",
+  "address": "2 Donor Ave, Elmwood Park, NJ 07407, United States ",
+  "phone": "+1 551-444-8340 ",
+  "website": "http://www.ecoairflownj.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Eco+AirFlow/data=!4m7!3m6!1s0x89c2fc0cb8c817cd:0xe827ca76bd1161b7!8m2!3d40.9132512!4d-74.1311725!16s%2Fg%2F11fnypdnb7!19sChIJzRfIuAz8wokRt2ERvXbKJ-g?hl=en",
+  "screenshot": "evidence/screenshots/eco-airflow/google-maps-listing.png"
+}

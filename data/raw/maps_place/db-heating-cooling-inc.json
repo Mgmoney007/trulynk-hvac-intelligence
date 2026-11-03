@@ -1,0 +1,25 @@
+{
+  "id": "db-heating-cooling-inc",
+  "placeUrl": "https://www.google.com/maps/place/DB+Heating+%26+Cooling,+Inc./data=!4m7!3m6!1s0x89c2ef8b74b389f5:0x891385bdf052d3ac!8m2!3d41.0165827!4d-74.1214135!16s%2Fg%2F1tsbn17r!19sChIJ9YmzdIvvwokRrNNS8L2FE4k",
+  "retrievedAt": "2026-11-03T22:58:24.619Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "DB Heating & Cooling, Inc.",
+  "category": "HVAC contractor",
+  "address": "119 Franklin Tpke, Waldwick, NJ 07463, United States ",
+  "phone": "+1 201-478-8012 ",
+  "website": "https://www.dbheatingandcooling.com/?utm_source=gbp&utm_medium=organic",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8:30 AM–4:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/DB+Heating+%26+Cooling,+Inc./data=!4m7!3m6!1s0x89c2ef8b74b389f5:0x891385bdf052d3ac!8m2!3d41.0165827!4d-74.1214135!16s%2Fg%2F1tsbn17r!19sChIJ9YmzdIvvwokRrNNS8L2FE4k?hl=en",
+  "screenshot": "evidence/screenshots/db-heating-cooling-inc/google-maps-listing.png"
+}

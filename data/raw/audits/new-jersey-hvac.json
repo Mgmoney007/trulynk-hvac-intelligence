@@ -1,0 +1,1687 @@
+{
+  "firecrawl": [],
+  "id": "new-jersey-hvac",
+  "name": "New Jersey HVAC",
+  "website": "https://www.newjerseyhvac.net/",
+  "auditedAt": "2026-11-03T22:56:58.417Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.newjerseyhvac.net/",
+      "at": "2026-11-03T22:57:02.463Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.newjerseyhvac.net/",
+      "title": "New Jersey HVAC | Heating & Air Conditioning Services",
+      "ms": 3997,
+      "error": null,
+      "linkCount": 85
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.newjerseyhvac.net/contact-us/",
+      "at": "2026-11-03T22:57:05.079Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.newjerseyhvac.net/contact-us/",
+      "title": "Contact New Jersey HVAC | Saddle Brook, NJ",
+      "ms": 1530,
+      "error": null,
+      "linkCount": 74
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.newjerseyhvac.net/about-us/",
+      "at": "2026-11-03T22:57:07.591Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.newjerseyhvac.net/about-us/",
+      "title": "About New Jersey HVAC | Heating & Cooling Experts",
+      "ms": 1903,
+      "error": null,
+      "linkCount": 71
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.newjerseyhvac.net/",
+      "at": "2026-11-03T22:57:42.753Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.newjerseyhvac.net/",
+      "title": "New Jersey HVAC | Heating & Air Conditioning Services",
+      "ms": 4481,
+      "error": null,
+      "linkCount": 85
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.newjerseyhvac.net/",
+    "title": "New Jersey HVAC | Heating & Air Conditioning Services",
+    "lang": "en-US",
+    "metaDescription": "Cut costs, maximize energy efficiency with our HVAC engineering designs. We’re always available when you need us most—day or night. Learn more.",
+    "h1": [
+      "New Jersey HVAC Design Partner",
+      "New Jersey HVAC Design Partner"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5131,
+    "bodyText": "Skip to content\n49 MARKET ST, SADDLE BROOK\nADMIN@NEWJERSEYHVAC.NET\n(201) 286-3036\nFacebook\n \nTwitter\n \nLinkedin\nServices\nAbout Us\nBlog\nContact Us\nReviews\nPayment\nGET AN ESTIMATE\nReliable HVAC Partner in New Jersey\nNJ HVAC LIC # 19HC00491900\nCut costs, maximize energy efficiency with our HVAC engineering designs\nGET AN ESTIMATE\nNew Jersey HVAC Design Partner\nNJ HVAC LIC # 19HC00491900\nCut costs, maximize energy efficiency with our HVAC engineering designs\nGET AN ESTIMATE\nReliable HVAC Partner in New Jersey\nNJ HVAC LIC # 19HC00491900\nCut costs, maximize energy efficiency with our HVAC engineering designs\nGET AN ESTIMATE\nNew Jersey HVAC Design Partner\nNJ HVAC LIC # 19HC00491900\nCut costs, maximize energy efficiency with our HVAC engineering designs\nGET AN ESTIMATE\nDesign Help Hotline\n\nContact New Jersey Hvac Hotline. We speak English and Spanish. A NJ state licensed HVAC mechanical engineer will help you to solve your HEATING AND COOLING needs at your location.\n\n(201) 286-3036\n(201) 374-2366\n24/7 Emergency Service\n\nWe’re always available when you need us most—day or night.\n\nLicensed & Insured Technicians\n\nEvery job is handled by qualified, trusted professionals.\n\nHonest, Upfront Pricing\n\nNo hidden fees—just fair quotes you can count on.\n\n20+ Years of Experience\n\nDecades of HVAC expertise serving homes across New Jersey.\n\n0\nYears Of Experience\nAbout Us\n\nHVAC is an acronym that stands for Heating, Ventilation and Air Conditioning. Engineers normally design these systems together because their operation is closely related. \n\nFor example, once the indoor air supply is heated or cooled to an adequate temperature, the ventilation system distributes it throughout indoor spaces. \n\nIn turn, the operation of air-handling systems influences the load on heating and cooling equipment\n\nLEARN MORE\nHVAC: Heating, Ventilation & Air Conditioning\n0\n+\nCertified Technicians\n0\n+\nHappy Customers\n0\n+\nCompleted Projects\n0\n+\nEmergency Calls Handled\nCentral Air Installation\n\nPlease contact New Jersey HVAC to get further information related the system you may need to be installed, serviced and/or totally replaced at your home.\n\nLEARN MORE\nCondensers\n\nPlease contact New Jersey HVAC to get further information related the condensers system you may need to be installed, serviced and/or totally replaced at your home.\n\nLEARN MORE\nAir Handlers\n\nPlease contact New Jersey HVAC to get further information related the air handlers system you may need to be installed, serviced and/or totally replaced at your home.\n\nLEARN MORE\nHVAC Services\nOur HVAC ServicesFrom repairs to installations — we do it all.\nSEE MORE\nProud HVAC Association Member\n\nAs a member of the National Heating Ventilation and Air Conditioning Association, New Jersey HVAC follows industry best practices, safety standards, and continuing education requirements. Our team stays up-to-date with the latest innovations and training to ensure reliable, efficient, and professional HVAC solutions for every customer.\n\nJOIN THE NATIONAL HVAC ASSOCIATION\nCommitted to the highest standards in HVAC service and customer care\nWhat Our Client Says\nTrusted by homeowners and businesses across New Jersey.\n\nNew Jersey HVAC did a complete cooling and heating system installation in my home. The quality of the work was exceptional and Herman was very professional and courteous throughout the entire experience. This company appears very knowledgeable in the HVAC industry. I waited to place review until all the equipment was fully functional and working exactly as expected.\n\nRead More\nJACKELINE ORTEGA\n\nI strongly recommend New Jersey HVAC they do fantastic job. They provided excellent and extremely prompt service.In 24 hours my furnace was replaced, and the old one was removed. Herman’s team are very helpful and polite. I have told family and friends about you I will continue to recommend you to everyone I know!\nThanks for you efficient and prompt service!!\n\nRead More\nKAZIMIR PASHKEVICH\n\nNew Jersey HVAC did a complete cooling and heating system installation in my home. The quality of the work was exceptional and Herman was very professional and courteous throughout the entire experience. This company appears very knowledgeable in the HVAC industry. I waited to place review until all the equipment was fully functional and working exactly as expected.\n\nRead More\nJACKELINE ORTEGA\n\nI strongly recommend New Jersey HVAC they do fantastic job. They provided excellent and extremely prompt service.In 24 hours my furnace was replaced, and the old one was removed. Herman’s team are very helpful and polite. I have told family and friends about you I will continue to recommend you to everyone I know!\nThanks for you efficient and prompt service!!\n\nRead More\nKAZIMIR PASHKEVICH\n\nNew Jersey HVAC did a complete cooling and heating system installation in my home. The quality of the work was exceptional and Herman was very professional and courteous throughout the entire experience. This company appears very knowledgeable in the HVAC industry. I waited to place review until all the equipment was fully functional and working exactly as expected.\n\nRead More\nJACKELINE ORTEGA\n\nI strongly recommend New Jersey HVAC they do fantastic job. They provided excellent and extremely prompt service.In 24 hours my furnace was replaced, and the old one was removed. Herman’s team are very helpful and polite. I have told family and friends about you I will continue to recommend you to everyone I know!\nThanks for you efficient and prompt service!!\n\nRead More\nKAZIMIR PASHKEVICH\nSEE MORE\nGet an estimate on your project in less than 24 hours\nGET AN ESTIMATE\nTrusted local heating & cooling experts serving New Jersey with reliable installation, repair, and 24/7 emergency service.\n49 Market St, Saddle Brook, NJ 07663, USA\nOffice phone: (201) 374-2366\nCell phone: (201) 286-3036\n(201) 347-2367\nadmin@newjerseyhvac.net\nQuick Links\nHome\nAbout us\nContact Us\nPayment\nGet an Estimate\nServices\nFreon fills\nHumidifiers\nDuctwork\nLeak detection\nSee More\nNewsletter\nSign up to receive seasonal HVAC tips, promotions, and maintenance reminders.\nEmail\nSUSCRIBE\n© 2026 New Jersey HVAC. All Right Reserved.\nFacebook\n \nTwitter\n \nLinkedin\nPrivacy Policy·Cookie Policy·Terms and Conditions·Accessibility Statement",
+    "links": [
+      {
+        "href": "#content",
+        "abs": "https://www.newjerseyhvac.net/#content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/place/49+Market+St,+Saddle+Brook/@40.8952939,-74.0808747,3a,75y,5.9h,90t/data=!3m4!1e1!3m2!1sdXOJSE4OSzhqUJXTlObq4g!2e0!4m2!3m1!1s0x89c2fbd24507fed5:0x206f40f0d6b1ef92?sa=X&ved=2ahUKEwjskLL-tK_4AhXDhIkEHRK9B1kQxB16BAgSEAI",
+        "abs": "https://www.google.com/maps/place/49+Market+St,+Saddle+Brook/@40.8952939,-74.0808747,3a,75y,5.9h,90t/data=!3m4!1e1!3m2!1sdXOJSE4OSzhqUJXTlObq4g!2e0!4m2!3m1!1s0x89c2fbd24507fed5:0x206f40f0d6b1ef92?sa=X&ved=2ahUKEwjskLL-tK_4AhXDhIkEHRK9B1kQxB16BAgSEAI",
+        "text": "49 MARKET ST, SADDLE BROOK",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 195,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:admin@newjerseyhvac.net",
+        "abs": "mailto:admin@newjerseyhvac.net",
+        "text": "ADMIN@NEWJERSEYHVAC.NET",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 196,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:201-286-3036",
+        "abs": "tel:201-286-3036",
+        "text": "(201) 286-3036",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 112,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "Linkedin",
+        "visible": true,
+        "aboveFold": true,
+        "h": 16,
+        "w": 16,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net",
+        "abs": "https://www.newjerseyhvac.net/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 72,
+        "w": 181,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/",
+        "abs": "https://www.newjerseyhvac.net/services/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 75,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "abs": "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "text": "Central air installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/condensers/",
+        "abs": "https://www.newjerseyhvac.net/services/condensers/",
+        "text": "Condensers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/air-handlers/",
+        "abs": "https://www.newjerseyhvac.net/services/air-handlers/",
+        "text": "Air Handlers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/thermostats/",
+        "abs": "https://www.newjerseyhvac.net/services/thermostats/",
+        "text": "Thermostats",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/furnace-replacements/",
+        "abs": "https://www.newjerseyhvac.net/services/furnace-replacements/",
+        "text": "Furnace replacements",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/freon-fills/",
+        "abs": "https://www.newjerseyhvac.net/services/freon-fills/",
+        "text": "Freon fills",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/humidifiers/",
+        "abs": "https://www.newjerseyhvac.net/services/humidifiers/",
+        "text": "Humidifiers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/leak-detection/",
+        "abs": "https://www.newjerseyhvac.net/services/leak-detection/",
+        "text": "Leak detection",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/ductwork/",
+        "abs": "https://www.newjerseyhvac.net/services/ductwork/",
+        "text": "Ductwork",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/hvac-engineering-and-system-design-service/",
+        "abs": "https://www.newjerseyhvac.net/services/hvac-engineering-and-system-design-service/",
+        "text": "HVAC Engineering And System Design Service",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/ducts-cleaning/",
+        "abs": "https://www.newjerseyhvac.net/services/ducts-cleaning/",
+        "text": "Ducts cleaning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/boilers-service-and-new-installations/",
+        "abs": "https://www.newjerseyhvac.net/services/boilers-service-and-new-installations/",
+        "text": "Boilers service and new installations",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/energy-solutions/",
+        "abs": "https://www.newjerseyhvac.net/services/energy-solutions/",
+        "text": "Energy solutions",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/about-us/",
+        "abs": "https://www.newjerseyhvac.net/about-us/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 55,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/blog/",
+        "abs": "https://www.newjerseyhvac.net/blog/",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 27,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/contact-us/",
+        "abs": "https://www.newjerseyhvac.net/contact-us/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 67,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 72,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://www.newjerseyhvac.net/reviews",
+        "text": "Google Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://g.page/r/CUvEX61L01D4EB0/review",
+        "abs": "https://g.page/r/CUvEX61L01D4EB0/review",
+        "text": "Leave Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/online-payment/",
+        "abs": "https://www.newjerseyhvac.net/online-payment/",
+        "text": "Payment",
+        "visible": true,
+        "aboveFold": true,
+        "h": 18,
+        "w": 55,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/",
+        "abs": "https://www.newjerseyhvac.net/services/",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "abs": "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "text": "Central air installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/condensers/",
+        "abs": "https://www.newjerseyhvac.net/services/condensers/",
+        "text": "Condensers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/air-handlers/",
+        "abs": "https://www.newjerseyhvac.net/services/air-handlers/",
+        "text": "Air Handlers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/thermostats/",
+        "abs": "https://www.newjerseyhvac.net/services/thermostats/",
+        "text": "Thermostats",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/furnace-replacements/",
+        "abs": "https://www.newjerseyhvac.net/services/furnace-replacements/",
+        "text": "Furnace replacements",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/freon-fills/",
+        "abs": "https://www.newjerseyhvac.net/services/freon-fills/",
+        "text": "Freon fills",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/humidifiers/",
+        "abs": "https://www.newjerseyhvac.net/services/humidifiers/",
+        "text": "Humidifiers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/leak-detection/",
+        "abs": "https://www.newjerseyhvac.net/services/leak-detection/",
+        "text": "Leak detection",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/ductwork/",
+        "abs": "https://www.newjerseyhvac.net/services/ductwork/",
+        "text": "Ductwork",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/hvac-engineering-and-system-design-service/",
+        "abs": "https://www.newjerseyhvac.net/services/hvac-engineering-and-system-design-service/",
+        "text": "HVAC Engineering And System Design Service",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/ducts-cleaning/",
+        "abs": "https://www.newjerseyhvac.net/services/ducts-cleaning/",
+        "text": "Ducts cleaning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/boilers-service-and-new-installations/",
+        "abs": "https://www.newjerseyhvac.net/services/boilers-service-and-new-installations/",
+        "text": "Boilers service and new installations",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/energy-solutions/",
+        "abs": "https://www.newjerseyhvac.net/services/energy-solutions/",
+        "text": "Energy solutions",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/about-us/",
+        "abs": "https://www.newjerseyhvac.net/about-us/",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/blog/",
+        "abs": "https://www.newjerseyhvac.net/blog/",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/contact-us/",
+        "abs": "https://www.newjerseyhvac.net/contact-us/",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://www.newjerseyhvac.net/reviews",
+        "text": "Google Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://g.page/r/CUvEX61L01D4EB0/review",
+        "abs": "https://g.page/r/CUvEX61L01D4EB0/review",
+        "text": "Leave Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/online-payment/",
+        "abs": "https://www.newjerseyhvac.net/online-payment/",
+        "text": "Payment",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE5NzciLCJ0b2dnbGUiOnRydWV9",
+        "abs": "https://www.newjerseyhvac.net/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE5NzciLCJ0b2dnbGUiOnRydWV9",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 22,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-an-estimate/",
+        "abs": "https://www.newjerseyhvac.net/get-an-estimate/",
+        "text": "GET AN ESTIMATE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 137,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net",
+        "abs": "https://www.newjerseyhvac.net/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "GET AN ESTIMATE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "GET AN ESTIMATE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "GET AN ESTIMATE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "GET AN ESTIMATE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201)%20286-3036",
+        "abs": "tel:(201)%20286-3036",
+        "text": "(201) 286-3036",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 145,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201)%20374-2366",
+        "abs": "tel:(201)%20374-2366",
+        "text": "(201) 374-2366",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 144,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 110,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "abs": "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 89,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/condensers/",
+        "abs": "https://www.newjerseyhvac.net/services/condensers/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 89,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/air-handlers/",
+        "abs": "https://www.newjerseyhvac.net/services/air-handlers/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 89,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "SEE MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.nhvac.org/New_Jersey_HVAC_newjerseyhvac.net",
+        "abs": "https://www.nhvac.org/New_Jersey_HVAC_newjerseyhvac.net",
+        "text": "JOIN THE NATIONAL HVAC ASSOCIATION",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 261,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/wp-content/uploads/2026/11/a2l-refrigerant-safety-certificate.pdf",
+        "abs": "https://www.newjerseyhvac.net/wp-content/uploads/2026/11/a2l-refrigerant-safety-certificate.pdf",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 54,
+        "w": 253,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://www.newjerseyhvac.net/reviews",
+        "text": "SEE MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/get-an-estimate/",
+        "abs": "https://www.newjerseyhvac.net/get-an-estimate/",
+        "text": "GET AN ESTIMATE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 137,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net",
+        "abs": "https://www.newjerseyhvac.net/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 66,
+        "w": 348,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.google.com/maps/place/49+Market+St,+Saddle+Brook,+NJ+07663/@40.895304,-74.0808729,3a,75y,5.9h,90t/data=!3m6!1e1!3m4!1sdXOJSE4OSzhqUJXTlObq4g!2e0!7i16384!8i8192!4m5!3m4!1s0x89c2fbd24507fed5:0x206f40f0d6b1ef92!8m2!3d40.8955348!4d-74.0808418",
+        "abs": "https://www.google.com/maps/place/49+Market+St,+Saddle+Brook,+NJ+07663/@40.895304,-74.0808729,3a,75y,5.9h,90t/data=!3m6!1e1!3m4!1sdXOJSE4OSzhqUJXTlObq4g!2e0!7i16384!8i8192!4m5!3m4!1s0x89c2fbd24507fed5:0x206f40f0d6b1ef92!8m2!3d40.8955348!4d-74.0808418",
+        "text": "49 Market St, Saddle Brook, NJ 07663, USA",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 348,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:201-286-3036",
+        "abs": "tel:201-286-3036",
+        "text": "Office phone: (201) 374-2366 Cell phone: (201) 286-3036",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 348,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:admin@newjerseyhvac.net",
+        "abs": "mailto:admin@newjerseyhvac.net",
+        "text": "admin@newjerseyhvac.net",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 348,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net",
+        "abs": "https://www.newjerseyhvac.net/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/about-us/",
+        "abs": "https://www.newjerseyhvac.net/about-us/",
+        "text": "About us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/contact-us/",
+        "abs": "https://www.newjerseyhvac.net/contact-us/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/online-payment/",
+        "abs": "https://www.newjerseyhvac.net/online-payment/",
+        "text": "Payment",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/get-an-estimate/",
+        "abs": "https://www.newjerseyhvac.net/get-an-estimate/",
+        "text": "Get an Estimate",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/freon-fills/",
+        "abs": "https://www.newjerseyhvac.net/services/freon-fills/",
+        "text": "Freon fills",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/humidifiers/",
+        "abs": "https://www.newjerseyhvac.net/services/humidifiers/",
+        "text": "Humidifiers",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/ductwork/",
+        "abs": "https://www.newjerseyhvac.net/services/ductwork/",
+        "text": "Ductwork",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/leak-detection/",
+        "abs": "https://www.newjerseyhvac.net/services/leak-detection/",
+        "text": "Leak detection",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/services/",
+        "abs": "https://www.newjerseyhvac.net/services/",
+        "text": "See More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/#",
+        "abs": "https://www.newjerseyhvac.net/#",
+        "text": "Linkedin",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 16,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/privacy-policy/",
+        "abs": "https://www.newjerseyhvac.net/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 33,
+        "w": 81,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/cookie-policy/",
+        "abs": "https://www.newjerseyhvac.net/cookie-policy/",
+        "text": "Cookie Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 33,
+        "w": 79,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/terms-and-conditions/",
+        "abs": "https://www.newjerseyhvac.net/terms-and-conditions/",
+        "text": "Terms and Conditions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 33,
+        "w": 126,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.newjerseyhvac.net/accessibility-statement/",
+        "abs": "https://www.newjerseyhvac.net/accessibility-statement/",
+        "text": "Accessibility Statement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 33,
+        "w": 134,
+        "inNav": true,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous slide",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Next slide",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Go to slide 1",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Go to slide 2",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "SUSCRIBE",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "post",
+        "id": "",
+        "cls": "elementor-form",
+        "fieldCount": 1,
+        "fieldNames": [
+          "form_fields[email]"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://www.newjerseyhvac.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://www.newjerseyhvac.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://www.googletagmanager.com/gtag/js?id=G-H1LZSM0YZL",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.5",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.5",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.3.5",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/js/chunks/counter.min.js?ver=4.3.5",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/js/chunks/image-carousel.min.js?ver=4.3.5",
+      "https://www.newjerseyhvac.net/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=890",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.5",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.5",
+      "https://www.newjerseyhvac.net/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.5",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+      "https://www.newjerseyhvac.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+      "https://www.newjerseyhvac.net/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "https://www.newjerseyhvac.net/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.2",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.2",
+      "https://www.newjerseyhvac.net/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.newjerseyhvac.net/",
+            "url": "https://www.newjerseyhvac.net/",
+            "name": "New Jersey HVAC | Heating & Air Conditioning Services",
+            "isPartOf": {
+              "@id": "https://www.newjerseyhvac.net/#website"
+            },
+            "about": {
+              "@id": "https://www.newjerseyhvac.net/#organization"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.newjerseyhvac.net/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.newjerseyhvac.net/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.newjerseyhvac.net/wp-content/uploads/2022/12/hvac-technician-removing-old-rusted-broken-aircond-2022-11-12-09-50-49-utc-1024x503.jpg",
+            "datePublished": "2025-09-16T07:14:25+00:00",
+            "dateModified": "2026-11-02T22:37:16+00:00",
+            "description": "Cut costs, maximize energy efficiency with our HVAC engineering designs. We’re always available when you need us most—day or night. Learn more.",
+            "breadcrumb": {
+              "@id": "https://www.newjerseyhvac.net/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.newjerseyhvac.net/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.newjerseyhvac.net/#primaryimage",
+            "url": "https://www.newjerseyhvac.net/wp-content/uploads/2022/12/hvac-technician-removing-old-rusted-broken-aircond-2022-11-12-09-50-49-utc.jpg",
+            "contentUrl": "https://www.newjerseyhvac.net/wp-content/uploads/2022/12/hvac-technician-removing-old-rusted-broken-aircond-2022-11-12-09-50-49-utc.jpg",
+            "width": 1920,
+            "height": 943,
+            "caption": "HVAC technician removing old rusted air conditioner unit."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.newjerseyhvac.net/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "New Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.newjerseyhvac.net/#website",
+            "url": "https://www.newjerseyhvac.net/",
+            "name": "New Jersey HVAC",
+            "description": "New Jersey HVAC Specialist Heating &amp; Air Conditioning has been providing high-quality HVAC services to New Jersey area for decades.",
+            "publisher": {
+              "@id": "https://www.newjerseyhvac.net/#organization"
+            },
+            "alternateName": "NJ HVAC",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.newjerseyhvac.net/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.newjerseyhvac.net/#organization",
+            "name": "New Jersey HVAC",
+            "url": "https://www.newjerseyhvac.net/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.newjerseyhvac.net/#/schema/logo/image/",
+              "url": "https://www.newjerseyhvac.net/wp-content/uploads/2025/09/cropped-my-image-2.png",
+              "contentUrl": "https://www.newjerseyhvac.net/wp-content/uploads/2025/09/cropped-my-image-2.png",
+              "width": 405,
+              "height": 160,
+              "caption": "New Jersey HVAC"
+            },
+            "image": {
+              "@id": "https://www.newjerseyhvac.net/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 51,
+    "timing": {
+      "dcl": 2981,
+      "load": 3475,
+      "ttfb": 532
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://www.newjerseyhvac.net/",
+    "navMs": 3997,
+    "tel": [
+      {
+        "href": "tel:201-286-3036",
+        "text": "(201) 286-3036",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12012863036"
+      },
+      {
+        "href": "tel:(201)%20286-3036",
+        "text": "(201) 286-3036",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12012863036"
+      },
+      {
+        "href": "tel:(201)%20374-2366",
+        "text": "(201) 374-2366",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013742366"
+      },
+      {
+        "href": "tel:201-286-3036",
+        "text": "Office phone: (201) 374-2366 Cell phone: (201) 286-3036",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12012863036"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.newjerseyhvac.net/",
+    "navMs": 4481,
+    "timing": {
+      "dcl": 3155,
+      "load": 3640,
+      "ttfb": 795
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 401,
+    "scrollWidth": 401,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:201-286-3036",
+        "text": "(201) 286-3036",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12012863036"
+      },
+      {
+        "href": "tel:(201)%20286-3036",
+        "text": "(201) 286-3036",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12012863036"
+      },
+      {
+        "href": "tel:(201)%20374-2366",
+        "text": "(201) 374-2366",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013742366"
+      },
+      {
+        "href": "tel:201-286-3036",
+        "text": "Office phone: (201) 374-2366 Cell phone: (201) 286-3036",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12012863036"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [
+      "GET AN ESTIMATE",
+      "GET AN ESTIMATE",
+      "GET AN ESTIMATE",
+      "GET AN ESTIMATE"
+    ],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 2,
+    "visibleNavLinks": 7,
+    "brokenImages": [],
+    "textChars": 5693
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.newjerseyhvac.net/contact-us/",
+      "finalUrl": "https://www.newjerseyhvac.net/contact-us/",
+      "status": 200,
+      "title": "Contact New Jersey HVAC | Saddle Brook, NJ",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "",
+          "cls": "elementor-form",
+          "fieldCount": 5,
+          "fieldNames": [
+            "form_fields[field_3505914]",
+            "form_fields[email]",
+            "form_fields[field_47535e3]",
+            "form_fields[name]",
+            "form_fields[message]"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": null,
+          "method": "post",
+          "id": "",
+          "cls": "elementor-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "form_fields[email]"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://maps.google.com/maps?q=49%20Market%20St%2C%20Saddle%20Brook%2C%20NJ%2007663%2C%20USA&t=m&z=16&output=embed&iwloc=near"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "admin@newjerseyhvac.net"
+      ],
+      "tel": [
+        {
+          "href": "tel:201-286-3036",
+          "text": "(201) 286-3036",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12012863036"
+        },
+        {
+          "href": "tel:201-374-2366%20",
+          "text": "Phone",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013742366"
+        },
+        {
+          "href": "tel:201-286-3036",
+          "text": "Office phone: (201) 374-2366 Cell phone: (201) 286-3036",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12012863036"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n49 MARKET ST, SADDLE BROOK\nADMIN@NEWJERSEYHVAC.NET\n(201) 286-3036\nFacebook\n \nTwitter\n \nLinkedin\nServices\nAbout Us\nBlog\nContact Us\nReviews\nPayment\nGET AN ESTIMATE\nContact Us\nHome\nContact Us\nAddress\n\n49 Market St, Saddle Brook, NJ 07663, USA\n\nPhone\n\nOffice phone: (201) 374-2366\nCell phone: (201) 286-3036\n\nFAX\n\n(201) 347-2367\n\nE-mail\n\nadmin@newjerseyhvac.net\n\nStart Your HVAC Project Today\nSend Message\nName\nEmail\nPhone\nSubject\nMessage\nSEND MESSAGE\nNJ HVAC LICENSE\n\nLICENSE # 19HC00491900\n\nNJ Home Improvement\n\nContractor # 13VH06367300\n\nNJ Certified Electrician\n\nContractor # 14166\n\nNJ EPA\n\nCertificate # 626863303730\n\nGet an estimate on your project in less than 24 hours\nGET AN ESTIMATE\nTrusted local heating & cooling experts serving New Jersey with reliable installation, repair, and 24/7 emergency service.\n49 Market St, Saddle Brook, NJ 07663, USA\nOffice phone: (201) 374-2366\nCell phone: (201) 286-3036\n(201) 347-2367\nadmin@newjerseyhvac.net\nQuick Links\nHome\nAbout us\nContact Us\nPayment\nGet an Estimate\nServices\nFreon fills\nHumidifiers\nDuctwork\nLeak detection\nSee More\nNewsletter\nSign up to receive seasonal HVAC tips, promotions, and maintenance reminders.\nEmail\nSUSCRIBE\n© 2026 New Jersey HVAC. All Right Reserved.\nFacebook\n \nTwitter\n \nLinkedin\nPrivacy Policy·Cookie Policy·Terms and Conditions·Accessibility Statement",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.newjerseyhvac.net/contact-us/#content",
+        "https://www.newjerseyhvac.net/#",
+        "https://www.newjerseyhvac.net/",
+        "https://www.newjerseyhvac.net/services/",
+        "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "https://www.newjerseyhvac.net/services/condensers/",
+        "https://www.newjerseyhvac.net/services/air-handlers/",
+        "https://www.newjerseyhvac.net/services/thermostats/",
+        "https://www.newjerseyhvac.net/services/furnace-replacements/",
+        "https://www.newjerseyhvac.net/services/freon-fills/",
+        "https://www.newjerseyhvac.net/services/humidifiers/",
+        "https://www.newjerseyhvac.net/services/leak-detection/",
+        "https://www.newjerseyhvac.net/services/ductwork/",
+        "https://www.newjerseyhvac.net/services/hvac-engineering-and-system-design-service/",
+        "https://www.newjerseyhvac.net/services/ducts-cleaning/",
+        "https://www.newjerseyhvac.net/services/boilers-service-and-new-installations/",
+        "https://www.newjerseyhvac.net/services/energy-solutions/",
+        "https://www.newjerseyhvac.net/about-us/",
+        "https://www.newjerseyhvac.net/blog/",
+        "https://www.newjerseyhvac.net/contact-us/",
+        "https://www.newjerseyhvac.net/contact-us/#",
+        "https://www.newjerseyhvac.net/reviews",
+        "https://www.newjerseyhvac.net/online-payment/",
+        "https://www.newjerseyhvac.net/services/",
+        "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "https://www.newjerseyhvac.net/services/condensers/",
+        "https://www.newjerseyhvac.net/services/air-handlers/",
+        "https://www.newjerseyhvac.net/services/thermostats/",
+        "https://www.newjerseyhvac.net/services/furnace-replacements/",
+        "https://www.newjerseyhvac.net/services/freon-fills/",
+        "https://www.newjerseyhvac.net/services/humidifiers/",
+        "https://www.newjerseyhvac.net/services/leak-detection/",
+        "https://www.newjerseyhvac.net/services/ductwork/",
+        "https://www.newjerseyhvac.net/services/hvac-engineering-and-system-design-service/",
+        "https://www.newjerseyhvac.net/services/ducts-cleaning/",
+        "https://www.newjerseyhvac.net/services/boilers-service-and-new-installations/",
+        "https://www.newjerseyhvac.net/services/energy-solutions/",
+        "https://www.newjerseyhvac.net/about-us/",
+        "https://www.newjerseyhvac.net/blog/",
+        "https://www.newjerseyhvac.net/contact-us/",
+        "https://www.newjerseyhvac.net/contact-us/#",
+        "https://www.newjerseyhvac.net/reviews",
+        "https://www.newjerseyhvac.net/online-payment/",
+        "https://www.newjerseyhvac.net/contact-us/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE5NzciLCJ0b2dnbGUiOnRydWV9",
+        "https://www.newjerseyhvac.net/get-an-estimate/",
+        "https://www.newjerseyhvac.net/",
+        "https://www.newjerseyhvac.net/get-an-estimate/",
+        "https://www.newjerseyhvac.net/",
+        "https://www.newjerseyhvac.net/",
+        "https://www.newjerseyhvac.net/about-us/",
+        "https://www.newjerseyhvac.net/contact-us/",
+        "https://www.newjerseyhvac.net/online-payment/",
+        "https://www.newjerseyhvac.net/get-an-estimate/",
+        "https://www.newjerseyhvac.net/services/freon-fills/",
+        "https://www.newjerseyhvac.net/services/humidifiers/",
+        "https://www.newjerseyhvac.net/services/ductwork/",
+        "https://www.newjerseyhvac.net/services/leak-detection/",
+        "https://www.newjerseyhvac.net/services/",
+        "https://www.newjerseyhvac.net/#",
+        "https://www.newjerseyhvac.net/privacy-policy/",
+        "https://www.newjerseyhvac.net/cookie-policy/",
+        "https://www.newjerseyhvac.net/terms-and-conditions/",
+        "https://www.newjerseyhvac.net/accessibility-statement/"
+      ]
+    },
+    "about": {
+      "url": "https://www.newjerseyhvac.net/about-us/",
+      "finalUrl": "https://www.newjerseyhvac.net/about-us/",
+      "status": 200,
+      "title": "About New Jersey HVAC | Heating & Cooling Experts",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "",
+          "cls": "elementor-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "form_fields[email]"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "admin@newjerseyhvac.net"
+      ],
+      "tel": [
+        {
+          "href": "tel:201-286-3036",
+          "text": "(201) 286-3036",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12012863036"
+        },
+        {
+          "href": "tel:201-286-3036",
+          "text": "Office phone: (201) 374-2366 Cell phone: (201) 286-3036",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12012863036"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n49 MARKET ST, SADDLE BROOK\nADMIN@NEWJERSEYHVAC.NET\n(201) 286-3036\nFacebook\n \nTwitter\n \nLinkedin\nServices\nAbout Us\nBlog\nContact Us\nReviews\nPayment\nGET AN ESTIMATE\nAbout Us\nHome\nAbout Us\nAbout Us\nHVAC is an acronym that stands for Heating, Ventilation and Air Conditioning. Engineers normally design these systems together because their operation is closely related. For example, once the indoor air supply is heated or cooled to an adequate temperature, the ventilation system distributes it throughout indoor spaces. In turn, the operation of air-handling systems influences the load on heating and cooling equipment. We operate New Jersey HVAC, offering Central air installation, Condensers, Air Handlers, Thermostats, Furnace replacements, Freon fills, Humidifiers, Leak detection, Ductwork, HVAC Engineering and system Design, Ducts cleaning, Boilers service and new installations, Energy solutionsand much more. Our New Jersey HVAC firm takes pride in being accurate, responsive, and easy to work with. We have expertise with a wide range of projects, from private residences to large industrial warehouses.\nHVAC: Heating, Ventilation & Air Conditioning\nWhat is HVAC?\n\nHVAC is an acronym that stands for Heating, Ventilation and Air Conditioning. Engineers normally design these systems together because their operation is closely related. For example, once the indoor air supply is heated or cooled to an adequate temperature, the ventilation system distributes it throughout indoor spaces. In turn, the operation of air-handling systems influences the load on heating and cooling equipment.\n\n0\n+\nCertified Technicians\n0\n+\nHappy Customers\n0\n+\nCompleted Projects\n0\n+\nEmergency Calls Handled\nGet an estimate on your project in less than 24 hours\nGET AN ESTIMATE\nTrusted local heating & cooling experts serving New Jersey with reliable installation, repair, and 24/7 emergency service.\n49 Market St, Saddle Brook, NJ 07663, USA\nOffice phone: (201) 374-2366\nCell phone: (201) 286-3036\n(201) 347-2367\nadmin@newjerseyhvac.net\nQuick Links\nHome\nAbout us\nContact Us\nPayment\nGet an Estimate\nServices\nFreon fills\nHumidifiers\nDuctwork\nLeak detection\nSee More\nNewsletter\nSign up to receive seasonal HVAC tips, promotions, and maintenance reminders.\nEmail\nSUSCRIBE\n© 2026 New Jersey HVAC. All Right Reserved.\nFacebook\n \nTwitter\n \nLinkedin\nPrivacy Policy·Cookie Policy·Terms and Conditions·Accessibility Statement",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.newjerseyhvac.net/about-us/#content",
+        "https://www.newjerseyhvac.net/#",
+        "https://www.newjerseyhvac.net/",
+        "https://www.newjerseyhvac.net/services/",
+        "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "https://www.newjerseyhvac.net/services/condensers/",
+        "https://www.newjerseyhvac.net/services/air-handlers/",
+        "https://www.newjerseyhvac.net/services/thermostats/",
+        "https://www.newjerseyhvac.net/services/furnace-replacements/",
+        "https://www.newjerseyhvac.net/services/freon-fills/",
+        "https://www.newjerseyhvac.net/services/humidifiers/",
+        "https://www.newjerseyhvac.net/services/leak-detection/",
+        "https://www.newjerseyhvac.net/services/ductwork/",
+        "https://www.newjerseyhvac.net/services/hvac-engineering-and-system-design-service/",
+        "https://www.newjerseyhvac.net/services/ducts-cleaning/",
+        "https://www.newjerseyhvac.net/services/boilers-service-and-new-installations/",
+        "https://www.newjerseyhvac.net/services/energy-solutions/",
+        "https://www.newjerseyhvac.net/about-us/",
+        "https://www.newjerseyhvac.net/blog/",
+        "https://www.newjerseyhvac.net/contact-us/",
+        "https://www.newjerseyhvac.net/about-us/#",
+        "https://www.newjerseyhvac.net/reviews",
+        "https://www.newjerseyhvac.net/online-payment/",
+        "https://www.newjerseyhvac.net/services/",
+        "https://www.newjerseyhvac.net/services/central-air-installation/",
+        "https://www.newjerseyhvac.net/services/condensers/",
+        "https://www.newjerseyhvac.net/services/air-handlers/",
+        "https://www.newjerseyhvac.net/services/thermostats/",
+        "https://www.newjerseyhvac.net/services/furnace-replacements/",
+        "https://www.newjerseyhvac.net/services/freon-fills/",
+        "https://www.newjerseyhvac.net/services/humidifiers/",
+        "https://www.newjerseyhvac.net/services/leak-detection/",
+        "https://www.newjerseyhvac.net/services/ductwork/",
+        "https://www.newjerseyhvac.net/services/hvac-engineering-and-system-design-service/",
+        "https://www.newjerseyhvac.net/services/ducts-cleaning/",
+        "https://www.newjerseyhvac.net/services/boilers-service-and-new-installations/",
+        "https://www.newjerseyhvac.net/services/energy-solutions/",
+        "https://www.newjerseyhvac.net/about-us/",
+        "https://www.newjerseyhvac.net/blog/",
+        "https://www.newjerseyhvac.net/contact-us/",
+        "https://www.newjerseyhvac.net/about-us/#",
+        "https://www.newjerseyhvac.net/reviews",
+        "https://www.newjerseyhvac.net/online-payment/",
+        "https://www.newjerseyhvac.net/about-us/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE5NzciLCJ0b2dnbGUiOnRydWV9",
+        "https://www.newjerseyhvac.net/get-an-estimate/",
+        "https://www.newjerseyhvac.net/",
+        "https://www.newjerseyhvac.net/get-an-estimate/",
+        "https://www.newjerseyhvac.net/",
+        "https://www.newjerseyhvac.net/",
+        "https://www.newjerseyhvac.net/about-us/",
+        "https://www.newjerseyhvac.net/contact-us/",
+        "https://www.newjerseyhvac.net/online-payment/",
+        "https://www.newjerseyhvac.net/get-an-estimate/",
+        "https://www.newjerseyhvac.net/services/freon-fills/",
+        "https://www.newjerseyhvac.net/services/humidifiers/",
+        "https://www.newjerseyhvac.net/services/ductwork/",
+        "https://www.newjerseyhvac.net/services/leak-detection/",
+        "https://www.newjerseyhvac.net/services/",
+        "https://www.newjerseyhvac.net/#",
+        "https://www.newjerseyhvac.net/privacy-policy/",
+        "https://www.newjerseyhvac.net/cookie-policy/",
+        "https://www.newjerseyhvac.net/terms-and-conditions/",
+        "https://www.newjerseyhvac.net/accessibility-statement/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 25,
+    "at": "2026-11-03T22:57:37.412Z",
+    "statusCounts": {
+      "200": 25
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.newjerseyhvac.net/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/new-jersey-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/new-jersey-hvac/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/new-jersey-hvac/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/new-jersey-hvac/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/new-jersey-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00491900"
+    ],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": false,
+      "plumbing": false
+    },
+    "yearsClaim": 20,
+    "copyrightYear": 2026,
+    "emails": [
+      "admin@newjerseyhvac.net"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  },
+  "ctaClickTests": [
+    {
+      "text": "GET AN ESTIMATE",
+      "href": "#",
+      "effect": "script-handled (not testable)",
+      "signals": [
+        "class:elementor-button elementor-button-link e@A",
+        "class:elementor-button-wrapper@DIV",
+        "class:elementor-widget-container@DIV",
+        "class:elementor-element elementor-element-13fe@DIV",
+        "class:elementor-element elementor-element-bb12@DIV"
+      ],
+      "at": "2026-11-03T23:47:57.420Z"
+    },
+    {
+      "text": "GET AN ESTIMATE",
+      "href": "#",
+      "effect": "script-handled (not testable)",
+      "signals": [
+        "class:elementor-button elementor-button-link e@A",
+        "class:elementor-button-wrapper@DIV",
+        "class:elementor-widget-container@DIV",
+        "class:elementor-element elementor-element-13fe@DIV",
+        "class:elementor-element elementor-element-bb12@DIV"
+      ],
+      "at": "2026-11-03T23:47:58.677Z"
+    },
+    {
+      "text": "GET AN ESTIMATE",
+      "href": "#",
+      "effect": "script-handled (not testable)",
+      "signals": [
+        "class:elementor-button elementor-button-link e@A",
+        "class:elementor-button-wrapper@DIV",
+        "class:elementor-widget-container@DIV",
+        "class:elementor-element elementor-element-13fe@DIV",
+        "class:elementor-element elementor-element-bb12@DIV"
+      ],
+      "at": "2026-11-03T23:48:00.028Z"
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "firecrawl": [],
+  "id": "andes-refrigeration",
+  "name": "Andes Refrigeration",
+  "website": "https://andesrefrigerationusa.com/",
+  "auditedAt": "2026-11-03T23:15:14.183Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://andesrefrigerationusa.com/",
+      "at": "2026-11-03T23:15:19.624Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://andesrefrigerationusa.com/",
+      "title": "✅ Andes Refrigeration - reparación de electrodomésticos",
+      "ms": 5224,
+      "error": null,
+      "linkCount": 62
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://andesrefrigerationusa.com/contactanos/",
+      "at": "2026-11-03T23:15:24.185Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://andesrefrigerationusa.com/contactanos/",
+      "title": "Contacto - Andes Refrigeration",
+      "ms": 3132,
+      "error": null,
+      "linkCount": 39
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://andesrefrigerationusa.com/",
+      "at": "2026-11-03T23:15:52.618Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://andesrefrigerationusa.com/",
+      "title": "✅ Andes Refrigeration - reparación de electrodomésticos",
+      "ms": 7495,
+      "error": null,
+      "linkCount": 83
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://andesrefrigerationusa.com/",
+    "title": "✅ Andes Refrigeration - reparación de electrodomésticos",
+    "lang": "es",
+    "metaDescription": "Mantenimiento y reparación de electrodomésticos, Desde lavadoras, aires acondicionados y neveras, brindamos servicios rápidos y profesionales.",
+    "h1": [
+      "",
+      "",
+      "",
+      "",
+      "Sus Electrodomésticos en Buenas Manos"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5234,
+    "bodyText": "Ir al contenido\ncontacto@andesrefrigerationusa.com\nFacebook\n \nInstagram\nINICIO\nNOSOTROS\nSERVICIOS\nBLOG\nCONTACTO\n9733365963\n¡Agenda tu cita!\n¿Por qué Elegirnos?\n\nEn Andes Refrigeration nuestro objetivo es ofrecerte la mejor atención y calidad en cada servicio que realizamos, nos aseguramos de mantener precios justos y accesibles para que la reparación de tus electrodomésticos no represente una carga económica para ti.\n\nGarantía en Nuestro Servicio\n\nTener la certeza de un trabajo bien realizado y transparenté en tu domicilio sin intermediarios que encarecen y sacrifican tu bolsillo.\n\nEvita traslados molestos y pesados.\n\nNuestro equipo móvil express te ofrece un soporte robusto en tu hogar para el mantenimiento y reparación de tus electrodomésticos.\n\nAtención al cliente inmediata\n\nAtendemos tu solicitud con urgencia sin tanta espera, pruébanos y nos darás la razón no esperes más.\n\nServicios de Mantenimiento y Reparación de Electrodomésticos\n\n🇺🇸 Ubicaciones: New Jersey, Hillside, Orange, Irvington, East Newark, Kearny, Clifton, Secaucus, Lyndhurst, Belleville, Nutley, Harrison, Elizabeth, Newark y Bloomfield.\n\nRapidez, Garantía y Seriedad\n\nEn Andes Refrigeration brindamos las mejores soluciones en reparación y mantenimiento de electrodomésticos en todas las marcas\n\n¿Busca Profesionales que te Garanticen una Reparación Fiable y Duradera?\n\n¡Tranquilo!, en Andes Refrigerator contamos con un departamento técnico que resolverá cualquier problema con tus electrodomésticos, asignando una visita técnica rápidamente.\n\nReserva tu cita ahora\nUna Reparación a Tiempo de tus Electrodomésticos Evitará una Grave Avería Después\n\nTodos queremos que nuestros electrodomésticos duren muchos años, pero no siempre les prestamos la atención adecuada ni los cuidamos como se merecen y eso solo contribuye a reducir su vida útil.\n\nSi ya se ha producido la avería, hay que confiar en el trabajo de profesionales para su correcta reparación. \n\nSobre Nosotros\n¡Repáralo tu mismo!\nConsejos y Tips de reparación para que puedas solucionar los problemas de tus electrodomésticos\nCómo puedo limpiar un aire acondicionado\n\nLa limpieza del de aire acondicionado es una parte fundamental de su mantenimiento, la suciedad puede\n\nLeer más »\nComo solucionar el ruido de una nevera\n\nLas neveras suelen hacer ruido mientras están en funcionamiento. Al estar continuamente enchufados y trabajando, es\n\nLeer más »\nConoce las averías más comunes de las lavadoras\n\nUno de los electrodomésticos más usados en un hogar es la lavadora. Sin embargo, requiere\n\nLeer más »\nMás tutoriales\n\nEn Andes Refrigerator somos especialistas en mantenimiento y reparación de equipos de refrigeración, aires acondicionados y electrodomésticos, nos aseguramos de mantener precios justos y accesibles.\n\nFacebook\n \nInstagram\nLa Empresa\nSobre Nosotros\nBlog\nAyuda Técnica\nPolíticas de Privacidad\nServicios\nMantenimiento y Reparación de Neveras\nMantenimiento y Reparación de Lavadoras\nMantenimiento y Reparación Aire Acondicionado\nMantenimiento y Reparación de Secadoras\nContáctenos\nTeléfono: 9733365963\nEmail: contacto@andesrefrigerationusa.com\nHorarios de Atención:\n\nLunes a Sábado\n9:00 a 18:00\nDomingo\nAtención previa cita (Casos emergencia)\n\nAndes Refrigeration © Todos los derechos reservados | Desarrollado por Diego Nuñez",
+    "links": [
+      {
+        "href": "#content",
+        "abs": "https://andesrefrigerationusa.com/#content",
+        "text": "Ir al contenido",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/hvacinstallationnewjersey",
+        "abs": "https://www.facebook.com/hvacinstallationnewjersey",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 38,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/andes_refrigeration/",
+        "abs": "https://www.instagram.com/andes_refrigeration/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 38,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com",
+        "abs": "https://andesrefrigerationusa.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 65,
+        "w": 106,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/",
+        "abs": "https://andesrefrigerationusa.com/",
+        "text": "INICIO",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 76,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/nosotros/",
+        "abs": "https://andesrefrigerationusa.com/nosotros/",
+        "text": "NOSOTROS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 120,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/servicios/",
+        "abs": "https://andesrefrigerationusa.com/servicios/",
+        "text": "SERVICIOS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 136,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "text": "Mantenimiento y Reparación de Neveras",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "text": "Mantenimiento y Reparación de Lavadoras",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "text": "Mantenimiento y Reparación de Secadoras",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "text": "Mantenimiento y Reparación aire acondicionado",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/blog/",
+        "abs": "https://andesrefrigerationusa.com/blog/",
+        "text": "BLOG",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 74,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/contactanos/",
+        "abs": "https://andesrefrigerationusa.com/contactanos/",
+        "text": "CONTACTO",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 118,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/",
+        "abs": "https://andesrefrigerationusa.com/",
+        "text": "Inicio",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/nosotros/",
+        "abs": "https://andesrefrigerationusa.com/nosotros/",
+        "text": "Nosotros",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/servicios/",
+        "abs": "https://andesrefrigerationusa.com/servicios/",
+        "text": "Servicios",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "text": "Mantenimiento y Reparación de Neveras",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "text": "Mantenimiento y Reparación de Lavadoras",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "text": "Mantenimiento y Reparación de Secadoras",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "text": "Mantenimiento y Reparación aire acondicionado",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/blog/",
+        "abs": "https://andesrefrigerationusa.com/blog/",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/contactanos/",
+        "abs": "https://andesrefrigerationusa.com/contactanos/",
+        "text": "Contacto",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9733365963",
+        "abs": "tel:9733365963",
+        "text": "9733365963",
+        "visible": true,
+        "aboveFold": true,
+        "h": 25,
+        "w": 163,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3ODciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "abs": "https://andesrefrigerationusa.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3ODciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "text": "¡Agenda tu cita!",
+        "visible": true,
+        "aboveFold": true,
+        "h": 76,
+        "w": 218,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/refrigeration-commercial-repairing-service/",
+        "abs": "https://andesrefrigerationusa.com/refrigeration-commercial-repairing-service/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 683,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/lp-neveras/",
+        "abs": "https://andesrefrigerationusa.com/lp-neveras/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 683,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/lp-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/lp-aire-acondicionado/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 683,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/lp-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/lp-lavadoras/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 683,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 163,
+        "w": 260,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 15,
+        "w": 73,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 163,
+        "w": 260,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 15,
+        "w": 73,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 163,
+        "w": 260,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 15,
+        "w": 73,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 163,
+        "w": 260,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 15,
+        "w": 73,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3ODciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "abs": "https://andesrefrigerationusa.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3ODciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "text": "Reserva tu cita ahora",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 280,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9733365963",
+        "abs": "tel:9733365963",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 500,
+        "w": 500,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/nosotros/",
+        "abs": "https://andesrefrigerationusa.com/nosotros/",
+        "text": "Sobre Nosotros",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/como-puedo-limpiar-un-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/como-puedo-limpiar-un-aire-acondicionado/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 441,
+        "w": 360,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/como-puedo-limpiar-un-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/como-puedo-limpiar-un-aire-acondicionado/",
+        "text": "Cómo puedo limpiar un aire acondicionado",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 242,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/como-puedo-limpiar-un-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/como-puedo-limpiar-un-aire-acondicionado/",
+        "text": "Leer más »",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 75,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/como-solucionar-el-ruido-de-una-nevera/",
+        "abs": "https://andesrefrigerationusa.com/como-solucionar-el-ruido-de-una-nevera/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 441,
+        "w": 360,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/como-solucionar-el-ruido-de-una-nevera/",
+        "abs": "https://andesrefrigerationusa.com/como-solucionar-el-ruido-de-una-nevera/",
+        "text": "Como solucionar el ruido de una nevera",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 281,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/como-solucionar-el-ruido-de-una-nevera/",
+        "abs": "https://andesrefrigerationusa.com/como-solucionar-el-ruido-de-una-nevera/",
+        "text": "Leer más »",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 75,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/conoce-las-averias-mas-comunes-de-las-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/conoce-las-averias-mas-comunes-de-las-lavadoras/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 441,
+        "w": 360,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/conoce-las-averias-mas-comunes-de-las-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/conoce-las-averias-mas-comunes-de-las-lavadoras/",
+        "text": "Conoce las averías más comunes de las lavadoras",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 288,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/conoce-las-averias-mas-comunes-de-las-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/conoce-las-averias-mas-comunes-de-las-lavadoras/",
+        "text": "Leer más »",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 75,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/blog/",
+        "abs": "https://andesrefrigerationusa.com/blog/",
+        "text": "Más tutoriales",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 146,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/hvacinstallationnewjersey",
+        "abs": "https://www.facebook.com/hvacinstallationnewjersey",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://instagram.com/andes_refrigeration?igshid=YmMyMTA2M2Y=",
+        "abs": "https://instagram.com/andes_refrigeration?igshid=YmMyMTA2M2Y=",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/nosotros/",
+        "abs": "https://andesrefrigerationusa.com/nosotros/",
+        "text": "Sobre Nosotros",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 320,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/blog/",
+        "abs": "https://andesrefrigerationusa.com/blog/",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 320,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/contactanos/",
+        "abs": "https://andesrefrigerationusa.com/contactanos/",
+        "text": "Ayuda Técnica",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 320,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/politica-de-privacidad/",
+        "abs": "https://andesrefrigerationusa.com/politica-de-privacidad/",
+        "text": "Políticas de Privacidad",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 320,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "text": "Mantenimiento y Reparación de Neveras",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 320,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "text": "Mantenimiento y Reparación de Lavadoras",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 320,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "text": "Mantenimiento y Reparación Aire Acondicionado",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 320,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "abs": "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "text": "Mantenimiento y Reparación de Secadoras",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 320,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://soydiegonunez.com/",
+        "abs": "https://soydiegonunez.com/",
+        "text": "Diego Nuñez",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 95,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:9733365963",
+        "abs": "tel:9733365963",
+        "text": "973-336-5963",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3ODciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "abs": "https://andesrefrigerationusa.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3ODciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "text": "Agende su cita",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Alternar menú",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Alternar menú",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Confirmar Visita",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "post",
+        "id": "Cita_programada",
+        "cls": "elementor-form",
+        "fieldCount": 10,
+        "fieldNames": [
+          "form_fields[firstname]",
+          "form_fields[tipo]",
+          "form_fields[cual_es_la_marca_]",
+          "form_fields[horario_de_la_visita_tecnica]",
+          "form_fields[horario_de_la_visita_tecnica]",
+          "form_fields[horario_de_la_visita_tecnica]",
+          "form_fields[pueblo]",
+          "form_fields[email]",
+          "form_fields[phone]",
+          "form_fields[address]"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "about:blank"
+    ],
+    "scripts": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://andesrefrigerationusa.com/",
+            "url": "https://andesrefrigerationusa.com/",
+            "name": "✅ Andes Refrigeration - reparación de electrodomésticos",
+            "isPartOf": {
+              "@id": "https://andesrefrigerationusa.com/#website"
+            },
+            "about": {
+              "@id": "https://andesrefrigerationusa.com/#organization"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://andesrefrigerationusa.com/#primaryimage"
+            },
+            "image": {
+              "@id": "https://andesrefrigerationusa.com/#primaryimage"
+            },
+            "thumbnailUrl": "https://andesrefrigerationusa.com/wp-content/uploads/2022/07/icon-mantenimiento-300x300.png",
+            "datePublished": "2022-08-04T03:51:50+00:00",
+            "dateModified": "2025-09-26T13:39:48+00:00",
+            "description": "Mantenimiento y reparación de electrodomésticos, Desde lavadoras, aires acondicionados y neveras, brindamos servicios rápidos y profesionales.",
+            "breadcrumb": {
+              "@id": "https://andesrefrigerationusa.com/#breadcrumb"
+            },
+            "inLanguage": "es",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://andesrefrigerationusa.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "es",
+            "@id": "https://andesrefrigerationusa.com/#primaryimage",
+            "url": "https://andesrefrigerationusa.com/wp-content/uploads/2022/07/icon-mantenimiento.png",
+            "contentUrl": "https://andesrefrigerationusa.com/wp-content/uploads/2022/07/icon-mantenimiento.png",
+            "width": 512,
+            "height": 512
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://andesrefrigerationusa.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Portada"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://andesrefrigerationusa.com/#website",
+            "url": "https://andesrefrigerationusa.com/",
+            "name": "Andes Refrigeration",
+            "description": "Servicio de mantenimiento y reparación de equipos de refrigeración",
+            "publisher": {
+              "@id": "https://andesrefrigerationusa.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://andesrefrigerationusa.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "es"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://andesrefrigerationusa.com/#organization",
+            "name": "Andes Refrigeración",
+            "url": "https://andesrefrigerationusa.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "es",
+              "@id": "https://andesrefrigerationusa.com/#/schema/logo/image/",
+              "url": "https://andesrefrigerationusa.com/wp-content/uploads/2022/06/logo-color-andes-refrigerator.png",
+              "contentUrl": "https://andesrefrigerationusa.com/wp-content/uploads/2022/06/logo-color-andes-refrigerator.png",
+              "width": 776,
+              "height": 473,
+              "caption": "Andes Refrigeración"
+            },
+            "image": {
+              "@id": "https://andesrefrigerationusa.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/hvacinstallationnewjersey",
+              "https://www.instagram.com/andes_refrigeration/"
+            ]
+          }
+        ]
+      }
+    ],
+    "brokenImages": [
+      "https://andesrefrigerationusa.com/wp-content/uploads/2022/07/icon-mantenimiento-300x300.png"
+    ],
+    "imageCount": 25,
+    "timing": {
+      "dcl": 1967,
+      "load": 4184,
+      "ttfb": 727
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 415 (Unsupported Media Type)",
+      "Failed to load resource: the server responded with a status of 415 (Unsupported Media Type)"
+    ],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://andesrefrigerationusa.com/",
+    "navMs": 5224,
+    "tel": [
+      {
+        "href": "tel:9733365963",
+        "text": "9733365963",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733365963"
+      },
+      {
+        "href": "tel:9733365963",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733365963"
+      },
+      {
+        "href": "tel:9733365963",
+        "text": "973-336-5963",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733365963"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://andesrefrigerationusa.com/",
+    "navMs": 7495,
+    "timing": {
+      "dcl": 3256,
+      "load": 4857,
+      "ttfb": 177
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:9733365963",
+        "text": "9733365963",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733365963"
+      },
+      {
+        "href": "tel:9733365963",
+        "text": "9733365963",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733365963"
+      },
+      {
+        "href": "tel:9733365963",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733365963"
+      },
+      {
+        "href": "tel:9733365963",
+        "text": "973-336-5963",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733365963"
+      },
+      {
+        "href": "tel:9733365963",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733365963"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.125,
+        "sig": " elementor-section elementor-top-section elementor-element elementor-element-b6bf1a6 elementor-section-content-middle el",
+        "text": "inicio\nnosotros\nservicios\nblog\ncontacto"
+      },
+      {
+        "kind": "header",
+        "cover": 0.105,
+        "sig": " elementor-element elementor-element-0acc9e6 elementor-hidden-desktop elementor-hidden-laptop e-flex e-con-boxed e-con e",
+        "text": "973-336-5963"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 1,
+    "brokenImages": [],
+    "textChars": 3236
+  },
+  "pages": {
+    "contact": {
+      "url": "https://andesrefrigerationusa.com/contactanos/",
+      "finalUrl": "https://andesrefrigerationusa.com/contactanos/",
+      "status": 200,
+      "title": "Contacto - Andes Refrigeration",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "Contactanos",
+          "cls": "elementor-form",
+          "fieldCount": 4,
+          "fieldNames": [
+            "form_fields[name]",
+            "form_fields[email]",
+            "form_fields[field_1ff41cd]",
+            "form_fields[message]"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": null,
+          "method": "post",
+          "id": "Cita_programada",
+          "cls": "elementor-form",
+          "fieldCount": 10,
+          "fieldNames": [
+            "form_fields[firstname]",
+            "form_fields[tipo]",
+            "form_fields[cual_es_la_marca_]",
+            "form_fields[horario_de_la_visita_tecnica]",
+            "form_fields[horario_de_la_visita_tecnica]",
+            "form_fields[horario_de_la_visita_tecnica]",
+            "form_fields[pueblo]",
+            "form_fields[email]",
+            "form_fields[phone]",
+            "form_fields[address]"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "about:blank"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "contacto@andesrefrigerationusa.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:9733365963",
+          "text": "9733365963",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733365963"
+        },
+        {
+          "href": "tel:9733365963",
+          "text": "973-336-5963",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19733365963"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Ir al contenido\ncontacto@andesrefrigerationusa.com\nFacebook\n \nInstagram\nINICIO\nNOSOTROS\nSERVICIOS\nBLOG\nCONTACTO\n9733365963\n¡Agenda tu cita!\nContáctenos\nPonte en contacto con\nAndes Refrigeration\n\nSolicita nuestros servicios de mantenimiento y reparación de equipos de refrigeración, aires acondicionados y electrodomésticos.\n\nTeléfono\n\n973-336-5963 / 973-855-9039\n\nEmail\n\ncontacto@andesrefrigerationusa.com\n\nSíguenos en:\n\nFacebook\n \nInstagram\nFormulario de Contacto\n\nPuedes contactarte con nosotros a través del siguiente formulario:\n\nNombre\nEmail\nTeléfono\nMessage\nEnviar mensaje\nHorarios de Atención\n\nLunes a Sábado:\n9:00 a 18:00\nDomingo\nAtención previa cita (Casos emergencia)\n\nEn Andes Refrigerator somos especialistas en mantenimiento y reparación de equipos de refrigeración, aires acondicionados y electrodomésticos, nos aseguramos de mantener precios justos y accesibles.\n\nFacebook\n \nInstagram\nLa Empresa\nSobre Nosotros\nBlog\nAyuda Técnica\nPolíticas de Privacidad\nServicios\nMantenimiento y Reparación de Neveras\nMantenimiento y Reparación de Lavadoras\nMantenimiento y Reparación Aire Acondicionado\nMantenimiento y Reparación de Secadoras\nContáctenos\nTeléfono: 9733365963\nEmail: contacto@andesrefrigerationusa.com\nHorarios de Atención:\n\nLunes a Sábado\n9:00 a 18:00\nDomingo\nAtención previa cita (Casos emergencia)\n\nAndes Refrigeration © Todos los derechos reservados | Desarrollado por Diego Nuñez",
+      "vendors": [],
+      "links": [
+        "https://andesrefrigerationusa.com/contactanos/#content",
+        "https://andesrefrigerationusa.com/",
+        "https://andesrefrigerationusa.com/",
+        "https://andesrefrigerationusa.com/nosotros/",
+        "https://andesrefrigerationusa.com/servicios/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "https://andesrefrigerationusa.com/blog/",
+        "https://andesrefrigerationusa.com/contactanos/",
+        "https://andesrefrigerationusa.com/",
+        "https://andesrefrigerationusa.com/nosotros/",
+        "https://andesrefrigerationusa.com/servicios/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "https://andesrefrigerationusa.com/blog/",
+        "https://andesrefrigerationusa.com/contactanos/",
+        "https://andesrefrigerationusa.com/contactanos/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3ODciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+        "https://andesrefrigerationusa.com/nosotros/",
+        "https://andesrefrigerationusa.com/blog/",
+        "https://andesrefrigerationusa.com/contactanos/",
+        "https://andesrefrigerationusa.com/politica-de-privacidad/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-neveras/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-lavadoras/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-aire-acondicionado/",
+        "https://andesrefrigerationusa.com/mantenimiento-y-reparacion-de-secadoras/",
+        "https://andesrefrigerationusa.com/contactanos/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3ODciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 18,
+    "at": "2026-11-03T23:15:44.076Z",
+    "statusCounts": {
+      "200": 17,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://andesrefrigerationusa.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/andes-refrigeration/desktop-home.png",
+    "desktop_full": "evidence/screenshots/andes-refrigeration/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/andes-refrigeration/desktop-contact.png",
+    "mobile_asis": "evidence/screenshots/andes-refrigeration/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [
+      "contacto@andesrefrigerationusa.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Facebook -> https://www.facebook.com/hvacinstallationnewjersey",
+      "Facebook -> https://www.facebook.com/hvacinstallationnewjersey"
+    ]
+  }
+}

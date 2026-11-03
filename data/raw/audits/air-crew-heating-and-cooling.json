@@ -1,0 +1,1554 @@
+{
+  "firecrawl": [],
+  "id": "air-crew-heating-and-cooling",
+  "name": "air-crew-heating-and-cooling",
+  "website": "http://www.aircrewhvacnj.com/",
+  "auditedAt": "2026-11-03T23:43:10.836Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://www.aircrewhvacnj.com/",
+      "at": "2026-11-03T23:43:14.205Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.aircrewhvacnj.com/",
+      "title": "Home - Air Crew HVAC - New Jersey HVAC Services",
+      "ms": 3335,
+      "error": null,
+      "linkCount": 83
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.aircrewhvacnj.com/contact-us/",
+      "at": "2026-11-03T23:43:17.282Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.aircrewhvacnj.com/contact-us/",
+      "title": "Contact Us - Air Crew HVAC - New Jersey HVAC Services",
+      "ms": 1252,
+      "error": null,
+      "linkCount": 65
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.aircrewhvacnj.com/about-us/",
+      "at": "2026-11-03T23:43:19.027Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.aircrewhvacnj.com/about-us/",
+      "title": "About Us - Air Crew HVAC - New Jersey HVAC Services",
+      "ms": 1521,
+      "error": null,
+      "linkCount": 64
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://www.aircrewhvacnj.com/",
+      "at": "2026-11-03T23:44:04.830Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.aircrewhvacnj.com/",
+      "title": "Home - Air Crew HVAC - New Jersey HVAC Services",
+      "ms": 1896,
+      "error": null,
+      "linkCount": 83
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.aircrewhvacnj.com/",
+    "title": "Home - Air Crew HVAC - New Jersey HVAC Services",
+    "lang": "en-US",
+    "metaDescription": "Air Crew HVAC provides heating, cooling, and plumbing services across all of North Jersey. 24 Hours per day. Call us for a free quote!",
+    "h1": [],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 6102,
+    "bodyText": "Skip to content\nHome\nAbout Us\nServices\nGallery\nContact Us\nSchedule Service\nHeating, Cooling and Plumbing\nEXPERT HVAC SERVICES IN NORTH JERSEY\n\nProviding expert HVAC, Heating, Cooling, and Plumbing Services across New Jersey. \n\nGet a Free Estimate\nView Services\nHeating, Cooling & Plumbing Services\n\nAir Crew HVAC offers the highest quality of residential and commercial air conditioning, heating, and plumbing services across Morris, Essex, Hudson, Bergen, and Passaic County — and beyond. Our experienced technicians are the foundation of our commitment to providing top-notch service with a personal touch, ensuring total customer satisfaction. Air Crew HVAC is your one-stop shop for superior and reliable HVAC servicing.\n\nHeating\n\nHEATING REPAIR & INSTALL\n\nStay warm and comfortable during the cold months. From furnace repairs to new heater installations, our experienced technicians keep your heating system efficient and effective.\n\nHeating Services\n\nCooling\n\nAC REPAIR & INSTALL\n\nBeat the heat with professional cooling services. Specializing in AC installation, maintenance, and repair, keeping your home or office comfortable all summer long.\n\nCooling Services\n\nPlumbing\n\nPIPE LEAKS & DRAINS\n\nWhether you're dealing with leaky faucets, clogged pipes, or need a complete plumbing overhaul, we provide comprehensive services to keep your system running smoothly.\n\nPlumbing Services\n5-Star Rated\nAir Crew Heating and Cooling\n92 Google reviews\nWrite a review\nLiliana Seabra\nJoe came out same day to fix an AC vent that wasn’t working in one of our rooms. He was quick & efficient and his prices are unbeatable!\nWilliam Gogerty\nIf you are not using Joe/ AirCrew for your HVAC needs you are using the wrong company. Joe is outstanding, thorough, explains in detail the issue and bring the greatest traits of honesty and integrity! Joe came in, went through our entire unit, resolved the issue with detailed explanations and serviced our unit completely! Excellent company and HIGHLY recommend Joe!\nLinda\nJoe is knowledgeable, professional and HONEST. He came on time, explained the problem thoroughly and gave a very fair price. I highly recommend his services!\nDaenita Taylor\nI recently had a clogged kitchen sink and needed someone quickly. I called up Joe, who was recommended by a family friend. He came over to the house immediately. He basically had to use the snake all the way down to the basement drain. He explained the whole process of unclogging the drain. He is very knowledgeable and affordable. Thank you, Joe.\nKelsey Fowler\nAir Crew did an outstanding job replacing our HVAC system, installing a new AC condenser and gas furnace. From the get-go, they were efficient and accommodating, scheduling the installation quickly after our initial quote. The installation itself was completed in a day, and the team maintained a high level of professionalism throughout the process. They thoroughly tested the new system, left the area clean, and answered all of our questions. Their rates were very reasonable! I would highly recommend Air Crew for any HVAC needs. Thank you Joe and team!\nLee Jones\nGreat Service!! Air Crew quickly responded to my inquiry regarding a kitchen sink leak. Joe, the owner, came over and fixed the numerous issues with my sink. He offered advice on maintenance, was professional, courteous and a pleasure to deal with. He also fixed my long suffering outdoor spigot. I would not hesitate to use Air Crew for any plumbing issue. I also plan to use their HVAC services to maintain my air system this coming season. I highly recommend Air Crew Heating and Cooling.\nDaisy Wong\nJoe, the owner of Air Crew, repaired my hot water boiler. Joe is very polite, responsive and professional. He explained to me what repair was needed and completed the job in a timely manner. I'm very happy with his high quality of work. Joe also helped me understand more about the heating and cooling systems, and when maintenance vs. replacement is needed. I highly recommend Joe!\nWilly\nI called Joe on a Saturday morning after my boiler quit for good. He came over right away, surveyed the situation and indicated he could install a new boiler on Monday. He and his helper completed the job as promised and did excellent work. If you’re looking for an honest and professional plumber, I strongly recommend you contact Air Crew and Joe.\nJason Calabrese\nIf you are looking for an honest, reputable and skilled HVAC technician I absolutely recommend Joe at Air Crew HVAC in Fairfield, NJ. He came to my home on a Saturday afternoon to help diagnose an issue with my furnace. He made time out of his filled schedule to stop by and give me free advice. He is a rare person in this business because he is not just looking to make money, but he actually cares about helping people as well! He will make sure you are satisfied with his work and will charge a fair and reasonable price. Do not hesitate to contact Joe for all of your HVAC and plumbing needs!\n\nWHAT WE DO\n\nYour Go-To For Heating, Cooling & Plumbing.\nAir Conditioner Installations & Repair\n\nFrom routine repairs to new installs, our cooling experts keep your home comfortable through every North Jersey summer — with seasonal tune-ups to match.\n\nAir Conditioner Replacement\n\nOld unit struggling or gone completely? We size, install, and set up your new AC system — done right the first time.\n\nHeating Repair & Maintenance\n\nFrom furnace tune-ups to full system diagnostics, our technicians keep your heater running efficiently through the coldest North Jersey winters.\n\nPlumbing & Drain Cleaning\n\nLeaky faucets, clogged drains, sewer line backups — we handle everyday plumbing issues fast, before they turn into bigger problems.\n\nHeating Replacement\n\nWhen repairs no longer make sense, we help you upgrade to a new, energy-efficient heating system sized right for your home — installed fast and done right.\n\nHeating Conversions\n\nSwitching from oil to gas or upgrading your fuel source? We handle the full conversion, maximizing efficiency and long-term savings.\n\nAVAILABLE AROUND THE CLOCK\n\nNo Heat? No AC?\nWe're Here 24/7.\n\nHVAC emergencies don't wait for business hours — and neither do we. Our team is on call 7 days a week, 24 hours a day across North Jersey.\n\nCall Us Directly\n\nLIMITED TIME\n\nSpecial Online Offers\n\nNEW CUSTOMERS\n\nFirst Time Customers\n\n10% OFF\n\nINSTALLATION\n\nWater Heater Installation\n\n$100 OFF\n\nANY SERVICE\n\nAny Job\n\n$25 OFF\n\nWHERE WE WORK\n\nProudly Serving North Jersey\n\nLicensed and insured, based in Fairfield, NJ — we dispatch technicians across the following counties for heating, cooling, and plumbing service.\n\nMorris County\nEssex County\nHudson County\nBergen County\nPassaic County\n\nOur Hours\n\nFree Estimates\nMonday – Friday\nEmergency Service\n24/7\n\nJUMP TO\n\nWhat Do You Need Today?\n\nHeating\n\nCooling\n\nPlumbing\n\nDrain Cleaning\n\nBook Your Appointment",
+    "links": [
+      {
+        "href": "#content",
+        "abs": "https://www.aircrewhvacnj.com/#content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/",
+        "abs": "https://www.aircrewhvacnj.com/",
+        "text": "Air Crew HVAC – New Jersey HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/",
+        "abs": "https://www.aircrewhvacnj.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 168,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/",
+        "abs": "https://www.aircrewhvacnj.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 51,
+        "w": 96,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/about-us/",
+        "abs": "https://www.aircrewhvacnj.com/about-us/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 51,
+        "w": 126,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/",
+        "abs": "https://www.aircrewhvacnj.com/services/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 51,
+        "w": 130,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/boiler-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/boiler-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 72,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 72,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/furnace/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/furnace/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/heat-pumps/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/heat-pumps/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/cooling/",
+        "abs": "https://www.aircrewhvacnj.com/services/cooling/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/cooling/ac-installation/",
+        "abs": "https://www.aircrewhvacnj.com/services/cooling/ac-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/cooling/ac-tune-ups/",
+        "abs": "https://www.aircrewhvacnj.com/services/cooling/ac-tune-ups/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "abs": "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/bathroom-plumbing/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/bathroom-plumbing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 72,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/emergency-plumbing/",
+        "abs": "https://www.aircrewhvacnj.com/emergency-plumbing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 72,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/garbage-disposal/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/garbage-disposal/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 72,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/sump-pumps/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/sump-pumps/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/shower-repairs/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/shower-repairs/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/water-heater/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/water-heater/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/water-softener-installation-and-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/water-softener-installation-and-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/emergency-hvac-services/",
+        "abs": "https://www.aircrewhvacnj.com/emergency-hvac-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 72,
+        "w": 220,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/gallery/",
+        "abs": "https://www.aircrewhvacnj.com/gallery/",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": true,
+        "h": 51,
+        "w": 105,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/contact-us/",
+        "abs": "https://www.aircrewhvacnj.com/contact-us/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 51,
+        "w": 143,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12017722004",
+        "abs": "tel:+12017722004",
+        "text": "Call Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/contact-us/",
+        "abs": "https://www.aircrewhvacnj.com/contact-us/",
+        "text": "Schedule Service",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 199,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/contact-us/",
+        "abs": "https://www.aircrewhvacnj.com/contact-us/",
+        "text": "Get a Free Estimate",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 233,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/",
+        "abs": "https://www.aircrewhvacnj.com/services/",
+        "text": "View Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 184,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12017722004",
+        "abs": "tel:+12017722004",
+        "text": "Get a Free Estimate",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/",
+        "abs": "https://www.aircrewhvacnj.com/services/",
+        "text": "View Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "text": "Heating Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 57,
+        "w": 186,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "text": "Cooling Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 57,
+        "w": 185,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/emergency-plumbing/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/emergency-plumbing/",
+        "text": "Plumbing Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 57,
+        "w": 199,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://admin.trustindex.io/api/googleWriteReview?place-id=ChIJT8Em82ZMMwwRqxgQJKXcerE",
+        "abs": "https://admin.trustindex.io/api/googleWriteReview?place-id=ChIJT8Em82ZMMwwRqxgQJKXcerE",
+        "text": "Write a review",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 138,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "text": "Air Conditioner Installations & Repair From routine repairs to new installs, our",
+        "visible": true,
+        "aboveFold": false,
+        "h": 326,
+        "w": 516,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "text": "Air Conditioner Replacement Old unit struggling or gone completely? We size, ins",
+        "visible": true,
+        "aboveFold": false,
+        "h": 326,
+        "w": 516,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "text": "Heating Repair & Maintenance From furnace tune-ups to full system diagnostics, o",
+        "visible": true,
+        "aboveFold": false,
+        "h": 299,
+        "w": 516,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "abs": "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "text": "Plumbing & Drain Cleaning Leaky faucets, clogged drains, sewer line backups — we",
+        "visible": true,
+        "aboveFold": false,
+        "h": 299,
+        "w": 516,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "text": "Heating Replacement When repairs no longer make sense, we help you upgrade to a ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 326,
+        "w": 516,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "text": "Heating Conversions Switching from oil to gas or upgrading your fuel source? We ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 326,
+        "w": 516,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12017722004",
+        "abs": "tel:+12017722004",
+        "text": "Call Us Directly",
+        "visible": true,
+        "aboveFold": false,
+        "h": 65,
+        "w": 222,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 173,
+        "w": 213,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "text": "Cooling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 173,
+        "w": 213,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/emergency-plumbing/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/emergency-plumbing/",
+        "text": "Plumbing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 173,
+        "w": 213,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "abs": "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "text": "Drain Cleaning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 173,
+        "w": 213,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/contact-us/",
+        "abs": "https://www.aircrewhvacnj.com/contact-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 213,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://scalewavemarketing.com/",
+        "abs": "https://scalewavemarketing.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 74,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/",
+        "abs": "https://www.aircrewhvacnj.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/about-us/",
+        "abs": "https://www.aircrewhvacnj.com/about-us/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/",
+        "abs": "https://www.aircrewhvacnj.com/services/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/boiler-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/boiler-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/furnace/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/furnace/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/heating/heat-pumps/",
+        "abs": "https://www.aircrewhvacnj.com/services/heating/heat-pumps/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/cooling/",
+        "abs": "https://www.aircrewhvacnj.com/services/cooling/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/cooling/ac-installation/",
+        "abs": "https://www.aircrewhvacnj.com/services/cooling/ac-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "abs": "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/cooling/ac-tune-ups/",
+        "abs": "https://www.aircrewhvacnj.com/services/cooling/ac-tune-ups/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "abs": "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/bathroom-plumbing/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/bathroom-plumbing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/garbage-disposal/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/garbage-disposal/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/sump-pumps/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/sump-pumps/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/emergency-plumbing/",
+        "abs": "https://www.aircrewhvacnj.com/emergency-plumbing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/shower-repairs/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/shower-repairs/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/services/plumbing/water-heater/",
+        "abs": "https://www.aircrewhvacnj.com/services/plumbing/water-heater/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/emergency-hvac-services/",
+        "abs": "https://www.aircrewhvacnj.com/emergency-hvac-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/hudson-county-hvac-services/",
+        "abs": "https://www.aircrewhvacnj.com/hudson-county-hvac-services/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/bergen-county-hvac-services/",
+        "abs": "https://www.aircrewhvacnj.com/bergen-county-hvac-services/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/passaic-county-hvac-services/",
+        "abs": "https://www.aircrewhvacnj.com/passaic-county-hvac-services/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/essex-county-hvac-services/",
+        "abs": "https://www.aircrewhvacnj.com/essex-county-hvac-services/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.aircrewhvacnj.com/morris-county-hvac-services/",
+        "abs": "https://www.aircrewhvacnj.com/morris-county-hvac-services/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 328,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/p/Air-Crew-Heating-and-Cooling-plumbing-drain-cleaning-100091426524881/",
+        "abs": "https://www.facebook.com/p/Air-Crew-Heating-and-Cooling-plumbing-drain-cleaning-100091426524881/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.linkedin.com/company/air-crew-heating-and-cooling/",
+        "abs": "https://www.linkedin.com/company/air-crew-heating-and-cooling/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/aircrewhvacnj/?hl=en",
+        "abs": "https://www.instagram.com/aircrewhvacnj/?hl=en",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Write a review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Menu Toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://cdn.trustindex.io/loader.js",
+      "https://www.aircrewhvacnj.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.aircrewhvacnj.com/",
+            "url": "https://www.aircrewhvacnj.com/",
+            "name": "Home - Air Crew HVAC - New Jersey HVAC Services",
+            "isPartOf": {
+              "@id": "https://www.aircrewhvacnj.com/#website"
+            },
+            "about": {
+              "@id": "https://www.aircrewhvacnj.com/#organization"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://www.aircrewhvacnj.com/#primaryimage"
+            },
+            "image": {
+              "@id": "https://www.aircrewhvacnj.com/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.aircrewhvacnj.com/wp-content/uploads/2023/03/cropped-Air-Crew-Plumbing.jpg",
+            "datePublished": "2023-03-29T15:49:31+00:00",
+            "dateModified": "2026-09-25T17:24:56+00:00",
+            "description": "Air Crew HVAC provides heating, cooling, and plumbing services across all of North Jersey. 24 Hours per day. Call us for a free quote!",
+            "breadcrumb": {
+              "@id": "https://www.aircrewhvacnj.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.aircrewhvacnj.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://www.aircrewhvacnj.com/#primaryimage",
+            "url": "https://www.aircrewhvacnj.com/wp-content/uploads/2023/03/cropped-Air-Crew-Plumbing.jpg",
+            "contentUrl": "https://www.aircrewhvacnj.com/wp-content/uploads/2023/03/cropped-Air-Crew-Plumbing.jpg",
+            "width": 512,
+            "height": 512
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.aircrewhvacnj.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.aircrewhvacnj.com/#website",
+            "url": "https://www.aircrewhvacnj.com/",
+            "name": "Air Crew HVAC - New Jersey HVAC Services",
+            "description": "HVAC &amp; Plumbing Services",
+            "publisher": {
+              "@id": "https://www.aircrewhvacnj.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.aircrewhvacnj.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.aircrewhvacnj.com/#organization",
+            "name": "Air Crew HVAC - New Jersey HVAC Services",
+            "url": "https://www.aircrewhvacnj.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.aircrewhvacnj.com/#/schema/logo/image/",
+              "url": "https://www.aircrewhvacnj.com/wp-content/uploads/2023/03/cropped-Air-Crew-Plumbing-1.jpg",
+              "contentUrl": "https://www.aircrewhvacnj.com/wp-content/uploads/2023/03/cropped-Air-Crew-Plumbing-1.jpg",
+              "width": 720,
+              "height": 149,
+              "caption": "Air Crew HVAC - New Jersey HVAC Services"
+            },
+            "image": {
+              "@id": "https://www.aircrewhvacnj.com/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 73,
+    "timing": {
+      "dcl": 1607,
+      "load": 2791,
+      "ttfb": 1218
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://www.aircrewhvacnj.com/",
+    "navMs": 3335,
+    "tel": [
+      {
+        "href": "tel:+12017722004",
+        "text": "Call Us",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12017722004"
+      },
+      {
+        "href": "tel:+12017722004",
+        "text": "Get a Free Estimate",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12017722004"
+      },
+      {
+        "href": "tel:+12017722004",
+        "text": "Call Us Directly",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12017722004"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.aircrewhvacnj.com/",
+    "navMs": 1896,
+    "timing": {
+      "dcl": 486,
+      "load": 1356,
+      "ttfb": 261
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+12017722004",
+        "text": "Call Us",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12017722004"
+      },
+      {
+        "href": "tel:+12017722004",
+        "text": "Get a Free Estimate",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12017722004"
+      },
+      {
+        "href": "tel:+12017722004",
+        "text": "Call Us Directly",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12017722004"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Call Us",
+      "Get a Free Estimate"
+    ],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 6802
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.aircrewhvacnj.com/contact-us/",
+      "finalUrl": "https://www.aircrewhvacnj.com/contact-us/",
+      "status": 200,
+      "title": "Contact Us - Air Crew HVAC - New Jersey HVAC Services",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "nj.aircrew@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+12017722004",
+          "text": "Call Us",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12017722004"
+        },
+        {
+          "href": "tel:+12017722004",
+          "text": "201-772-2004",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017722004"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\nHome\nAbout Us\nServices\nGallery\nContact Us\nSchedule Service\n\nGET IN TOUCH\n\nGet a Free Quote or\nBook a Service\n\nContact us for a quote or to help address any questions.\n\nSERVICE AREA\n\nServicing All of North Jersey\n\nEMAIL\n\nnj.aircrew@gmail.com\n\nCALL US\n\n201-772-2004\n\nOUR AVAILABILITY\n\nFree Estimates\n\nMonday – Friday\n\nEmergency Service\n\n24 Hours a Day, 7 Days a Week\n\nRequest Your Free Quote\n\nFill out the form below and we'll get back to you shortly.\n\nAIR CREW HVAC\n\nHeating, Cooling, Plumbing, and Drain Cleaning services in New Jersey. Open 24/7. Call For a Free Quote.\n\nPowered By Scalewave.\n\nQUICK LINKS\nHome\nAbout Us\nServices\nHudson County HVAC Services\nBergen County HVAC Services\nPassaic County Hvac Services\nEssex County HVAC Services\nMorris County HVAC Services\nSOCIAL MEDIA\nFacebook\n \nLinkedin\n \nInstagram",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.aircrewhvacnj.com/contact-us/#content",
+        "https://www.aircrewhvacnj.com/",
+        "https://www.aircrewhvacnj.com/",
+        "https://www.aircrewhvacnj.com/",
+        "https://www.aircrewhvacnj.com/about-us/",
+        "https://www.aircrewhvacnj.com/services/",
+        "https://www.aircrewhvacnj.com/services/heating/",
+        "https://www.aircrewhvacnj.com/services/heating/boiler-repair/",
+        "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "https://www.aircrewhvacnj.com/services/heating/furnace/",
+        "https://www.aircrewhvacnj.com/services/heating/heat-pumps/",
+        "https://www.aircrewhvacnj.com/services/cooling/",
+        "https://www.aircrewhvacnj.com/services/cooling/ac-installation/",
+        "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "https://www.aircrewhvacnj.com/services/cooling/ac-tune-ups/",
+        "https://www.aircrewhvacnj.com/services/plumbing/",
+        "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "https://www.aircrewhvacnj.com/services/plumbing/bathroom-plumbing/",
+        "https://www.aircrewhvacnj.com/emergency-plumbing/",
+        "https://www.aircrewhvacnj.com/services/plumbing/garbage-disposal/",
+        "https://www.aircrewhvacnj.com/services/plumbing/sump-pumps/",
+        "https://www.aircrewhvacnj.com/services/plumbing/shower-repairs/",
+        "https://www.aircrewhvacnj.com/services/plumbing/water-heater/",
+        "https://www.aircrewhvacnj.com/services/plumbing/water-softener-installation-and-repair/",
+        "https://www.aircrewhvacnj.com/emergency-hvac-services/",
+        "https://www.aircrewhvacnj.com/gallery/",
+        "https://www.aircrewhvacnj.com/contact-us/",
+        "https://www.aircrewhvacnj.com/contact-us/",
+        "https://www.aircrewhvacnj.com/",
+        "https://www.aircrewhvacnj.com/about-us/",
+        "https://www.aircrewhvacnj.com/services/",
+        "https://www.aircrewhvacnj.com/services/heating/",
+        "https://www.aircrewhvacnj.com/services/heating/boiler-repair/",
+        "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "https://www.aircrewhvacnj.com/services/heating/furnace/",
+        "https://www.aircrewhvacnj.com/services/heating/heat-pumps/",
+        "https://www.aircrewhvacnj.com/services/cooling/",
+        "https://www.aircrewhvacnj.com/services/cooling/ac-installation/",
+        "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "https://www.aircrewhvacnj.com/services/cooling/ac-tune-ups/",
+        "https://www.aircrewhvacnj.com/services/plumbing/",
+        "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "https://www.aircrewhvacnj.com/services/plumbing/bathroom-plumbing/",
+        "https://www.aircrewhvacnj.com/services/plumbing/garbage-disposal/",
+        "https://www.aircrewhvacnj.com/services/plumbing/sump-pumps/",
+        "https://www.aircrewhvacnj.com/emergency-plumbing/",
+        "https://www.aircrewhvacnj.com/services/plumbing/shower-repairs/",
+        "https://www.aircrewhvacnj.com/services/plumbing/water-heater/",
+        "https://www.aircrewhvacnj.com/emergency-hvac-services/",
+        "https://www.aircrewhvacnj.com/hudson-county-hvac-services/",
+        "https://www.aircrewhvacnj.com/bergen-county-hvac-services/",
+        "https://www.aircrewhvacnj.com/passaic-county-hvac-services/",
+        "https://www.aircrewhvacnj.com/essex-county-hvac-services/",
+        "https://www.aircrewhvacnj.com/morris-county-hvac-services/"
+      ]
+    },
+    "about": {
+      "url": "https://www.aircrewhvacnj.com/about-us/",
+      "finalUrl": "https://www.aircrewhvacnj.com/about-us/",
+      "status": 200,
+      "title": "About Us - Air Crew HVAC - New Jersey HVAC Services",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:+12017722004",
+          "text": "Call Us",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12017722004"
+        },
+        {
+          "href": "tel:+12017722004",
+          "text": "Call (201) 772-2004",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017722004"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\nHome\nAbout Us\nServices\nGallery\nContact Us\nSchedule Service\nABOUT US\n\n#1 HVAC SERVICES IN NORTH JERSEY\n\nAir Crew Heating & Cooling\n\nAir Crew HVAC is a family-owned and operated business dedicated to delivering top-of-the-line HVAC and plumbing services to all our valued customers across North Jersey. We're proud to help our clients keep warm in the winter, cool in the summer, and live comfortably all year long.\n\nOur mission has always been to exceed expectations by providing prompt and reliable service accompanied by high standards of excellence. From installation and repair to maintenance contracts and inspections — we're here for all your heating, cooling, and plumbing needs.\n\nWHAT WE STAND FOR\n\nWhy Choose Air Crew HVAC?\n\nOur team has built a reputation for delivering reliable HVAC, plumbing, and drain cleaning services throughout North Jersey.\n\nHonest Recommendations\n\nWe tell you what actually needs to be done — not what's most profitable for us. Repair or replace, we give you the straight answer.\n\nQuality Workmanship\n\nEvery job is done right the first time. We stand behind our work with licensed, experienced technicians who take pride in the details.\n\nDependable Service\n\nHomeowners and businesses across North Jersey trust us because we show up when we say we will, and we're there 24/7 when it matters most.\n\n\"\n\nOur team has built a reputation for delivering reliable HVAC, plumbing, and drain cleaning services throughout North Jersey. We take pride in providing honest recommendations, quality workmanship, and dependable service that homeowners and businesses can trust.\n\nEVERY MAKE & MODEL\n\nWe Service All Brands and Models\n\nHVAC\n\nWe service all HVAC brands and models, allowing us to work on your system no matter the company that made it.\n\nTrane HVAC Systems\nOxbox HVAC Systems\nDaikin HVAC Systems\nCarrier HVAC Systems\nYork HVAC Systems\nBryant HVAC Systems\nGoodman HVAC Systems\nRheem HVAC Systems\nAmana HVAC Systems\nMitsubishi HVAC Systems\nLiberty HVAC Systems\nFujitsu HVAC Systems\n\nBoilers & Hot Water Heaters\n\nWe service both steam and hot water boilers across the manufacturer spectrum.\n\nWeil-McLain Boilers\nPeerless Boilers\nUtica Boilers\nCrown Boilers\nLochinvar Boilers\nA.O. Smith Water Heaters\nRheem Water Heaters\nBradford White Heaters\nIndirect Water Heaters\n\nREADY WHEN YOU ARE\n\nHeating and Cooling Pros\nYou Can Rely On.\n\nFrom emergency repairs to new system installations, Air Crew delivers dependable service across North Jersey with 24/7 emergency availability.\n\nCall (201) 772-2004\nAIR CREW HVAC\n\nHeating, Cooling, Plumbing, and Drain Cleaning services in New Jersey. Open 24/7. Call For a Free Quote.\n\nPowered By Scalewave.\n\nQUICK LINKS\nHome\nAbout Us\nServices\nHudson County HVAC Services\nBergen County HVAC Services\nPassaic County Hvac Services\nEssex County HVAC Services\nMorris County HVAC Services\nSOCIAL MEDIA\nFacebook\n \nLinkedin\n \nInstagram",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.aircrewhvacnj.com/about-us/#content",
+        "https://www.aircrewhvacnj.com/",
+        "https://www.aircrewhvacnj.com/",
+        "https://www.aircrewhvacnj.com/",
+        "https://www.aircrewhvacnj.com/about-us/",
+        "https://www.aircrewhvacnj.com/services/",
+        "https://www.aircrewhvacnj.com/services/heating/",
+        "https://www.aircrewhvacnj.com/services/heating/boiler-repair/",
+        "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "https://www.aircrewhvacnj.com/services/heating/furnace/",
+        "https://www.aircrewhvacnj.com/services/heating/heat-pumps/",
+        "https://www.aircrewhvacnj.com/services/cooling/",
+        "https://www.aircrewhvacnj.com/services/cooling/ac-installation/",
+        "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "https://www.aircrewhvacnj.com/services/cooling/ac-tune-ups/",
+        "https://www.aircrewhvacnj.com/services/plumbing/",
+        "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "https://www.aircrewhvacnj.com/services/plumbing/bathroom-plumbing/",
+        "https://www.aircrewhvacnj.com/emergency-plumbing/",
+        "https://www.aircrewhvacnj.com/services/plumbing/garbage-disposal/",
+        "https://www.aircrewhvacnj.com/services/plumbing/sump-pumps/",
+        "https://www.aircrewhvacnj.com/services/plumbing/shower-repairs/",
+        "https://www.aircrewhvacnj.com/services/plumbing/water-heater/",
+        "https://www.aircrewhvacnj.com/services/plumbing/water-softener-installation-and-repair/",
+        "https://www.aircrewhvacnj.com/emergency-hvac-services/",
+        "https://www.aircrewhvacnj.com/gallery/",
+        "https://www.aircrewhvacnj.com/contact-us/",
+        "https://www.aircrewhvacnj.com/contact-us/",
+        "https://www.aircrewhvacnj.com/",
+        "https://www.aircrewhvacnj.com/about-us/",
+        "https://www.aircrewhvacnj.com/services/",
+        "https://www.aircrewhvacnj.com/services/heating/",
+        "https://www.aircrewhvacnj.com/services/heating/boiler-repair/",
+        "https://www.aircrewhvacnj.com/services/heating/boiler-installation/",
+        "https://www.aircrewhvacnj.com/services/heating-conversions/",
+        "https://www.aircrewhvacnj.com/services/heating-repair/",
+        "https://www.aircrewhvacnj.com/services/heating/furnace/",
+        "https://www.aircrewhvacnj.com/services/heating/heat-pumps/",
+        "https://www.aircrewhvacnj.com/services/cooling/",
+        "https://www.aircrewhvacnj.com/services/cooling/ac-installation/",
+        "https://www.aircrewhvacnj.com/services/ac-repair/",
+        "https://www.aircrewhvacnj.com/services/cooling/ac-tune-ups/",
+        "https://www.aircrewhvacnj.com/services/plumbing/",
+        "https://www.aircrewhvacnj.com/services/drain-cleaning/",
+        "https://www.aircrewhvacnj.com/services/plumbing/bathroom-plumbing/",
+        "https://www.aircrewhvacnj.com/services/plumbing/garbage-disposal/",
+        "https://www.aircrewhvacnj.com/services/plumbing/sump-pumps/",
+        "https://www.aircrewhvacnj.com/emergency-plumbing/",
+        "https://www.aircrewhvacnj.com/services/plumbing/shower-repairs/",
+        "https://www.aircrewhvacnj.com/services/plumbing/water-heater/",
+        "https://www.aircrewhvacnj.com/emergency-hvac-services/",
+        "https://www.aircrewhvacnj.com/hudson-county-hvac-services/",
+        "https://www.aircrewhvacnj.com/bergen-county-hvac-services/",
+        "https://www.aircrewhvacnj.com/passaic-county-hvac-services/",
+        "https://www.aircrewhvacnj.com/essex-county-hvac-services/",
+        "https://www.aircrewhvacnj.com/morris-county-hvac-services/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 32,
+    "at": "2026-11-03T23:44:02.881Z",
+    "statusCounts": {
+      "200": 31,
+      "404": 1
+    },
+    "accessIssues": [],
+    "broken": [
+      {
+        "url": "https://www.aircrewhvacnj.com/services/plumbing/emergency-plumbing/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/air-crew-heating-and-cooling/broken-1.png",
+        "linkedFrom": [
+          {
+            "text": "Plumbing Services",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          },
+          {
+            "text": "Plumbing",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      }
+    ]
+  },
+  "https": {
+    "httpFinal": "https://www.aircrewhvacnj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/air-crew-heating-and-cooling/desktop-home.png",
+    "desktop_full": "evidence/screenshots/air-crew-heating-and-cooling/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/air-crew-heating-and-cooling/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/air-crew-heating-and-cooling/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/air-crew-heating-and-cooling/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": true
+    },
+    "emails": [
+      "nj.aircrew@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Schedule Service -> https://www.aircrewhvacnj.com/contact-us/",
+      "Get a Free Estimate -> https://www.aircrewhvacnj.com/contact-us/",
+      "Get a Free Estimate -> tel:+12017722004"
+    ]
+  },
+  "ctaClickTests": []
+}

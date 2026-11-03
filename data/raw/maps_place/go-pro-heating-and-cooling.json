@@ -1,0 +1,25 @@
+{
+  "id": "go-pro-heating-and-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Go+Pro+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2ff5e6b6b8569:0x485c44cf7dbffb9b!8m2!3d40.8568327!4d-74.1477369!16s%2Fg%2F11ftwfjv7j!19sChIJaYVra17_wokRm_u_fc9EXEg",
+  "retrievedAt": "2026-11-03T23:01:14.964Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Go Pro Heating and Cooling",
+  "category": "Air conditioning contractor",
+  "address": "23 Major St, Clifton, NJ 07013, United States ",
+  "phone": "+1 973-938-2217 ",
+  "website": "http://www.gopro-hvac.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Go+Pro+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2ff5e6b6b8569:0x485c44cf7dbffb9b!8m2!3d40.8568327!4d-74.1477369!16s%2Fg%2F11ftwfjv7j!19sChIJaYVra17_wokRm_u_fc9EXEg?hl=en",
+  "screenshot": "evidence/screenshots/go-pro-heating-and-cooling/google-maps-listing.png"
+}

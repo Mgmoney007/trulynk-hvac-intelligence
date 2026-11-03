@@ -1,0 +1,25 @@
+{
+  "id": "blueray-heating-and-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Blueray+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2ffde348130d7:0x89518d4ddc76fdfe!8m2!3d40.8793216!4d-74.1302847!16s%2Fg%2F11vm4pbcv6!19sChIJ1zCBNN7_wokR_v123E2NUYk",
+  "retrievedAt": "2026-11-03T23:03:45.095Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Blueray Heating and Cooling",
+  "category": "HVAC contractor",
+  "address": "91 Knapp Ave, Clifton, NJ 07011, United States ",
+  "phone": "+1 201-952-8598 ",
+  "website": "https://bluerayheatingandcooling.com/",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Blueray+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2ffde348130d7:0x89518d4ddc76fdfe!8m2!3d40.8793216!4d-74.1302847!16s%2Fg%2F11vm4pbcv6!19sChIJ1zCBNN7_wokR_v123E2NUYk?hl=en",
+  "screenshot": "evidence/screenshots/blueray-heating-and-cooling/google-maps-listing.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "newmans-heating-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/Newmans+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c3ab0a32cf8933:0x685a9f000740514e!8m2!3d40.7714901!4d-74.1960636!16s%2Fg%2F11jffcl8ys!19sChIJM4nPMgqrw4kRTlFABwCfWmg",
+  "retrievedAt": "2026-11-03T23:07:49.782Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Newmans Heating & Air Conditioning",
+  "category": "HVAC contractor",
+  "address": "123 Hoffman Blvd, East Orange, NJ 07017, United States ",
+  "phone": "+1 862-370-3729 ",
+  "website": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Newmans+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c3ab0a32cf8933:0x685a9f000740514e!8m2!3d40.7714901!4d-74.1960636!16s%2Fg%2F11jffcl8ys!19sChIJM4nPMgqrw4kRTlFABwCfWmg?hl=en",
+  "screenshot": "evidence/screenshots/newmans-heating-air-conditioning/google-maps-listing.png"
+}

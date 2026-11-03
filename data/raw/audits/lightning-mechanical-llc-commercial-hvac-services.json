@@ -1,0 +1,1341 @@
+{
+  "firecrawl": [],
+  "id": "lightning-mechanical-llc-commercial-hvac-services",
+  "name": "Lightning Mechanical LLC: Commercial HVAC Services",
+  "website": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "auditedAt": "2026-11-03T23:12:14.560Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "at": "2026-11-03T23:12:17.634Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "title": "Commercial HVAC NJ: Full Service, Repair, Installation",
+      "ms": 3032,
+      "error": null,
+      "linkCount": 64
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://lightningmechanicalservice.com/contact/",
+      "at": "2026-11-03T23:12:23.787Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://lightningmechanicalservice.com/contact/",
+      "title": "Contact",
+      "ms": 5081,
+      "error": null,
+      "linkCount": 52
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://lightningmechanicalservice.com/about/",
+      "at": "2026-11-03T23:12:25.749Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://lightningmechanicalservice.com/about/",
+      "title": "About Us | Lightning Mechanical",
+      "ms": 1558,
+      "error": null,
+      "linkCount": 69
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "at": "2026-11-03T23:13:21.491Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "title": "Commercial HVAC NJ: Full Service, Repair, Installation",
+      "ms": 3269,
+      "error": null,
+      "linkCount": 64
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "title": "Commercial HVAC NJ: Full Service, Repair, Installation",
+    "lang": "en-US",
+    "metaDescription": "HVAC Contractor in New Jersey. We provide full-service maintenance, installation and repair on all Daikin Air Conditioner products.",
+    "h1": [
+      "COMMERCIAL HVAC SERVICES NEW JERSEY"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 17011,
+    "bodyText": "100% Satisfaction Guarantee\n24/7 Emergency Service\nCALL US TODAY\n(973) 763-0300\nHVAC Services NJ\nOur Services\nVARIABLE REFRIGERANT VOLUME & VARIABLE REFRIGERANT FLOW\nDAIKIN FACTORY TRAINED TECHNICANS\nVRF MANUFACTURERS WE SERVICE\nVRV DESIGN SERVICES\nFULL PIPING SERVICES\nCONTROL WIRING SERVICES\nFULL HVAC SERVICES\nHVAC REPAIR\nHVAC INSTALLATION\nINDUSTRIAL & COMMERCIAL HVAC\nHVAC SYSTEM DESIGN\nPACKAGED ROOFTOP\nHVAC SHEET METAL FABRICATION\nFULL PIPING SERVICES HVAC\nCOMBUSTION ANALYSIS AND SYSTEM BALANCING (CERTIFIED)\nCONTROL WIRING SERVICES FOR HVAC SYSTEMS\nHVAC BMS INTEGRATION\nFORENSIC ENGINEERING\nREFRIGERANT ANALYSIS FOR HVAC (3RD PARTY)\nTOTAL HVAC SYSTEM ANALYSIS\nOTHER SERVICES\nHVAC DATA LOGGING\nTHERMAL IMAGING WITH DIGITAL PHOTOGRAPHY\nHVAC FILTER TESTING & ANALYSIS\nPACKAGED ROOFTOP UNITS\nIndustries\nManufacturers\nAbout Us\nContact\nGET A QUOTE\n\nMOST TRUSTED COMPANY\n\nCOMMERCIAL HVAC SERVICES NEW JERSEY\nFROM COMMERCIAL & INDUSTRIAL TO MULTI TENNANT RESIDENTIAL WE DELIVER RESULTS\n\nWe treat every one of our clients with the professional courtesy they are entitled to and specialize in customer satisfaction. From residential heating to commercial air conditioning for businesses, we have experience with it all.\n\nOUR SERVICES\nName *\nEmail *\nPhone *\nMessage *\nSUBMIT\n\nDAIKIN\n\nHVAC Repair Specialists\n\nWe are a results-oriented company providing servicing, maintenance, and installation of commercial HVAC systems since 2005. We have an extensive knowledge base with experience in servicing multiple brands and lines of equipment, including boilers, pumps, motors, frequency drives, water towers, and more. Our team is committed to giving you peace of mind by ensuring your investment stays up and running so you can enjoy peace of mind day after day.\n\nLightning Mechanical provides factory-trained service, installation, and maintenance for Daikin VRV and Applied systems, as well as many other VRF manufacturers. Our cross-trained service and installation technicians using factory tools service the New York City metro area, which sets us apart from our competition.\n\nBrands we Service\n\nOur commercial HVAC experts are not just factory-trained on Daikin systems; they are equally qualified and certified for service, repair, and installation of other brands, including:\n\nAnd so many more.\n\nLook at our brand partners and if they serve your area code\n\nManufacturers\n\nWe provide expert installation, replacement, and maintenance services for practically any air conditioning system. Our skilled experts are trained to work on a wide range of interior heating equipment, including boilers, furnaces, ductless heaters, and heat pumps, as well as any heating, and air conditioning residences or businesses may require.\n\nHVAC REPAIR EXPERTS IN NEW JERSEY\n\nHow can we help you\nVRV / VRF Variable\n\nVariable Refrigerant Volume (VRV) is a multi-split HVAC technology invented and pioneered by Daikin. Other manufacturers refer to their versions as Variable Refrigerant Flow to avoid copyright infringement (Daikin trademarked VRV in 1982). Both rely on the same underlying technology: inverter compressors.\n\nRead more\nHVAC Sheet Metal\n\nLightning Mechanical does its own sheet metal fabrication for custom residential and commercial HVAC systems. Sheet metal fabrication is performed in-house at our Maplewood, New Jersey facility. We do not subcontract any of the sheet metal fabrication work, nor do we purchase fabricated sheet metal parts from outside suppliers.\n\nRead more\nVRV Design\n\nThe Daikin VRV system is a multi-split air conditioner for commercial buildings that employ variable refrigerant flow management; patented by Daikin Industries LTD in 1982, it gives clients the option to maintain a unique zone control in each room and level of a building. Lightning Mechanical’s intimate knowledge of this system and all of its components makes us frontrunners in VRV design nationwide.\n\nRead more\nDaikin HVAC Repair Techs in New Jersey and New York Metro City Area\n\nThe factory-trained technicians at Lightning Mechanical have years of experience repairing, maintaining, replacing components, and providing outstanding service on the following lines of equipment and Daikin Products:\n\nAir and Heat Pumps\nAir to Water Heat Pumps\nHybrid Heat Pumps\nGas Condensing Boilers\nGround Source Heat Pumps\nHot Water Heat Pumps\nDaikin Sky Air System\nVariable Refrigerant Volume Systems (VRV)\nVentilation Systems\nAir Purifiers\nAir Curtains\nChillers and Air-Side Equipment\nRefrigeration\n\nWhether you need work done on an outdoor unit, a heating system, or someone to check on the refrigerant levels of your Daikin system, Lightning Mechanical is here to help.\n\nOUR MISSION\n\nWho we serve\n\nLightning Mechanical offers services to both commercial and residential customers. We pride ourselves on providing the optimal solutions for each of our clients.\n\nWe are proud to serve:\n\nHome End-Users\nBuilding Owners\nLarge-Scale, Multi Building, or Multi-Tenant Residencies\nCommercial Spaces\nMedical Facilities\nData Centers\n\nMAINTENANCE, REPAIR AND INSTALLATION\n\nAir Conditioning\n\nWe strive to keep your equipment working flawlessly. Our teams have saved clients millions of dollars through proper maintenance, preventative repairs, and reduced downtime of their air conditioning system.\n\nHVAC Maintance\nAir conditioning Service\nMaintenance vs Service\nHVAC Installation\n\nOUR SERVICES\n\nCheck our offer\n\nWhen things go wrong, they need to be fixed quickly. At Lightning Mechanical, we understand that a malfunctioning or broken-down HVAC system is uncomfortable at best and costly at worst. Our service checklist is double-checked for accuracy, which considerably decreases the possibility of human error.\n\nSEE ALL SERVICES\nVRV & VRF Design\nRead more\nHVAC Sheet Metal\nRead more\nFull Piping Services\nRead more\nFull Piping Services\nRead more\nCommercial HVAC Services in NJ – What Makes Us Better\n\nDAIKIN HVAC SYSTEMS\n\nFactory Trained Technicians – HVAC Contractors\n\nAll of our technicians are factory trained and have access to many factory peripherals and service tools. They are supported by a state of the art diagnostic equipment, tools, and warehouse inventory directly from Daikin in Japan.\n\nOur staff will provide you with support and services on whatever line of equipment you have installed in your building. When they are not servicing your system themselves, our team members are training on new products or better ways to service existing product lines. This ensures they are always up to date on the best air conditioning solutions for you.\n\nLightning Mechanical provides all of our customers with quality workmanship and dependability, ensuring that your equipment is serviced each time correctly. We are the only company with access to factory tools, peripherals, and training in the Tri-State area.\n\nLightning Mechanical is dedicated to providing quality service throughout New York Metro City. We aim to keep your equipment running smoothly and repair it promptly whenever necessary.\n\n4 HOUR\n\nRapid Response Window\n\nBoth medical facilities and data centers qualify as Mission-Critical and are eligible for our Rapid Response teams. We have team members situated throughout New York Metro City capable of responding within a 4-hour window to intervene on specialized equipment and avoid costly downtime. We understand you need to keep operating and ensure you do without delay.\n\nOur Rapid Response teams can reach clients for HVAC service from Philadelphia to Boston within that window. Such a large coverage area makes us an ideal match for companies with multiple spread-out locations. It’s what makes us so valuable to our existing customers.\n\nLightning Mechanical teams have long-standing experience and knowledge of the specialized equipment required within those industries and will do whatever it takes to quickly get the customer up and running.\n\nTHE MORE YOU KNOW\n\nThe More You’ll Grow\n\n“There are no stupid questions” – Craig Gallagher, Founder and President, Lightning Mechanical.\n\nWe believe that an informed customer is the best customer. Everything we do is based on saving you money down the line, and we want to make sure you understand how. If a component is failing, there’s a reason. It could be because of another part malfunctioning or environmental factors particular to your location. Whatever the case, we like to encourage our clients to ask us why we need to replace an AC unit or re-tune their cooling.\n\nLet us prevent your costly repair bills today, and give us a call to find out just how much we can help your budget.\n\nDAIKIN\n\nVRV Inventory\n\nWe are the only Daikin air conditioner service providers to carry parts and tools on board for Daikin Variable Refrigerant Volume systems in the Tri-State area.\n\nIf you have a Daikin VRV system in your building, we understand the urgency to have it repaired or serviced. We can show up with the correct parts and get your system back on track quickly and affordably.\n\nThere are no missing parts, no downtime, no catchy slogan…just great service.\n\nContact us\n\nIf you’re looking for a provider of repair, maintenance, or other air conditioning services to keep your Daikin HVAC system running at its best, Lightning Mechanical is the company for you. Our factory-trained staff will work with your team to provide worry-free service by using only original parts from the manufacturer. Whether it’s routine tune-ups or more complex repairs that need attention, please don’t hesitate to call us today at (973) 763-0300.\n\nWe are ready to serve you\n24/7 Trusted Service\nMake an Appointment Today!\nGET IN TOUCH\nContact us\nAddress\n65 Newark Way\nMaplewood, NJ 07040, US\nE-Mails\nCraig@lightningmechanical.com\nM.hlinka@lightningmechanical.com\nHours\n\nMonday – Friday: 8am – 6pm\n24 Hour on call emergency service available\n\nCALL US\n(973) 763-0300\n65 Newark Way\nMaplewood, NJ 07040, US\nQuick Menu\nHighlights\nAbout Us\nOur Services\nIndustries we serve\nLearn More\nContact\nPrivacy Policy\nConnect with us\nMAKE AN APOINTMENT\n\nGoogle reCAPTCHA used. Privacy Policy and Terms of Service apply.\n\nDeveloped by BiVisee\n\n Back to top",
+    "links": [
+      {
+        "href": "/",
+        "abs": "https://lightningmechanicalservice.com/",
+        "text": "Lightning Mechanical LLC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 151,
+        "w": 166,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 763-0300",
+        "abs": "tel:(973) 763-0300",
+        "text": "CALL US TODAY (973) 763-0300",
+        "visible": true,
+        "aboveFold": true,
+        "h": 57,
+        "w": 218,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://lightningmechanicalservice.com/",
+        "text": "HVAC Services NJ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 153,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/our-services/",
+        "abs": "https://lightningmechanicalservice.com/our-services/",
+        "text": "Our Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 137,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/vrv-vrf/",
+        "abs": "https://lightningmechanicalservice.com/vrv-vrf/",
+        "text": "VARIABLE REFRIGERANT VOLUME & VARIABLE REFRIGERANT FLOW",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 303,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/factory-trained-services/",
+        "abs": "https://lightningmechanicalservice.com/factory-trained-services/",
+        "text": "DAIKIN FACTORY TRAINED TECHNICANS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/vrv-design/#vrf-brands",
+        "abs": "https://lightningmechanicalservice.com/vrv-design/#vrf-brands",
+        "text": "VRF MANUFACTURERS WE SERVICE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 254,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/vrv-design/",
+        "abs": "https://lightningmechanicalservice.com/vrv-design/",
+        "text": "VRV DESIGN SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/refrigerant-piping/",
+        "abs": "https://lightningmechanicalservice.com/refrigerant-piping/",
+        "text": "FULL PIPING SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/control-wiring/",
+        "abs": "https://lightningmechanicalservice.com/control-wiring/",
+        "text": "CONTROL WIRING SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/hvac/",
+        "abs": "https://lightningmechanicalservice.com/hvac/",
+        "text": "FULL HVAC SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 303,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/hvac-repair/",
+        "abs": "https://lightningmechanicalservice.com/hvac-repair/",
+        "text": "HVAC REPAIR",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/hvac-installation/",
+        "abs": "https://lightningmechanicalservice.com/hvac-installation/",
+        "text": "HVAC INSTALLATION",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/commercial-hvac-nj/",
+        "abs": "https://lightningmechanicalservice.com/commercial-hvac-nj/",
+        "text": "INDUSTRIAL & COMMERCIAL HVAC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/hvac-system-design/",
+        "abs": "https://lightningmechanicalservice.com/hvac-system-design/",
+        "text": "HVAC SYSTEM DESIGN",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/package-rooftop/",
+        "abs": "https://lightningmechanicalservice.com/package-rooftop/",
+        "text": "PACKAGED ROOFTOP",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/our-services/hvac-company/sheet-metal-fabrication/",
+        "abs": "https://lightningmechanicalservice.com/our-services/hvac-company/sheet-metal-fabrication/",
+        "text": "HVAC SHEET METAL FABRICATION",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/hvac/hvac-piping/",
+        "abs": "https://lightningmechanicalservice.com/hvac/hvac-piping/",
+        "text": "FULL PIPING SERVICES HVAC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/combustion-analysis-system-balancing/",
+        "abs": "https://lightningmechanicalservice.com/combustion-analysis-system-balancing/",
+        "text": "COMBUSTION ANALYSIS AND SYSTEM BALANCING (CERTIFIED)",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/control-wiring-services/",
+        "abs": "https://lightningmechanicalservice.com/control-wiring-services/",
+        "text": "CONTROL WIRING SERVICES FOR HVAC SYSTEMS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/hvac/building-management-system-integration/",
+        "abs": "https://lightningmechanicalservice.com/hvac/building-management-system-integration/",
+        "text": "HVAC BMS INTEGRATION",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/forensic-engineering/",
+        "abs": "https://lightningmechanicalservice.com/forensic-engineering/",
+        "text": "FORENSIC ENGINEERING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 303,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/refrigerant-analysis/",
+        "abs": "https://lightningmechanicalservice.com/refrigerant-analysis/",
+        "text": "REFRIGERANT ANALYSIS FOR HVAC (3RD PARTY)",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/total-system-analysis/",
+        "abs": "https://lightningmechanicalservice.com/total-system-analysis/",
+        "text": "TOTAL HVAC SYSTEM ANALYSIS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/?page_id=298",
+        "abs": "https://lightningmechanicalservice.com/?page_id=298",
+        "text": "OTHER SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 303,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/data-logging/",
+        "abs": "https://lightningmechanicalservice.com/data-logging/",
+        "text": "HVAC DATA LOGGING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/thermal-imaging-with-digital-photography/",
+        "abs": "https://lightningmechanicalservice.com/thermal-imaging-with-digital-photography/",
+        "text": "THERMAL IMAGING WITH DIGITAL PHOTOGRAPHY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/hvac-filter-analysis/",
+        "abs": "https://lightningmechanicalservice.com/hvac-filter-analysis/",
+        "text": "HVAC FILTER TESTING & ANALYSIS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 284,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/our-services/package-rooftop/",
+        "abs": "https://lightningmechanicalservice.com/our-services/package-rooftop/",
+        "text": "PACKAGED ROOFTOP UNITS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 254,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/industries/",
+        "abs": "https://lightningmechanicalservice.com/industries/",
+        "text": "Industries",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 100,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/manufacturers/",
+        "abs": "https://lightningmechanicalservice.com/manufacturers/",
+        "text": "Manufacturers",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 132,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/about/",
+        "abs": "https://lightningmechanicalservice.com/about/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 94,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/contact/",
+        "abs": "https://lightningmechanicalservice.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 85,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://lightningmechanicalservice.com/contact/",
+        "text": "GET A QUOTE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 108,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/our-services/",
+        "abs": "https://lightningmechanicalservice.com/our-services/",
+        "text": "OUR SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 156,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/manufacturers/",
+        "abs": "https://lightningmechanicalservice.com/manufacturers/",
+        "text": "Manufacturers",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 107,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/vrv-vrf/",
+        "abs": "https://lightningmechanicalservice.com/vrv-vrf/",
+        "text": "Read more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 80,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/our-services/hvac-company/sheet-metal-fabrication/",
+        "abs": "https://lightningmechanicalservice.com/our-services/hvac-company/sheet-metal-fabrication/",
+        "text": "Read more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 80,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/vrv-design/",
+        "abs": "https://lightningmechanicalservice.com/vrv-design/",
+        "text": "Read more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 80,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/our-services/",
+        "abs": "https://lightningmechanicalservice.com/our-services/",
+        "text": "SEE ALL SERVICES",
+        "visible": true,
+        "aboveFold": false,
+        "h": 47,
+        "w": 180,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/vrv-design/",
+        "abs": "https://lightningmechanicalservice.com/vrv-design/",
+        "text": "Read more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 80,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/our-services/hvac-company/sheet-metal-fabrication/",
+        "abs": "https://lightningmechanicalservice.com/our-services/hvac-company/sheet-metal-fabrication/",
+        "text": "Read more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 80,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/refrigerant-piping/",
+        "abs": "https://lightningmechanicalservice.com/refrigerant-piping/",
+        "text": "Read more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 80,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/control-wiring/",
+        "abs": "https://lightningmechanicalservice.com/control-wiring/",
+        "text": "Read more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 80,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/",
+        "abs": "https://lightningmechanicalservice.com/",
+        "text": "Commercial HVAC Services in NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 501,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 763-0300",
+        "abs": "tel:(973) 763-0300",
+        "text": "(973) 763-0300",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 107,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://lightningmechanicalservice.com/contact/",
+        "text": "Make an Appointment Today!",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 214,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps?cid=8985635280470609488",
+        "abs": "https://www.google.com/maps?cid=8985635280470609488",
+        "text": "Address 65 Newark Way Maplewood, NJ 07040, US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 94,
+        "w": 624,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:Craig@lightningmechanical.com",
+        "abs": "mailto:Craig@lightningmechanical.com",
+        "text": "Craig@lightningmechanical.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 232,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:M.hlinka@lightningmechanical.com",
+        "abs": "mailto:M.hlinka@lightningmechanical.com",
+        "text": "M.hlinka@lightningmechanical.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 257,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 763-0300",
+        "abs": "tel:(973) 763-0300",
+        "text": "CALL US (973) 763-0300",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 624,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps?cid=8985635280470609488",
+        "abs": "https://www.google.com/maps?cid=8985635280470609488",
+        "text": "65 Newark Way Maplewood, NJ 07040, US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 186,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/about/",
+        "abs": "https://lightningmechanicalservice.com/about/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 67,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/our-services/",
+        "abs": "https://lightningmechanicalservice.com/our-services/",
+        "text": "Our Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 91,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/industries/",
+        "abs": "https://lightningmechanicalservice.com/industries/",
+        "text": "Industries we serve",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 141,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/contact/",
+        "abs": "https://lightningmechanicalservice.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 56,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://lightningmechanicalservice.com/privacy-policy/",
+        "abs": "https://lightningmechanicalservice.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 97,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/lightningmechanicalllc/",
+        "abs": "https://www.facebook.com/lightningmechanicalllc/",
+        "text": "Visit our Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 47,
+        "w": 47,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/lightningmechanicalllc/",
+        "abs": "https://www.instagram.com/lightningmechanicalllc/",
+        "text": "Visit our Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 47,
+        "w": 47,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb#",
+        "text": "Visit our X-twitter",
+        "visible": true,
+        "aboveFold": false,
+        "h": 47,
+        "w": 47,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://lightningmechanicalservice.com/contact/",
+        "text": "MAKE AN APOINTMENT",
+        "visible": true,
+        "aboveFold": false,
+        "h": 47,
+        "w": 228,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://policies.google.com/privacy?hl=en",
+        "abs": "https://policies.google.com/privacy?hl=en",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 85,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://policies.google.com/terms?hl=en",
+        "abs": "https://policies.google.com/terms?hl=en",
+        "text": "Terms of Service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 105,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.bivisee.com/",
+        "abs": "https://www.bivisee.com/",
+        "text": "Developed by BiVisee",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 136,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "SUBMIT",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "HVAC Maintance",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Air conditioning Service",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Maintenance vs Service",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "HVAC Installation",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Back to top",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "post",
+        "id": "wpforms-form-189",
+        "cls": "wpforms-validate wpforms-form wpforms-ajax-form",
+        "fieldCount": 4,
+        "fieldNames": [
+          "wpforms[fields][0]",
+          "wpforms[fields][1]",
+          "wpforms[fields][3]",
+          "wpforms[fields][2]"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=G-XJWQME0VT7&cx=c&gtm=4e6b21h1",
+      "https://scripts.clarity.ms/0.8.73-beta/clarity.js",
+      "https://www.clarity.ms/tag/vt5s1mjf62?ref=gtm",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-PNBQ9B6",
+      "https://analytics.ahrefs.com/analytics.js",
+      "https://lightningmechanicalservice.com/wp-content/themes/lmservice/assets/dist/js/main.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://lightningmechanicalservice.com/",
+            "url": "https://lightningmechanicalservice.com/",
+            "name": "Commercial HVAC NJ: Full Service, Repair, Installation",
+            "isPartOf": {
+              "@id": "https://lightningmechanicalservice.com/#website"
+            },
+            "about": {
+              "@id": "https://lightningmechanicalservice.com/#organization"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://lightningmechanicalservice.com/#primaryimage"
+            },
+            "image": {
+              "@id": "https://lightningmechanicalservice.com/#primaryimage"
+            },
+            "thumbnailUrl": "https://lightningmechanicalservice.com/wp-content/uploads/2025/02/Images-_-NEW-YORK-_-INTERIORS-_-HVAC00029-scaled-1-scaled.webp",
+            "datePublished": "2022-01-27T10:23:36+00:00",
+            "dateModified": "2026-04-26T20:18:48+00:00",
+            "description": "HVAC Contractor in New Jersey. We provide full-service maintenance, installation and repair on all Daikin Air Conditioner products.",
+            "breadcrumb": {
+              "@id": "https://lightningmechanicalservice.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://lightningmechanicalservice.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://lightningmechanicalservice.com/#primaryimage",
+            "url": "https://lightningmechanicalservice.com/wp-content/uploads/2025/02/Images-_-NEW-YORK-_-INTERIORS-_-HVAC00029-scaled-1-scaled.webp",
+            "contentUrl": "https://lightningmechanicalservice.com/wp-content/uploads/2025/02/Images-_-NEW-YORK-_-INTERIORS-_-HVAC00029-scaled-1-scaled.webp",
+            "width": 1200,
+            "height": 800
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://lightningmechanicalservice.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://lightningmechanicalservice.com/#website",
+            "url": "https://lightningmechanicalservice.com/",
+            "name": "Lightning Mechanical LLC",
+            "description": "No catchy slogans. Just great service.",
+            "publisher": {
+              "@id": "https://lightningmechanicalservice.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://lightningmechanicalservice.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://lightningmechanicalservice.com/#organization",
+            "name": "Lightning Mechanical",
+            "url": "https://lightningmechanicalservice.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://lightningmechanicalservice.com/#/schema/logo/image/",
+              "url": "https://lightningmechanicalservice.com/wp-content/uploads/2022/01/LM-Logo.webp",
+              "contentUrl": "https://lightningmechanicalservice.com/wp-content/uploads/2022/01/LM-Logo.webp",
+              "width": 155,
+              "height": 155,
+              "caption": "Lightning Mechanical"
+            },
+            "image": {
+              "@id": "https://lightningmechanicalservice.com/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 34,
+    "timing": {
+      "dcl": 1541,
+      "load": 1979,
+      "ttfb": 646
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.168,
+        "sig": " bvt-page-header-wrapper ",
+        "text": "100% satisfaction guarantee\n24/7 emergency service\ncall us today\n(973) 763-0300\nhvac services nj\nour services\nvariable r"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "navMs": 3032,
+    "tel": [
+      {
+        "href": "tel:(973) 763-0300",
+        "text": "CALL US TODAY (973) 763-0300",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737630300"
+      },
+      {
+        "href": "tel:(973) 763-0300",
+        "text": "(973) 763-0300",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737630300"
+      },
+      {
+        "href": "tel:(973) 763-0300",
+        "text": "CALL US (973) 763-0300",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737630300"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "navMs": 3269,
+    "timing": {
+      "dcl": 1469,
+      "load": 2171,
+      "ttfb": 620
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 396,
+    "scrollWidth": 396,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(973) 763-0300",
+        "text": "Call Us Today (973) 763-0300",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737630300"
+      },
+      {
+        "href": "tel:(973) 763-0300",
+        "text": "(973) 763-0300",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737630300"
+      },
+      {
+        "href": "tel:(973) 763-0300",
+        "text": "CALL US (973) 763-0300",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737630300"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [
+      "Contact",
+      "GET A QUOTE"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.116,
+        "sig": " bvt-page-header-wrapper ",
+        "text": "menu\nhvac services nj\nour services\nindustries\nmanufacturers\nabout us\ncontact\nget a quote"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 8,
+    "brokenImages": [],
+    "textChars": 9307
+  },
+  "pages": {
+    "contact": {
+      "url": "https://lightningmechanicalservice.com/contact/",
+      "finalUrl": "https://lightningmechanicalservice.com/contact/",
+      "status": 200,
+      "title": "Contact",
+      "forms": [
+        {
+          "action": "/contact/",
+          "method": "post",
+          "id": "wpforms-form-189",
+          "cls": "wpforms-validate wpforms-form wpforms-ajax-form",
+          "fieldCount": 4,
+          "fieldNames": [
+            "wpforms[fields][0]",
+            "wpforms[fields][1]",
+            "wpforms[fields][3]",
+            "wpforms[fields][2]"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "craig@lightningmechanical.com",
+        "m.hlinka@lightningmechanical.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(973) 763-0300",
+          "text": "CALL US TODAY (973) 763-0300",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19737630300"
+        },
+        {
+          "href": "tel:(973) 763-0300",
+          "text": "CALL US (973) 763-0300",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19737630300"
+        }
+      ],
+      "owners": [],
+      "bodyText": "100% Satisfaction Guarantee\n24/7 Emergency Service\nCALL US TODAY\n(973) 763-0300\nHVAC Services NJ\nOur Services\nVARIABLE REFRIGERANT VOLUME & VARIABLE REFRIGERANT FLOW\nDAIKIN FACTORY TRAINED TECHNICANS\nVRF MANUFACTURERS WE SERVICE\nVRV DESIGN SERVICES\nFULL PIPING SERVICES\nCONTROL WIRING SERVICES\nFULL HVAC SERVICES\nHVAC REPAIR\nHVAC INSTALLATION\nINDUSTRIAL & COMMERCIAL HVAC\nHVAC SYSTEM DESIGN\nPACKAGED ROOFTOP\nHVAC SHEET METAL FABRICATION\nFULL PIPING SERVICES HVAC\nCOMBUSTION ANALYSIS AND SYSTEM BALANCING (CERTIFIED)\nCONTROL WIRING SERVICES FOR HVAC SYSTEMS\nHVAC BMS INTEGRATION\nFORENSIC ENGINEERING\nREFRIGERANT ANALYSIS FOR HVAC (3RD PARTY)\nTOTAL HVAC SYSTEM ANALYSIS\nOTHER SERVICES\nHVAC DATA LOGGING\nTHERMAL IMAGING WITH DIGITAL PHOTOGRAPHY\nHVAC FILTER TESTING & ANALYSIS\nPACKAGED ROOFTOP UNITS\nIndustries\nManufacturers\nAbout Us\nContact\nGET A QUOTE\nContact\nHome / Contact\nName *\nEmail *\nPhone *\nMessage *\nSUBMIT\n\nGET IN TOUCH\nContact us\nAddress\n65 Newark Way\nMaplewood, NJ 07040, US\nE-Mails\nCraig@lightningmechanical.com\nM.hlinka@lightningmechanical.com\nHours\n\nMonday – Friday: 8am – 6pm\n24 Hour on call emergency service available\n\nCALL US\n(973) 763-0300\n65 Newark Way\nMaplewood, NJ 07040, US\nQuick Menu\nHighlights\nAbout Us\nOur Services\nIndustries we serve\nLearn More\nContact\nPrivacy Policy\nConnect with us\nMAKE AN APOINTMENT\n\nGoogle reCAPTCHA used. Privacy Policy and Terms of Service apply.\n\nDeveloped by BiVisee\n\nBack to top",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://lightningmechanicalservice.com/",
+        "https://lightningmechanicalservice.com/",
+        "https://lightningmechanicalservice.com/our-services/",
+        "https://lightningmechanicalservice.com/vrv-vrf/",
+        "https://lightningmechanicalservice.com/factory-trained-services/",
+        "https://lightningmechanicalservice.com/vrv-design/#vrf-brands",
+        "https://lightningmechanicalservice.com/vrv-design/",
+        "https://lightningmechanicalservice.com/refrigerant-piping/",
+        "https://lightningmechanicalservice.com/control-wiring/",
+        "https://lightningmechanicalservice.com/hvac/",
+        "https://lightningmechanicalservice.com/hvac-repair/",
+        "https://lightningmechanicalservice.com/hvac-installation/",
+        "https://lightningmechanicalservice.com/commercial-hvac-nj/",
+        "https://lightningmechanicalservice.com/hvac-system-design/",
+        "https://lightningmechanicalservice.com/package-rooftop/",
+        "https://lightningmechanicalservice.com/our-services/hvac-company/sheet-metal-fabrication/",
+        "https://lightningmechanicalservice.com/hvac/hvac-piping/",
+        "https://lightningmechanicalservice.com/combustion-analysis-system-balancing/",
+        "https://lightningmechanicalservice.com/control-wiring-services/",
+        "https://lightningmechanicalservice.com/hvac/building-management-system-integration/",
+        "https://lightningmechanicalservice.com/forensic-engineering/",
+        "https://lightningmechanicalservice.com/refrigerant-analysis/",
+        "https://lightningmechanicalservice.com/total-system-analysis/",
+        "https://lightningmechanicalservice.com/?page_id=298",
+        "https://lightningmechanicalservice.com/data-logging/",
+        "https://lightningmechanicalservice.com/thermal-imaging-with-digital-photography/",
+        "https://lightningmechanicalservice.com/hvac-filter-analysis/",
+        "https://lightningmechanicalservice.com/our-services/package-rooftop/",
+        "https://lightningmechanicalservice.com/industries/",
+        "https://lightningmechanicalservice.com/manufacturers/",
+        "https://lightningmechanicalservice.com/about/",
+        "https://lightningmechanicalservice.com/contact/",
+        "https://lightningmechanicalservice.com/contact/",
+        "https://lightningmechanicalservice.com/",
+        "https://lightningmechanicalservice.com/about/",
+        "https://lightningmechanicalservice.com/our-services/",
+        "https://lightningmechanicalservice.com/industries/",
+        "https://lightningmechanicalservice.com/contact/",
+        "https://lightningmechanicalservice.com/privacy-policy/",
+        "https://lightningmechanicalservice.com/contact/#",
+        "https://lightningmechanicalservice.com/contact/"
+      ]
+    },
+    "about": {
+      "url": "https://lightningmechanicalservice.com/about/",
+      "finalUrl": "https://lightningmechanicalservice.com/about/",
+      "status": 200,
+      "title": "About Us | Lightning Mechanical",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "craig@lightningmechanical.com",
+        "m.hlinka@lightningmechanical.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(973) 763-0300",
+          "text": "CALL US TODAY (973) 763-0300",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19737630300"
+        },
+        {
+          "href": "tel:9737630300",
+          "text": "(973) 763-0300",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19737630300"
+        },
+        {
+          "href": "tel:(973) 763-0300",
+          "text": "CALL US (973) 763-0300",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19737630300"
+        }
+      ],
+      "owners": [],
+      "bodyText": "100% Satisfaction Guarantee\n24/7 Emergency Service\nCALL US TODAY\n(973) 763-0300\nHVAC Services NJ\nOur Services\nVARIABLE REFRIGERANT VOLUME & VARIABLE REFRIGERANT FLOW\nDAIKIN FACTORY TRAINED TECHNICANS\nVRF MANUFACTURERS WE SERVICE\nVRV DESIGN SERVICES\nFULL PIPING SERVICES\nCONTROL WIRING SERVICES\nFULL HVAC SERVICES\nHVAC REPAIR\nHVAC INSTALLATION\nINDUSTRIAL & COMMERCIAL HVAC\nHVAC SYSTEM DESIGN\nPACKAGED ROOFTOP\nHVAC SHEET METAL FABRICATION\nFULL PIPING SERVICES HVAC\nCOMBUSTION ANALYSIS AND SYSTEM BALANCING (CERTIFIED)\nCONTROL WIRING SERVICES FOR HVAC SYSTEMS\nHVAC BMS INTEGRATION\nFORENSIC ENGINEERING\nREFRIGERANT ANALYSIS FOR HVAC (3RD PARTY)\nTOTAL HVAC SYSTEM ANALYSIS\nOTHER SERVICES\nHVAC DATA LOGGING\nTHERMAL IMAGING WITH DIGITAL PHOTOGRAPHY\nHVAC FILTER TESTING & ANALYSIS\nPACKAGED ROOFTOP UNITS\nIndustries\nManufacturers\nAbout Us\nContact\nGET A QUOTE\nAbout Us\nHome / About Us\nLightning Mechanical is not your typical heating and air conditioning company. We are experts in heating, air conditioning, ventilation, and ductwork headquartered in Maplewood, New Jersey.\n\nFounded in 2005 by Craig Gallagher, a master HVAC contractor, we provide expertise and the highest quality service from our factory-trained technicians and engineering teams. Most of our jobs come directly through word-of-mouth and referrals, but that hasn’t stopped us from being a part of major turn-key projects as far away as Philadelphia.\n\nLightning Mechanical LLC also includes the Lightning Service Group, which serves Albany and the Boston area.\n\nOur Values\n\nWe treat every one of our clients with the professional courtesy they are entitled to and specialize in customer satisfaction. From residential heating to commercial air conditioning for businesses, we have experience with it all. Lighting Mechanical service professionals also offer installation and maintenance on all makes (and across multiple brands) of HVAC systems, including air conditioners, heat pumps, furnace, water heater, boiler, geothermal and more!\n\nWe’re all about commitment, not just about the equipment; our team of professionals is efficiently making homes and workspaces healthier for everyone who spends time there using the best brands. We offer indoor air quality testing, UV lighting, and anti-microbial treatments. We’re here for you at every stage of your project; we provide financing options, and we will always be upfront about the work that needs to be done.\n\nWe believe in honesty and transparency with our clients, and that’s why we won’t try to sell you a service or part you don’t need. We believe that as our clients, you deserve the best, and that happens to be us.\n\nTHERE ARE NO STUPID QUESTIONS\n\n“We like to leave our prospective clients a little more informed than when we met. The reason for this is an informed consumer is the best consumer”.  ~ Craig Gallagher | Founder and President \n\nOne-Stop HVAC Shop\nOur Customers\nAreas We Serve\nSimply the best\nOur happy customers\n\nWe strive to provide our valued clients with a Premium HVAC Installation & Maintenance Service – Our factory trained and highly skilled team of HVAC specialists is always ready to assist and answer any questions you may have.\n\nWe encourage you to search online and read our reviews – we would appreciate you leaving us your own honest review to help us further improve our service. We aim to be the #1 HVAC Service providers in New York and the surrounding areas – we use all our customers feedback to create a better offering than our competitors.\n\n“Fast service and very helpful. Rarely see other corporate guys get their hands dirty to help get your problems resolved in a timely manner”.\n\nSal\nCekic\n“It is the BEST HVAC company ever… the employees are great and nice and the techs are awesome”\nShari\nHart\nFactory Trained Technicians\n\nAll of our technicians are factory trained to work on the entire product lines of all our partner manufacturers. This means that they can quickly identify and repair your heating or cooling units without constantly having to refer to diagrams or guides.\n\nMore importantly, it means they’ll never inadvertently cause further damage to your system because they weren’t aware of manufacturer guidelines. We work closely with all major HVAC brands to follow their new product lines, study upcoming product launches, learn about extended support programs, and constantly refresh our training.\n\nOur factory training allows us to service multiple brands safely, including but not limited to: Daikin, Daikin VRV, McQuay, Daikin Chillers, McQuay Chillers, LG VRF, Samsung VRF, Fujitsu VRF, Carrier, Bryant, Trane, Fulton boilers, Paterson Kelley boilers, ABB Drives.\n\nFactory Parts and Equipment\n\nTo keep up with the fast-paced changes in the industry, we have access to a variety of factory parts and equipment. This means our technicians carry all OEM accessories for your system – everything from filters, belts, keypads, and thermostats to fans, relays, and replacement coils. When working on your system, we show up with the HVAC systems manufacturer’s tools to repair and maintain them.\n\nWhile some might be tempted to make the quick fix with generic parts, OEM parts are engineered for each specific system. They’re built by the same people who designed your system, and they’re just as crucial to energy efficiency or your warranty coverage as the equipment itself.\n\nFactory Parts and Equipment\n\nTo keep up with the fast-paced changes in the industry, we have access to a variety of factory parts and equipment. This means our technicians carry all OEM accessories for your system – everything from filters, belts, keypads, and thermostats to fans, relays, and replacement coils. When working on your system, we show up with the HVAC systems manufacturer’s tools to repair and maintain them.\n\nWhile some might be tempted to make the quick fix with generic parts, OEM parts are engineered for each specific system. They’re built by the same people who designed your system, and they’re just as crucial to energy efficiency or your warranty coverage as the equipment itself.\n\nFaster Response Times\n\nKeeping our trucks well-stocked with factory parts means they’re always prepared for any emergency or problem our clients may encounter. Multiple trucks mean we can reach you in record time, and our emergency intervention teams are already pre-positioned around clients to intervene at lightning speed.\n\nWorking with us means you’ll never hear “well, it could be this” or “it might be that.” Our team of factory-trained technicians is equipped with the products and tools needed to diagnose problems quickly, offering clients several solutions to any situation.\n\nWhen you call Lighting Mechanical, we’re prepared for anything. When your HVAC unit isn’t responding the way it should – when it’s making strange or unusual sounds – when it seems to be consuming more energy than usual – we’re here to help you. The same goes for any thermostat problem or disconnected wire; don’t hesitate to give us a call.\n\nWhen You Need Us, We’re There\n\nWe want our clients to know that they can rely on us at any time of the day or night. We offer 24-hour emergency service availability seven days a week for your convenience. Our technicians are available to provide you with the same level of service they’d expect themselves, and we pride ourselves on our work ethic. Our engineering team is factory trained on most complex equipment and cant quickly intervene on Daikin VRV systems, Paterson Kelley boilers, Fulton boilers, McQuay chillers, Daikin chillers, and so much more.\n\n01.\n\nOur staff has extensive expertise with the necessary specialized equipment, which helps our clients save millions of dollars in repairs. We have team members throughout the New York Metro area to expedite procedures and decrease response times. We can redirect team members and look after our mission-critical customers before another HVAC company can even make it to the site\n\n\n02.\n\nWe offer Rapid Response for Mission Critical Clients. We have a 4-hour response window for special equipment whose downtime can be dangerously expensive. Mission Critical applies to large hospitals with devices such as MRI cooling equipment, data centers, and computer rooms; that’s scenarios where equipment downtime is unsustainable or downright hazardous.\n\n03.\n\nOur technicians report directly to you, and they’ll be sure to address any concerns or problems you might have with your equipment right away. Our dispatchers are trained for this sort of thing, so they can help our team members find the best route to your site, allowing them to get there as quickly as possible.\n\nWe are ready to serve you\n24/7 Trusted Service\nMake an appontment today!\nPreventive Maintenance Agreements\n\nTo ensure optimal performance of your unit, we offer custom-branded agreements that include all factory accessories for a low monthly fee. These agreements also include a mandated twice-yearly service visit to address potential problems before they become emergencies.\n\nWe can also offer flexible financing plans for larger projects or unexpected costs. We make the process easy and affordable so clients won’t have to strain their budgets to keep equipment running at its best.\n\nGET IN TOUCH\nContact us\nAddress\n65 Newark Way\nMaplewood, NJ 07040, US\nE-Mails\nCraig@lightningmechanical.com\nM.hlinka@lightningmechanical.com\nHours\n\nMonday – Friday: 8am – 6pm\n24 Hour on call emergency service available\n\nCALL US\n(973) 763-0300\n65 Newark Way\nMaplewood, NJ 07040, US\nQuick Menu\nHighlights\nAbout Us\nOur Services\nIndustries we serve\nLearn More\nContact\nPrivacy Policy\nConnect with us\nMAKE AN APOINTMENT\n\nGoogle reCAPTCHA used. Privacy Policy and Terms of Service apply.\n\nDeveloped by BiVisee\n\n Back to top",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://lightningmechanicalservice.com/",
+        "https://lightningmechanicalservice.com/",
+        "https://lightningmechanicalservice.com/our-services/",
+        "https://lightningmechanicalservice.com/vrv-vrf/",
+        "https://lightningmechanicalservice.com/factory-trained-services/",
+        "https://lightningmechanicalservice.com/vrv-design/#vrf-brands",
+        "https://lightningmechanicalservice.com/vrv-design/",
+        "https://lightningmechanicalservice.com/refrigerant-piping/",
+        "https://lightningmechanicalservice.com/control-wiring/",
+        "https://lightningmechanicalservice.com/hvac/",
+        "https://lightningmechanicalservice.com/hvac-repair/",
+        "https://lightningmechanicalservice.com/hvac-installation/",
+        "https://lightningmechanicalservice.com/commercial-hvac-nj/",
+        "https://lightningmechanicalservice.com/hvac-system-design/",
+        "https://lightningmechanicalservice.com/package-rooftop/",
+        "https://lightningmechanicalservice.com/our-services/hvac-company/sheet-metal-fabrication/",
+        "https://lightningmechanicalservice.com/hvac/hvac-piping/",
+        "https://lightningmechanicalservice.com/combustion-analysis-system-balancing/",
+        "https://lightningmechanicalservice.com/control-wiring-services/",
+        "https://lightningmechanicalservice.com/hvac/building-management-system-integration/",
+        "https://lightningmechanicalservice.com/forensic-engineering/",
+        "https://lightningmechanicalservice.com/refrigerant-analysis/",
+        "https://lightningmechanicalservice.com/total-system-analysis/",
+        "https://lightningmechanicalservice.com/?page_id=298",
+        "https://lightningmechanicalservice.com/data-logging/",
+        "https://lightningmechanicalservice.com/thermal-imaging-with-digital-photography/",
+        "https://lightningmechanicalservice.com/hvac-filter-analysis/",
+        "https://lightningmechanicalservice.com/our-services/package-rooftop/",
+        "https://lightningmechanicalservice.com/industries/",
+        "https://lightningmechanicalservice.com/manufacturers/",
+        "https://lightningmechanicalservice.com/about/",
+        "https://lightningmechanicalservice.com/contact/",
+        "https://lightningmechanicalservice.com/contact/",
+        "https://lightningmechanicalservice.com/",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1257-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1329-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2025/04/Headshot-1_page-0001-scaled.webp",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1450-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1509-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1550-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2025/04/Group-Picture_page-0001-scaled.webp",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1605-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1715-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1717-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1802-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1821-scaled.avif",
+        "https://lightningmechanicalservice.com/wp-content/uploads/2024/10/R4_1833-scaled.avif",
+        "https://lightningmechanicalservice.com/contact/",
+        "https://lightningmechanicalservice.com/about/",
+        "https://lightningmechanicalservice.com/our-services/",
+        "https://lightningmechanicalservice.com/industries/",
+        "https://lightningmechanicalservice.com/contact/",
+        "https://lightningmechanicalservice.com/privacy-policy/",
+        "https://lightningmechanicalservice.com/about/#",
+        "https://lightningmechanicalservice.com/contact/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 44,
+    "at": "2026-11-03T23:13:17.130Z",
+    "statusCounts": {
+      "202": 43,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "http://lightningmechanicalservice.com/",
+    "httpStatus": 202,
+    "httpError": null,
+    "httpsStatus": 202,
+    "httpsError": null,
+    "redirectsToHttps": false
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/lightning-mechanical-llc-commercial-hvac-services/desktop-home.png",
+    "desktop_full": "evidence/screenshots/lightning-mechanical-llc-commercial-hvac-services/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/lightning-mechanical-llc-commercial-hvac-services/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/lightning-mechanical-llc-commercial-hvac-services/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/lightning-mechanical-llc-commercial-hvac-services/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 2005,
+    "emails": [
+      "craig@lightningmechanical.com",
+      "m.hlinka@lightningmechanical.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "GET A QUOTE -> https://lightningmechanicalservice.com/contact/",
+      "Make an Appointment Today! -> https://lightningmechanicalservice.com/contact/",
+      "Visit our Facebook -> https://www.facebook.com/lightningmechanicalllc/"
+    ]
+  }
+}

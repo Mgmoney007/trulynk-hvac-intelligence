@@ -1,0 +1,25 @@
+{
+  "id": "air-cubes-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Air+Cubes+HVAC/data=!4m7!3m6!1s0x89c3ade69dc3a1fb:0x6013ca36a8b441e6!8m2!3d40.7075747!4d-74.2817362!16s%2Fg%2F11h3k739r5!19sChIJ-6HDneatw4kR5kG0qDbKE2A",
+  "retrievedAt": "2026-11-03T23:11:34.636Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Air Cubes HVAC",
+  "category": "HVAC contractor",
+  "address": "2431 Dorchester Rd, Union, NJ 07083, United States ",
+  "phone": "+1 908-400-0398 ",
+  "website": "http://aircubeshvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Air+Cubes+HVAC/data=!4m7!3m6!1s0x89c3ade69dc3a1fb:0x6013ca36a8b441e6!8m2!3d40.7075747!4d-74.2817362!16s%2Fg%2F11h3k739r5!19sChIJ-6HDneatw4kR5kG0qDbKE2A?hl=en",
+  "screenshot": "evidence/screenshots/air-cubes-hvac/google-maps-listing.png"
+}

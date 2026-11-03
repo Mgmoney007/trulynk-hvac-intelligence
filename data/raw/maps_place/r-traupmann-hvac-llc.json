@@ -1,0 +1,25 @@
+{
+  "id": "r-traupmann-hvac-llc",
+  "placeUrl": "https://www.google.com/maps/place/R+Traupmann+HVAC+LLC/data=!4m7!3m6!1s0x89c2f94b2cb4f789:0x5a473db345984cd0!8m2!3d40.8766603!4d-74.1237562!16s%2Fg%2F1tkb60tq!19sChIJife0LEv5wokR0EyYRbM9R1o",
+  "retrievedAt": "2026-11-03T23:05:10.649Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "R Traupmann HVAC LLC",
+  "category": "Air conditioning contractor",
+  "address": "262 Parker Ave, Clifton, NJ 07011, United States ",
+  "phone": "+1 973-772-8422 ",
+  "website": "https://www.rtraupmannhvac.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/R+Traupmann+HVAC+LLC/data=!4m7!3m6!1s0x89c2f94b2cb4f789:0x5a473db345984cd0!8m2!3d40.8766603!4d-74.1237562!16s%2Fg%2F1tkb60tq!19sChIJife0LEv5wokR0EyYRbM9R1o?hl=en",
+  "screenshot": "evidence/screenshots/r-traupmann-hvac-llc/google-maps-listing.png"
+}

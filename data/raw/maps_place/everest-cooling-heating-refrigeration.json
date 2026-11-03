@@ -1,0 +1,25 @@
+{
+  "id": "everest-cooling-heating-refrigeration",
+  "placeUrl": "https://www.google.com/maps/place/Everest+Cooling+Heating+%26+Refrigeration/data=!4m7!3m6!1s0x8557a308ae352dfb:0x943b094eca07e922!8m2!3d40.887852!4d-74.0983554!16s%2Fg%2F11xl4gjqtz!19sChIJ-y01rgijV4URIukHyk4JO5Q",
+  "retrievedAt": "2026-11-03T22:53:36.062Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Everest Cooling Heating & Refrigeration",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 973-444-8448 ",
+  "website": "http://everestheatingcoolingrefrigeration.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Everest+Cooling+Heating+%26+Refrigeration/data=!4m7!3m6!1s0x8557a308ae352dfb:0x943b094eca07e922!8m2!3d40.887852!4d-74.0983554!16s%2Fg%2F11xl4gjqtz!19sChIJ-y01rgijV4URIukHyk4JO5Q?hl=en",
+  "screenshot": "evidence/screenshots/everest-cooling-heating-refrigeration/google-maps-listing.png"
+}

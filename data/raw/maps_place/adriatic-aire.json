@@ -1,0 +1,25 @@
+{
+  "id": "adriatic-aire",
+  "placeUrl": "https://www.google.com/maps/place/Adriatic+Aire/data=!4m7!3m6!1s0x89c2ff481c94d2cd:0xb596b5df5e928bdc!8m2!3d40.8302367!4d-74.2059638!16s%2Fg%2F1hm4zqj12!19sChIJzdKUHEj_wokR3IuSXt-1lrU",
+  "retrievedAt": "2026-11-03T23:09:48.283Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Adriatic Aire",
+  "category": "HVAC contractor",
+  "address": "41 Watchung Plaza #353, Montclair, NJ 07042, United States ",
+  "phone": "+1 973-249-8066 ",
+  "website": "https://www.adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Adriatic+Aire/data=!4m7!3m6!1s0x89c2ff481c94d2cd:0xb596b5df5e928bdc!8m2!3d40.8302367!4d-74.2059638!16s%2Fg%2F1hm4zqj12!19sChIJzdKUHEj_wokR3IuSXt-1lrU?hl=en",
+  "screenshot": "evidence/screenshots/adriatic-aire/google-maps-listing.png"
+}

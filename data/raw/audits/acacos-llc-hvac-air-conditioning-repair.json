@@ -1,0 +1,1294 @@
+{
+  "firecrawl": [],
+  "id": "acacos-llc-hvac-air-conditioning-repair",
+  "name": "Acacos LLC HVAC & Air Conditioning Repair",
+  "website": "https://www.acacos.com/",
+  "auditedAt": "2026-11-03T23:06:27.096Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.acacos.com/",
+      "at": "2026-11-03T23:06:31.719Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.acacos.com/",
+      "title": "Get HVAC Air Conditioner, Heater, Walkin Cooler, Freezer, Repair Residential & Commercial R22 near Clifton",
+      "ms": 4569,
+      "error": null,
+      "linkCount": 76
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.acacos.com/about",
+      "at": "2026-11-03T23:06:36.742Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.acacos.com/about",
+      "title": "About ACACOS",
+      "ms": 3772,
+      "error": null,
+      "linkCount": 63
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.acacos.com/",
+      "at": "2026-11-03T23:07:40.139Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.acacos.com/",
+      "title": "Get HVAC Air Conditioner, Heater, Walkin Cooler, Freezer, Repair Residential & Commercial R22 near Clifton",
+      "ms": 3884,
+      "error": null,
+      "linkCount": 76
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.acacos.com/",
+    "title": "Get HVAC Air Conditioner, Heater, Walkin Cooler, Freezer, Repair Residential & Commercial R22 near Clifton",
+    "lang": "en-gb",
+    "metaDescription": "Owner-operated HVAC service: Air conditioner, Heater, & Refrigeration. Reliable & fast repair for walk-in coolers & freezers. Catering Residential & Commercial.",
+    "h1": [
+      "Trusted by Locals Again and Again — See Why",
+      "Same or Next-Day Repair"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5369,
+    "bodyText": "↑\n \nCall (201)-373-2461\nHome\nLocations\nTips\nCalculators\nServices\n\nDoes finding a good HVAC pro feel impossible?\n\nTrusted by Locals Again and Again — See Why\nSame or Next-Day Repair\n\nLicensed | Fully Insured | Bonded\n\nHonest Pricing, Fast Service\n\nMoney-Back Guarantee\n\nWe service: ACs | Boilers | Furnaces | Walk-in Coolers\n\nBook Your Service Now\n\nTrusted with  rating by residents Near You\n\nResidential and Commercial Air Conditioner Services\nAir Conditioning Replacement & Install\n\nSuperior install services & optimized value for your system.\n\nCentral Air Conditioner Service\n\nWe remain available to address your AirCon related emergencies.\n\nMini-Split AC Install and Repair\n\nIf you’ve noticed lukewarm air and weak airflow, give our team a call.\n\nCommercial Refrigeration Services\nWalk-in Freezer / Cooler\n\nEmergency Walk-In Freezer or Cooler Troubleshooting for \"Not-Cooling\" issues.\n\nIce Machine / Ice Maker\n\nDiagnostics and repair services for Thin-Ice, No-Ice, and ice machine malfunctions.\n\nRepair Fridges / Freezers\n\nMaintenance and repair for Reach-In, Display Units, Pizza Prep Tables, and Sandwich/Salad Prep Stations.\n\nKeep Warm — Gas and Oil Heating Furnaces\nOil and Gas Furnaces\n\nFull maintenance, tune-up, and repair services for residential and commercial furnaces.\n\nWater Heaters\n\nFast, reliable diagnostics and repairs for gas and electric water heaters.\n\nGas and Oil Boilers\n\nComplete service, repair, and replacement for oil and gas boiler heating systems.\n\nWelcome to our HVAC service company, where we're dedicated to keeping your air conditioning systems, heater and walkin cooler running smoothly. With over two decades of experience in ventilation systems, automation, and excellent feedback, we've honed our skills to perfection.\n\nR22 (Freon) is available for refill!\n\nHeard about R22 (Freon)? We've got it in stock, despite what others may have told you about its phase-out. While some might push for newer units with R410A, slated for phase-out in 2023, we're here to let you know there are alternatives.\n\nDid you know it's completely legal to add R22 to your residential and various commercial systems? Check out the EPA official website for more details. And if you're curious about R22 phase-out in NJ, we've got you covered.\n\nDiagnostics\nFrozen ACs\nWarm Walkin Cooler\nCompressors Check\nFurnace Blowing Cold Air\nBoiler Pressure too high\nEquipment\nAir Conditioners\nWalk-in Box Cooler | Freezer\nBoilers Steam & Hot Water\nHeating Furnaces\nReach-In & Upright Coolers | Freezers\nServices\nInstallation, Replacement, Repair\nManual J Load Calculation\nFreon Leak Repair & Refill\nDuctwork\nBest MERV Air Filters Consulting\nGet Help!\nYou are here:  \nHome\nClifton NJ 07013\n(201)373-2461   |   info@acacos.com\n© 2026 Acacos LLC HVAC Repair.  All Rights Reserved.\nDeveloped By drisstech.com\nAbout | Privacy",
+    "links": [
+      {
+        "href": "#top",
+        "abs": "https://www.acacos.com/#top",
+        "text": "↑",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 44,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acacos.com/",
+        "abs": "https://www.acacos.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 423,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201)-373-2461",
+        "abs": "tel:(201)-373-2461",
+        "text": "Call (201)-373-2461",
+        "visible": true,
+        "aboveFold": true,
+        "h": 60,
+        "w": 273,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.acacos.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 49,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations",
+        "abs": "https://www.acacos.com/locations",
+        "text": "Locations",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 81,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/clifton",
+        "abs": "https://www.acacos.com/locations/clifton",
+        "text": "Clifton HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/wayne-hvac",
+        "abs": "https://www.acacos.com/locations/wayne-hvac",
+        "text": "Wayne HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/bloomfield-hvac",
+        "abs": "https://www.acacos.com/locations/bloomfield-hvac",
+        "text": "Bloomfield HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/passaic-hvac",
+        "abs": "https://www.acacos.com/locations/passaic-hvac",
+        "text": "Passaic HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/totowa-hvac",
+        "abs": "https://www.acacos.com/locations/totowa-hvac",
+        "text": "Totowa HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/paterson-hvac",
+        "abs": "https://www.acacos.com/locations/paterson-hvac",
+        "text": "Paterson HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/nutley-hvac",
+        "abs": "https://www.acacos.com/locations/nutley-hvac",
+        "text": "Nutley HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/belleville-hvac",
+        "abs": "https://www.acacos.com/locations/belleville-hvac",
+        "text": "Belleville HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/elmwood-park-hvac",
+        "abs": "https://www.acacos.com/locations/elmwood-park-hvac",
+        "text": "Elmwood Park HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/fairfield-hvac",
+        "abs": "https://www.acacos.com/locations/fairfield-hvac",
+        "text": "Fairfield HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/hackensack-hvac",
+        "abs": "https://www.acacos.com/locations/hackensack-hvac",
+        "text": "Hackensack HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/woodland-park-hvac",
+        "abs": "https://www.acacos.com/locations/woodland-park-hvac",
+        "text": "Woodland Park HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/paramus-hvac",
+        "abs": "https://www.acacos.com/locations/paramus-hvac",
+        "text": "Paramus HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/ridgewood-hvac",
+        "abs": "https://www.acacos.com/locations/ridgewood-hvac",
+        "text": "Ridgewood HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/rutherford-hvac",
+        "abs": "https://www.acacos.com/locations/rutherford-hvac",
+        "text": "Rutherford HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/montclair-hvac",
+        "abs": "https://www.acacos.com/locations/montclair-hvac",
+        "text": "Montclair HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/lyndhurst-hvac",
+        "abs": "https://www.acacos.com/locations/lyndhurst-hvac",
+        "text": "Lyndhurst HVAC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips",
+        "abs": "https://www.acacos.com/tips",
+        "text": "Tips",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/walk-in-box-cooler",
+        "abs": "https://www.acacos.com/tips/walk-in-box-cooler",
+        "text": "Walk-in Cooler Optimization",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/boiler-troubleshooting-repair-guide",
+        "abs": "https://www.acacos.com/tips/boiler-troubleshooting-repair-guide",
+        "text": "Boilers Issues & Tips",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/furnaces-troubleshooting-repair-guide",
+        "abs": "https://www.acacos.com/tips/furnaces-troubleshooting-repair-guide",
+        "text": "Furnaces Repairs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/merv-8-vs-merv-11-airfilters",
+        "abs": "https://www.acacos.com/tips/merv-8-vs-merv-11-airfilters",
+        "text": "MERV 8 vs 11 Air Filter Guide",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/furnace-short-cycling",
+        "abs": "https://www.acacos.com/tips/furnace-short-cycling",
+        "text": "Furnaces Short Cycling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/frozen-ac",
+        "abs": "https://www.acacos.com/tips/frozen-ac",
+        "text": "Frozen Air Conditioner Causes",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/preventive-maintenance",
+        "abs": "https://www.acacos.com/tips/preventive-maintenance",
+        "text": "Preventive Maintenance AC, Refrigeration",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/prep-table-repair-maintenance",
+        "abs": "https://www.acacos.com/tips/prep-table-repair-maintenance",
+        "text": "Prep Table Best Practices",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/repair-or-replace-walk-in-box",
+        "abs": "https://www.acacos.com/tips/repair-or-replace-walk-in-box",
+        "text": "Walk-In Cooler Replacement Guide",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/ice-machine-repair",
+        "abs": "https://www.acacos.com/tips/ice-machine-repair",
+        "text": "Ice Machine Repair Tips",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/r22-service-phase-out",
+        "abs": "https://www.acacos.com/tips/r22-service-phase-out",
+        "text": "Freon R22 Phase Out 2026 Hidden Truth",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/freon-leak-repair",
+        "abs": "https://www.acacos.com/tips/freon-leak-repair",
+        "text": "Freon Refrigerant Leak & Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/mini-split-vs-central-air",
+        "abs": "https://www.acacos.com/tips/mini-split-vs-central-air",
+        "text": "Central Air Vs Mini Split",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/air-filters-furnaces-acs",
+        "abs": "https://www.acacos.com/tips/air-filters-furnaces-acs",
+        "text": "HVAC Air Filters Guide",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/calculators",
+        "abs": "https://www.acacos.com/calculators",
+        "text": "Calculators",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 94,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/calculators/duct-sizing-calculator",
+        "abs": "https://www.acacos.com/calculators/duct-sizing-calculator",
+        "text": "Duct Sizing Calculator",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/calculators/temperature-rise",
+        "abs": "https://www.acacos.com/calculators/temperature-rise",
+        "text": "Temperature Rise",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/calculators/capacitor-under-load",
+        "abs": "https://www.acacos.com/calculators/capacitor-under-load",
+        "text": "Capacitor Under Load Live Testing Calculator",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/calculators/pt-chart",
+        "abs": "https://www.acacos.com/calculators/pt-chart",
+        "text": "PT Chart Table",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.acacos.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 72,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/boilers-repair",
+        "abs": "https://www.acacos.com/services/boilers-repair",
+        "text": "Boiler Emergency Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/boiler-installation",
+        "abs": "https://www.acacos.com/services/boiler-installation",
+        "text": "Boiler New Install or Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-repair",
+        "abs": "https://www.acacos.com/services/furnace-repair",
+        "text": "Furnace Emergency Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-installation",
+        "abs": "https://www.acacos.com/services/furnace-installation",
+        "text": "Furnace New Install or Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/walkin-cooler-repair",
+        "abs": "https://www.acacos.com/services/walkin-cooler-repair",
+        "text": "Walkin Cooler and Walkin Freezer Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201)-373-2461",
+        "abs": "tel:(201)-373-2461",
+        "text": "Call (201)-373-2461",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#connect",
+        "abs": "https://www.acacos.com/#connect",
+        "text": "Book Your Service Now",
+        "visible": true,
+        "aboveFold": true,
+        "h": 60,
+        "w": 313,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://g.page/r/CR9HGmG1Ihg0/review",
+        "abs": "https://g.page/r/CR9HGmG1Ihg0/review",
+        "text": "rating",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 43,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://g.page/r/CR9HGmG1Ihg0EB0/review",
+        "abs": "https://g.page/r/CR9HGmG1Ihg0EB0/review",
+        "text": "feedback",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.epa.gov/ods-phaseout/homeowners-and-consumers-frequently-asked-questions",
+        "abs": "https://www.epa.gov/ods-phaseout/homeowners-and-consumers-frequently-asked-questions",
+        "text": "EPA",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/r22-service-phase-out",
+        "abs": "https://www.acacos.com/tips/r22-service-phase-out",
+        "text": "R22 phase-out in NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 155,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/frozen-ac",
+        "abs": "https://www.acacos.com/tips/frozen-ac",
+        "text": "Frozen ACs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 87,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/walk-in-box-cooler",
+        "abs": "https://www.acacos.com/tips/walk-in-box-cooler",
+        "text": "Warm Walkin Cooler",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 153,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/furnaces-troubleshooting-repair-guide",
+        "abs": "https://www.acacos.com/tips/furnaces-troubleshooting-repair-guide",
+        "text": "Furnace Blowing Cold Air",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 191,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/walk-in-box-cooler",
+        "abs": "https://www.acacos.com/tips/walk-in-box-cooler",
+        "text": "Boiler Pressure too high",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 180,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/walk-in-box-cooler",
+        "abs": "https://www.acacos.com/tips/walk-in-box-cooler",
+        "text": "Walk-in Box Cooler | Freezer",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/freon-leak-repair#freon_leak_detection",
+        "abs": "https://www.acacos.com/tips/freon-leak-repair#freon_leak_detection",
+        "text": "Freon Leak Repair & Refill",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 193,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/tips/ultimate-guide-to-air-filters",
+        "abs": "https://www.acacos.com/tips/ultimate-guide-to-air-filters",
+        "text": "Best MERV Air Filters Consulting",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 245,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lennox.com",
+        "abs": "https://www.lennox.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.hoshizakiamerica.com",
+        "abs": "https://www.hoshizakiamerica.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.goodmanmfg.com",
+        "abs": "https://www.goodmanmfg.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.truemfg.com/",
+        "abs": "https://www.truemfg.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.trane.com/index.html",
+        "abs": "https://www.trane.com/index.html",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.delfield.com",
+        "abs": "https://www.delfield.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.daikin.com",
+        "abs": "https://www.daikin.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:Info@acacos.com",
+        "abs": "mailto:Info@acacos.com",
+        "text": "info@acacos.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 136,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acacos.com",
+        "abs": "https://www.acacos.com/",
+        "text": "Acacos LLC HVAC Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 191,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.drisstech.com",
+        "abs": "https://www.drisstech.com/",
+        "text": "Developed By drisstech.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 217,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/about",
+        "abs": "https://www.acacos.com/about",
+        "text": "About",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 45,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/privacy",
+        "abs": "https://www.acacos.com/privacy",
+        "text": "Privacy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 56,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+12013732461",
+        "abs": "tel:+12013732461",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.acacos.com%2F",
+        "abs": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.acacos.com%2F",
+        "text": "Link to Twitter",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.acacos.com%2F",
+        "abs": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.acacos.com%2F",
+        "text": "Link to Facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Locations",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Tips",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Calculators",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Book Your Service Now",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Get Help!",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "",
+        "method": "post",
+        "id": "",
+        "cls": "",
+        "fieldCount": 5,
+        "fieldNames": [
+          "first_name",
+          "extra_option_field",
+          "phone",
+          "email",
+          "message"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtm.js?id=GTM-NH8N2ZF",
+      "https://www.acacos.com/media/vendor/metismenujs/js/metismenujs.min.js?1.4.0",
+      "https://www.acacos.com/media/templates/site/cassiopeia/js/mod_menu/menu-metismenu.min.js?944902",
+      "https://www.acacos.com/media/system/js/core.min.js?a3d8f8",
+      "https://www.acacos.com/media/templates/site/cassiopeia_acacos_tmp/js/template.min.js?944902",
+      "https://www.acacos.com/media/vendor/bootstrap/js/collapse.min.js?5.3.8",
+      "https://www.acacos.com/media/system/js/keepalive.min.js?08e025",
+      "https://www.acacos.com/media/system/js/fields/validate.min.js?75ac5d",
+      "https://www.acacos.com/media/system/js/messages.min.js?9a4811",
+      "https://www.googletagmanager.com/gtag/js?id=G-2L4EXJ2KH0",
+      "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "@id": "https://www.acacos.com/#/schema/BreadcrumbList/17",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://www.acacos.com/",
+              "name": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 19,
+    "timing": {
+      "dcl": 1935,
+      "load": 2584,
+      "ttfb": 549
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.002,
+        "sig": " back-to-top back to top",
+        "text": "↑"
+      },
+      {
+        "kind": "header",
+        "cover": 0.141,
+        "sig": " header container-header full-width position-sticky sticky-top ",
+        "text": " \ncall (201)-373-2461\nhome\nlocations\ntips\ncalculators\nservices"
+      },
+      {
+        "kind": "other",
+        "cover": 0.006,
+        "sig": " _social-links ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.acacos.com/",
+    "navMs": 4569,
+    "tel": [
+      {
+        "href": "tel:(201)-373-2461",
+        "text": "Call (201)-373-2461",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013732461"
+      },
+      {
+        "href": "tel:(201)-373-2461",
+        "text": "Call (201)-373-2461",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013732461"
+      },
+      {
+        "href": "tel:+12013732461",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12013732461"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.acacos.com/",
+    "navMs": 3884,
+    "timing": {
+      "dcl": 1744,
+      "load": 2686,
+      "ttfb": 425
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(201)-373-2461",
+        "text": "Call (201)-373-2461",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013732461"
+      },
+      {
+        "href": "tel:(201)-373-2461",
+        "text": "Call (201)-373-2461",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013732461"
+      },
+      {
+        "href": "tel:+12013732461",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12013732461"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Call (201)-373-2461",
+      "Book Your Service Now",
+      "Call Now",
+      "Link to Facebook",
+      "Book Your Service Now"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.007,
+        "sig": " back-to-top back to top",
+        "text": "↑"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 1,
+    "visibleNavLinks": 4,
+    "brokenImages": [],
+    "textChars": 2780
+  },
+  "pages": {
+    "about": {
+      "url": "https://www.acacos.com/about",
+      "finalUrl": "https://www.acacos.com/about",
+      "status": 200,
+      "title": "About ACACOS",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@acacos.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(201)-373-2461",
+          "text": "Call (201)-373-2461",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12013732461"
+        },
+        {
+          "href": "tel:(201)-373-2461",
+          "text": "Call (201)-373-2461",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12013732461"
+        },
+        {
+          "href": "tel:(201)-373-2461",
+          "text": "Got a question? Ask us!",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013732461"
+        },
+        {
+          "href": "tel:(201)-373-2461",
+          "text": "Let’s fix it right the first time.",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013732461"
+        },
+        {
+          "href": "tel:+12013732461",
+          "text": "Call Now",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12013732461"
+        }
+      ],
+      "owners": [],
+      "bodyText": "↑\n \nCall (201)-373-2461\nHome\nLocations\nTips\nCalculators\nServices\nGet to know us\n\nWe don’t just fix HVAC systems — we geek out about them.\n\n20+ years of hands-on, theoretical, and teaching experience\n\nFully certified, and insured for your peace of mind\n\nIf no one can fix it, we can\n\nBuilt on reliability, expertise, and honest service\n\nGot a question? Ask us!\n\nHere is why locals rate us      for HVAC service\n\nIn a nutshell, we’re scientists armed with gear and tools, passionately tackling real-life heating and cooling challenges.\n\nWe started like everyone else, \"just doing repairs\". But with time, safety took the lead. Then came a bit of nerdiness, and soon we were obsessed with comfort, efficiency, performance, and mastering the true art of TCO — Total Cost of Ownership.\n\nAround here, \"measure twice, cut once\" isn’t a saying — it’s a standard.\n\nHere is the thing...\n\nA repair is only as good as the first diagnostic. An install is only as good as the planning and calculations behind it. And experience means nothing without knowledge.\n\nWe’re not just wrench-turners. We’re certified engineers with real-world experience, sharp theory, and affordable rates — and we fix what others can’t.\n\nThat’s why when you work with us, you’re not just getting a service — you’re getting precision, expertise, and a team that takes your comfort seriously.\n\nLet’s fix it right the first time.\n\nMeet Our Founder\n\nZack D. brings a unique blend of hands-on experience and academic expertise to the HVAC industry. He holds a Master’s Degree in Engineering, specializing in Thermodynamics and Fluid Mechanics, along with an MBA from Northeastern University. As the CEO of ACACOS and a professor of HVAC and Physics, Zack combines leadership with deep technical knowledge. With over 20 years in ventilation and air quality, he has built his career around machines, automation, and creating healthier indoor environments. An expert in operations, Life Cycle Cost Analysis, and Total Cost of Ownership, Zack is also an active ASHRAE member who contributes to multiple industry roles and publications.\n\nOur Story\n\nHave you ever dealt with a contractor who promised you one thing and delivered something completely different?\n\nYeah — so have we.\n\nOur family owned a restaurant, and when the walk-in fridge broke down, we called a string of “technicians.” One said it was the compressor. The next swore it was the thermostat. Another claimed it was just low on gas. We were frustrated, confused, and still without a working fridge.\n\nThat’s when we decided to roll up our sleeves, lean our education and real-world experience, and fix it ourselves. After all — a master’s degree in thermodynamics has to be good for something, right? And you know what? It worked. First the family’s walk-in, then the neighbor’s AC, and before long, people we didn’t even know started calling.\n\nThat’s when it clicked.\n\nWe’d found our niche — our calling.\n\nSo we made it official and launched our company. And ever since, we’ve built a business on doing things right the first time, the way it should be.\n\nOne difference you’ll notice with us — we actually listen. It doesn’t mean we’ll always agree, because we bring years of experience to the table. But we’ve learned that listening often gets us to the right solution faster. And sometimes, you just want it your way — and how could we make that happen if we weren’t listening?\n\nAnd if at any moment we start sounding like salespeople, forgive us — we’re human too. Just call us out and let us know. We promised to listen, and we mean it. It’s about good service, not a sales pitch.\n\nOur Mission\n\nFirst and foremost — your safety and ours.\n\nHVAC work isn’t easy, and truth is, it can be dangerous. It’s not for everyone. Getting it right the first time takes sharp knowledge and years of real-world experience.\n\nWe’re committed to providing Clifton, NJ and the surrounding areas with reliable, code-compliant heating and cooling system installations and repairs — done safely, done right, every time.\n\nBecause for us, it’s not just about fixing what’s broken — it’s about creating safer, more efficient, and more comfortable spaces built to last.\n\nAnd along the way, we’d be honored to add you to our growing family of loyal, happy customers.\n\nWhat We Do\n\nSure — we tell stories and talk shop, but when it comes down to it, we’re in the business of keeping people comfortable, safe, and operational.\n\nRemember: Thermodynamics and Fluid Mechanics aren’t just some abstract theory — they’re the very DNA of heating and cooling\n\nSo it should come as no surprise that we specialize in — just to name a few — installation, repair, maintenance, consulting, and straight-up calculations for residential and commercial HVAC systems. It’s second nature to us, and when needed, we’ll even completely re-engineer it.\n\nSchematics? Love them. Blueprints? Can’t get enough. And when it comes to air filtration? You might as well call us Captain MERV.\n\nIf there’s one thing we want you to remember, it’s this: prevention beats emergency repairs every time. That’s why we offer tailored preventive maintenance plans for both businesses and homeowners. It saves you money, stress, and a whole lot of last-minute headaches.\n\nAnd no matter what, we take pride in being easy to reach, easy to work with, and always a phone call away.\n\nPrevious article: Thank You\n Prev\nNext article: Privacy\nNext \nYou are here:  \nHome\nAbout\nClifton NJ 07013\n(201)373-2461   |   info@acacos.com\n© 2026 Acacos LLC HVAC Repair.  All Rights Reserved.\nDeveloped By drisstech.com\nAbout | Privacy",
+      "vendors": [],
+      "links": [
+        "https://www.acacos.com/about#top",
+        "https://www.acacos.com/",
+        "https://www.acacos.com/",
+        "https://www.acacos.com/locations",
+        "https://www.acacos.com/locations/clifton",
+        "https://www.acacos.com/locations/wayne-hvac",
+        "https://www.acacos.com/locations/bloomfield-hvac",
+        "https://www.acacos.com/locations/passaic-hvac",
+        "https://www.acacos.com/locations/totowa-hvac",
+        "https://www.acacos.com/locations/paterson-hvac",
+        "https://www.acacos.com/locations/nutley-hvac",
+        "https://www.acacos.com/locations/belleville-hvac",
+        "https://www.acacos.com/locations/elmwood-park-hvac",
+        "https://www.acacos.com/locations/fairfield-hvac",
+        "https://www.acacos.com/locations/hackensack-hvac",
+        "https://www.acacos.com/locations/woodland-park-hvac",
+        "https://www.acacos.com/locations/paramus-hvac",
+        "https://www.acacos.com/locations/ridgewood-hvac",
+        "https://www.acacos.com/locations/rutherford-hvac",
+        "https://www.acacos.com/locations/montclair-hvac",
+        "https://www.acacos.com/locations/lyndhurst-hvac",
+        "https://www.acacos.com/tips",
+        "https://www.acacos.com/tips/walk-in-box-cooler",
+        "https://www.acacos.com/tips/boiler-troubleshooting-repair-guide",
+        "https://www.acacos.com/tips/furnaces-troubleshooting-repair-guide",
+        "https://www.acacos.com/tips/merv-8-vs-merv-11-airfilters",
+        "https://www.acacos.com/tips/furnace-short-cycling",
+        "https://www.acacos.com/tips/frozen-ac",
+        "https://www.acacos.com/tips/preventive-maintenance",
+        "https://www.acacos.com/tips/prep-table-repair-maintenance",
+        "https://www.acacos.com/tips/repair-or-replace-walk-in-box",
+        "https://www.acacos.com/tips/ice-machine-repair",
+        "https://www.acacos.com/tips/r22-service-phase-out",
+        "https://www.acacos.com/tips/freon-leak-repair",
+        "https://www.acacos.com/tips/mini-split-vs-central-air",
+        "https://www.acacos.com/tips/air-filters-furnaces-acs",
+        "https://www.acacos.com/calculators",
+        "https://www.acacos.com/calculators/duct-sizing-calculator",
+        "https://www.acacos.com/calculators/temperature-rise",
+        "https://www.acacos.com/calculators/capacitor-under-load",
+        "https://www.acacos.com/calculators/pt-chart",
+        "https://www.acacos.com/services",
+        "https://www.acacos.com/services/boilers-repair",
+        "https://www.acacos.com/services/boiler-installation",
+        "https://www.acacos.com/services/furnace-repair",
+        "https://www.acacos.com/services/furnace-installation",
+        "https://www.acacos.com/services/walkin-cooler-repair",
+        "https://www.acacos.com/thankyou",
+        "https://www.acacos.com/privacy",
+        "https://www.acacos.com/",
+        "https://www.acacos.com/",
+        "https://www.acacos.com/about",
+        "https://www.acacos.com/privacy"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 50,
+    "at": "2026-11-03T23:07:35.201Z",
+    "statusCounts": {
+      "200": 49,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.acacos.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/acacos-llc-hvac-air-conditioning-repair/desktop-home.png",
+    "desktop_full": "evidence/screenshots/acacos-llc-hvac-air-conditioning-repair/desktop-home-full.png",
+    "desktop_about": "evidence/screenshots/acacos-llc-hvac-air-conditioning-repair/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/acacos-llc-hvac-air-conditioning-repair/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "info@acacos.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Book Your Service Now -> https://www.acacos.com/#connect",
+      "Link to Facebook -> https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.acacos.com%2F"
+    ]
+  }
+}

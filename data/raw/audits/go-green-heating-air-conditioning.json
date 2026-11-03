@@ -1,0 +1,1285 @@
+{
+  "firecrawl": [],
+  "id": "go-green-heating-air-conditioning",
+  "name": "go-green-heating-air-conditioning",
+  "website": "https://www.gogreenhvacnj.com/",
+  "auditedAt": "2026-11-03T23:42:28.065Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.gogreenhvacnj.com/",
+      "at": "2026-11-03T23:42:31.046Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.gogreenhvacnj.com/",
+      "title": "Heating and Air Conditioning in Nutley, NJ | Same-Day Local Service",
+      "ms": 2946,
+      "error": null,
+      "linkCount": 60
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.gogreenhvacnj.com/contact",
+      "at": "2026-11-03T23:42:36.174Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.gogreenhvacnj.com/contact",
+      "title": "Contact Us | Nutley, NJ",
+      "ms": 4692,
+      "error": null,
+      "linkCount": 38
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.gogreenhvacnj.com/about",
+      "at": "2026-11-03T23:42:37.391Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.gogreenhvacnj.com/about",
+      "title": "About Us | Nutley, NJ",
+      "ms": 892,
+      "error": null,
+      "linkCount": 35
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.gogreenhvacnj.com/",
+      "at": "2026-11-03T23:43:13.018Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.gogreenhvacnj.com/",
+      "title": "Heating and Air Conditioning in Nutley, NJ | Same-Day Local Service",
+      "ms": 1711,
+      "error": null,
+      "linkCount": 60
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.gogreenhvacnj.com/",
+    "title": "Heating and Air Conditioning in Nutley, NJ | Same-Day Local Service",
+    "lang": "en",
+    "metaDescription": "Owner-operated HVAC work for older homes in Downtown Nutley and along Franklin Avenue, built for Essex County's humid continental swings and serving nearby Bl",
+    "h1": [
+      "Heating and Air Conditioning in Nutley"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 7495,
+    "bodyText": "Serving Nutley since 2014\n✦\n(201) 605-9669 · Mon–Sat 7am–9pm\nGo Green HVAC\nServices\nAreas we serve\nMore about us\nBlog\nContact\nRequest a quote\n\nREPAIR · INSTALLATION · MAINTENANCE\n\nHeating and Air Conditioning in Nutley\n\nOwner-operated HVAC work for older homes in Downtown Nutley and along Franklin Avenue, built for Essex County's humid continental swings and serving nearby Bloomfield, Belleville, and Clifton.\n\n(201) 605-9669\nView Hours\nBased in Nutley, NJ 07110\n·\nOpen Mon–Sat 7am–9pm\n·\nOwner-Operated\n\nGo Green HVAC\n\nNutley, NJ\n\n“Locally owned and owner-operated with upfront quotes and workmanship you can inspect on ev…”\n\n— Frank Santoro, Owner\n\nOpen Mon–Sat 7am–9pm\n✦\nBased in Nutley, NJ 07110\n\nOWNER · OPERATED · IN\n\nHeating and Air Conditioning Services Built on Local Roots\n\nFrank Santoro started Go Green HVAC right here in Nutley to handle the real demands of Essex County homes, from the older stock along Franklin Avenue to the neighborhoods around the Nutley Public Library and Kingsland Manor. He grew up seeing how the humid continental climate brings sharp winter cold that strains heating systems and heavy summer humidity that pushes air conditioning hard, especially in houses that predate modern insulation.\n\nOperating from Nutley, NJ 07110, Frank keeps the business owner-run so every job gets direct attention whether it is a service call in Downtown Nutley or a repair in nearby Bloomfield, Belleville, or Clifton. The focus stays on clear communication and work that homeowners can inspect themselves, with calls taken Monday through Saturday from 7am to 9pm to match the schedules of local residents.\n\nMore about us\n\nFrank Santoro — Owner, since 2014\n\nWHY · GO · GREEN\n\nHeating and Air Conditioning Built for Nutley Homes\n\nOwner-operated from Nutley, NJ 07110 and available Monday through Saturday 7am to 9pm, we service heating and air conditioning systems in Downtown Nutley, along Franklin Avenue, and throughout Essex County where the humid continental climate stresses older homes near the Nutley Public Library and Kingsland Manor.\n\n01\n\nExtended Hours for Essex County\n\nOpen Monday through Saturday from 7am to 9pm so residents in Bloomfield, Belleville, and Clifton can schedule around work without waiting for weekends.\n\n02\n\nKnowledge of Local Housing Stock\n\nWe work daily on the older homes and tight mechanical spaces common along Franklin Avenue and around Kingsland Manor that need careful attention during humid summers and freezing winters.\n\n03\n\nFast Arrival from Nutley Base\n\nCentrally located in Nutley, NJ 07110, we reach calls near the Nutley Public Library and surrounding Essex County streets without long travel delays.\n\nHeating and Air Conditioning Services in Nutley, NJ\n\nHONEST PRICING — FINAL QUOTE BEFORE ANY WORK STARTS\n\n01\n\nAir Conditioning Repair\n\nFast, reliable air conditioning repair for Nutley homes dealing with humid continental summers. $85–$125.\n\n02\n\nAC Installation\n\nProfessional AC installation tailored to Nutley’s older housing stock and humid continental climate. $5,800–$9,200.\n\n03\n\nAC Maintenance\n\nReliable AC maintenance that keeps Nutley systems running through sticky Essex County summers. $140–$220.\n\n04\n\nHeating Repair\n\nReliable heating repair for Nutley homes facing cold Essex County winters. $150–$200.\n\n05\n\nFurnace Installation\n\nReliable furnace installation for Nutley homes facing cold Essex County winters and older housing stock. $3,800–$5,200.\n\n06\n\nFurnace Maintenance\n\nReliable furnace maintenance keeps Essex County homes in Nutley warm through cold winters without unexpected b… $150–$250.\n\nAll services\n\n12+\n\nYears serving Nutley\n\n10\n\nSpecialist services\n\n10+\n\nAreas covered\n\nFree\n\nEstimates & advice\n\nSERVICE AREA\n\nHeating and Air Conditioning Near Me — Serving Nutley, NJ\n\nEssex · Humid continental climate.\n\nNutley, NJ\nClifton, NJ\nBelleville, NJ\nBloomfield, NJ\nMontclair, NJ\nPassaic, NJ\nPaterson, NJ\nNewark, NJ\nWest Orange, NJ\nJersey City, NJ\nAll service areas\n\nHOW · IT · WORKS\n\nWhat to expect, start to finish\n1\nScheduling And Arrival\n\nCall Go Green HVAC at our Nutley, NJ 07110 base and book a slot between 7am and 9pm Monday through Saturday. A technician drives directly to your property in Downtown Nutley or along Franklin Avenue to start the heating and air conditioning evaluation.\n\n2\nOn Site Inspection\n\nWe inspect the full system while accounting for the older housing stock typical in Essex County neighborhoods near Kingsland Manor and the Nutley Public Library, noting how the humid continental climate affects furnace and condenser performance.\n\n3\nDiagnosis And Upfront Quote\n\nAfter checking components that commonly fail in homes serving nearby Bloomfield, Belleville, and Clifton, we explain the findings and give a clear written quote before any heating and air conditioning work begins.\n\n4\nWork Completion And Testing\n\nRepairs or service are finished, the system is run through multiple cycles, and we confirm even heating and cooling output suited to Nutley conditions before the job is marked complete.\n\nTESTIMONIALS\n\nWhat Nutley, NJ Customers Say\n“My furnace stopped working during a cold snap last January. The technician diagnosed a faulty igniter, replaced it on the spot, and now the heat comes on reliably without any strange noises.”\nST\nSarah T.\nPark Ave, Nutley\n“The air conditioner was blowing warm air in July. They found a low refrigerant level due to a small leak in the line, sealed it and recharged the system. It's cooling the whole house evenly now.”\nTB\nTom B.\nNutley, NJ\n“During a routine check they discovered my old thermostat was causing inconsistent temperatures. Swapped it for a new programmable one and adjusted the ductwork dampers. The second floor stays comfortable without overheating the downstairs.”\nLM\nLisa M.\nFranklin Street, Nutley\n\nFROM · THE · BLOG\n\nHVAC Tips & Guides for Nutley, NJ\n\n2026-10-28\n\nHow Nutley Homes Handle Heating During January Cold Snaps\n\nNutley homes keep indoor temperatures stable during January cold snaps through regular furnace maintenance and targeted repairs suited to th…\n\n2026-10-28\n\nStep-By-Step Guide To Changing Air Filters In Nutley Split Systems\n\nNutley homeowners with split systems can maintain airflow by replacing filters on a regular schedule. This guide covers the exact process su…\n\n2026-10-28\n\nWhat Causes Uneven Cooling On Second Floors In Nutley Capes\n\nCape Cod homes in Downtown Nutley and along Franklin Avenue often struggle with hot upstairs bedrooms because their original construction ne…\n\nAll articles\n\nGOOD TO KNOW\n\nHeating and Air Conditioning FAQs — Nutley, NJ\n\nStill have questions? We're happy to talk it through.\n\n(201) 605-9669\n+\nWhat affects the price of heating and air conditioning work in Nutley?\nCost depends on the age of the equipment, accessibility in older Essex County homes, and whether the issue involves the furnace, condenser, or ductwork common along Franklin Avenue.\n+\nHow quickly can you respond for heating and air conditioning emergencies in Downtown Nutley?\n+\nDo you handle heating and air conditioning service calls in nearby cities like Bloomfield and Belleville?\n+\nWhat is included in a standard heating and air conditioning tune up?\n+\nHow long does a typical heating and air conditioning repair take on Franklin Avenue?\n+\nCan I schedule heating and air conditioning maintenance outside normal business hours?\n\nBUSINESS HOURS — MON–SAT 7AM–9PM\n\nNeed Heating and Air Conditioning in Nutley, NJ?\n\nTalk to a local heating and air conditioning company serving Nutley and nearby neighborhoods. Locally owned and owner-operated with upfront quotes and workmanship you can inspect on every heating and air conditioning job from Downtown Nutley and Franklin Avenue to nearby Bloomfield, Belleville, and Clifton.\n\n(201) 605-9669\nRequest a quote\nG\nGo Green HVAC\n\nGo Green HVAC provides heating and air conditioning services to homes and businesses in Nutley, NJ.\n\nOpen Mon–Sat 7am–9pm\nBased in Nutley, NJ 07110\n\nSERVICES\n\nAir Conditioning Repair\nAC Installation\nAC Maintenance\nHeating Repair\nFurnace Installation\nFurnace Maintenance\n\nAREAS WE SERVE\n\nNutley, NJ\nClifton, NJ\nBelleville, NJ\nBloomfield, NJ\nMontclair, NJ\nPassaic, NJ\n\nCONTACT\n\n(201) 605-9669\ninfo@gogreenhvacnj.com\nNutley, NJ 07110\nMon–Sat 7am–9pm\n\n© 2026 Go Green HVAC · Nutley, NJ. All rights reserved.\n\nPrivacy\nTerms\nAccessibility\n\nThis website may include representative imagery and profiles. Contact us for details specific to your project.\nThis is a lead-generation website designed to connect customers with independent local service providers.",
+    "links": [
+      {
+        "href": "tel:2016059669",
+        "abs": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": true,
+        "h": 15,
+        "w": 96,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.gogreenhvacnj.com/",
+        "text": "Go Green HVAC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 29,
+        "w": 350,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.gogreenhvacnj.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 58,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/areas",
+        "abs": "https://www.gogreenhvacnj.com/areas",
+        "text": "Areas we serve",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 103,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://www.gogreenhvacnj.com/about",
+        "text": "More about us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 96,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://www.gogreenhvacnj.com/blog",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 30,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.gogreenhvacnj.com/contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 53,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.gogreenhvacnj.com/contact",
+        "text": "Request a quote",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 143,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.gogreenhvacnj.com/services",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/areas",
+        "abs": "https://www.gogreenhvacnj.com/areas",
+        "text": "Areas we serve",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://www.gogreenhvacnj.com/about",
+        "text": "More about us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://www.gogreenhvacnj.com/blog",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.gogreenhvacnj.com/contact",
+        "text": "Contact",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:2016059669",
+        "abs": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 196,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://www.gogreenhvacnj.com/about",
+        "text": "View Hours",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 89,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://www.gogreenhvacnj.com/about",
+        "text": "More about us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 111,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/air-conditioning-repair",
+        "abs": "https://www.gogreenhvacnj.com/services/air-conditioning-repair",
+        "text": "01 Air Conditioning Repair Fast, reliable air conditioning repair for Nutley hom",
+        "visible": true,
+        "aboveFold": false,
+        "h": 163,
+        "w": 270,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://www.gogreenhvacnj.com/services/ac-installation",
+        "text": "02 AC Installation Professional AC installation tailored to Nutley’s older housi",
+        "visible": true,
+        "aboveFold": false,
+        "h": 163,
+        "w": 270,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-maintenance",
+        "abs": "https://www.gogreenhvacnj.com/services/ac-maintenance",
+        "text": "03 AC Maintenance Reliable AC maintenance that keeps Nutley systems running thro",
+        "visible": true,
+        "aboveFold": false,
+        "h": 163,
+        "w": 270,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heating-repair",
+        "abs": "https://www.gogreenhvacnj.com/services/heating-repair",
+        "text": "04 Heating Repair Reliable heating repair for Nutley homes facing cold Essex Cou",
+        "visible": true,
+        "aboveFold": false,
+        "h": 163,
+        "w": 270,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-installation",
+        "abs": "https://www.gogreenhvacnj.com/services/furnace-installation",
+        "text": "05 Furnace Installation Reliable furnace installation for Nutley homes facing co",
+        "visible": true,
+        "aboveFold": false,
+        "h": 163,
+        "w": 270,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-maintenance",
+        "abs": "https://www.gogreenhvacnj.com/services/furnace-maintenance",
+        "text": "06 Furnace Maintenance Reliable furnace maintenance keeps Essex County homes in ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 163,
+        "w": 270,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.gogreenhvacnj.com/services",
+        "text": "All services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 145,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/nutley-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/nutley-nj",
+        "text": "Nutley, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 97,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/clifton-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/clifton-nj",
+        "text": "Clifton, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 98,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/belleville-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/belleville-nj",
+        "text": "Belleville, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 113,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/bloomfield-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/bloomfield-nj",
+        "text": "Bloomfield, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/montclair-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/montclair-nj",
+        "text": "Montclair, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 115,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/passaic-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/passaic-nj",
+        "text": "Passaic, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 105,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/paterson-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/paterson-nj",
+        "text": "Paterson, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 113,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/newark-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/newark-nj",
+        "text": "Newark, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 105,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/west-orange-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/west-orange-nj",
+        "text": "West Orange, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas/jersey-city-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/jersey-city-nj",
+        "text": "Jersey City, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 128,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas",
+        "abs": "https://www.gogreenhvacnj.com/areas",
+        "text": "All service areas",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 154,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/blog/how-nutley-homes-handle-heating-during-january-cold-snaps",
+        "abs": "https://www.gogreenhvacnj.com/blog/how-nutley-homes-handle-heating-during-january-cold-snaps",
+        "text": "2026-10-28 How Nutley Homes Handle Heating During January Cold Snaps Nutley home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 213,
+        "w": 387,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/blog/step-by-step-guide-to-changing-air-filters-in-nutley-split-systems",
+        "abs": "https://www.gogreenhvacnj.com/blog/step-by-step-guide-to-changing-air-filters-in-nutley-split-systems",
+        "text": "2026-10-28 Step-By-Step Guide To Changing Air Filters In Nutley Split Systems Nu",
+        "visible": true,
+        "aboveFold": false,
+        "h": 213,
+        "w": 387,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/blog/what-causes-uneven-cooling-on-second-floors-in-nutley-capes",
+        "abs": "https://www.gogreenhvacnj.com/blog/what-causes-uneven-cooling-on-second-floors-in-nutley-capes",
+        "text": "2026-10-28 What Causes Uneven Cooling On Second Floors In Nutley Capes Cape Cod ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 213,
+        "w": 387,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://www.gogreenhvacnj.com/blog",
+        "text": "All articles",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 107,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:2016059669",
+        "abs": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 198,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:2016059669",
+        "abs": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 208,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.gogreenhvacnj.com/contact",
+        "text": "Request a quote",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 183,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/air-conditioning-repair",
+        "abs": "https://www.gogreenhvacnj.com/services/air-conditioning-repair",
+        "text": "Air Conditioning Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 152,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://www.gogreenhvacnj.com/services/ac-installation",
+        "text": "AC Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 95,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ac-maintenance",
+        "abs": "https://www.gogreenhvacnj.com/services/ac-maintenance",
+        "text": "AC Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 109,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/heating-repair",
+        "abs": "https://www.gogreenhvacnj.com/services/heating-repair",
+        "text": "Heating Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 98,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/furnace-installation",
+        "abs": "https://www.gogreenhvacnj.com/services/furnace-installation",
+        "text": "Furnace Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 129,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/furnace-maintenance",
+        "abs": "https://www.gogreenhvacnj.com/services/furnace-maintenance",
+        "text": "Furnace Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 143,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas/nutley-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/nutley-nj",
+        "text": "Nutley, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 68,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas/clifton-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/clifton-nj",
+        "text": "Clifton, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 69,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas/belleville-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/belleville-nj",
+        "text": "Belleville, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 85,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas/bloomfield-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/bloomfield-nj",
+        "text": "Bloomfield, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 97,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas/montclair-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/montclair-nj",
+        "text": "Montclair, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 87,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/areas/passaic-nj",
+        "abs": "https://www.gogreenhvacnj.com/areas/passaic-nj",
+        "text": "Passaic, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 77,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:2016059669",
+        "abs": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 373,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@gogreenhvacnj.com",
+        "abs": "mailto:info@gogreenhvacnj.com",
+        "text": "info@gogreenhvacnj.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 373,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/privacy",
+        "abs": "https://www.gogreenhvacnj.com/privacy",
+        "text": "Privacy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/terms",
+        "abs": "https://www.gogreenhvacnj.com/terms",
+        "text": "Terms",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 35,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/accessibility",
+        "abs": "https://www.gogreenhvacnj.com/accessibility",
+        "text": "Accessibility",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 72,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:2016059669",
+        "abs": "tel:2016059669",
+        "text": "Call now",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.gogreenhvacnj.com/contact",
+        "text": "Get a quote",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://maps.google.com/maps?q=Nutley%2C%20New%20Jersey&z=12&output=embed"
+    ],
+    "scripts": [
+      "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "HVACBusiness",
+        "name": "Go Green HVAC",
+        "url": "https://gogreenhvacnj.com/",
+        "telephone": "(201) 605-9669",
+        "email": "info@gogreenhvacnj.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Nutley, NJ 07110",
+          "addressLocality": "Nutley",
+          "addressRegion": "NJ",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          "Nutley",
+          "Nutley, NJ",
+          "Clifton, NJ",
+          "Belleville, NJ",
+          "Bloomfield, NJ",
+          "Montclair, NJ",
+          "Passaic, NJ",
+          "Paterson, NJ",
+          "Newark, NJ",
+          "West Orange, NJ",
+          "Jersey City, NJ"
+        ],
+        "openingHours": "Mon–Sat 7am–9pm",
+        "founder": {
+          "@type": "Person",
+          "name": "Frank Santoro",
+          "jobTitle": "Owner"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Heating and Air Conditioning in Nutley, NJ | Same-Day Local Service",
+        "description": "Owner-operated HVAC work for older homes in Downtown Nutley and along Franklin Avenue, built for Essex County's humid continental swings and serving nearby Bl",
+        "url": "https://gogreenhvacnj.com/",
+        "datePublished": "2026-07-29T18:59:34+00:00",
+        "dateModified": "2026-08-08T22:50:52+00:00",
+        "inLanguage": "en",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "Go Green HVAC",
+          "url": "https://gogreenhvacnj.com/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What affects the price of heating and air conditioning work in Nutley?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cost depends on the age of the equipment, accessibility in older Essex County homes, and whether the issue involves the furnace, condenser, or ductwork common along Franklin Avenue."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How quickly can you respond for heating and air conditioning emergencies in Downtown Nutley?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We prioritize calls during our Mon–Sat 7am–9pm hours and reach most properties near the Nutley Public Library or Kingsland Manor the same day when possible."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you handle heating and air conditioning service calls in nearby cities like Bloomfield and Belleville?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, we regularly work on systems in Bloomfield, Belleville, and Clifton in addition to Nutley addresses."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is included in a standard heating and air conditioning tune up?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The visit covers filter checks, coil cleaning, electrical connections, thermostat calibration, and a full performance test for the humid continental climate swings."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long does a typical heating and air conditioning repair take on Franklin Avenue?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Straightforward fixes in Nutley homes are often finished in two to four hours, while older properties may need additional time for parts sourcing or duct adjustments."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I schedule heating and air conditioning maintenance outside normal business hours?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "All appointments are handled Monday through Saturday from 7am to 9pm from our Nutley, NJ 07110 location."
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 0,
+    "timing": {
+      "dcl": 949,
+      "load": 2026,
+      "ttfb": 266
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.09,
+        "sig": " sticky top-0 z-40 bg-bg/95 backdrop-blur border-b border-ink/15 sc-be2 ",
+        "text": "go green hvac\nservices\nareas we serve\nmore about us\nblog\ncontact\nrequest a quote"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.gogreenhvacnj.com/",
+    "navMs": 2946,
+    "tel": [
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "Call now",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12016059669"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.gogreenhvacnj.com/",
+    "navMs": 1711,
+    "timing": {
+      "dcl": 856,
+      "load": 1035,
+      "ttfb": 299
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "(201) 605-9669",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016059669"
+      },
+      {
+        "href": "tel:2016059669",
+        "text": "Call now",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12016059669"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Call now",
+      "Get a quote"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.122,
+        "sig": " sticky top-0 z-40 bg-bg/95 backdrop-blur border-b border-ink/15 sc-be2 ",
+        "text": "go green hvac"
+      },
+      {
+        "kind": "bottom_bar",
+        "cover": 0.107,
+        "sig": " fixed bottom-0 inset-x-0 z-40 md:hidden bg-bg/95 backdrop-blur border-t border-ink/10 p-3 grid grid-cols-2 gap-2 sc-be2",
+        "text": "call now\nget a quote"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 1,
+    "brokenImages": [],
+    "textChars": 8277
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.gogreenhvacnj.com/contact",
+      "finalUrl": "https://www.gogreenhvacnj.com/contact",
+      "status": 200,
+      "title": "Contact Us | Nutley, NJ",
+      "forms": [],
+      "iframes": [
+        "https://maps.google.com/maps?q=Nutley%2C%20NJ%2007110&z=15&output=embed"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@gogreenhvacnj.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:2016059669",
+          "text": "(201) 605-9669",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016059669"
+        },
+        {
+          "href": "tel:2016059669",
+          "text": "(201) 605-9669",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016059669"
+        },
+        {
+          "href": "tel:2016059669",
+          "text": "(201) 605-9669",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016059669"
+        },
+        {
+          "href": "tel:2016059669",
+          "text": "(201) 605-9669",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016059669"
+        },
+        {
+          "href": "tel:2016059669",
+          "text": "(201) 605-9669",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016059669"
+        },
+        {
+          "href": "tel:2016059669",
+          "text": "Call now",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12016059669"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Serving Nutley since 2014\n✦\n(201) 605-9669 · Mon–Sat 7am–9pm\nGo Green HVAC\nServices\nAreas we serve\nMore about us\nBlog\nContact\nRequest a quote\nHome\n›\nContact\n\nCONTACT\n\nContact Go Green HVAC — Nutley, NJ\n\nServing Nutley, NJ and the surrounding area.\n\nPhone\n\n(201) 605-9669\n\nEmail\n\ninfo@gogreenhvacnj.com\n\nLocation\n\nNutley, NJ 07110\n\nHours\n\nMon–Sat 7am–9pm\n\nGOOD TO KNOW\n\nCommon questions\n\nStill have questions? We're happy to talk it through.\n\n(201) 605-9669\n+\nWhat affects the price of heating and air conditioning work in Nutley?\nCost depends on the age of the equipment, accessibility in older Essex County homes, and whether the issue involves the furnace, condenser, or ductwork common along Franklin Avenue.\n+\nHow quickly can you respond for heating and air conditioning emergencies in Downtown Nutley?\n+\nDo you handle heating and air conditioning service calls in nearby cities like Bloomfield and Belleville?\n+\nWhat is included in a standard heating and air conditioning tune up?\n\nBUSINESS HOURS — MON–SAT 7AM–9PM\n\nNeed Heating and Air Conditioning in Nutley, NJ?\n\nTalk to a local heating and air conditioning company serving Nutley and nearby neighborhoods. Locally owned and owner-operated with upfront quotes and workmanship you can inspect on every heating and air conditioning job from Downtown Nutley and Franklin Avenue to nearby Bloomfield, Belleville, and Clifton.\n\n(201) 605-9669\nRequest a quote\nG\nGo Green HVAC\n\nGo Green HVAC provides heating and air conditioning services to homes and businesses in Nutley, NJ.\n\nOpen Mon–Sat 7am–9pm\nBased in Nutley, NJ 07110\n\nSERVICES\n\nAir Conditioning Repair\nAC Installation\nAC Maintenance\nHeating Repair\nFurnace Installation\nFurnace Maintenance\n\nAREAS WE SERVE\n\nNutley, NJ\nClifton, NJ\nBelleville, NJ\nBloomfield, NJ\nMontclair, NJ\nPassaic, NJ\n\nCONTACT\n\n(201) 605-9669\ninfo@gogreenhvacnj.com\nNutley, NJ 07110\nMon–Sat 7am–9pm\n\n© 2026 Go Green HVAC · Nutley, NJ. All rights reserved.\n\nPrivacy\nTerms\nAccessibility\n\nThis website may include representative imagery and profiles. Contact us for details specific to your project.\nThis is a lead-generation website designed to connect customers with independent local service providers.",
+      "vendors": [],
+      "links": [
+        "https://www.gogreenhvacnj.com/",
+        "https://www.gogreenhvacnj.com/services",
+        "https://www.gogreenhvacnj.com/areas",
+        "https://www.gogreenhvacnj.com/about",
+        "https://www.gogreenhvacnj.com/blog",
+        "https://www.gogreenhvacnj.com/contact",
+        "https://www.gogreenhvacnj.com/contact",
+        "https://www.gogreenhvacnj.com/services",
+        "https://www.gogreenhvacnj.com/areas",
+        "https://www.gogreenhvacnj.com/about",
+        "https://www.gogreenhvacnj.com/blog",
+        "https://www.gogreenhvacnj.com/contact",
+        "https://www.gogreenhvacnj.com/",
+        "https://www.gogreenhvacnj.com/contact",
+        "https://www.gogreenhvacnj.com/services/air-conditioning-repair",
+        "https://www.gogreenhvacnj.com/services/ac-installation",
+        "https://www.gogreenhvacnj.com/services/ac-maintenance",
+        "https://www.gogreenhvacnj.com/services/heating-repair",
+        "https://www.gogreenhvacnj.com/services/furnace-installation",
+        "https://www.gogreenhvacnj.com/services/furnace-maintenance",
+        "https://www.gogreenhvacnj.com/areas/nutley-nj",
+        "https://www.gogreenhvacnj.com/areas/clifton-nj",
+        "https://www.gogreenhvacnj.com/areas/belleville-nj",
+        "https://www.gogreenhvacnj.com/areas/bloomfield-nj",
+        "https://www.gogreenhvacnj.com/areas/montclair-nj",
+        "https://www.gogreenhvacnj.com/areas/passaic-nj",
+        "https://www.gogreenhvacnj.com/privacy",
+        "https://www.gogreenhvacnj.com/terms",
+        "https://www.gogreenhvacnj.com/accessibility",
+        "https://www.gogreenhvacnj.com/contact"
+      ]
+    },
+    "about": {
+      "url": "https://www.gogreenhvacnj.com/about",
+      "finalUrl": "https://www.gogreenhvacnj.com/about",
+      "status": 200,
+      "title": "About Us | Nutley, NJ",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@gogreenhvacnj.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:2016059669",
+          "text": "(201) 605-9669",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016059669"
+        },
+        {
+          "href": "tel:2016059669",
+          "text": "(201) 605-9669",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016059669"
+        },
+        {
+          "href": "tel:2016059669",
+          "text": "(201) 605-9669",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016059669"
+        },
+        {
+          "href": "tel:2016059669",
+          "text": "Call now",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12016059669"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Serving Nutley since 2014\n✦\n(201) 605-9669 · Mon–Sat 7am–9pm\nGo Green HVAC\nServices\nAreas we serve\nMore about us\nBlog\nContact\nRequest a quote\nHome\n›\nAbout\n\nABOUT US\n\nHeating and Air Conditioning Services Built on Local Roots\n\nOWNER · OPERATED · IN\n\nHeating and Air Conditioning Services Built on Local Roots\n\nFrank Santoro started Go Green HVAC right here in Nutley to handle the real demands of Essex County homes, from the older stock along Franklin Avenue to the neighborhoods around the Nutley Public Library and Kingsland Manor. He grew up seeing how the humid continental climate brings sharp winter cold that strains heating systems and heavy summer humidity that pushes air conditioning hard, especially in houses that predate modern insulation.\n\nOperating from Nutley, NJ 07110, Frank keeps the business owner-run so every job gets direct attention whether it is a service call in Downtown Nutley or a repair in nearby Bloomfield, Belleville, or Clifton. The focus stays on clear communication and work that homeowners can inspect themselves, with calls taken Monday through Saturday from 7am to 9pm to match the schedules of local residents.\n\nThat hands-on approach shows up in how systems are sized and maintained for the actual conditions of these towns instead of generic recommendations, keeping equipment running efficiently through the temperature swings that hit this part of New Jersey every year.\n\nI grew up in Nutley and started Go Green HVAC after years repairing systems in the older homes along Franklin Avenue and near the Nutley Public Library. The humid continental climate here means heating units work hard once winter temperatures drop while air conditioning must handle muggy Essex County summers, and I saw too many neighbors in Downtown Nutley and nearby Bloomfield, Belleville, and Clifton getting overcharged for quick fixes that ignored those realities. Operating from Nutley, NJ 07110 with hours Mon–Sat 7am–9pm lets me stay close to the jobs on Kingsland Manor properties and the surrounding streets I know best.\n\nFrank Santoro — Owner, since 2014\n\nCredentials & guarantees\n✓\nOpen Mon–Sat 7am–9pm\n✓\nBased in Nutley, NJ 07110\n\nOur guarantee\n\nLocally owned and owner-operated with upfront quotes and workmanship you can inspect on every heating and air conditioning job from Downtown Nutley and Franklin Avenue to nearby Bloomfield, Belleville, and Clifton.\n\nTESTIMONIALS\n\nWhat Nutley, NJ Customers Say\n“My furnace stopped working during a cold snap last January. The technician diagnosed a faulty igniter, replaced it on the spot, and now the heat comes on reliably without any strange noises.”\nST\nSarah T.\nPark Ave, Nutley\n“The air conditioner was blowing warm air in July. They found a low refrigerant level due to a small leak in the line, sealed it and recharged the system. It's cooling the whole house evenly now.”\nTB\nTom B.\nNutley, NJ\n“During a routine check they discovered my old thermostat was causing inconsistent temperatures. Swapped it for a new programmable one and adjusted the ductwork dampers. The second floor stays comfortable without overheating the downstairs.”\nLM\nLisa M.\nFranklin Street, Nutley\n\nBUSINESS HOURS — MON–SAT 7AM–9PM\n\nNeed Heating and Air Conditioning in Nutley, NJ?\n\nTalk to a local heating and air conditioning company serving Nutley and nearby neighborhoods. Locally owned and owner-operated with upfront quotes and workmanship you can inspect on every heating and air conditioning job from Downtown Nutley and Franklin Avenue to nearby Bloomfield, Belleville, and Clifton.\n\n(201) 605-9669\nRequest a quote\nG\nGo Green HVAC\n\nGo Green HVAC provides heating and air conditioning services to homes and businesses in Nutley, NJ.\n\nOpen Mon–Sat 7am–9pm\nBased in Nutley, NJ 07110\n\nSERVICES\n\nAir Conditioning Repair\nAC Installation\nAC Maintenance\nHeating Repair\nFurnace Installation\nFurnace Maintenance\n\nAREAS WE SERVE\n\nNutley, NJ\nClifton, NJ\nBelleville, NJ\nBloomfield, NJ\nMontclair, NJ\nPassaic, NJ\n\nCONTACT\n\n(201) 605-9669\ninfo@gogreenhvacnj.com\nNutley, NJ 07110\nMon–Sat 7am–9pm\n\n© 2026 Go Green HVAC · Nutley, NJ. All rights reserved.\n\nPrivacy\nTerms\nAccessibility\n\nThis website may include representative imagery and profiles. Contact us for details specific to your project.\nThis is a lead-generation website designed to connect customers with independent local service providers.",
+      "vendors": [],
+      "links": [
+        "https://www.gogreenhvacnj.com/",
+        "https://www.gogreenhvacnj.com/services",
+        "https://www.gogreenhvacnj.com/areas",
+        "https://www.gogreenhvacnj.com/about",
+        "https://www.gogreenhvacnj.com/blog",
+        "https://www.gogreenhvacnj.com/contact",
+        "https://www.gogreenhvacnj.com/contact",
+        "https://www.gogreenhvacnj.com/services",
+        "https://www.gogreenhvacnj.com/areas",
+        "https://www.gogreenhvacnj.com/about",
+        "https://www.gogreenhvacnj.com/blog",
+        "https://www.gogreenhvacnj.com/contact",
+        "https://www.gogreenhvacnj.com/",
+        "https://www.gogreenhvacnj.com/contact",
+        "https://www.gogreenhvacnj.com/services/air-conditioning-repair",
+        "https://www.gogreenhvacnj.com/services/ac-installation",
+        "https://www.gogreenhvacnj.com/services/ac-maintenance",
+        "https://www.gogreenhvacnj.com/services/heating-repair",
+        "https://www.gogreenhvacnj.com/services/furnace-installation",
+        "https://www.gogreenhvacnj.com/services/furnace-maintenance",
+        "https://www.gogreenhvacnj.com/areas/nutley-nj",
+        "https://www.gogreenhvacnj.com/areas/clifton-nj",
+        "https://www.gogreenhvacnj.com/areas/belleville-nj",
+        "https://www.gogreenhvacnj.com/areas/bloomfield-nj",
+        "https://www.gogreenhvacnj.com/areas/montclair-nj",
+        "https://www.gogreenhvacnj.com/areas/passaic-nj",
+        "https://www.gogreenhvacnj.com/privacy",
+        "https://www.gogreenhvacnj.com/terms",
+        "https://www.gogreenhvacnj.com/accessibility",
+        "https://www.gogreenhvacnj.com/contact"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 28,
+    "at": "2026-11-03T23:43:10.206Z",
+    "statusCounts": {
+      "200": 28
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.gogreenhvacnj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/go-green-heating-air-conditioning/desktop-home.png",
+    "desktop_full": "evidence/screenshots/go-green-heating-air-conditioning/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/go-green-heating-air-conditioning/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/go-green-heating-air-conditioning/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/go-green-heating-air-conditioning/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "sinceYear": 2014,
+    "yearsClaim": 12,
+    "copyrightYear": 2026,
+    "emails": [
+      "info@gogreenhvacnj.com"
+    ],
+    "owners": [
+      "Frank Santoro | h upfront quotes and workmanship you can inspect on ev…” — Frank Santoro, Owner Open Mon–Sat 7am–9pm ✦ Based in Nutley"
+    ],
+    "bookingLinkTexts": [
+      "Request a quote -> https://www.gogreenhvacnj.com/contact",
+      "Request a quote -> https://www.gogreenhvacnj.com/contact",
+      "Get a quote -> https://www.gogreenhvacnj.com/contact"
+    ]
+  },
+  "ctaClickTests": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "first-choice-plumbing-heating-and-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/First+Choice+Plumbing+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c2f9089b4bb4a5:0x8eaeb1ad353e1bea!8m2!3d40.8720811!4d-74.0919534!16s%2Fg%2F1tgh3xvz!19sChIJpbRLmwj5wokR6hs-Na2xro4",
+  "retrievedAt": "2026-11-03T22:55:12.119Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "First Choice Plumbing Heating and Air Conditioning",
+  "category": "Plumber",
+  "address": "396 Passaic Ave, Lodi, NJ 07644, United States ",
+  "phone": "+1 201-778-7585 ",
+  "website": "https://firstchoicenj.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/First+Choice+Plumbing+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c2f9089b4bb4a5:0x8eaeb1ad353e1bea!8m2!3d40.8720811!4d-74.0919534!16s%2Fg%2F1tgh3xvz!19sChIJpbRLmwj5wokR6hs-Na2xro4?hl=en",
+  "screenshot": "evidence/screenshots/first-choice-plumbing-heating-and-air-conditioning/google-maps-listing.png"
+}

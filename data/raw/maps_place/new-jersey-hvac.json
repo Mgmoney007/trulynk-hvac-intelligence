@@ -1,0 +1,25 @@
+{
+  "id": "new-jersey-hvac",
+  "placeUrl": "https://www.google.com/maps/place/New+Jersey+HVAC/data=!4m7!3m6!1s0x89c2f0305f65e1ef:0xf850d34bad5fc44b!8m2!3d40.8955259!4d-74.0808197!16s%2Fg%2F1hm2ykv_v!19sChIJ7-FlXzDwwokRS8RfrUvTUPg",
+  "retrievedAt": "2026-11-03T22:55:22.688Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "New Jersey HVAC",
+  "category": "HVAC contractor",
+  "address": "49 Market St, Saddle Brook, NJ 07663, United States ",
+  "phone": "+1 201-374-2366 ",
+  "website": "https://www.newjerseyhvac.net/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/New+Jersey+HVAC/data=!4m7!3m6!1s0x89c2f0305f65e1ef:0xf850d34bad5fc44b!8m2!3d40.8955259!4d-74.0808197!16s%2Fg%2F1hm2ykv_v!19sChIJ7-FlXzDwwokRS8RfrUvTUPg?hl=en",
+  "screenshot": "evidence/screenshots/new-jersey-hvac/google-maps-listing.png"
+}

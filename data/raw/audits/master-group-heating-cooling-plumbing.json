@@ -1,0 +1,129 @@
+{
+  "firecrawl": [
+    {
+      "at": "2026-11-03T23:29:37.255Z",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://www.mastergroupnj.com/",
+      "purpose": "fallback: Cloudflare challenge unreachable from research environment",
+      "statusCode": 200,
+      "title": "Clifton HVAC & Plumbing Services | Master Group Heating, Cooling & Plumbing",
+      "tel": [
+        {
+          "href": "tel:7323343050",
+          "e164": "+17323343050"
+        },
+        {
+          "href": "tel:(732) 334-3050",
+          "e164": "+17323343050"
+        }
+      ],
+      "mailto": [],
+      "linkCount": 7,
+      "vendors": [],
+      "screenshot": "evidence/screenshots/master-group-heating-cooling-plumbing/firecrawl-desktop.png",
+      "scrapeId": "01a1a3bd-240f-706b-bed1-38712fce0829",
+      "creditsUsed": 1,
+      "proxyUsed": "basic"
+    }
+  ],
+  "id": "master-group-heating-cooling-plumbing",
+  "name": "Master Group Heating, Cooling & Plumbing",
+  "website": "https://www.mastergroupnj.com/",
+  "auditedAt": "2026-11-03T23:03:25.089Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.mastergroupnj.com/",
+      "at": "2026-11-03T23:04:19.015Z",
+      "access": "challenge",
+      "status": 403,
+      "finalUrl": "https://www.mastergroupnj.com/",
+      "title": "Just a moment...",
+      "ms": 25032,
+      "error": null,
+      "linkCount": 2
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.mastergroupnj.com/",
+      "at": "2026-11-03T23:05:12.484Z",
+      "access": "challenge",
+      "status": 403,
+      "finalUrl": "https://www.mastergroupnj.com/",
+      "title": "Just a moment...",
+      "ms": 24842,
+      "error": null,
+      "linkCount": 2
+    },
+    {
+      "step": "firecrawl_desktop",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://www.mastergroupnj.com/",
+      "at": "2026-11-03T23:29:37.255Z",
+      "access": "ok",
+      "status": 200
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "challenge",
+      "status": 403,
+      "error": null,
+      "url": "https://www.mastergroupnj.com/"
+    },
+    {
+      "step": "mobile_home",
+      "access": "challenge",
+      "status": 403,
+      "error": null,
+      "url": "https://www.mastergroupnj.com/"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "https://www.mastergroupnj.com/",
+    "httpStatus": 403,
+    "httpError": null,
+    "httpsStatus": 403,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/master-group-heating-cooling-plumbing/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/master-group-heating-cooling-plumbing/mobile-home-access-failure.png",
+    "firecrawl_desktop": "evidence/screenshots/master-group-heating-cooling-plumbing/firecrawl-desktop.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

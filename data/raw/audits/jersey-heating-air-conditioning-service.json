@@ -1,0 +1,94 @@
+{
+  "firecrawl": [],
+  "id": "jersey-heating-air-conditioning-service",
+  "name": "Jersey Heating & Air Conditioning Service",
+  "website": "https://americanshvacservice.com/",
+  "auditedAt": "2026-11-03T22:54:39.826Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://americanshvacservice.com/",
+      "at": "2026-11-03T22:54:44.992Z",
+      "access": "http_error",
+      "status": 502,
+      "finalUrl": "https://americanshvacservice.com/",
+      "title": "",
+      "ms": 856,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://americanshvacservice.com/",
+      "at": "2026-11-03T22:54:50.059Z",
+      "access": "http_error",
+      "status": 502,
+      "finalUrl": "https://americanshvacservice.com/",
+      "title": "",
+      "ms": 865,
+      "error": null,
+      "linkCount": 0
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "http_error",
+      "status": 502,
+      "error": null,
+      "url": "https://americanshvacservice.com/"
+    },
+    {
+      "step": "mobile_home",
+      "access": "http_error",
+      "status": 502,
+      "error": null,
+      "url": "https://americanshvacservice.com/"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "http://americanshvacservice.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 503,
+    "httpsError": null,
+    "redirectsToHttps": false
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/jersey-heating-air-conditioning-service/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/jersey-heating-air-conditioning-service/mobile-home-access-failure.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

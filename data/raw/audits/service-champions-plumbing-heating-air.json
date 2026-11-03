@@ -1,0 +1,2440 @@
+{
+  "firecrawl": [],
+  "id": "service-champions-plumbing-heating-air",
+  "name": "Service Champions Plumbing, Heating & Air",
+  "website": "http://servicechampionsnj.com/",
+  "auditedAt": "2026-11-03T23:02:48.095Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://servicechampionsnj.com/",
+      "at": "2026-11-03T23:02:54.210Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://servicechampionsnj.com/",
+      "title": "HVAC, AC & Plumbing in Woodland Park NJ | Service Champions",
+      "ms": 6073,
+      "error": null,
+      "linkCount": 128
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://servicechampionsnj.com/contact",
+      "at": "2026-11-03T23:02:57.740Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://servicechampionsnj.com/contact",
+      "title": "Contact Service Champions | Woodland Park NJ HVAC & Plumbing",
+      "ms": 2037,
+      "error": null,
+      "linkCount": 57
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://servicechampionsnj.com/about",
+      "at": "2026-11-03T23:03:00.914Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://servicechampionsnj.com/about",
+      "title": "About Service Champions | 35+ Years in Woodland Park NJ",
+      "ms": 2843,
+      "error": null,
+      "linkCount": 57
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://servicechampionsnj.com/",
+      "at": "2026-11-03T23:03:58.599Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://servicechampionsnj.com/",
+      "title": "HVAC, AC & Plumbing in Woodland Park NJ | Service Champions",
+      "ms": 5225,
+      "error": null,
+      "linkCount": 128
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://servicechampionsnj.com/",
+    "title": "HVAC, AC & Plumbing in Woodland Park NJ | Service Champions",
+    "lang": "en",
+    "metaDescription": "24/7 HVAC, AC repair, heating & plumbing in Woodland Park, Passaic County & North Jersey. 35+ years, 0% financing for 24 months. Call (201) 466-4131.",
+    "h1": [
+      "North Jersey's Trusted HVAC & Plumbing Champions"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 8092,
+    "bodyText": "24/7 Emergency Service Available\nSERVICE CHAMPIONS PLUMBING, HEATING & AIR\n(201) 466-4131\nService Champions Plumbing, Heating & Air\nHome\nServices\nService Areas\nAbout\nContact\n(201) 466-4131\n24/7 EMERGENCY SERVICE\nNorth Jersey's Trusted HVAC & Plumbing Champions\n\nFast, honest AC repair, heating service, and plumbing across Woodland Park and Passaic County. 35+ years keeping NJ homes comfortable — day or night.\n\nCall (201) 466-4131\nBook Online\n5.0 rated\n•\nLicensed & Insured\n\nASK ABOUT 0% FINANCING\n\n24 months interest-free on qualifying installs\n\nLIMITED-TIME OFFERS\n$89\nDIAGNOSTIC FEE\n\nREGULARLY $149\n\nLimited Time Offer\n\n$1000\nOFF\n\nNEW HVAC SYSTEM INSTALLATION\n\nCall for Details\n\n$150\nOFF\n\nSERVICE REPAIRS\n\nOn Qualifying Work\n\n*Cannot be combined with other offers. Restrictions may apply.\n\nCall (201) 466-4131\nto redeem\n\n35+ Years Experience\n24/7 Emergency Service\nLocal NJ Business\nLicensed & Insured\n\nCERTIFIED & AUTHORIZED\n\nRheem Pro Partner\n2025 Difference Maker\nCarrier Factory Authorized Dealer\nWM Advantage Authorized & Elite\nLIMITED-TIME OFFER\nCurrent Specials\n\nSave big on new equipment installs. Mention this offer when you call.\n\nAC INSTALLATION SPECIAL\n$1,000 OFF a New AC Installation\n\nBeat the summer heat and lower your energy bills with a high-efficiency system. Combine with 0% financing for 24 months on qualifying installs.\n\nFree in-home estimate\nStay cool all summer\nLower monthly energy bills\n10-year parts warranty available\nCall (201) 466-4131\nClaim This Offer\n\n* Offer applies to qualifying new central AC installations. Cannot be combined with other promotions.\n\nWHY NORTH JERSEY CHOOSES US\n35+ years of doing it right.\n\nWe're a local, family-style operation based in Woodland Park. We answer the phone, show up on time, and stand behind our work.\n\nFast Response Times\n\nSame-day appointments and true 24/7 emergency dispatch — no answering services.\n\nHonest, Up-Front Pricing\n\nFlat-rate quotes before we start. No surprises, no high-pressure upsells.\n\nExperienced Technicians\n\nNJ-licensed master techs trained on every major brand.\n\n0% Financing Available\n\n24 months interest-free through Synchrony Bank on qualifying installs.\n\nMembership Maintenance Plan\n\nKeep your AC, heating, and plumbing in top shape year-round.\n\nAnnual AC and heating tune-ups\nPriority emergency dispatch\n10% off all repairs\nWaived diagnostic fees\nExtended warranty coverage\nAsk About Membership\nOUR SERVICES\nCooling, Heating & Plumbing — All Under One Roof\n\nOne trusted local team for every comfort and water system in your home.\n\nCooling\n\nStay cool all summer long.\n\nAC Repair\nAC Installation\nAC Maintenance\nEmergency AC Repair\n24/7\nCall (201) 466-4131\nHeating\n\nReliable warmth when NJ winters hit.\n\nHeating Repair\nFurnace Repair\nHeating Maintenance\nEmergency Heating Repair\n24/7\nEmergency Furnace Repair\n24/7\nCall (201) 466-4131\nPlumbing\n\nMaster plumbers for every fix.\n\nWater Heater Services\nTankless Water Heaters\nDrain Cleaning\nPipe Repair\nGas Line Repair\nEmergency Plumbing\n24/7\nBurst Pipe Repair\n24/7\nCall (201) 466-4131\nRECENT WORK\nReal Jobs from Real NJ Homes\n\nA look at recent installs and service calls across Passaic, Bergen, and Morris Counties.\n\nSee All Services\n\nAC SERVICE\n\nOutdoor Rheem condenser tune-up\n\nAC INSTALL\n\nAttic air handler installation\n\nFURNACE REPAIR\n\nBasement Rheem furnace service\n\nHEATING TUNE-UP\n\nHigh-efficiency attic furnace\n\nCUSTOMER REVIEWS\nWhat Our Neighbors Say\n\nHundreds of 5-star reviews from homeowners across Passaic, Bergen, and Morris Counties.\n\n5.0 on Google\n\nReal reviews from North Jersey neighbors\n\n\"We had them over for AC service. David and Alex were great. We will definitely be using them again.\"\n\nChris Zambito\n\nAC Service • 2 days ago\n\n\"Great experience with this HVAC company. They were quick to respond, showed up on time, and were extremely professional throughout the entire process. David clearly explained the issue and walked me through my options. The work was done efficiently, and everything has been running perfectly since.\"\n\nKyle\n\nHVAC repair & maintenance • 3 days ago\n\n\"Had this company come out to replace my AC unit at my warehouse in Totowa, NJ. Very easy to work with. Would recommend.\"\n\nGino I.\n\nAC Replacement • 3 days ago\n\n\"Great customer experience with Service Champions. Amazing customer service and they delivered on everything they said they would. Highly recommend them for your plumbing and HVAC needs.\"\n\nDaniel Cirrincione\n\nWater heater installation • 4 days ago\n\n\"Great company, great service, great quality — you won't be disappointed. Call now!\"\n\nAntonino R.\n\n4 days ago\n\n\"I don't usually leave reviews but this is a must. Service Champions completely exceeded expectations from start to finish. Very professional, on time, and extremely knowledgeable. If you're looking for reliable HVAC service that actually delivers what they promise, this is the one.\"\n\nLeda Kullau\n\nHVAC system repair • 6 days ago\n\n\"Excellent service! David and Alex replaced my HVAC system and it works wonderfully. So excited to use them for my next project.\"\n\nErick Curiel\n\nAC Installation • 6 days ago\n\n\"Prepared for the job, came in and got it done extremely quickly. Excellent quality and service at an affordable price. Would use again — 10/10.\"\n\nRommy Faraj\n\nHVAC repair & maintenance • 1 week ago\n\n\"Great service! I own a house in NJ and gave them a call for an AC job. They came out and fixed it the same day — quick, professional, and reliable. Highly recommend!\"\n\nNour\n\nA/C system maintenance • 1 week ago\n\n\"Had an emergency late at night and he showed up within hours. Fixed everything quickly and honestly the service was amazing. Super professional and reliable. Thank you Hasan!\"\n\nAdebo\n\nEmergency service • 1 week ago\n\n\"I had a leaking water heater. Had it fixed the same day! Best price I found as well. The owner was very informative and transparent. Would highly recommend.\"\n\nLayth Abedrabbo\n\nWater heater installation • 1 week ago\n\n\"Absolutely amazing service! From start to finish, the team was professional, responsive, and efficient. They went above and beyond to make sure everything was working perfectly and took the time to answer all my questions.\"\n\nVanessa Betancourth\n\n1 week ago\n\n\"Fast, reliable, and straightforward. They showed up when they said they would, got the job done right, and kept everything clean. No stress, no surprises. Highly recommend.\"\n\nChris Rada\n\n1 week ago\n\n\"These guys are the best. Fast. Professional. Good price. Great work. Highly recommend.\"\n\nDante Iudici\n\n1 week ago\n\n\"Just got my water heater replaced and I couldn't be happier! Super professional, on time, and very efficient. They explained everything clearly and left everything clean.\"\n\nKate Betancourth\n\nWater heater installation • 1 week ago\n\n\"Great great service! David and Alex were able to pinpoint an issue I had with my heating system that no one could figure out. So happy I was able to reach them — they came to my house same day!\"\n\nToufik Alzouabi\n\nHeating system repair • 4 weeks ago\n\n\"Great experience. Showed up in 2 hours on a Saturday. Diagnosed and repaired same day. Had the part on the truck. Sam was great.\"\n\nRobert Sisk\n\nHeating system repair • 1 month ago\n\n\"Highly recommend Service Champions and will be using them from now on. They were able to fix my furnace on a weekend and get me going through the cold — great response time and service.\"\n\nIbrahim Yousef\n\nFurnace repair • 1 month ago\n\nWrite a Review on Google\nRead All Reviews\nSERVICE AREA\nProudly Serving North Jersey\n\nBased in Woodland Park, we cover a 25-mile radius across Passaic, Bergen, Morris, Hudson, Union, and Essex Counties.\n\nOUR SHOP\nService Champions Plumbing, Heating & Air\n\n821 McBride Ave, Woodland Park, NJ 07424\n\nOpen 24/7 for emergency HVAC and plumbing service across North Jersey.\n\nCall (201) 466-4131\nGet Directions\nWoodland Park\nClifton\nPaterson\nWayne\nLittle Falls\nTotowa\nHaledon\nNorth Haledon\nProspect Park\nPompton Lakes\nRingwood\nWanaque\nWest Milford\nBloomingdale\nPassaic\nFAQ\nCommon Questions\nDo you offer 24/7 emergency HVAC service?\nWhat areas of New Jersey do you serve?\nDo you offer financing for new HVAC systems?\nHow quickly can you come out for an AC repair?\nAre you licensed and insured?\nWhat HVAC brands do you service?\nNeed Service Now? We're On Call 24/7.\n\nTalk to a real person, get an honest quote, and book service in minutes. 35+ years serving North Jersey.\n\nCall (201) 466-4131\nBook Online\n\nService Champions Plumbing, Heating & Air. Serving Woodland Park and all of North Jersey for 35+ years.\n\nSERVICES\nAC Repair\nAC Installation\nAC Maintenance\nEmergency AC Repair\nHeating Repair\nFurnace Repair\nHeating Maintenance\nEmergency Heating Repair\nSERVICE AREAS\nBergen County\nEssex County\nHudson County\nPassaic County\nMorris County\nUnion County\nAll Service Areas →\nCONTACT\n(201) 466-4131\nservicechampionsnj@gmail.com\n821 McBride Ave, Woodland Park, NJ 07424\n24/7 Emergency Service\n\n© 2026 Service Champions Plumbing, Heating & Air. All rights reserved.\n\nPrivacy Policy",
+    "links": [
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 121,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "Review us on Google",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 24,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/servicechampionsnj",
+        "abs": "https://www.instagram.com/servicechampionsnj",
+        "text": "Follow us on Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 24,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/share/1BEbrRvp4y/?mibextid=wwXIfr",
+        "abs": "https://www.facebook.com/share/1BEbrRvp4y/?mibextid=wwXIfr",
+        "text": "Follow us on Facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 24,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.tiktok.com/@servicechampionsnj",
+        "abs": "https://www.tiktok.com/@servicechampionsnj",
+        "text": "Follow us on TikTok",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 24,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://servicechampionsnj.com/",
+        "text": "Service Champions Plumbing, Heating & Air",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 168,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://servicechampionsnj.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 40,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://servicechampionsnj.com/services/ac-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://servicechampionsnj.com/services/ac-installation",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-maintenance",
+        "abs": "https://servicechampionsnj.com/services/ac-maintenance",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-ac-repair",
+        "abs": "https://servicechampionsnj.com/services/emergency-ac-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heating-repair",
+        "abs": "https://servicechampionsnj.com/services/heating-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-repair",
+        "abs": "https://servicechampionsnj.com/services/furnace-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heating-maintenance",
+        "abs": "https://servicechampionsnj.com/services/heating-maintenance",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-heating-repair",
+        "abs": "https://servicechampionsnj.com/services/emergency-heating-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-furnace-repair",
+        "abs": "https://servicechampionsnj.com/services/emergency-furnace-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/water-heater-services",
+        "abs": "https://servicechampionsnj.com/services/water-heater-services",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/tankless-water-heaters",
+        "abs": "https://servicechampionsnj.com/services/tankless-water-heaters",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/drain-cleaning",
+        "abs": "https://servicechampionsnj.com/services/drain-cleaning",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/pipe-repair",
+        "abs": "https://servicechampionsnj.com/services/pipe-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/gas-line-repair",
+        "abs": "https://servicechampionsnj.com/services/gas-line-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-plumbing",
+        "abs": "https://servicechampionsnj.com/services/emergency-plumbing",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/burst-pipe-repair",
+        "abs": "https://servicechampionsnj.com/services/burst-pipe-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 261,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/bergen-county",
+        "abs": "https://servicechampionsnj.com/service-areas/bergen-county",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 36,
+        "w": 254,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/essex-county",
+        "abs": "https://servicechampionsnj.com/service-areas/essex-county",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 36,
+        "w": 254,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/hudson-county",
+        "abs": "https://servicechampionsnj.com/service-areas/hudson-county",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 36,
+        "w": 254,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/passaic-county",
+        "abs": "https://servicechampionsnj.com/service-areas/passaic-county",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 36,
+        "w": 254,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/morris-county",
+        "abs": "https://servicechampionsnj.com/service-areas/morris-county",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 36,
+        "w": 254,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/union-county",
+        "abs": "https://servicechampionsnj.com/service-areas/union-county",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 36,
+        "w": 254,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://servicechampionsnj.com/about",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 41,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://servicechampionsnj.com/contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 54,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 166,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 235,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "ASK ABOUT 0% FINANCING 24 months interest-free on qualifying installs",
+        "visible": true,
+        "aboveFold": true,
+        "h": 72,
+        "w": 604,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call (201) 466-4131 to redeem",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 260,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://servicechampionsnj.com/about",
+        "text": "Rheem Pro Partner",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 186,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://servicechampionsnj.com/about",
+        "text": "2025 Difference Maker",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 214,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://servicechampionsnj.com/about",
+        "text": "Carrier Factory Authorized Dealer",
+        "visible": true,
+        "aboveFold": false,
+        "h": 64,
+        "w": 307,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://servicechampionsnj.com/about",
+        "text": "WM Advantage Authorized & Elite",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 369,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 230,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://servicechampionsnj.com/contact",
+        "text": "Claim This Offer",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 234,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Ask About Membership",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 528,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://servicechampionsnj.com/services/ac-repair",
+        "text": "AC Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://servicechampionsnj.com/services/ac-installation",
+        "text": "AC Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-maintenance",
+        "abs": "https://servicechampionsnj.com/services/ac-maintenance",
+        "text": "AC Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-ac-repair",
+        "abs": "https://servicechampionsnj.com/services/emergency-ac-repair",
+        "text": "Emergency AC Repair 24/7",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 364,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heating-repair",
+        "abs": "https://servicechampionsnj.com/services/heating-repair",
+        "text": "Heating Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-repair",
+        "abs": "https://servicechampionsnj.com/services/furnace-repair",
+        "text": "Furnace Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heating-maintenance",
+        "abs": "https://servicechampionsnj.com/services/heating-maintenance",
+        "text": "Heating Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-heating-repair",
+        "abs": "https://servicechampionsnj.com/services/emergency-heating-repair",
+        "text": "Emergency Heating Repair 24/7",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-furnace-repair",
+        "abs": "https://servicechampionsnj.com/services/emergency-furnace-repair",
+        "text": "Emergency Furnace Repair 24/7",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 364,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/water-heater-services",
+        "abs": "https://servicechampionsnj.com/services/water-heater-services",
+        "text": "Water Heater Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/tankless-water-heaters",
+        "abs": "https://servicechampionsnj.com/services/tankless-water-heaters",
+        "text": "Tankless Water Heaters",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/drain-cleaning",
+        "abs": "https://servicechampionsnj.com/services/drain-cleaning",
+        "text": "Drain Cleaning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/pipe-repair",
+        "abs": "https://servicechampionsnj.com/services/pipe-repair",
+        "text": "Pipe Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/gas-line-repair",
+        "abs": "https://servicechampionsnj.com/services/gas-line-repair",
+        "text": "Gas Line Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-plumbing",
+        "abs": "https://servicechampionsnj.com/services/emergency-plumbing",
+        "text": "Emergency Plumbing 24/7",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/burst-pipe-repair",
+        "abs": "https://servicechampionsnj.com/services/burst-pipe-repair",
+        "text": "Burst Pipe Repair 24/7",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 364,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://servicechampionsnj.com/services",
+        "text": "See All Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 179,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://servicechampionsnj.com/services/ac-repair",
+        "text": "AC SERVICE Outdoor Rheem condenser tune-up",
+        "visible": true,
+        "aboveFold": false,
+        "h": 223,
+        "w": 297,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://servicechampionsnj.com/services/ac-installation",
+        "text": "AC INSTALL Attic air handler installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 223,
+        "w": 297,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-repair",
+        "abs": "https://servicechampionsnj.com/services/furnace-repair",
+        "text": "FURNACE REPAIR Basement Rheem furnace service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 223,
+        "w": 297,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heating-maintenance",
+        "abs": "https://servicechampionsnj.com/services/heating-maintenance",
+        "text": "HEATING TUNE-UP High-efficiency attic furnace",
+        "visible": true,
+        "aboveFold": false,
+        "h": 223,
+        "w": 297,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "View on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "See all on Google",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/search?q=service+champions+nj#lrd=0x89c2ffd064eab70d:0x49caff687e130a52,3,,,,",
+        "abs": "https://www.google.com/search?q=service+champions+nj#lrd=0x89c2ffd064eab70d:0x49caff687e130a52,3,,,,",
+        "text": "Write a Review on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 283,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LmkaACVZc54iiALNZ",
+        "abs": "https://share.google/LmkaACVZc54iiALNZ",
+        "text": "Read All Reviews",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 193,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 350,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/dir/?api=1&destination=Service+Champions+Plumbing+Heating+%26+Air+821+McBride+Ave+Woodland+Park+NJ",
+        "abs": "https://www.google.com/maps/dir/?api=1&destination=Service+Champions+Plumbing+Heating+%26+Air+821+McBride+Ave+Woodland+Park+NJ",
+        "text": "Get Directions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 350,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/woodland-park",
+        "abs": "https://servicechampionsnj.com/service-areas/woodland-park",
+        "text": "Woodland Park",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/clifton",
+        "abs": "https://servicechampionsnj.com/service-areas/clifton",
+        "text": "Clifton",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/paterson",
+        "abs": "https://servicechampionsnj.com/service-areas/paterson",
+        "text": "Paterson",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/wayne",
+        "abs": "https://servicechampionsnj.com/service-areas/wayne",
+        "text": "Wayne",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/little-falls",
+        "abs": "https://servicechampionsnj.com/service-areas/little-falls",
+        "text": "Little Falls",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/totowa",
+        "abs": "https://servicechampionsnj.com/service-areas/totowa",
+        "text": "Totowa",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/haledon",
+        "abs": "https://servicechampionsnj.com/service-areas/haledon",
+        "text": "Haledon",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/north-haledon",
+        "abs": "https://servicechampionsnj.com/service-areas/north-haledon",
+        "text": "North Haledon",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/prospect-park",
+        "abs": "https://servicechampionsnj.com/service-areas/prospect-park",
+        "text": "Prospect Park",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/pompton-lakes",
+        "abs": "https://servicechampionsnj.com/service-areas/pompton-lakes",
+        "text": "Pompton Lakes",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/ringwood",
+        "abs": "https://servicechampionsnj.com/service-areas/ringwood",
+        "text": "Ringwood",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/wanaque",
+        "abs": "https://servicechampionsnj.com/service-areas/wanaque",
+        "text": "Wanaque",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/west-milford",
+        "abs": "https://servicechampionsnj.com/service-areas/west-milford",
+        "text": "West Milford",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/bloomingdale",
+        "abs": "https://servicechampionsnj.com/service-areas/bloomingdale",
+        "text": "Bloomingdale",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/passaic",
+        "abs": "https://servicechampionsnj.com/service-areas/passaic",
+        "text": "Passaic",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 235,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/LELwFafGc1Gy5X2vc",
+        "abs": "https://share.google/LELwFafGc1Gy5X2vc",
+        "text": "Find us on Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/servicechampionsnj",
+        "abs": "https://www.instagram.com/servicechampionsnj",
+        "text": "Follow us on Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/share/1BEbrRvp4y/?mibextid=wwXIfr",
+        "abs": "https://www.facebook.com/share/1BEbrRvp4y/?mibextid=wwXIfr",
+        "text": "Follow us on Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.tiktok.com/@servicechampionsnj",
+        "abs": "https://www.tiktok.com/@servicechampionsnj",
+        "text": "Follow us on TikTok",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://servicechampionsnj.com/services/ac-repair",
+        "text": "AC Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 66,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://servicechampionsnj.com/services/ac-installation",
+        "text": "AC Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 95,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ac-maintenance",
+        "abs": "https://servicechampionsnj.com/services/ac-maintenance",
+        "text": "AC Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 109,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/emergency-ac-repair",
+        "abs": "https://servicechampionsnj.com/services/emergency-ac-repair",
+        "text": "Emergency AC Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 144,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/heating-repair",
+        "abs": "https://servicechampionsnj.com/services/heating-repair",
+        "text": "Heating Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 98,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/furnace-repair",
+        "abs": "https://servicechampionsnj.com/services/furnace-repair",
+        "text": "Furnace Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 100,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/heating-maintenance",
+        "abs": "https://servicechampionsnj.com/services/heating-maintenance",
+        "text": "Heating Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 141,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/emergency-heating-repair",
+        "abs": "https://servicechampionsnj.com/services/emergency-heating-repair",
+        "text": "Emergency Heating Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 176,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/service-areas/bergen-county",
+        "abs": "https://servicechampionsnj.com/service-areas/bergen-county",
+        "text": "Bergen County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 99,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/service-areas/essex-county",
+        "abs": "https://servicechampionsnj.com/service-areas/essex-county",
+        "text": "Essex County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 91,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/service-areas/hudson-county",
+        "abs": "https://servicechampionsnj.com/service-areas/hudson-county",
+        "text": "Hudson County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 103,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/service-areas/passaic-county",
+        "abs": "https://servicechampionsnj.com/service-areas/passaic-county",
+        "text": "Passaic County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 103,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/service-areas/morris-county",
+        "abs": "https://servicechampionsnj.com/service-areas/morris-county",
+        "text": "Morris County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 95,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/service-areas/union-county",
+        "abs": "https://servicechampionsnj.com/service-areas/union-county",
+        "text": "Union County",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 91,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/service-areas",
+        "abs": "https://servicechampionsnj.com/service-areas",
+        "text": "All Service Areas →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 133,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 99,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:servicechampionsnj@gmail.com",
+        "abs": "mailto:servicechampionsnj@gmail.com",
+        "text": "servicechampionsnj@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 214,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/privacy",
+        "abs": "https://servicechampionsnj.com/privacy",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 79,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+12014664131",
+        "abs": "tel:+12014664131",
+        "text": "Call Now: (201) 466-4131",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Toggle menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Book Online",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Previous reviews",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next reviews",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous reviews",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Next reviews",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Book Online",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.8214595320064!2d-74.20268592372072!3d40.89773117136624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2ffd064eab70d%3A0x49caff687e130a52!2sService%20Champions%20Plumbing%2C%20Heating%20%26%20Air!5e0!3m2!1sen!2sus!4v1776444171224!5m2!1sen!2sus",
+      "https://book.housecallpro.com/book/Service-Champions-Plumbing-Heating--Air/d0aa7807197c427ab243f4e6a6f85899?v2=true"
+    ],
+    "scripts": [
+      "https://594455.tctm.co/t.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-18203390048&cx=c&gtm=4e6b21",
+      "https://www.googletagmanager.com/gtag/js?id=G-9WQPXP26PP&cx=c&gtm=4e6b21",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-PL23BBFJ",
+      "https://online-booking.housecallpro.com/script.js?token=d0aa7807197c427ab243f4e6a6f85899&orgName=Service-Champions-Plumbing-Heating--Air",
+      "https://servicechampionsnj.com/~flock.js",
+      "https://servicechampionsnj.com/__l5e/events.270c78a44fc53e7b.js",
+      "https://www.clickcease.com/monitor/stat.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18203390048/?random=1793746971776&cv=11&fst=1793746971776&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21z8f_AW-18203390048za20ozb9253029684zd9253029684xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776796~118897920~118897930~120213116~120385423~120412526~120469145~120469153~121246026~121246034~123691370~123814183&u_w=1366&u_h=900&url=https%3A%2F%2Fservicechampionsnj.com%2F&rcb=12&frm=0&tiba=HVAC%2C%20AC%20%26%20Plumbing%20in%20Woodland%20Park%20NJ%20%7C%20Service%20Champions&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1380248027.1793746971&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://servicechampionsnj.com/assets/index-DhRU1lNI.js",
+      "https://cdn.searchkings.ca/galaxy/galaxy.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Service Champions Plumbing, Heating & Air",
+        "url": "https://servicechampionsnj.com",
+        "logo": "https://servicechampionsnj.com/favicon.ico",
+        "sameAs": [
+          "https://www.instagram.com/servicechampionsnj",
+          "https://share.google/LELwFafGc1Gy5X2vc"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "(201) 466-4131",
+          "contactType": "customer service",
+          "areaServed": "US-NJ",
+          "availableLanguage": [
+            "English",
+            "Spanish"
+          ]
+        }
+      },
+      [
+        {
+          "@context": "https://schema.org",
+          "@type": "HVACBusiness",
+          "name": "Service Champions Plumbing, Heating & Air",
+          "image": "https://servicechampionsnj.com/og-image.jpg",
+          "@id": "https://servicechampionsnj.com",
+          "url": "https://servicechampionsnj.com",
+          "telephone": "(201) 466-4131",
+          "email": "servicechampionsnj@gmail.com",
+          "priceRange": "$$",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "821 McBride Ave",
+            "addressLocality": "Woodland Park",
+            "addressRegion": "NJ",
+            "postalCode": "07424",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8851,
+            "longitude": -74.1957
+          },
+          "areaServed": [
+            {
+              "@type": "AdministrativeArea",
+              "name": "Passaic County"
+            },
+            {
+              "@type": "AdministrativeArea",
+              "name": "Bergen County"
+            },
+            {
+              "@type": "AdministrativeArea",
+              "name": "Morris County"
+            },
+            {
+              "@type": "AdministrativeArea",
+              "name": "Hudson County"
+            },
+            {
+              "@type": "AdministrativeArea",
+              "name": "Union County"
+            },
+            {
+              "@type": "AdministrativeArea",
+              "name": "Essex County"
+            }
+          ],
+          "openingHoursSpecification": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          },
+          "sameAs": [
+            "https://www.instagram.com/servicechampionsnj",
+            "https://share.google/LELwFafGc1Gy5X2vc"
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5.0",
+            "reviewCount": 18,
+            "bestRating": 5,
+            "worstRating": 1
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Do you offer 24/7 emergency HVAC service?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. We answer calls 24 hours a day, 7 days a week — including weekends and holidays. A live dispatcher will get a licensed tech to you fast."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What areas of New Jersey do you serve?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "We're based in Woodland Park and serve a 25-mile radius covering Passaic, Bergen, Morris, Hudson, Union, and Essex Counties."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do you offer financing for new HVAC systems?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — we offer 24 months of 0% interest financing through Synchrony Bank on qualifying AC, furnace, and tankless water heater installations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How quickly can you come out for an AC repair?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For most calls in Passaic County we offer same-day service. Emergencies typically get a tech on-site within 2 hours."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are you licensed and insured?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. We're a fully licensed New Jersey contractor and carry full liability and workers' comp insurance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What HVAC brands do you service?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All major brands including Carrier, Trane, Lennox, Bryant, Goodman, Rheem, Mitsubishi, and more."
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris Zambito"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": 5
+          },
+          "reviewBody": "We had them over for AC service. David and Alex were great. We will definitely be using them again.",
+          "itemReviewed": {
+            "@type": "HVACBusiness",
+            "name": "Service Champions Plumbing, Heating & Air"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kyle"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": 5
+          },
+          "reviewBody": "Great experience with this HVAC company. They were quick to respond, showed up on time, and were extremely professional throughout the entire process. David clearly explained the issue and walked me through my options. The work was done efficiently, and everything has been running perfectly since.",
+          "itemReviewed": {
+            "@type": "HVACBusiness",
+            "name": "Service Champions Plumbing, Heating & Air"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gino I."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": 5
+          },
+          "reviewBody": "Had this company come out to replace my AC unit at my warehouse in Totowa, NJ. Very easy to work with. Would recommend.",
+          "itemReviewed": {
+            "@type": "HVACBusiness",
+            "name": "Service Champions Plumbing, Heating & Air"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Daniel Cirrincione"
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": 5
+          },
+          "reviewBody": "Great customer experience with Service Champions. Amazing customer service and they delivered on everything they said they would. Highly recommend them for your plumbing and HVAC needs.",
+          "itemReviewed": {
+            "@type": "HVACBusiness",
+            "name": "Service Champions Plumbing, Heating & Air"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Antonino R."
+          },
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": 5,
+            "bestRating": 5
+          },
+          "reviewBody": "Great company, great service, great quality — you won't be disappointed. Call now!",
+          "itemReviewed": {
+            "@type": "HVACBusiness",
+            "name": "Service Champions Plumbing, Heating & Air"
+          }
+        }
+      ]
+    ],
+    "brokenImages": [],
+    "imageCount": 13,
+    "timing": {
+      "dcl": 3915,
+      "load": 4436,
+      "ttfb": 1907
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.13,
+        "sig": " sticky top-0 z-40 w-full border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background",
+        "text": "24/7 emergency service available\nservice champions plumbing, heating & air\n(201) 466-4131\nservice champions plumbing, he"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://servicechampionsnj.com/",
+    "navMs": 6073,
+    "tel": [
+      {
+        "href": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "ASK ABOUT 0% FINANCING 24 months interest-free on qualifying installs",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131 to redeem",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Ask About Membership",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call Now: (201) 466-4131",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "CallTrackingMetrics",
+        "kind": "call_tracking"
+      },
+      {
+        "name": "Housecall Pro",
+        "kind": "field_service"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://servicechampionsnj.com/",
+    "navMs": 5225,
+    "timing": {
+      "dcl": 3319,
+      "load": 3694,
+      "ttfb": 1765
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "ASK ABOUT 0% FINANCING 24 months interest-free on qualifying installs",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131 to redeem",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Ask About Membership",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call (201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "(201) 466-4131",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      },
+      {
+        "href": "tel:+12014664131",
+        "text": "Call Now: (201) 466-4131",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014664131"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Follow us on Facebook",
+      "Call (201) 466-4131",
+      "Call Now: (201) 466-4131",
+      "Book Online"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.176,
+        "sig": " sticky top-0 z-40 w-full border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background",
+        "text": "24/7 emergency\n(201) 466-4131\nservice champions plumbing, heating & air"
+      },
+      {
+        "kind": "other",
+        "cover": 0.077,
+        "sig": " fixed bottom-4 left-4 right-4 z-50 inline-flex items-center justify-center gap-2 rounded-full bg-gradient-emergency px-",
+        "text": "call now: (201) 466-4131"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 6,
+    "brokenImages": [],
+    "textChars": 8888
+  },
+  "pages": {
+    "contact": {
+      "url": "https://servicechampionsnj.com/contact",
+      "finalUrl": "https://servicechampionsnj.com/contact",
+      "status": 200,
+      "title": "Contact Service Champions | Woodland Park NJ HVAC & Plumbing",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "",
+          "cls": "mt-6 space-y-4",
+          "fieldCount": 6,
+          "fieldNames": [
+            "name",
+            "phone",
+            "email",
+            "city",
+            "service",
+            "message"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://book.housecallpro.com/book/Service-Champions-Plumbing-Heating--Air/d0aa7807197c427ab243f4e6a6f85899?v2=true"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "servicechampionsnj@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+12014664131",
+          "text": "(201) 466-4131",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        },
+        {
+          "href": "tel:+12014664131",
+          "text": "(201) 466-4131",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        },
+        {
+          "href": "tel:+12014664131",
+          "text": "PHONE — 24/7 (201) 466-4131",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12014664131"
+        },
+        {
+          "href": "tel:+12014664131",
+          "text": "(201) 466-4131",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        },
+        {
+          "href": "tel:+12014664131",
+          "text": "Call Now: (201) 466-4131",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        }
+      ],
+      "owners": [],
+      "bodyText": "24/7 Emergency Service Available\nSERVICE CHAMPIONS PLUMBING, HEATING & AIR\n(201) 466-4131\nService Champions Plumbing, Heating & Air\nHome\nServices\nService Areas\nAbout\nContact\n(201) 466-4131\nCONTACT\nGet In Touch — We're Always Open\n\nCall us anytime, day or night. For non-emergencies, fill out the form and we'll get back to you within one business hour.\n\nReach Us Directly\n\nPHONE — 24/7\n\n(201) 466-4131\n\nEMAIL\n\nservicechampionsnj@gmail.com\n\nADDRESS\n\n821 McBride Ave, Woodland Park, NJ 07424\n\nHOURS\n\n24/7 Emergency Service\n\nEmergency? For burst pipes, no heat, or any safety issue, please call us directly — don't wait on the form.\n\nRequest Service\n\nWe'll respond within one business hour.\n\nFull name *\nPhone *\nEmail\nCity / Town\nService needed\nAC Repair\nAC Installation\nHeating Repair\nFurnace Repair\nWater Heater\nDrain Cleaning\nEmergency Plumbing\nOther\nHow can we help?\nSend Request\n\nBy submitting, you agree to be contacted about your request. We never share your info.\n\nService Champions Plumbing, Heating & Air. Serving Woodland Park and all of North Jersey for 35+ years.\n\nSERVICES\nAC Repair\nAC Installation\nAC Maintenance\nEmergency AC Repair\nHeating Repair\nFurnace Repair\nHeating Maintenance\nEmergency Heating Repair\nSERVICE AREAS\nBergen County\nEssex County\nHudson County\nPassaic County\nMorris County\nUnion County\nAll Service Areas →\nCONTACT\n(201) 466-4131\nservicechampionsnj@gmail.com\n821 McBride Ave, Woodland Park, NJ 07424\n24/7 Emergency Service\n\n© 2026 Service Champions Plumbing, Heating & Air. All rights reserved.\n\nPrivacy Policy",
+      "vendors": [
+        {
+          "name": "CallTrackingMetrics",
+          "kind": "call_tracking"
+        },
+        {
+          "name": "Housecall Pro",
+          "kind": "field_service"
+        }
+      ],
+      "links": [
+        "https://servicechampionsnj.com/",
+        "https://servicechampionsnj.com/",
+        "https://servicechampionsnj.com/services/ac-repair",
+        "https://servicechampionsnj.com/services/ac-installation",
+        "https://servicechampionsnj.com/services/ac-maintenance",
+        "https://servicechampionsnj.com/services/emergency-ac-repair",
+        "https://servicechampionsnj.com/services/heating-repair",
+        "https://servicechampionsnj.com/services/furnace-repair",
+        "https://servicechampionsnj.com/services/heating-maintenance",
+        "https://servicechampionsnj.com/services/emergency-heating-repair",
+        "https://servicechampionsnj.com/services/emergency-furnace-repair",
+        "https://servicechampionsnj.com/services/water-heater-services",
+        "https://servicechampionsnj.com/services/tankless-water-heaters",
+        "https://servicechampionsnj.com/services/drain-cleaning",
+        "https://servicechampionsnj.com/services/pipe-repair",
+        "https://servicechampionsnj.com/services/gas-line-repair",
+        "https://servicechampionsnj.com/services/emergency-plumbing",
+        "https://servicechampionsnj.com/services/burst-pipe-repair",
+        "https://servicechampionsnj.com/service-areas/bergen-county",
+        "https://servicechampionsnj.com/service-areas/essex-county",
+        "https://servicechampionsnj.com/service-areas/hudson-county",
+        "https://servicechampionsnj.com/service-areas/passaic-county",
+        "https://servicechampionsnj.com/service-areas/morris-county",
+        "https://servicechampionsnj.com/service-areas/union-county",
+        "https://servicechampionsnj.com/about",
+        "https://servicechampionsnj.com/contact",
+        "https://servicechampionsnj.com/services/ac-repair",
+        "https://servicechampionsnj.com/services/ac-installation",
+        "https://servicechampionsnj.com/services/ac-maintenance",
+        "https://servicechampionsnj.com/services/emergency-ac-repair",
+        "https://servicechampionsnj.com/services/heating-repair",
+        "https://servicechampionsnj.com/services/furnace-repair",
+        "https://servicechampionsnj.com/services/heating-maintenance",
+        "https://servicechampionsnj.com/services/emergency-heating-repair",
+        "https://servicechampionsnj.com/service-areas/bergen-county",
+        "https://servicechampionsnj.com/service-areas/essex-county",
+        "https://servicechampionsnj.com/service-areas/hudson-county",
+        "https://servicechampionsnj.com/service-areas/passaic-county",
+        "https://servicechampionsnj.com/service-areas/morris-county",
+        "https://servicechampionsnj.com/service-areas/union-county",
+        "https://servicechampionsnj.com/service-areas",
+        "https://servicechampionsnj.com/privacy"
+      ]
+    },
+    "about": {
+      "url": "https://servicechampionsnj.com/about",
+      "finalUrl": "https://servicechampionsnj.com/about",
+      "status": 200,
+      "title": "About Service Champions | 35+ Years in Woodland Park NJ",
+      "forms": [],
+      "iframes": [
+        "https://book.housecallpro.com/book/Service-Champions-Plumbing-Heating--Air/d0aa7807197c427ab243f4e6a6f85899?v2=true"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "servicechampionsnj@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+12014664131",
+          "text": "(201) 466-4131",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        },
+        {
+          "href": "tel:+12014664131",
+          "text": "(201) 466-4131",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        },
+        {
+          "href": "tel:+12014664131",
+          "text": "Call (201) 466-4131",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        },
+        {
+          "href": "tel:+12014664131",
+          "text": "(201) 466-4131",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        },
+        {
+          "href": "tel:+12014664131",
+          "text": "Call Now: (201) 466-4131",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014664131"
+        }
+      ],
+      "owners": [],
+      "bodyText": "24/7 Emergency Service Available\nSERVICE CHAMPIONS PLUMBING, HEATING & AIR\n(201) 466-4131\nService Champions Plumbing, Heating & Air\nHome\nServices\nService Areas\nAbout\nContact\n(201) 466-4131\nABOUT US\nNorth Jersey's HVAC & Plumbing Champions\n\nFor over 35 years, Service Champions has kept Woodland Park families warm in winter, cool in summer, and dry the rest of the year.\n\nOur Story\n\nService Champions was built on a simple promise: do the work right, charge a fair price, and treat every customer like family. That promise has carried us through more than three decades of North Jersey weather, code changes, and equipment evolution.\n\nWe started as a small plumbing operation and grew into a full-service HVAC and plumbing company because our customers kept asking us to handle more for them. Today, we install and service every kind of heating, cooling, and plumbing system across Passaic, Bergen, Morris, Hudson, Union, and Essex Counties — but we're still the same neighborhood shop at heart.\n\nOur techs are NJ-licensed, factory-trained, and held to a standard most companies have given up on: show up on time, explain what's happening in plain English, and never sell anyone something they don't need.\n\nCERTIFICATIONS & AWARDS\nA Trusted Rheem Pro Partner\n\nService Champions is a factory-authorized Rheem Pro Partner and was named a 2025 Rheem Difference Maker — recognition reserved for the top-performing HVAC and plumbing contractors in the country.\n\nRHEEM PRO PARTNER\n\nFactory-authorized installation & service\n\nPro Partners pass strict training, insurance, and customer-satisfaction requirements set by Rheem.\n\n2025 DIFFERENCE MAKER\n\nA top-tier Rheem contractor\n\nAwarded to contractors who go above and beyond on craftsmanship and customer experience.\n\nWhat Sets Us Apart\n35+ Years of Experience\n\nThree decades of service across North Jersey homes — from century-old Paterson row homes to brand-new Wayne colonials.\n\nLicensed & Insured\n\nFully licensed and insured. Full liability and workers' comp insurance on every job.\n\nLocally Owned\n\nWe live and work in Woodland Park. Our customers are our neighbors, and we treat every home like our own.\n\nFamily-Style Service\n\nReal people answer our phones. Real techs show up on time. No call centers, no gimmicks.\n\nOUR WORK\nRecent Installs & Service Calls\n\nA few recent jobs from across North Jersey.\n\nOutdoor Rheem AC Condenser Service\nAttic Air Handler Installation\nBasement Rheem Furnace Repair\nHigh-Efficiency Attic Furnace Install\nOur Promise\nWe answer the phone — 24 hours a day, 7 days a week.\nUp-front, flat-rate pricing before we start.\nHonest repair vs. replace recommendations.\nClean trucks, clean uniforms, clean job sites.\nCode-compliant work and proper permits, every time.\nWorkmanship guarantee on every repair and install.\nVisit Our Shop\n\n821 McBride Ave, Woodland Park, NJ 07424\n\nServing a 25-mile radius across Passaic County, Bergen County, Morris County, Hudson County, Union County, Essex County.\n\nGet in touch →\nNeed Service Now? We're On Call 24/7.\n\nTalk to a real person, get an honest quote, and book service in minutes. 35+ years serving North Jersey.\n\nCall (201) 466-4131\nBook Online\n\nService Champions Plumbing, Heating & Air. Serving Woodland Park and all of North Jersey for 35+ years.\n\nSERVICES\nAC Repair\nAC Installation\nAC Maintenance\nEmergency AC Repair\nHeating Repair\nFurnace Repair\nHeating Maintenance\nEmergency Heating Repair\nSERVICE AREAS\nBergen County\nEssex County\nHudson County\nPassaic County\nMorris County\nUnion County\nAll Service Areas →\nCONTACT\n(201) 466-4131\nservicechampionsnj@gmail.com\n821 McBride Ave, Woodland Park, NJ 07424\n24/7 Emergency Service\n\n© 2026 Service Champions Plumbing, Heating & Air. All rights reserved.\n\nPrivacy Policy",
+      "vendors": [
+        {
+          "name": "CallTrackingMetrics",
+          "kind": "call_tracking"
+        },
+        {
+          "name": "Housecall Pro",
+          "kind": "field_service"
+        }
+      ],
+      "links": [
+        "https://servicechampionsnj.com/",
+        "https://servicechampionsnj.com/",
+        "https://servicechampionsnj.com/services/ac-repair",
+        "https://servicechampionsnj.com/services/ac-installation",
+        "https://servicechampionsnj.com/services/ac-maintenance",
+        "https://servicechampionsnj.com/services/emergency-ac-repair",
+        "https://servicechampionsnj.com/services/heating-repair",
+        "https://servicechampionsnj.com/services/furnace-repair",
+        "https://servicechampionsnj.com/services/heating-maintenance",
+        "https://servicechampionsnj.com/services/emergency-heating-repair",
+        "https://servicechampionsnj.com/services/emergency-furnace-repair",
+        "https://servicechampionsnj.com/services/water-heater-services",
+        "https://servicechampionsnj.com/services/tankless-water-heaters",
+        "https://servicechampionsnj.com/services/drain-cleaning",
+        "https://servicechampionsnj.com/services/pipe-repair",
+        "https://servicechampionsnj.com/services/gas-line-repair",
+        "https://servicechampionsnj.com/services/emergency-plumbing",
+        "https://servicechampionsnj.com/services/burst-pipe-repair",
+        "https://servicechampionsnj.com/service-areas/bergen-county",
+        "https://servicechampionsnj.com/service-areas/essex-county",
+        "https://servicechampionsnj.com/service-areas/hudson-county",
+        "https://servicechampionsnj.com/service-areas/passaic-county",
+        "https://servicechampionsnj.com/service-areas/morris-county",
+        "https://servicechampionsnj.com/service-areas/union-county",
+        "https://servicechampionsnj.com/about",
+        "https://servicechampionsnj.com/contact",
+        "https://servicechampionsnj.com/contact",
+        "https://servicechampionsnj.com/services/ac-repair",
+        "https://servicechampionsnj.com/services/ac-installation",
+        "https://servicechampionsnj.com/services/ac-maintenance",
+        "https://servicechampionsnj.com/services/emergency-ac-repair",
+        "https://servicechampionsnj.com/services/heating-repair",
+        "https://servicechampionsnj.com/services/furnace-repair",
+        "https://servicechampionsnj.com/services/heating-maintenance",
+        "https://servicechampionsnj.com/services/emergency-heating-repair",
+        "https://servicechampionsnj.com/service-areas/bergen-county",
+        "https://servicechampionsnj.com/service-areas/essex-county",
+        "https://servicechampionsnj.com/service-areas/hudson-county",
+        "https://servicechampionsnj.com/service-areas/passaic-county",
+        "https://servicechampionsnj.com/service-areas/morris-county",
+        "https://servicechampionsnj.com/service-areas/union-county",
+        "https://servicechampionsnj.com/service-areas",
+        "https://servicechampionsnj.com/privacy"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 44,
+    "at": "2026-11-03T23:03:52.258Z",
+    "statusCounts": {
+      "200": 43,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://servicechampionsnj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/service-champions-plumbing-heating-air/desktop-home.png",
+    "desktop_full": "evidence/screenshots/service-champions-plumbing-heating-air/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/service-champions-plumbing-heating-air/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/service-champions-plumbing-heating-air/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/service-champions-plumbing-heating-air/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": true
+    },
+    "yearsClaim": 35,
+    "copyrightYear": 2026,
+    "emails": [
+      "servicechampionsnj@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Follow us on Facebook -> https://www.facebook.com/share/1BEbrRvp4y/?mibextid=wwXIfr",
+      "Follow us on Facebook -> https://www.facebook.com/share/1BEbrRvp4y/?mibextid=wwXIfr"
+    ]
+  },
+  "ctaClickTests": []
+}

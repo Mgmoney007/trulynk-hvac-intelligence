@@ -1,0 +1,146 @@
+{
+  "id": "a-c-quality-air",
+  "query": "A&C Quality Air",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=A%26C%20Quality%20Air&find_loc=Clifton%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:17:36.855Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [
+    {
+      "ad": false,
+      "name": "All Clear Plumbing",
+      "rating": "A+",
+      "phone": "(973) 482-6800",
+      "address": "54 Greylock Ave, Belleville, NJ 07109-3304",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/belleville/profile/plumber/all-clear-plumbing-0221-26000689"
+    },
+    {
+      "ad": false,
+      "name": "Air Temp Service Co Inc.",
+      "rating": "A+",
+      "phone": "(973) 754-1232",
+      "address": "17 Muller Pl, Little Falls, NJ 07424-1143",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/little-falls/profile/residential-air-conditioning-contractors/air-temp-service-co-inc-0221-1006196"
+    },
+    {
+      "ad": false,
+      "name": "Pipe Works Services Inc.",
+      "rating": "A+",
+      "phone": "(973) 635-3111",
+      "address": "33 River Rd Ste A, Chatham, NJ 07928-1942",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/chatham/profile/plumbing-and-heating/pipe-works-services-inc-0221-28002754"
+    },
+    {
+      "ad": false,
+      "name": "Elite Air Conditioning & Beyond Inc.",
+      "rating": "A+",
+      "phone": "(718) 678-9887",
+      "address": "3100 Brighton 7th St Apt 65, Brooklyn, NY 11235-6556",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/brooklyn/profile/heating-and-air-conditioning/elite-air-conditioning-beyond-inc-0121-87154948"
+    },
+    {
+      "ad": false,
+      "name": "One Hour Heating and Air Conditioning",
+      "rating": "A",
+      "phone": "(914) 775-8775",
+      "address": "17 Saint Charles St, Thornwood, NY 10594",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/thornwood/profile/heating-contractors/one-hour-heating-and-air-conditioning-0121-87182957"
+    },
+    {
+      "ad": false,
+      "name": "Servcon, LLC",
+      "rating": "A+",
+      "phone": "(203) 975-9106",
+      "address": "43 Seaview Ave Apt 4, Stamford, CT 06902-6027",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/stamford/profile/heating-and-air-conditioning/servcon-llc-0111-87006528"
+    },
+    {
+      "ad": false,
+      "name": "A.J. Perri",
+      "rating": "A+",
+      "phone": "(901) 271-9700",
+      "address": "1162 Pinebrook Rd, Tinton Falls, NJ 07724-9707",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/tinton-falls/profile/heating-and-air-conditioning/aj-perri-0221-13000277/addressId/109882"
+    },
+    {
+      "ad": false,
+      "name": "All Seasons Air Conditioning",
+      "rating": "A+",
+      "phone": "(631) 694-1616",
+      "address": "40 Field Street, West Babylon, NY 11704-1215",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/west-babylon/profile/air-conditioning-contractor/all-seasons-air-conditioning-0121-17870"
+    },
+    {
+      "ad": false,
+      "name": "Dave Hoh's Home Comfort & Energy Experts LLC",
+      "rating": "A+",
+      "phone": "(732) 807-4911",
+      "address": "5140 W Hurley Pond Rd, Wall Township, NJ 07727-1605",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/wall-township/profile/insulation-contractors/dave-hohs-home-comfort-energy-experts-llc-0221-90111082"
+    },
+    {
+      "ad": false,
+      "name": "Air Experts",
+      "rating": "A+",
+      "phone": "(901) 271-9700",
+      "address": "727 17th Ave Ste C, Belmar, NJ 07719",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/belmar/profile/heating-and-air-conditioning/air-experts-0221-15001185/addressId/16093"
+    },
+    {
+      "ad": false,
+      "name": "Aire Serv of Southwest CT & Shelton",
+      "rating": "A",
+      "phone": "(203) 736-8952",
+      "address": "95 Reef Rd, Fairfield, CT 06824-5943",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/fairfield/profile/heating-and-air-conditioning/aire-serv-of-southwest-ct-shelton-0111-87052688"
+    },
+    {
+      "ad": false,
+      "name": "Varsity Plumbing & Heating, Inc.",
+      "rating": "A-",
+      "phone": "(631) 567-6309",
+      "address": "1610 Ocean Avenue, Bohemia, NY 11716-1950",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/bohemia/profile/plumber/varsity-plumbing-heating-inc-0121-5862"
+    },
+    {
+      "ad": false,
+      "name": "Sippin Energy Products",
+      "rating": "A+",
+      "phone": "(203) 261-3668",
+      "address": "234 Main St, Monroe, CT 06468-1172",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/monroe/profile/fuel-oil/sippin-energy-products-0111-41000866"
+    },
+    {
+      "ad": false,
+      "name": "Celco Heating & Air Conditioning",
+      "rating": "A+",
+      "phone": "(203) 371-0055",
+      "address": "467 Bishop Ave, Bridgeport, CT 06610-3057",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/bridgeport/profile/heating-and-air-conditioning/celco-heating-air-conditioning-0111-87000751"
+    },
+    {
+      "ad": false,
+      "name": "H. Hulse, Inc.",
+      "rating": "A+",
+      "phone": "(203) 380-2692",
+      "address": "294 Benton St, Stratford, CT 06615-7330",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/stratford/profile/heating-and-air-conditioning/h-hulse-inc-0111-51001817"
+    }
+  ],
+  "error": null
+}

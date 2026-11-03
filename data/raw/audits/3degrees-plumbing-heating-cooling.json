@@ -1,0 +1,2871 @@
+{
+  "firecrawl": [],
+  "id": "3degrees-plumbing-heating-cooling",
+  "name": "3Degrees Plumbing Heating Cooling",
+  "website": "http://call3degrees.com/?utm_campaign=gmb",
+  "auditedAt": "2026-11-03T23:05:44.665Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://call3degrees.com/?utm_campaign=gmb",
+      "at": "2026-11-03T23:05:51.490Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://call3degrees.com/?utm_campaign=gmb",
+      "title": "Plumbing, Heating & Cooling in Northern NJ | 3Degrees",
+      "ms": 6787,
+      "error": null,
+      "linkCount": 110
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://call3degrees.com/contact",
+      "at": "2026-11-03T23:05:56.310Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://call3degrees.com/contact",
+      "title": "Contact 3Degrees | Schedule Service in Northern NJ | 201-720-4427",
+      "ms": 3584,
+      "error": null,
+      "linkCount": 59
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://call3degrees.com/about",
+      "at": "2026-11-03T23:05:59.956Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://call3degrees.com/about",
+      "title": "About 3Degrees | Second-Generation Plumbing Heating Cooling in NJ",
+      "ms": 2845,
+      "error": null,
+      "linkCount": 60
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://call3degrees.com/?utm_campaign=gmb",
+      "at": "2026-11-03T23:06:40.956Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://call3degrees.com/?utm_campaign=gmb",
+      "title": "Plumbing, Heating & Cooling in Northern NJ | 3Degrees",
+      "ms": 10163,
+      "error": null,
+      "linkCount": 110
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://call3degrees.com/?utm_campaign=gmb",
+    "title": "Plumbing, Heating & Cooling in Northern NJ | 3Degrees",
+    "lang": "en",
+    "metaDescription": "Plumbing, heating & AC service across Bergen & Passaic County, NJ. Authorized Independent Kinetico Dealer. Call 201-664-3701.",
+    "h1": [
+      "NORTHERN NEW JERSEY’S FASTEST-GROWING PLUMBING, HEATING & COOLING COMPANY"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1468,
+    "scrollHeight": 18106,
+    "bodyText": "NJ Master Plumber Lic. #36BI01342900  |  NJ Master HVACR Lic. #19HC00596700  |  Fully Licensed & Insured\nProudly Serving Bergen & Passaic County\n24/7: 201-720-4427\nHome\nPlumbing\nHeating\nCooling\nWater\nFinancing\nAbout\nReviews\nContact\n201-720-4427\nSchedule Service\nPLUMBING • HEATING • COOLING\nNORTHERN NEW JERSEY’S FASTEST-GROWING PLUMBING, HEATING & COOLING COMPANY\n\nAuthorized Independent Kinetico Dealer • Second-Generation Trade Roots • Built Different. One call for every degree of comfort in your home — service at every degree.\n\nSchedule Service\nCall 201-720-4427\nFully Licensed & Insured\nKinetico Water Experts\n24/7 Emergency Service\nFlexible Financing Available\n★★★★★\nTop-Rated Local Service\nGoogle Reviews\nLIMITED TIME OFFERS\nFALL OFFERS & WINTER PREPARATION\n\nPick an offer to request it online, or mention it when you call. Our team will confirm the details and appointment availability.\n\nENDS IN 11 DAYS\n$99\n$99 EARLY-BIRD FURNACE OR BOILER INSPECTION*\n\nBook a furnace or boiler inspection before the cold weather. Call to confirm appointment availability and the work included.\n\n*Limit one per customer.\n\nCall or Request This Service\n→\nVALID THROUGH FEBRUARY 28, 2027\n$100 OFF\n$100 OFF ANY FURNACE OR BOILER REPAIR*\n\nNo heat? Our phones are answered day or night. Request furnace or boiler repair and ask for the $100 repair discount.\n\n*Limit one per customer.\n\nCall or Request This Service\n→\nWHAT WE DO\nEVERY DEGREE OF HOME COMFORT\n\nThree trades, one standard: fixed right the first time, by people who treat your home like their own.\n\nWE PLUMB\n\nDrains, water heaters, leaks, sewer lines, fixtures — done clean, done right, backed by a Master Plumber.\n\nDrain Cleaning\nWater Heater Repair & Installation\nSewer Line Services\nFixture Installation\nExplore Plumbing\n→\nWE HEAT\n\nFurnaces, boilers, heat pumps and smart controls. We keep North Jersey warm when it matters most.\n\nFurnace Repair & Installation\nBoiler Service & Installation\nHeat Pump Systems\nSmart Thermostats\nExplore Heating\n→\nWE COOL\n\nAC repair, full system installs, ductless mini-splits and air quality — crisp, quiet, efficient comfort.\n\nAC Repair\nAC Installation & Replacement\nDuctless Mini-Splits\nIndoor Air Quality\nExplore Cooling\n→\nAuthorized Independent Kinetico Dealer\nTHE WATER YOUR HOME DESERVES\n\nHard North Jersey water is rough on your skin, your appliances, and your wallet. Kinetico’s non-electric, twin-tank systems deliver luxuriously soft, clean water 24/7 — engineered to outlast everything else on the market.\n\nSofter skin and hair, brighter laundry\nAppliances and water heaters that last years longer\nUp to 70% less soap and detergent\nCrystal-clear drinking water from the K5 station\nLearn About Kinetico →\nGet A Free Water Test\nBig repair or new system? Flexible monthly payments through Synchrony, Service Finance & GoodLeap.\nExplore Financing →\nWHY 3DEGREES\nBUILT DIFFERENT, ON PURPOSE\n\nQuality. Community. Fresh. Professional. Crisp. Clean. Those aren’t buzzwords — they’re the checklist every job gets graded against.\n\nQuality Without Shortcuts\n\nLicensed Master Plumber and Master HVACR contractor on every decision. Work is done to code, or it isn’t done.\n\nRooted In The Community\n\nSecond generation in the trades, born in Passaic. We work in the same towns we live in — our name rides on every van.\n\nFresh Way Of Doing Business\n\nStraight answers, upfront options, digital everything — real arrival windows and real updates, no black holes.\n\nProfessional, Uniformed Techs\n\nBackground-checked, trained, and respectful of your home. Shoe covers and drop cloths every single time.\n\nCrisp, Clean Workmanship\n\nTidy solder joints, labeled piping, level equipment, spotless job sites. The after photo is the point.\n\nFast When It Counts\n\n24/7 emergency response for the moments that can’t wait — burst pipes, no heat, no AC.\n\nSIMPLE BY DESIGN\nHOW IT WORKS\n1\nCALL OR BOOK ONLINE\n\nTell us what’s going on. We’ll give you a real arrival window — and keep it.\n\n2\nWE DIAGNOSE FAST\n\nA uniformed tech shows up on time, finds the actual problem, and walks you through upfront options.\n\n3\nFIXED RIGHT THE FIRST TIME\n\nClean workmanship, tested before we leave, job site spotless. Backed by our workmanship guarantee.\n\nWORD TRAVELS\nWHAT YOUR NEIGHBORS SAY\n★★★★★\n\n“We were especially impressed by the technology 3Degrees uses. Using his tablet, Juan walked us through every step of the inspection and service process… If this is the level of service they consistently provide, they have earned a customer for life!”\n\nG\nGary Cordovano\nVerified Google Review\n★★★★★\n\n“The technicians arrived promptly and demonstrated exceptional knowledge and expertise in addressing the issues with my boiler and hot water tank… What stood out the most was their quick response and commitment to resolving the issue swiftly, ensuring that my family had access to hot water/heat again.”\n\nN\nNermin Aksu\nVerified Google Review\n★★★★★\n\n“Amazing! The best. Sympathetic to our situation, speedy, highest quality and knowledge. I would highly recommend to anyone.”\n\nP\nPeggy Danishefsky\nVerified Google Review\n★★★★★\n\n“The guys were polite and professional. Our heat is back on thank God.”\n\nG\nGail Guillotte\nVerified Google Review\n★★★★★\n\n“5 years ago Andrew came to my newly purchased home and installed a new Kinetico water softener and reverse osmosis system. Andrew did a great job installing the equipment. 5 years later, our Kinetico system still works great.”\n\nJ\nJustin Amador\nVerified Google Review\n★★★★★\n\n“These guys always do a good job and show up on time.”\n\nM\nMax Berenstein\nVerified Google Review\n←\n→\n\n★★★★★\nRead our reviews on Google\n→ See all reviews\n\nSERVICE AREA\nAREAS WE SERVE IN NORTHERN NEW JERSEY\n\nBased in Passaic, we proudly serve Bergen County and Passaic County. Not sure we cover your town? Call us, we probably do.\n\nBergen County\nPassaic County\nAlpine\nSaddle River\nUpper Saddle River\nFranklin Lakes\nRidgewood\nTenafly\nWyckoff\nHo-Ho-Kus\nGlen Rock\nWoodcliff Lake\nOld Tappan\nCloster\nCresskill\nDemarest\nHaworth\nRamsey\nAllendale\nMahwah\nParamus\nFair Lawn\nHackensack\nTeaneck\nFort Lee\nEnglewood\nWayne\nTotowa\nLittle Falls\nNorth Haledon\nClifton\n\nBergen County ZIPs we serve daily: 07024 · 07401 · 07410 · 07417 · 07423 · 07430 · 07446 · 07450 · 07452 · 07458 · 07481 · 07601 · 07620 · 07624 · 07626 · 07627 · 07631 · 07641 · 07645 · 07649 · 07652 · 07656 · 07661 · 07666 · 07670 · 07675 · 07677  |  Passaic County: 07011 · 07013 · 07055 · 07424 · 07470 · 07508 · 07512\n\nSEE US IN ACTION\nRECENT JOBS AND REVIEWS\nAt a glance\n\n3Degrees Plumbing Heating Cooling has completed 25 jobs in October 2026.\n\nThe most recent job was on October 29, 2026.\n\nRecent work covers Englewood, NJ, Closter, NJ, Fort Lee, NJ, Mahwah, NJ and Upper Saddle River, NJ.\n\nJob Locations and Reviews\nFrancisco S. Checked in 5 days ago\nEver try drinking through a clogged straw? That’s what your water system feels like with worn-out filters. 🥤 A Fort Lee homeowner called us about low water pressure. Our tech found the cause: both the whole house pre-filter and the filters on the Kinetico K5 reverse osmosis system were overdue for replacement. Clogged filters make it harder for water to flow, and the effects show up at every tap. 💧 To keep things running smoothly, we recommend a service agreement for both systems. It covers filter replacements, system sanitizing, and testing of raw and treated water, so you get strong pressure, clear water, and peace of mind. ✅ Don’t wait for your pressure to drop. Call 3Degrees Plumbing, Heating & Cooling to ask about a Kinetico service plan.\n Fort Lee, NJ 07024\n \nJason R. Checked in 7 days ago\nWant more from your drinking water system in Fort Lee? Here’s an upgrade worth knowing about. 💧 We just did a complete maintenance visit on a Kinetico K5 system for a Fort Lee homeowner, including a full sanitization. We also added an extra Mineral Plus filter on top of the base package, then reset and calibrated the system to handle more water usage. ✅ The extra filter means more of that clean, great-tasting water with the minerals still in it, and a system tuned for the way your household uses it. 🚰 Curious about what a Kinetico K5 system or upgrade could do for your home? Call 3Degrees Plumbing, Heating & Cooling.\n Fort Lee, NJ 07024\n \nEliher G. Checked in 7 days ago\nFresh whole house filters make a big difference in Englewood. 💧 We just changed two big blue whole house filters for an Englewood homeowner. Our team swapped them out quickly so the home’s water stays clean and the system keeps doing its job. ✅ Fresh filters help protect your pipes, fixtures, and appliances from sediment and debris. We service Kinetico systems and other water treatment equipment, so whatever you have, we can help keep it running. 🚰 Due for a filter change? Call 3Degrees Plumbing, Heating & Cooling.\n Englewood, NJ 07631\n \nPatrick D. Checked in 7 days ago\nHot water missing in just one bathroom in Englewood? Here’s a quick story. 🚿 A homeowner called us because the guest bathroom above their garage had no hot water, thanks to low pressure. Our tech got to the bottom of it and repaired the shower cartridge, and the hot water is flowing again. ✅ When one bathroom has weak flow or no hot water and the rest of the house is fine, a worn shower cartridge is a common cause. It’s a simple repair with a big payoff. 🔧 Don’t settle for cold showers. Call 3Degrees Plumbing, Heating & Cooling and we’ll get it sorted.\n Englewood, NJ 07631\n \nJuan R. Checked in 7 days ago\nNo hot water in one bathroom in Englewood? Don’t just shower cold, there’s a fix. 🚿 We recently visited an Englewood home where the guest bathroom above the garage had no hot water because of low pressure. Our tech repaired the shower cartridge, and the hot water is flowing again. ✅ We also dropped off six bags of salt for the homeowner’s Kinetico water softener, so it’s stocked up and ready to keep the water soft. 🧂 A worn shower cartridge is a common cause of weak flow or missing hot water in a single bathroom. If one shower in your house isn’t working like the others, call 3Degrees Plumbing, Heating & Cooling and we’ll take a look.\n Englewood, NJ 07631\n \nChristian M. Checked in 8 days ago\nBetter water and better protection for your home in Franklin Lakes. 💧 We just installed two upgrades for a Franklin Lakes homeowner: a Kinetico K5 drinking water system for clean, great-tasting water right from the kitchen tap, and a whole house leak detection and shutoff system. If a leak is ever detected, the system helps stop the water before a small problem becomes a big, expensive one. ✅ One upgrade makes everyday life better, and the other gives you peace of mind when you’re away from home. 🏠 Interested in either one? Call 3Degrees Plumbing, Heating & Cooling and we’ll help you choose the right setup for your home.\n Franklin Lakes, NJ 07417\n \nStalin G. Checked in 8 days ago\nAC won’t start or keeps shutting off in Cliffside Park? It might be a small part causing a big headache. ❄️ We just helped a Cliffside Park homeowner whose system wasn’t running right. After troubleshooting, our tech replaced the run capacitor and the contactor, two parts that help your AC start and keep running. We then started the system up and tested everything, and it’s running like it should. No further work needed. ✅ These parts wear out over time, and when they fail, your system can struggle to start or stop working altogether. The good news is they’re often a quick fix when caught early. 🔧 If your AC is humming but not starting, or just isn’t acting right, call 3Degrees Plumbing, Heating & Cooling and we’ll get it running again.\n Cliffside Park, NJ 07010\n \nJason R. Checked in 8 days ago\nWeak water pressure at one sink or tub in Englewood? It’s more common than you’d think, and it’s usually fixable. 🚿 We just helped an Englewood homeowner by fixing a water pressure problem in their guest room. Our tech tracked down the cause and got the flow back to normal. ✅ Low pressure in just one spot in the house often points to a small issue like a clogged fixture, a worn part, or a supply problem. It’s a quick fix when it’s caught early, and it makes everyday life more comfortable. 💧 Noticing weak pressure somewhere in your home? Call 3Degrees Plumbing, Heating & Cooling and we’ll find the cause.\n Englewood, NJ 07631\n \nEliher G. Checked in 8 days ago\nOne visit, a whole lot of better water in Upper Saddle River. 💧 We just wrapped up a service call for an Upper Saddle River homeowner and covered a lot of ground. We replaced the whole house pre-filter and changed all five filters in their Kinetico K5 drinking water system. We also sanitized the system, including the tank, the water flow path, and the faucet supply line. On top of that, we fixed the pressure problem at the hallway bathroom sink. ✅ That’s the benefit of having one team look at your whole water setup: clean drinking water, protected equipment, and the small problems fixed before they become big ones. 🚰 Need your Kinetico system serviced? Call 3Degrees Plumbing, Heating & Cooling.\n Upper Saddle River, NJ 07458\n \nAndrew M. Checked in 8 days ago\nA new AC means cool, comfortable summers ahead for Mahwah. ❄️ We just installed a brand new split cooling system for a Mahwah homeowner. A new system means reliable cooling, better efficiency, and no more worrying about whether your old unit will make it through the next heat wave. ✅ Now’s a smart time to plan an upgrade, before the busy season rolls around. If your AC is aging, costing more to run, or just isn’t keeping up, a new system could be the answer. 🏠 Ready for a more comfortable home? Call 3Degrees Plumbing, Heating & Cooling for a new system consultation.\n Mahwah, NJ 07430\n \nChristian M. Checked in 8 days ago\nIs your water softener running nonstop in Upper Saddle River? It might be stuck mid-cycle. 💧 We just helped an Upper Saddle River homeowner whose Kinetico 735 softener was stuck in backwash and wasn’t moving on to the next step. Our tech replaced the worn discs inside the valve, then ran both tanks through a full cycle to make sure everything finished properly and drained the way it should. ✅ While we were there, we also checked the home’s water pressure, which looked great, and replaced the whole house pre-filter. 🚰 If your softener seems to be running all the time, making noise, or leaving water draining when it shouldn’t, don’t ignore it. Call 3Degrees Plumbing, Heating & Cooling and we’ll get it back on track.\n Upper Saddle River, NJ 07458\n \nPatrick D. Checked in 8 days ago\nMyth: a water filter will last forever. Fact: it won’t, Tenafly. 💧 We just serviced a Kinetico K5 drinking water system for a Tenafly homeowner. Our tech replaced the Mineral Plus filter and the carbon pre-filter, made sure every component was working the way it should, and tested the system afterward to confirm it’s performing at its best. ✅ Filters quietly do their job every day, and over time they wear down. Regular maintenance keeps your water tasting clean and fresh and keeps your Kinetico system running efficiently. 🚰 Not sure when your filters were last changed? Call 3Degrees Plumbing, Heating & Cooling and we’ll get you taken care of.\n Tenafly, NJ 07670\n \nStalin G. Checked in 8 days ago\nHealthy lawns start with good water in Saddle River. 🌿 We recently handled two upgrades for a Saddle River homeowner. First, we changed the big blue filter on their sprinkler system, which helps keep sediment and debris out of the lines and heads. Then we replaced the brine tank on their Kinetico system with a new 18x36 tank. ✅ These parts do their work out of sight, so they’re easy to forget until something clogs or stops working. Staying on top of filters and tanks helps your equipment last longer and perform the way it should. 💧 Need filter or water system service? Call 3Degrees Plumbing, Heating & Cooling.\n Saddle River, NJ 07458\n \nFrancisco S. Checked in 8 days ago\nYour AC works hard all summer, Township of Washington. Now’s a good time to show it some love. ❄️ We just wrapped up a full HVAC tune-up for a Township of Washington homeowner. Our tech chemically cleaned the indoor evaporator coil, deep-cleaned the outdoor condenser, and inspected the filters, controls, and refrigerant levels. Everything checked out. ✅ Clean coils help your system move heat more efficiently, which means better airflow, steadier performance, and less strain on the equipment. That can help lower energy use and extend the life of your system. 🌬️ Don’t wait for the first heat wave to find out how your AC is doing. Call 3Degrees Plumbing, Heating & Cooling to schedule your maintenance visit.\n Township of Washington, NJ 07676\n \nEliher G. Checked in 8 days ago\nHow often do you think about the water in your kitchen tap in Closter? Probably not until something tastes off. 🚰 We just stopped by a Closter home for a routine visit on a Kinetico K5 drinking water system. Our tech inspected the system, replaced the K5 filters, and checked everything afterward to confirm it’s running the way it should. ✅ That’s the point of regular maintenance: you never have to wonder about your water. Fresh filters keep it tasting clean and keep your system running its best, so you can just pour a glass and enjoy it. 💧 Want that peace of mind? Call 3Degrees Plumbing, Heating & Cooling to schedule your Kinetico service.\n Closter, NJ 07624\n \nStalin G. Checked in 8 days ago\nRunning low on softener salt in Closter? Let us carry the heavy lifting. 🧂 We just delivered 14 bags of salt to a Closter homeowner to refill their Kinetico water softener. No hauling heavy bags from the store, no hassle. Our tech drops it off and makes sure the system is stocked up and ready to go. ✅ Salt is what keeps your softener working, protecting your plumbing and keeping your water soft. Keeping the tank stocked helps your Kinetico system last longer and perform reliably year after year. 💧 Need a salt delivery? Call 3Degrees Plumbing, Heating & Cooling and we’ll bring it right to your door.\n Closter, NJ 07624\n \nJuan R. Checked in 8 days ago\nUpgrading your water in Ridgewood? Here’s one that’s worth getting excited about. 💧 We just installed a brand new Kinetico Signature Series 735 water treatment system for a Ridgewood homeowner. Now the whole house has a premium Kinetico system working behind the scenes, so every tap, shower, and appliance gets better water. ✅ Kinetico systems are built to last, and a professional installation means it’s set up right from day one. If you’ve been dealing with hard water, spots on dishes, or dry skin, an upgrade like this could make a big difference. 🚿 Curious about what a Kinetico system could do for your home? Call 3Degrees Plumbing, Heating & Cooling to get started.\n Ridgewood, NJ 07450\n \nChristian M. Checked in 13 days ago\nAC blowing warm air in Closter? Low refrigerant could be the reason. ❄️ We just helped a Closter homeowner get their cooling back on track. Our tech recovered the old refrigerant, repaired the leak, and recharged the system with R-410A, measured precisely to the manufacturer’s specifications. We also installed a new Honeywell digital thermostat, properly wired, programmed, and tested, for accurate temperature control. 🌡️ Refrigerant doesn’t get “used up,” so if your system is low, there’s a leak somewhere. Fixing the leak before recharging is what keeps your AC cooling and your energy bills in check. ✅ Is your AC struggling to keep up? Call 3Degrees Plumbing, Heating & Cooling and we’ll find the cause and fix it right.\n Closter, NJ 07624\n \nJuan R. Checked in 13 days ago\nFall is a great time for a water system checkup in Englewood. 🍂 We just gave an Englewood homeowner’s Kinetico water treatment setup a full tune-up. The whole house filter was replaced, the Kinetico water softener was serviced, and we tested everything to make sure it’s all working the way it should. ✅ As the weather cools and the holidays get closer, your water system works harder with more showers, laundry, and guests. Starting th",
+    "links": [
+      {
+        "href": "tel:+12017204427",
+        "abs": "tel:+12017204427",
+        "text": "24/7: 201-720-4427",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 128,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://call3degrees.com/",
+        "text": "3Degrees Plumbing Heating Cooling — Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 245,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://call3degrees.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 48,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/plumbing",
+        "abs": "https://call3degrees.com/plumbing",
+        "text": "Plumbing",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 78,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/plumbing",
+        "abs": "https://call3degrees.com/plumbing",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/drain-cleaning",
+        "abs": "https://call3degrees.com/services/drain-cleaning",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/water-heaters",
+        "abs": "https://call3degrees.com/services/water-heaters",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 68,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/sewer-line",
+        "abs": "https://call3degrees.com/services/sewer-line",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/fixture-installation",
+        "abs": "https://call3degrees.com/services/fixture-installation",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/emergency-plumbing",
+        "abs": "https://call3degrees.com/services/emergency-plumbing",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://call3degrees.com/heating",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 63,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://call3degrees.com/heating",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-repair",
+        "abs": "https://call3degrees.com/services/furnace-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 68,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/boiler-service",
+        "abs": "https://call3degrees.com/services/boiler-service",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 68,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heat-pumps",
+        "abs": "https://call3degrees.com/services/heat-pumps",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/thermostats",
+        "abs": "https://call3degrees.com/services/thermostats",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://call3degrees.com/cooling",
+        "text": "Cooling",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 60,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://call3degrees.com/cooling",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://call3degrees.com/services/ac-repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://call3degrees.com/services/ac-installation",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 68,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ductless-mini-splits",
+        "abs": "https://call3degrees.com/services/ductless-mini-splits",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/indoor-air-quality",
+        "abs": "https://call3degrees.com/services/indoor-air-quality",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 230,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/kinetico",
+        "abs": "https://call3degrees.com/kinetico",
+        "text": "Water",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 48,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing",
+        "abs": "https://call3degrees.com/financing",
+        "text": "Financing",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 78,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://call3degrees.com/about",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 48,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://call3degrees.com/reviews",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 65,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://call3degrees.com/contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 62,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12017204427",
+        "abs": "tel:+12017204427",
+        "text": "201-720-4427",
+        "visible": true,
+        "aboveFold": true,
+        "h": 27,
+        "w": 140,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact#book",
+        "abs": "https://call3degrees.com/contact#book",
+        "text": "Schedule Service",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 180,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact#book",
+        "abs": "https://call3degrees.com/contact#book",
+        "text": "Schedule Service",
+        "visible": true,
+        "aboveFold": true,
+        "h": 61,
+        "w": 235,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12017204427",
+        "abs": "tel:+12017204427",
+        "text": "Call 201-720-4427",
+        "visible": true,
+        "aboveFold": true,
+        "h": 61,
+        "w": 248,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact?offer=inspection#book",
+        "abs": "https://call3degrees.com/contact?offer=inspection#book",
+        "text": "ENDS IN 11 DAYS $99 $99 EARLY-BIRD FURNACE OR BOILER INSPECTION* Book a furnace ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 444,
+        "w": 546,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact?offer=repair#book",
+        "abs": "https://call3degrees.com/contact?offer=repair#book",
+        "text": "VALID THROUGH FEBRUARY 28, 2027 $100 OFF $100 OFF ANY FURNACE OR BOILER REPAIR* ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 444,
+        "w": 546,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/drain-cleaning",
+        "abs": "https://call3degrees.com/services/drain-cleaning",
+        "text": "Drain Cleaning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 111,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/water-heaters",
+        "abs": "https://call3degrees.com/services/water-heaters",
+        "text": "Water Heater Repair & Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 252,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/sewer-line",
+        "abs": "https://call3degrees.com/services/sewer-line",
+        "text": "Sewer Line Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 146,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/fixture-installation",
+        "abs": "https://call3degrees.com/services/fixture-installation",
+        "text": "Fixture Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/plumbing",
+        "abs": "https://call3degrees.com/plumbing",
+        "text": "Explore Plumbing →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 158,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/furnace-repair",
+        "abs": "https://call3degrees.com/services/furnace-repair",
+        "text": "Furnace Repair & Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 214,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/boiler-service",
+        "abs": "https://call3degrees.com/services/boiler-service",
+        "text": "Boiler Service & Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 201,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heat-pumps",
+        "abs": "https://call3degrees.com/services/heat-pumps",
+        "text": "Heat Pump Systems",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 152,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/thermostats",
+        "abs": "https://call3degrees.com/services/thermostats",
+        "text": "Smart Thermostats",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 143,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://call3degrees.com/heating",
+        "text": "Explore Heating →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 144,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://call3degrees.com/services/ac-repair",
+        "text": "AC Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 73,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://call3degrees.com/services/ac-installation",
+        "text": "AC Installation & Replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 226,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/ductless-mini-splits",
+        "abs": "https://call3degrees.com/services/ductless-mini-splits",
+        "text": "Ductless Mini-Splits",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 146,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/indoor-air-quality",
+        "abs": "https://call3degrees.com/services/indoor-air-quality",
+        "text": "Indoor Air Quality",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://call3degrees.com/cooling",
+        "text": "Explore Cooling →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 142,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/kinetico",
+        "abs": "https://call3degrees.com/kinetico",
+        "text": "Learn About Kinetico →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 54,
+        "w": 261,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact#book",
+        "abs": "https://call3degrees.com/contact#book",
+        "text": "Get A Free Water Test",
+        "visible": true,
+        "aboveFold": false,
+        "h": 54,
+        "w": 247,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/financing",
+        "abs": "https://call3degrees.com/financing",
+        "text": "Explore Financing →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 180,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://call3degrees.com/reviews",
+        "text": "→ See all reviews",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 136,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3722220.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3722220.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712699.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712699.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712685.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712685.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712669.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712669.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711639.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711639.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711116.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711116.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711090.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711090.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711077.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711077.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711051.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711051.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711040.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711040.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3710997.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3710997.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709675.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709675.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709637.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709637.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709608.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709608.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709148.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709148.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709109.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709109.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696403.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696403.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696396.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696396.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696390.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696390.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692678.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692678.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692495.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692495.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692491.jpg",
+        "abs": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692491.jpg",
+        "text": "ci.Reference",
+        "visible": true,
+        "aboveFold": false,
+        "h": 250,
+        "w": 575,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "@3degrees_plumb_heat_cool",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 253,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "3Degrees Plumbing Heating Cooling on Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 187,
+        "w": 187,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "3Degrees Plumbing Heating Cooling on Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 187,
+        "w": 187,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "3Degrees Plumbing Heating Cooling on Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 187,
+        "w": 187,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "3Degrees Plumbing Heating Cooling on Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 187,
+        "w": 187,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "3Degrees Plumbing Heating Cooling on Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 187,
+        "w": 187,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "3Degrees Plumbing Heating Cooling on Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 187,
+        "w": 187,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "Follow @3degrees_plumb_heat_cool",
+        "visible": true,
+        "aboveFold": false,
+        "h": 54,
+        "w": 369,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12013671972",
+        "abs": "tel:+12013671972",
+        "text": "Call 201-367-1972",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 145,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact#book",
+        "abs": "https://call3degrees.com/contact#book",
+        "text": "Schedule Service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 61,
+        "w": 235,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12017204427",
+        "abs": "tel:+12017204427",
+        "text": "Call 201-720-4427",
+        "visible": true,
+        "aboveFold": false,
+        "h": 61,
+        "w": 238,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/plumbing",
+        "abs": "https://call3degrees.com/plumbing",
+        "text": "Plumbing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 76,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/drain-cleaning",
+        "abs": "https://call3degrees.com/services/drain-cleaning",
+        "text": "Drain Cleaning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 110,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/water-heaters",
+        "abs": "https://call3degrees.com/services/water-heaters",
+        "text": "Water Heater Repair & Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 164,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/sewer-line",
+        "abs": "https://call3degrees.com/services/sewer-line",
+        "text": "Sewer Line Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 145,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/fixture-installation",
+        "abs": "https://call3degrees.com/services/fixture-installation",
+        "text": "Fixture Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 137,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/emergency-plumbing",
+        "abs": "https://call3degrees.com/services/emergency-plumbing",
+        "text": "Emergency Plumbing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 163,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/heating",
+        "abs": "https://call3degrees.com/heating",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 61,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/furnace-repair",
+        "abs": "https://call3degrees.com/services/furnace-repair",
+        "text": "Furnace Repair & Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 212,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/boiler-service",
+        "abs": "https://call3degrees.com/services/boiler-service",
+        "text": "Boiler Service & Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 199,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/heat-pumps",
+        "abs": "https://call3degrees.com/services/heat-pumps",
+        "text": "Heat Pump Systems",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 151,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/thermostats",
+        "abs": "https://call3degrees.com/services/thermostats",
+        "text": "Smart Thermostats",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 142,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://call3degrees.com/cooling",
+        "text": "Cooling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 59,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ac-repair",
+        "abs": "https://call3degrees.com/services/ac-repair",
+        "text": "AC Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 73,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ac-installation",
+        "abs": "https://call3degrees.com/services/ac-installation",
+        "text": "AC Installation & Replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 224,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ductless-mini-splits",
+        "abs": "https://call3degrees.com/services/ductless-mini-splits",
+        "text": "Ductless Mini-Splits",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 145,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/indoor-air-quality",
+        "abs": "https://call3degrees.com/services/indoor-air-quality",
+        "text": "Indoor Air Quality",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 129,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/kinetico",
+        "abs": "https://call3degrees.com/kinetico",
+        "text": "Kinetico Water Systems",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 184,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/financing",
+        "abs": "https://call3degrees.com/financing",
+        "text": "Financing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 77,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+12017204427",
+        "abs": "tel:+12017204427",
+        "text": "201-720-4427 — 24/7 Emergency",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 245,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "abs": "https://www.instagram.com/3degrees_plumb_heat_cool/",
+        "text": "@3degrees_plumb_heat_cool",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 218,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/contact#book",
+        "abs": "https://call3degrees.com/contact#book",
+        "text": "Request Service Online",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 171,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/contact#book",
+        "abs": "https://call3degrees.com/contact#book",
+        "text": "Schedule Service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 177,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/terms",
+        "abs": "https://call3degrees.com/terms",
+        "text": "Terms & Conditions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 15,
+        "w": 120,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+12017204427",
+        "abs": "tel:+12017204427",
+        "text": "Call 201-720-4427",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact#book",
+        "abs": "https://call3degrees.com/contact#book",
+        "text": "Book Online",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "←",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "→",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://scheduler.servicetitan.com/?brandId=brand_hxhmlfu8q0963djanm84mfz5&api_key=u076jmkxg9zob2do1oxbxzp8&schedulerid=sched_jpip5lt1w0uonkuk79byyszd&client_url=https%3A%2F%2Fcall3degrees.com%2F%3Futm_campaign%3Dgmb&client_referrer=",
+      "https://www.google.com/maps?q=Passaic,+NJ&z=10&output=embed"
+    ],
+    "scripts": [
+      "https://call3degrees.com/js/scheduler.js",
+      "https://searchlight.partners/photon/photon-3p.js",
+      "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+      "https://d2gwjd5chbpgug.cloudfront.net/v5/mc.min.js",
+      "https://maps.googleapis.com/maps/api/js?key=AIzaSyBL9e9C_ZUud4dnj2dselM-7GwI1sHgMEI&libraries=geometry,places",
+      "https://d2gwjd5chbpgug.cloudfront.net/v5/nnp-hm.min.js",
+      "https://d2gwjd5chbpgug.cloudfront.net/v5/nnp-hmg.min.js",
+      "https://d2gwjd5chbpgug.cloudfront.net/v5/combo_dynamic.min.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/66/12d/map.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/66/12d/overlay.js",
+      "https://d2gwjd5chbpgug.cloudfront.net/v5/plugin.min.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-VBZDGZ0KXN",
+      "https://cdn.callrail.com/companies/662841728/d1a29475443c088315bc/12/swap.js",
+      "https://embed.scheduler.servicetitan.com/scheduler-v1.js",
+      "https://call3degrees.com/.netlify/scripts/ar",
+      "https://js.callrail.com/companies/662841728/external_forms.js?t=1793747146339&"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": [
+          "Plumber",
+          "HVACBusiness"
+        ],
+        "name": "3Degrees Plumbing Heating Cooling",
+        "legalName": "Tri-County Mechanical LLC",
+        "slogan": "Service at every degree",
+        "url": "https://call3degrees.com",
+        "logo": "https://call3degrees.com/images/logos/logo-stacked-color.png",
+        "image": "https://call3degrees.com/images/og-image.jpg",
+        "telephone": "+12016643701",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "209 Madison Street",
+          "addressLocality": "Passaic",
+          "addressRegion": "NJ",
+          "postalCode": "07055",
+          "addressCountry": "US"
+        },
+        "areaServed": [
+          {
+            "@type": "AdministrativeArea",
+            "name": "Bergen County"
+          },
+          {
+            "@type": "AdministrativeArea",
+            "name": "Passaic County"
+          },
+          {
+            "@type": "City",
+            "name": "Alpine, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Saddle River, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Upper Saddle River, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Franklin Lakes, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Ridgewood, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Tenafly, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Wyckoff, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Ho-Ho-Kus, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Glen Rock, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Woodcliff Lake, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Old Tappan, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Closter, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Cresskill, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Demarest, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Haworth, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Ramsey, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Allendale, NJ"
+          },
+          {
+            "@type": "City",
+            "name": "Mahwah, NJ"
+          }
+        ],
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        },
+        "priceRange": "$$",
+        "sameAs": [
+          "https://www.instagram.com/3degrees_plumb_heat_cool/"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "url": "https://call3degrees.com"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "HVACBusiness",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "209 Madison Street",
+          "addressLocality": "Passaic",
+          "addressRegion": "NJ",
+          "postalCode": "07055"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Passaic",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "NJ"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "HVAC Contractor",
+        "provider": {
+          "@type": "HVACBusiness",
+          "name": "3Degrees Plumbing Heating Cooling",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "209 Madison Street",
+            "addressLocality": "Passaic",
+            "addressRegion": "NJ",
+            "postalCode": "07055"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Passaic",
+            "containedInPlace": {
+              "@type": "State",
+              "name": "NJ"
+            }
+          }
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Passaic",
+          "containedInPlace": {
+            "@type": "State",
+            "name": "NJ"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-29T19:39:08.7200000",
+        "description": "Ever try drinking through a clogged straw? That’s what your water system feels like with worn-out filters. 🥤\r\n\r\nA Fort Lee homeowner called us about low water pressure. Our tech found the cause: both the whole house pre-filter and the filters on the Kinetico K5 reverse osmosis system were overdue for replacement. Clogged filters make it harder for water to flow, and the effects show up at every tap. 💧\r\n\r\nTo keep things running smoothly, we recommend a service agreement for both systems. It covers filter replacements, system sanitizing, and testing of raw and treated water, so you get strong pressure, clear water, and peace of mind. ✅\r\n\r\nDon’t wait for your pressure to drop. Call 3Degrees Plumbing, Heating & Cooling to ask about a Kinetico service plan.",
+        "agent": {
+          "@type": "Person",
+          "name": "Francisco S.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fort Lee",
+            "addressRegion": "NJ",
+            "postalCode": "07024"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8325,
+            "longitude": -73.9775
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3722220.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-27T20:55:16.8800000",
+        "description": "Want more from your drinking water system in Fort Lee? Here’s an upgrade worth knowing about. 💧\r\n\r\nWe just did a complete maintenance visit on a Kinetico K5 system for a Fort Lee homeowner, including a full sanitization. We also added an extra Mineral Plus filter on top of the base package, then reset and calibrated the system to handle more water usage. ✅\r\n\r\nThe extra filter means more of that clean, great-tasting water with the minerals still in it, and a system tuned for the way your household uses it. 🚰\r\n\r\nCurious about what a Kinetico K5 system or upgrade could do for your home? Call 3Degrees Plumbing, Heating & Cooling.",
+        "agent": {
+          "@type": "Person",
+          "name": "Jason R.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fort Lee",
+            "addressRegion": "NJ",
+            "postalCode": "07024"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8475,
+            "longitude": -73.9725
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712699.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-27T20:52:03.3570000",
+        "description": "Fresh whole house filters make a big difference in Englewood. 💧\r\n\r\nWe just changed two big blue whole house filters for an Englewood homeowner. Our team swapped them out quickly so the home’s water stays clean and the system keeps doing its job. ✅\r\n\r\nFresh filters help protect your pipes, fixtures, and appliances from sediment and debris. We service Kinetico systems and other water treatment equipment, so whatever you have, we can help keep it running. 🚰\r\n\r\nDue for a filter change? Call 3Degrees Plumbing, Heating & Cooling.",
+        "agent": {
+          "@type": "Person",
+          "name": "Eliher G.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Englewood",
+            "addressRegion": "NJ",
+            "postalCode": "07631"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8925,
+            "longitude": -73.97
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712685.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-27T20:46:42.3000000",
+        "description": "Hot water missing in just one bathroom in Englewood? Here’s a quick story. 🚿\r\n\r\nA homeowner called us because the guest bathroom above their garage had no hot water, thanks to low pressure. Our tech got to the bottom of it and repaired the shower cartridge, and the hot water is flowing again. ✅\r\n\r\nWhen one bathroom has weak flow or no hot water and the rest of the house is fine, a worn shower cartridge is a common cause. It’s a simple repair with a big payoff. 🔧\r\n\r\nDon’t settle for cold showers. Call 3Degrees Plumbing, Heating & Cooling and we’ll get it sorted.",
+        "agent": {
+          "@type": "Person",
+          "name": "Patrick D.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Englewood",
+            "addressRegion": "NJ",
+            "postalCode": "07631"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8925,
+            "longitude": -73.955
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3712669.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-27T13:02:28.9700000",
+        "description": "No hot water in one bathroom in Englewood? Don’t just shower cold, there’s a fix. 🚿\r\n\r\nWe recently visited an Englewood home where the guest bathroom above the garage had no hot water because of low pressure. Our tech repaired the shower cartridge, and the hot water is flowing again. ✅\r\n\r\nWe also dropped off six bags of salt for the homeowner’s Kinetico water softener, so it’s stocked up and ready to keep the water soft. 🧂\r\n\r\nA worn shower cartridge is a common cause of weak flow or missing hot water in a single bathroom. If one shower in your house isn’t working like the others, call 3Degrees Plumbing, Heating & Cooling and we’ll take a look.",
+        "agent": {
+          "@type": "Person",
+          "name": "Juan R.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Englewood",
+            "addressRegion": "NJ",
+            "postalCode": "07631"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8925,
+            "longitude": -73.955
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711639.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T20:29:23.2370000",
+        "description": "Better water and better protection for your home in Franklin Lakes. 💧\r\n\r\nWe just installed two upgrades for a Franklin Lakes homeowner: a Kinetico K5 drinking water system for clean, great-tasting water right from the kitchen tap, and a whole house leak detection and shutoff system. If a leak is ever detected, the system helps stop the water before a small problem becomes a big, expensive one. ✅\r\n\r\nOne upgrade makes everyday life better, and the other gives you peace of mind when you’re away from home. 🏠\r\n\r\nInterested in either one? Call 3Degrees Plumbing, Heating & Cooling and we’ll help you choose the right setup for your home.",
+        "agent": {
+          "@type": "Person",
+          "name": "Christian M.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Franklin Lakes",
+            "addressRegion": "NJ",
+            "postalCode": "07417"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.985,
+            "longitude": -74.195
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711116.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T20:26:12.9100000",
+        "description": "AC won’t start or keeps shutting off in Cliffside Park? It might be a small part causing a big headache. ❄️\r\n\r\nWe just helped a Cliffside Park homeowner whose system wasn’t running right. After troubleshooting, our tech replaced the run capacitor and the contactor, two parts that help your AC start and keep running. We then started the system up and tested everything, and it’s running like it should. No further work needed. ✅\r\n\r\nThese parts wear out over time, and when they fail, your system can struggle to start or stop working altogether. The good news is they’re often a quick fix when caught early. 🔧\r\n\r\nIf your AC is humming but not starting, or just isn’t acting right, call 3Degrees Plumbing, Heating & Cooling and we’ll get it running again.",
+        "agent": {
+          "@type": "Person",
+          "name": "Stalin G.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Cliffside Park",
+            "addressRegion": "NJ",
+            "postalCode": "07010"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8275,
+            "longitude": -73.9825
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711090.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T20:23:45.9100000",
+        "description": "Weak water pressure at one sink or tub in Englewood? It’s more common than you’d think, and it’s usually fixable. 🚿\r\n\r\nWe just helped an Englewood homeowner by fixing a water pressure problem in their guest room. Our tech tracked down the cause and got the flow back to normal. ✅\r\n\r\nLow pressure in just one spot in the house often points to a small issue like a clogged fixture, a worn part, or a supply problem. It’s a quick fix when it’s caught early, and it makes everyday life more comfortable. 💧\r\n\r\nNoticing weak pressure somewhere in your home? Call 3Degrees Plumbing, Heating & Cooling and we’ll find the cause.",
+        "agent": {
+          "@type": "Person",
+          "name": "Jason R.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Englewood",
+            "addressRegion": "NJ",
+            "postalCode": "07631"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8925,
+            "longitude": -73.955
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711077.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T20:21:16.4700000",
+        "description": "One visit, a whole lot of better water in Upper Saddle River. 💧\r\n\r\nWe just wrapped up a service call for an Upper Saddle River homeowner and covered a lot of ground. We replaced the whole house pre-filter and changed all five filters in their Kinetico K5 drinking water system. We also sanitized the system, including the tank, the water flow path, and the faucet supply line. On top of that, we fixed the pressure problem at the hallway bathroom sink. ✅\r\n\r\nThat’s the benefit of having one team look at your whole water setup: clean drinking water, protected equipment, and the small problems fixed before they become big ones. 🚰\r\n\r\nNeed your Kinetico system serviced? Call 3Degrees Plumbing, Heating & Cooling.",
+        "agent": {
+          "@type": "Person",
+          "name": "Eliher G.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Upper Saddle River",
+            "addressRegion": "NJ",
+            "postalCode": "07458"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 41.0175,
+            "longitude": -74.11
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711051.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T20:19:26.8530000",
+        "description": "A new AC means cool, comfortable summers ahead for Mahwah. ❄️\r\n\r\nWe just installed a brand new split cooling system for a Mahwah homeowner. A new system means reliable cooling, better efficiency, and no more worrying about whether your old unit will make it through the next heat wave. ✅\r\n\r\nNow’s a smart time to plan an upgrade, before the busy season rolls around. If your AC is aging, costing more to run, or just isn’t keeping up, a new system could be the answer. 🏠\r\n\r\nReady for a more comfortable home? Call 3Degrees Plumbing, Heating & Cooling for a new system consultation.",
+        "agent": {
+          "@type": "Person",
+          "name": "Andrew M.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mahwah",
+            "addressRegion": "NJ",
+            "postalCode": "07430"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 41.0375,
+            "longitude": -74.16
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3711040.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T20:13:21.4170000",
+        "description": "Is your water softener running nonstop in Upper Saddle River? It might be stuck mid-cycle. 💧\r\n\r\nWe just helped an Upper Saddle River homeowner whose Kinetico 735 softener was stuck in backwash and wasn’t moving on to the next step. Our tech replaced the worn discs inside the valve, then ran both tanks through a full cycle to make sure everything finished properly and drained the way it should. ✅\r\n\r\nWhile we were there, we also checked the home’s water pressure, which looked great, and replaced the whole house pre-filter. 🚰\r\n\r\nIf your softener seems to be running all the time, making noise, or leaving water draining when it shouldn’t, don’t ignore it. Call 3Degrees Plumbing, Heating & Cooling and we’ll get it back on track.",
+        "agent": {
+          "@type": "Person",
+          "name": "Christian M.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Upper Saddle River",
+            "addressRegion": "NJ",
+            "postalCode": "07458"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 41.065,
+            "longitude": -74.08
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3710997.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T16:16:43.2330000",
+        "description": "Myth: a water filter will last forever. Fact: it won’t, Tenafly. 💧\r\n\r\nWe just serviced a Kinetico K5 drinking water system for a Tenafly homeowner. Our tech replaced the Mineral Plus filter and the carbon pre-filter, made sure every component was working the way it should, and tested the system afterward to confirm it’s performing at its best. ✅\r\n\r\nFilters quietly do their job every day, and over time they wear down. Regular maintenance keeps your water tasting clean and fresh and keeps your Kinetico system running efficiently. 🚰\r\n\r\nNot sure when your filters were last changed? Call 3Degrees Plumbing, Heating & Cooling and we’ll get you taken care of.",
+        "agent": {
+          "@type": "Person",
+          "name": "Patrick D.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Tenafly",
+            "addressRegion": "NJ",
+            "postalCode": "07670"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.9325,
+            "longitude": -73.975
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709675.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T16:12:52.3670000",
+        "description": "Healthy lawns start with good water in Saddle River. 🌿\r\n\r\nWe recently handled two upgrades for a Saddle River homeowner. First, we changed the big blue filter on their sprinkler system, which helps keep sediment and debris out of the lines and heads. Then we replaced the brine tank on their Kinetico system with a new 18x36 tank. ✅\r\n\r\nThese parts do their work out of sight, so they’re easy to forget until something clogs or stops working. Staying on top of filters and tanks helps your equipment last longer and perform the way it should. 💧\r\n\r\nNeed filter or water system service? Call 3Degrees Plumbing, Heating & Cooling.",
+        "agent": {
+          "@type": "Person",
+          "name": "Stalin G.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Saddle River",
+            "addressRegion": "NJ",
+            "postalCode": "07458"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 41.015,
+            "longitude": -74.0875
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709657.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T16:09:58.2400000",
+        "description": "Your AC works hard all summer, Township of Washington. Now’s a good time to show it some love. ❄️\r\n\r\nWe just wrapped up a full HVAC tune-up for a Township of Washington homeowner. Our tech chemically cleaned the indoor evaporator coil, deep-cleaned the outdoor condenser, and inspected the filters, controls, and refrigerant levels. Everything checked out. ✅\r\n\r\nClean coils help your system move heat more efficiently, which means better airflow, steadier performance, and less strain on the equipment. That can help lower energy use and extend the life of your system. 🌬️\r\n\r\nDon’t wait for the first heat wave to find out how your AC is doing. Call 3Degrees Plumbing, Heating & Cooling to schedule your maintenance visit.",
+        "agent": {
+          "@type": "Person",
+          "name": "Francisco S.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Township of Washington",
+            "addressRegion": "NJ",
+            "postalCode": "07676"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.9825,
+            "longitude": -74.0725
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709637.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T16:05:35.8570000",
+        "description": "How often do you think about the water in your kitchen tap in Closter? Probably not until something tastes off. 🚰\r\n\r\nWe just stopped by a Closter home for a routine visit on a Kinetico K5 drinking water system. Our tech inspected the system, replaced the K5 filters, and checked everything afterward to confirm it’s running the way it should. ✅\r\n\r\nThat’s the point of regular maintenance: you never have to wonder about your water. Fresh filters keep it tasting clean and keep your system running its best, so you can just pour a glass and enjoy it. 💧\r\n\r\nWant that peace of mind? Call 3Degrees Plumbing, Heating & Cooling to schedule your Kinetico service.",
+        "agent": {
+          "@type": "Person",
+          "name": "Eliher G.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Closter",
+            "addressRegion": "NJ",
+            "postalCode": "07624"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.965,
+            "longitude": -73.9425
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709608.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T14:50:17.1130000",
+        "description": "Running low on softener salt in Closter? Let us carry the heavy lifting. 🧂\r\n\r\nWe just delivered 14 bags of salt to a Closter homeowner to refill their Kinetico water softener. No hauling heavy bags from the store, no hassle. Our tech drops it off and makes sure the system is stocked up and ready to go. ✅\r\n\r\nSalt is what keeps your softener working, protecting your plumbing and keeping your water soft. Keeping the tank stocked helps your Kinetico system last longer and perform reliably year after year. 💧\r\n\r\nNeed a salt delivery? Call 3Degrees Plumbing, Heating & Cooling and we’ll bring it right to your door.",
+        "agent": {
+          "@type": "Person",
+          "name": "Stalin G.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Closter",
+            "addressRegion": "NJ",
+            "postalCode": "07624"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.965,
+            "longitude": -73.9425
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709148.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-26T14:44:25.9100000",
+        "description": "Upgrading your water in Ridgewood? Here’s one that’s worth getting excited about. 💧\r\n\r\nWe just installed a brand new Kinetico Signature Series 735 water treatment system for a Ridgewood homeowner. Now the whole house has a premium Kinetico system working behind the scenes, so every tap, shower, and appliance gets better water. ✅\r\n\r\nKinetico systems are built to last, and a professional installation means it’s set up right from day one. If you’ve been dealing with hard water, spots on dishes, or dry skin, an upgrade like this could make a big difference. 🚿\r\n\r\nCurious about what a Kinetico system could do for your home? Call 3Degrees Plumbing, Heating & Cooling to get started.",
+        "agent": {
+          "@type": "Person",
+          "name": "Juan R.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ridgewood",
+            "addressRegion": "NJ",
+            "postalCode": "07450"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.99,
+            "longitude": -74.1
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3709109.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-21T12:43:56.0600000",
+        "description": "AC blowing warm air in Closter? Low refrigerant could be the reason. ❄️\r\n\r\nWe just helped a Closter homeowner get their cooling back on track. Our tech recovered the old refrigerant, repaired the leak, and recharged the system with R-410A, measured precisely to the manufacturer’s specifications. We also installed a new Honeywell digital thermostat, properly wired, programmed, and tested, for accurate temperature control. 🌡️\r\n\r\nRefrigerant doesn’t get “used up,” so if your system is low, there’s a leak somewhere. Fixing the leak before recharging is what keeps your AC cooling and your energy bills in check. ✅\r\n\r\nIs your AC struggling to keep up? Call 3Degrees Plumbing, Heating & Cooling and we’ll find the cause and fix it right.",
+        "agent": {
+          "@type": "Person",
+          "name": "Christian M.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Closter",
+            "addressRegion": "NJ",
+            "postalCode": "07624"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.965,
+            "longitude": -73.945
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696403.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-21T12:35:00.7530000",
+        "description": "Fall is a great time for a water system checkup in Englewood. 🍂\r\n\r\nWe just gave an Englewood homeowner’s Kinetico water treatment setup a full tune-up. The whole house filter was replaced, the Kinetico water softener was serviced, and we tested everything to make sure it’s all working the way it should. ✅\r\n\r\nAs the weather cools and the holidays get closer, your water system works harder with more showers, laundry, and guests. Starting the season with fresh filters and a serviced softener helps keep the water soft and clean. 💧\r\n\r\nIs your Kinetico system due for service? Call 3Degrees Plumbing, Heating & Cooling and we’ll take care of it.",
+        "agent": {
+          "@type": "Person",
+          "name": "Juan R.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Englewood",
+            "addressRegion": "NJ",
+            "postalCode": "07631"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.895,
+            "longitude": -73.9675
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696396.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-21T12:32:00.7070000",
+        "description": "Rotten egg smell coming from your water in Wayne? That’s the sulfur, and there’s a fix for it. 🥚\r\n\r\nWe just repaired a Kinetico sulfur guard for a Wayne homeowner. Our tech replaced the draw tube, checked the entire system, and left everything up and running. ✅\r\n\r\nSulfur odors don’t usually go away on their own, and a system that’s not working right can let them creep back into your water. If you’ve noticed a smell or your Kinetico system just seems off, we can take a look. 💧\r\n\r\nCall 3Degrees Plumbing, Heating & Cooling and let’s get your water smelling fresh aga",
+        "agent": {
+          "@type": "Person",
+          "name": "Patrick D.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Wayne",
+            "addressRegion": "NJ",
+            "postalCode": "07470"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.9625,
+            "longitude": -74.2575
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696390.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-21T12:27:39.6200000",
+        "description": "Is one floor too hot while the other is too cold in Montvale? Splitting your HVAC into zones could be the answer. 🏠\r\n\r\nWe just completed a full system replacement for a Montvale homeowner who had a single 5-ton system trying to cool the whole house. We removed it and installed two new, right-sized systems: a 2.5-ton for the first floor and a 3.5-ton for the new second-floor zone. Each floor now has its own control and its own comfort. ❄️\r\n\r\nThe upgrade came with two WiFi thermostats, HEPA-capable media air filters with MERV 11 return filters, and a UV light air scrubber on each system for cleaner air. We also built custom ductwork to separate the floors, ran a new line set, and wired new thermostat controls. 🌬️\r\n\r\nWant to take control of your home’s comfort? Call 3Degrees Plumbing, Heating & Cooling to see if a zoned system makes sense for you.",
+        "agent": {
+          "@type": "Person",
+          "name": "Andrew M.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Montvale",
+            "addressRegion": "NJ",
+            "postalCode": "07645"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 41.04,
+            "longitude": -74.0225
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3696386.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-20T13:57:58.1900000",
+        "description": "Soft, clean water is coming to Park Ridge! 🎉\r\n\r\nWe just completed the installation of a new Kinetico Q850 water treatment system for a Park Ridge homeowner. The job included a Mach 5 micron sediment filter to help the system perform at its best, plus the brine tank to complete the setup. ✅\r\n\r\nHard water and sediment can wear on your plumbing, appliances, and fixtures over time. A properly installed system helps protect your home and makes everyday water feel better. 💧\r\n\r\nThinking about upgrading your water? Call 3Degrees Plumbing, Heating & Cooling to talk about Kinetico options for your home.",
+        "agent": {
+          "@type": "Person",
+          "name": "Eliher G.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Park Ridge",
+            "addressRegion": "NJ",
+            "postalCode": "07656"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 41.045,
+            "longitude": -74.055
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692678.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-20T13:50:41.5270000",
+        "description": "Think your kitchen water could taste better in Fort Lee? It might be time for a filter refresh. 💧\r\n\r\nWe just serviced a Kinetico K5 drinking water system for a Fort Lee homeowner. All five filters were replaced, including Mineral Plus and the VOC guard, and we changed the whole house water filter too. The result is cleaner, fresher water at the tap and throughout the home. ✅\r\n\r\nThink of filters like the oil in your car. They do their best work when they’re changed on schedule, not after something goes wrong. 🚰\r\n\r\nReady to put your Kinetico system on a maintenance plan? Call 3Degrees Plumbing, Heating & Cooling.",
+        "agent": {
+          "@type": "Person",
+          "name": "Juan R.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fort Lee",
+            "addressRegion": "NJ",
+            "postalCode": "07024"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.8475,
+            "longitude": -73.9725
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692638.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-20T13:05:23.8000000",
+        "description": "Hot upstairs, struggling downstairs? That’s a common story in Mahwah homes. 🌡️\r\n\r\nWhen we arrived at one Mahwah home, the downstairs AC wasn’t working right. The fix was to simplify. We converted the system to a single zone by removing the dampers and zoning box and rewiring the air handler. Then we added two new attic fans, with power wired in, to keep air moving. ❄️\r\n\r\nFewer moving parts means a system that’s easier to rely on, and better airflow means better cooling. Attic fans also help keep attic heat in check, which can ease the load on your AC and help with energy costs. 🏠\r\n\r\nIf your AC isn’t keeping every room comfortable, call 3Degrees Plumbing, Heating & Cooling. We’ll figure out the best fix for your home.",
+        "agent": {
+          "@type": "Person",
+          "name": "Juan R.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Englewood",
+            "addressRegion": "NJ",
+            "postalCode": "07631"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 40.895,
+            "longitude": -73.9675
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692495.jpg"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CheckInAction",
+        "name": "3Degrees Plumbing Heating Cooling",
+        "startTime": "2026-10-20T13:03:49.4470000",
+        "description": "Hot upstairs, struggling downstairs? That’s a common story in Mahwah homes. 🌡️\r\n\r\nWhen we arrived at one Mahwah home, the downstairs AC wasn’t working right. The fix was to simplify. We converted the system to a single zone by removing the dampers and zoning box and rewiring the air handler. Then we added two new attic fans, with power wired in, to keep air moving. ❄️\r\n\r\nFewer moving parts means a system that’s easier to rely on, and better airflow means better cooling. Attic fans also help keep attic heat in check, which can ease the load on your AC and help with energy costs. 🏠\r\n\r\nIf your AC isn’t keeping every room comfortable, call 3Degrees Plumbing, Heating & Cooling. We’ll figure out the best fix for your home.",
+        "agent": {
+          "@type": "Person",
+          "name": "Andrew M.",
+          "worksFor": {
+            "@type": "Organization",
+            "name": "3Degrees Plumbing Heating Cooling"
+          }
+        },
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mahwah",
+            "addressRegion": "NJ",
+            "postalCode": "07430"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 41.0375,
+            "longitude": -74.16
+          }
+        },
+        "image": "https://s3.amazonaws.com/static.sidebox.com/E18695D7-E48E-4759-90A6-B0E531E84248/3692491.jpg"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 63,
+    "timing": {
+      "dcl": 1641,
+      "load": 1848,
+      "ttfb": 688
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.084,
+        "sig": " site-header ",
+        "text": "home\nplumbing\nheating\ncooling\nwater\nfinancing\nabout\nreviews\ncontact\n201-720-4427\nschedule service"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://call3degrees.com/?utm_campaign=gmb",
+    "navMs": 6787,
+    "tel": [
+      {
+        "href": "tel:+12017204427",
+        "text": "24/7: 201-720-4427",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12017204427"
+      },
+      {
+        "href": "tel:+12017204427",
+        "text": "201-720-4427",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12017204427"
+      },
+      {
+        "href": "tel:+12017204427",
+        "text": "Call 201-720-4427",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12017204427"
+      },
+      {
+        "href": "tel:+12013671972",
+        "text": "Call 201-367-1972",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013671972"
+      },
+      {
+        "href": "tel:+12017204427",
+        "text": "Call 201-720-4427",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12017204427"
+      },
+      {
+        "href": "tel:+12017204427",
+        "text": "201-720-4427 — 24/7 Emergency",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12017204427"
+      },
+      {
+        "href": "tel:+12017204427",
+        "text": "Call 201-720-4427",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12017204427"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "CallRail",
+        "kind": "call_tracking"
+      },
+      {
+        "name": "ServiceTitan",
+        "kind": "field_service"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://call3degrees.com/?utm_campaign=gmb",
+    "navMs": 10163,
+    "timing": {
+      "dcl": 2408,
+      "load": 2581,
+      "ttfb": 1032
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 405,
+    "scrollWidth": 405,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+12015146644",
+        "text": "24/7: 201-514-6644",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12015146644"
+      },
+      {
+        "href": "tel:+12015146644",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12015146644"
+      },
+      {
+        "href": "tel:+12015146644",
+        "text": "Call 201-514-6644",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015146644"
+      },
+      {
+        "href": "tel:+12013671972",
+        "text": "Call 201-367-1972",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013671972"
+      },
+      {
+        "href": "tel:+12015146644",
+        "text": "Call 201-514-6644",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015146644"
+      },
+      {
+        "href": "tel:+12015146644",
+        "text": "201-514-6644 — 24/7 Emergency",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12015146644"
+      },
+      {
+        "href": "tel:+12015146644",
+        "text": "Call 201-514-6644",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015146644"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Schedule Service",
+      "Call 201-514-6644",
+      "Call 201-514-6644",
+      "Book Online"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.106,
+        "sig": " site-header ",
+        "text": "home\nplumbing\nheating\ncooling\nwater\nfinancing\nabout\nreviews\ncontact"
+      },
+      {
+        "kind": "bottom_bar",
+        "cover": 0.083,
+        "sig": " callbar ",
+        "text": "call 201-514-6644\nbook online"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 1,
+    "visibleNavLinks": 11,
+    "brokenImages": [],
+    "textChars": 25942
+  },
+  "pages": {
+    "contact": {
+      "url": "https://call3degrees.com/contact",
+      "finalUrl": "https://call3degrees.com/contact",
+      "status": 200,
+      "title": "Contact 3Degrees | Schedule Service in Northern NJ | 201-720-4427",
+      "forms": [
+        {
+          "action": "/contact",
+          "method": "post",
+          "id": "",
+          "cls": "request-form",
+          "fieldCount": 18,
+          "fieldNames": [
+            "name",
+            "phone",
+            "address",
+            "email",
+            "town",
+            "service",
+            "urgency",
+            "water_concern",
+            "water_concern",
+            "water_concern",
+            "water_concern",
+            "water_concern",
+            "water_concern",
+            "water_concern",
+            "water_source",
+            "message",
+            "_gotcha",
+            "g-recaptcha-response"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://scheduler.servicetitan.com/?brandId=brand_hxhmlfu8q0963djanm84mfz5&api_key=u076jmkxg9zob2do1oxbxzp8&schedulerid=sched_jpip5lt1w0uonkuk79byyszd&client_url=https%3A%2F%2Fcall3degrees.com%2Fcontact&client_referrer=",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lcv9PItAAAAALFA9R_iWhBcvSOzF7vd8dOF_IIm&co=aHR0cHM6Ly9jYWxsM2RlZ3JlZXMuY29tOjQ0Mw..&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=normal&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=ecsololciisb",
+        "https://www.google.com/maps?q=209+Madison+Street,+Passaic,+NJ+07055&z=12&output=embed",
+        "https://www.google.com/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&k=6Lcv9PItAAAAALFA9R_iWhBcvSOzF7vd8dOF_IIm&bft=0dAFcWeA5o-ZlET_VIAajDvXUUoRQOXi58c8KrZFwuFZOO92ayCHAngENqFTSCpOVUrdnviiBvHaGloME8g13QgazcXKZdgTQ1jg"
+      ],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:+12017204427",
+          "text": "24/7: 201-720-4427",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "201-720-4427",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12014855156",
+          "text": "201-485-5156",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014855156"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "201-720-4427",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12012988353",
+          "text": "Call 201-298-8353",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12012988353"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "201-720-4427 — 24/7 Emergency",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "Call 201-720-4427",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017204427"
+        }
+      ],
+      "owners": [],
+      "bodyText": "NJ Master Plumber Lic. #36BI01342900  |  NJ Master HVACR Lic. #19HC00596700  |  Fully Licensed & Insured\nProudly Serving Bergen & Passaic County\n24/7: 201-720-4427\nHome\nPlumbing\nHeating\nCooling\nWater\nFinancing\nAbout\nReviews\nContact\n201-720-4427\nSchedule Service\n\nHome / Contact\n\nLET’S GET YOU SCHEDULED\n\nCall, book online, or send us a message. Is it an emergency? Let us know! Emergencies receive priority scheduling.\n\nREQUEST SERVICE\nTELL US WHAT’S GOING ON\nFull Name *\nPhone *\nStreet Address *\nEmail\nTown / ZIP *\nWhat do you need? *\nChoose a service…\nOffer: $99 Early-Bird Furnace or Boiler Inspection\nOffer: $100 Off Furnace or Boiler Repair\nPlumbing: Drain Cleaning\nPlumbing: Water Heater Repair & Installation\nPlumbing: Sewer Line Services\nPlumbing: Fixture Installation\nPlumbing: Emergency Plumbing\nHeating: Furnace Repair & Installation\nHeating: Boiler Service & Installation\nHeating: Heat Pump Systems\nHeating: Smart Thermostats\nCooling: AC Repair\nCooling: AC Installation & Replacement\nCooling: Ductless Mini-Splits\nCooling: Indoor Air Quality\nKinetico Water System / Free Water Test\nSomething else / not sure\nHow urgent?\nWhenever works\nThis week\nToday / ASAP\nEMERGENCY — water/heat/AC down\nDetails\nRequest Service\n\nFor emergencies, skip the form and call 201-485-5156 — we answer 24/7.\n\nCall Or Text\n\n201-720-4427 — 24/7 emergency service\n\nInstagram\n\n@3degrees_plumb_heat_cool — see our latest work or send us a DM\n\nHome Base\n\n209 Madison Street, Passaic, NJ 07055\nServing Bergen & Passaic County, NJ\n\nHours\n\nEmergency service: 24/7/365\nAppointments: Monday–Friday\n\nWater everywhere? House freezing?\nCall 201-298-8353\n\n“Service at every degree”\n\nSecond-generation tradesmen. Northern New Jersey’s fastest-growing plumbing, heating & cooling company — and your Authorized Independent Kinetico Dealer.\n\nSERVICES\nPlumbing\nDrain Cleaning\nWater Heater Repair & Installation\nSewer Line Services\nFixture Installation\nEmergency Plumbing\nMORE\nHeating\nFurnace Repair & Installation\nBoiler Service & Installation\nHeat Pump Systems\nSmart Thermostats\nCooling\nAC Repair\nAC Installation & Replacement\nDuctless Mini-Splits\nIndoor Air Quality\nKinetico Water Systems\nFinancing\nCONTACT\n201-720-4427 — 24/7 Emergency\n@3degrees_plumb_heat_cool\n209 Madison Street, Passaic, NJ 07055\nRequest Service Online\n\nSchedule Service\n\n3Degrees Plumbing • Heating • Cooling is operated by Tri-County Mechanical LLC. NJ Master Plumber Lic. #36BI01342900 • NJ Master HVACR Lic. #19HC00596700 • NJ HIC Reg. #13VH10002500 • Rockland County NY Lic. #CP-P-18067. Fully licensed & insured. Andrew Malaszuk, Master Plumber & Master HVACR Contractor.\n© 2026 3Degrees Plumbing Heating Cooling. All rights reserved.  •  Terms & Conditions\nServing Bergen & Passaic County, NJ",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        },
+        {
+          "name": "ServiceTitan",
+          "kind": "field_service"
+        }
+      ],
+      "links": [
+        "https://call3degrees.com/",
+        "https://call3degrees.com/",
+        "https://call3degrees.com/plumbing",
+        "https://call3degrees.com/plumbing",
+        "https://call3degrees.com/services/drain-cleaning",
+        "https://call3degrees.com/services/water-heaters",
+        "https://call3degrees.com/services/sewer-line",
+        "https://call3degrees.com/services/fixture-installation",
+        "https://call3degrees.com/services/emergency-plumbing",
+        "https://call3degrees.com/heating",
+        "https://call3degrees.com/heating",
+        "https://call3degrees.com/services/furnace-repair",
+        "https://call3degrees.com/services/boiler-service",
+        "https://call3degrees.com/services/heat-pumps",
+        "https://call3degrees.com/services/thermostats",
+        "https://call3degrees.com/cooling",
+        "https://call3degrees.com/cooling",
+        "https://call3degrees.com/services/ac-repair",
+        "https://call3degrees.com/services/ac-installation",
+        "https://call3degrees.com/services/ductless-mini-splits",
+        "https://call3degrees.com/services/indoor-air-quality",
+        "https://call3degrees.com/kinetico",
+        "https://call3degrees.com/financing",
+        "https://call3degrees.com/about",
+        "https://call3degrees.com/reviews",
+        "https://call3degrees.com/contact",
+        "https://call3degrees.com/contact#book",
+        "https://call3degrees.com/",
+        "https://call3degrees.com/plumbing",
+        "https://call3degrees.com/services/drain-cleaning",
+        "https://call3degrees.com/services/water-heaters",
+        "https://call3degrees.com/services/sewer-line",
+        "https://call3degrees.com/services/fixture-installation",
+        "https://call3degrees.com/services/emergency-plumbing",
+        "https://call3degrees.com/heating",
+        "https://call3degrees.com/services/furnace-repair",
+        "https://call3degrees.com/services/boiler-service",
+        "https://call3degrees.com/services/heat-pumps",
+        "https://call3degrees.com/services/thermostats",
+        "https://call3degrees.com/cooling",
+        "https://call3degrees.com/services/ac-repair",
+        "https://call3degrees.com/services/ac-installation",
+        "https://call3degrees.com/services/ductless-mini-splits",
+        "https://call3degrees.com/services/indoor-air-quality",
+        "https://call3degrees.com/kinetico",
+        "https://call3degrees.com/financing",
+        "https://call3degrees.com/contact#book",
+        "https://call3degrees.com/contact#book",
+        "https://call3degrees.com/terms",
+        "https://call3degrees.com/contact#book"
+      ]
+    },
+    "about": {
+      "url": "https://call3degrees.com/about",
+      "finalUrl": "https://call3degrees.com/about",
+      "status": 200,
+      "title": "About 3Degrees | Second-Generation Plumbing Heating Cooling in NJ",
+      "forms": [],
+      "iframes": [
+        "https://scheduler.servicetitan.com/?brandId=brand_hxhmlfu8q0963djanm84mfz5&api_key=u076jmkxg9zob2do1oxbxzp8&schedulerid=sched_jpip5lt1w0uonkuk79byyszd&client_url=https%3A%2F%2Fcall3degrees.com%2Fabout&client_referrer="
+      ],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:+12017204427",
+          "text": "24/7: 201-720-4427",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "201-720-4427",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "Call 201-720-4427",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "Call 201-720-4427",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "201-720-4427 — 24/7 Emergency",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12017204427"
+        },
+        {
+          "href": "tel:+12017204427",
+          "text": "Call 201-720-4427",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12017204427"
+        }
+      ],
+      "owners": [],
+      "bodyText": "NJ Master Plumber Lic. #36BI01342900  |  NJ Master HVACR Lic. #19HC00596700  |  Fully Licensed & Insured\nProudly Serving Bergen & Passaic County\n24/7: 201-720-4427\nHome\nPlumbing\nHeating\nCooling\nWater\nFinancing\nAbout\nReviews\nContact\n201-720-4427\nSchedule Service\n\nHome / About Us\n\nSECOND GENERATION. TRADE-OBSESSED. BUILT DIFFERENT.\n\n3Degrees is what happens when people who love the trades decide the customer experience should be as clean as the pipe work.\n\nWork With Us\nCall 201-720-4427\nOUR STORY\nTHREE TRADES. ONE STANDARD.\n\n3Degrees evolved from Tri-County Mechanical. Andrew’s dad spent decades building his plumbing and HVAC company, showing Andrew what looking after your clients really looks like. In a full-circle moment, with the right values instilled in him by his father, Andrew Malaszuk bought the business in 2018.\n\nA year into his entrepreneurial journey, a no-cooling call took him to a house in Mahwah, where he met Jason Ritchie: a plumber who’d moved to New Jersey for love. Andrew offered him a job on the spot, but Jason turned it down — he already had a shiny new job lined up at a big-box plumbing brand. Five days in, he quit. The culture was wrong, and people were treated like numbers. He called Andrew and asked, “Does the offer still stand?” It did. Two guys who cared about doing the work right, and doing it with real principles, got to work.\n\nWHAT WE’RE BUILDING\nSERVICE AT EVERY DEGREE.\n\nWe’re building an honest service company that our team members can be proud to work in, that lets them provide for their families, and that leaves them feeling fulfilled. That’s why we do the unglamorous things relentlessly: show up on time, quote upfront, leave homes spotless, and answer the phone (even at 2am). We provide service at every degree, for clients and team members alike.\n\nHOW WE OPERATE\nTHE CULTURE BEHIND THE VANS\n\nThese four aren’t posters on a wall — they hang in our shop and get quoted on job sites.\n\nRESPECT IS EARNED, NOT GIVEN\n\nWe respect the company, the process, our workmates, and above all — your home. Trust is built one clean job site at a time.\n\nSUCCESS BREEDS SUCCESS\n\nWe live and breathe this work because we genuinely love the trades. It’s not just a paycheck — it’s a lifestyle.\n\nTEAM WORKS, DREAMS WORK\n\nWe’re in it together. People first, shared mission — we’re only as good as our weakest link, so there are no weak links.\n\nACTIONS SPEAK LOUDER THAN WORDS\n\nDoing matters. No shortcuts, no bad habits, safety as a team responsibility. The work speaks for itself.\n\nLEADERSHIP\nTHE PEOPLE ANSWERING FOR THE WORK\nANDREW MALASZUK\n\nPresident\n\nA Fordham economics degree, a short run in corporate finance — then back to his roots in the trades. Andrew runs 3Degrees with a spreadsheet brain and a wrench hand, dual-licensed and accountable for every job.\n\nJASON RITCHIE\n\nVice President\n\nBorn and raised in Melbourne, Jason earned his plumbing certification in Australia before crossing the world for a bigger build: the #1 home service company in the USA. Operations, standards, and follow-through — that’s his lane.\n\nJOSUÉ MORA\n\nPlumbing Supervisor\n\nFrom Costa Rica to Passaic, Josué runs our plumbing crews with a level of craft and calm that earns its own title — around the shop, everyone calls him “Señor,” and they mean it with full respect.\n\nJOIN THE TEAM\nLOVE THE TRADES? WE’RE GROWING.\n\nWe’re building the company we wished we’d worked for — real training, real respect, real career path. Reach out and introduce yourself.\n\nGet In Touch\nCREDENTIALS\nLICENSED. INSURED. ACCOUNTABLE.\nNJ MASTER PLUMBER\n\n#36BI01342900\n\nAndrew Malaszuk\n\nNJ MASTER HVACR CONTRACTOR\n\n#19HC00596700\n\nAndrew Malaszuk\n\nNJ HOME IMPROVEMENT CONTRACTOR\n\n#13VH10002500\n\nTri-County Mechanical LLC\n\nROCKLAND COUNTY NY MECHANICAL (PLUMBING)\n\n#CP-P-18067\n\nTri-County Mechanical LLC\n\nSCHEDULE TODAY\nEXPERIENCE THE 3DEGREES DIFFERENCE\n\nOne call for plumbing, heating, cooling — and the water your home deserves.\n\nSchedule Service\nCall 201-720-4427\n\n“Service at every degree”\n\nSecond-generation tradesmen. Northern New Jersey’s fastest-growing plumbing, heating & cooling company — and your Authorized Independent Kinetico Dealer.\n\nSERVICES\nPlumbing\nDrain Cleaning\nWater Heater Repair & Installation\nSewer Line Services\nFixture Installation\nEmergency Plumbing\nMORE\nHeating\nFurnace Repair & Installation\nBoiler Service & Installation\nHeat Pump Systems\nSmart Thermostats\nCooling\nAC Repair\nAC Installation & Replacement\nDuctless Mini-Splits\nIndoor Air Quality\nKinetico Water Systems\nFinancing\nCONTACT\n201-720-4427 — 24/7 Emergency\n@3degrees_plumb_heat_cool\n209 Madison Street, Passaic, NJ 07055\nRequest Service Online\n\nSchedule Service\n\n3Degrees Plumbing • Heating • Cooling is operated by Tri-County Mechanical LLC. NJ Master Plumber Lic. #36BI01342900 • NJ Master HVACR Lic. #19HC00596700 • NJ HIC Reg. #13VH10002500 • Rockland County NY Lic. #CP-P-18067. Fully licensed & insured. Andrew Malaszuk, Master Plumber & Master HVACR Contractor.\n© 2026 3Degrees Plumbing Heating Cooling. All rights reserved.  •  Terms & Conditions\nServing Bergen & Passaic County, NJ",
+      "vendors": [
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        },
+        {
+          "name": "ServiceTitan",
+          "kind": "field_service"
+        }
+      ],
+      "links": [
+        "https://call3degrees.com/",
+        "https://call3degrees.com/",
+        "https://call3degrees.com/plumbing",
+        "https://call3degrees.com/plumbing",
+        "https://call3degrees.com/services/drain-cleaning",
+        "https://call3degrees.com/services/water-heaters",
+        "https://call3degrees.com/services/sewer-line",
+        "https://call3degrees.com/services/fixture-installation",
+        "https://call3degrees.com/services/emergency-plumbing",
+        "https://call3degrees.com/heating",
+        "https://call3degrees.com/heating",
+        "https://call3degrees.com/services/furnace-repair",
+        "https://call3degrees.com/services/boiler-service",
+        "https://call3degrees.com/services/heat-pumps",
+        "https://call3degrees.com/services/thermostats",
+        "https://call3degrees.com/cooling",
+        "https://call3degrees.com/cooling",
+        "https://call3degrees.com/services/ac-repair",
+        "https://call3degrees.com/services/ac-installation",
+        "https://call3degrees.com/services/ductless-mini-splits",
+        "https://call3degrees.com/services/indoor-air-quality",
+        "https://call3degrees.com/kinetico",
+        "https://call3degrees.com/financing",
+        "https://call3degrees.com/about",
+        "https://call3degrees.com/reviews",
+        "https://call3degrees.com/contact",
+        "https://call3degrees.com/contact#book",
+        "https://call3degrees.com/",
+        "https://call3degrees.com/contact#book",
+        "https://call3degrees.com/contact",
+        "https://call3degrees.com/contact#book",
+        "https://call3degrees.com/plumbing",
+        "https://call3degrees.com/services/drain-cleaning",
+        "https://call3degrees.com/services/water-heaters",
+        "https://call3degrees.com/services/sewer-line",
+        "https://call3degrees.com/services/fixture-installation",
+        "https://call3degrees.com/services/emergency-plumbing",
+        "https://call3degrees.com/heating",
+        "https://call3degrees.com/services/furnace-repair",
+        "https://call3degrees.com/services/boiler-service",
+        "https://call3degrees.com/services/heat-pumps",
+        "https://call3degrees.com/services/thermostats",
+        "https://call3degrees.com/cooling",
+        "https://call3degrees.com/services/ac-repair",
+        "https://call3degrees.com/services/ac-installation",
+        "https://call3degrees.com/services/ductless-mini-splits",
+        "https://call3degrees.com/services/indoor-air-quality",
+        "https://call3degrees.com/kinetico",
+        "https://call3degrees.com/financing",
+        "https://call3degrees.com/contact#book",
+        "https://call3degrees.com/contact#book",
+        "https://call3degrees.com/terms",
+        "https://call3degrees.com/contact#book"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 25,
+    "at": "2026-11-03T23:06:29.628Z",
+    "statusCounts": {
+      "200": 25
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://call3degrees.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/3degrees-plumbing-heating-cooling/desktop-home.png",
+    "desktop_full": "evidence/screenshots/3degrees-plumbing-heating-cooling/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/3degrees-plumbing-heating-cooling/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/3degrees-plumbing-heating-cooling/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/3degrees-plumbing-heating-cooling/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00596700"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": false,
+      "plumbing": true
+    },
+    "copyrightYear": 2026,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Schedule Service -> https://call3degrees.com/contact#book",
+      "Schedule Service -> https://call3degrees.com/contact#book",
+      "ENDS IN 11 DAYS $99 $99 EARLY-BIRD FURNACE OR BOILER INSPECTION* Book a furnace  -> https://call3degrees.com/contact?offer=inspection#book",
+      "Schedule Service -> https://call3degrees.com/contact#book",
+      "Request Service Online -> https://call3degrees.com/contact#book",
+      "Schedule Service -> https://call3degrees.com/contact#book",
+      "Book Online -> https://call3degrees.com/contact#book"
+    ]
+  }
+}

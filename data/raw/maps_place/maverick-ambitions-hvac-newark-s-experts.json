@@ -1,0 +1,25 @@
+{
+  "id": "maverick-ambitions-hvac-newark-s-experts",
+  "placeUrl": "https://www.google.com/maps/place/Maverick+Ambitions+HVAC-+Newark%27s+Experts/data=!4m7!3m6!1s0xa485a6a4f572a3cd:0x5d627a92e4ab08ac!8m2!3d40.641387!4d-74.2426019!16s%2Fg%2F11pvh7cjtm!19sChIJzaNy9aSmhaQRrAir5JJ6Yl0",
+  "retrievedAt": "2026-11-03T23:10:31.310Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Maverick Ambitions HVAC- Newark's Experts",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 862-279-3408 ",
+  "website": "https://www.mahvacnj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Maverick+Ambitions+HVAC-+Newark%27s+Experts/data=!4m7!3m6!1s0xa485a6a4f572a3cd:0x5d627a92e4ab08ac!8m2!3d40.641387!4d-74.2426019!16s%2Fg%2F11pvh7cjtm!19sChIJzaNy9aSmhaQRrAir5JJ6Yl0?hl=en",
+  "screenshot": "evidence/screenshots/maverick-ambitions-hvac-newark-s-experts/google-maps-listing.png"
+}

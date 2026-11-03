@@ -1,0 +1,30 @@
+{
+  "id": "db-heating-cooling-inc",
+  "query": "DB Heating & Cooling, Inc.",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=DB%20Heating%20%26%20Cooling%2C%20Inc.&find_loc=Waldwick%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:21:04.278Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": {
+    "ad": false,
+    "name": "DB Heating & Cooling, Inc.",
+    "rating": "A+",
+    "phone": "(201) 312-2627",
+    "address": "119 Franklin Tpke, Waldwick, NJ 07463-1816",
+    "accredited": true,
+    "href": "https://www.bbb.org/us/nj/waldwick/profile/heating-and-air-conditioning/db-heating-cooling-inc-0221-90026907",
+    "basis": "name+city",
+    "nameSimilarity": 1
+  },
+  "candidates": [
+    {
+      "ad": false,
+      "name": "DB Heating & Cooling, Inc.",
+      "rating": "A+",
+      "phone": "(201) 312-2627",
+      "address": "119 Franklin Tpke, Waldwick, NJ 07463-1816",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/waldwick/profile/heating-and-air-conditioning/db-heating-cooling-inc-0221-90026907"
+    }
+  ],
+  "error": null
+}

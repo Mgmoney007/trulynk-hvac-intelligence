@@ -1,0 +1,25 @@
+{
+  "id": "mahwah-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Mahwah+HVAC/data=!4m7!3m6!1s0x4c90db5364ca0e5d:0x9c37037d96ad2029!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11p1scnw56!19sChIJXQ7KZFPbkEwRKSCtln0DN5w",
+  "retrievedAt": "2026-11-03T23:00:00.628Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Mahwah HVAC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 551-266-4189 ",
+  "website": "https://www.mahwahhvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Mahwah+HVAC/data=!4m7!3m6!1s0x4c90db5364ca0e5d:0x9c37037d96ad2029!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11p1scnw56!19sChIJXQ7KZFPbkEwRKSCtln0DN5w?hl=en",
+  "screenshot": "evidence/screenshots/mahwah-hvac/google-maps-listing.png"
+}

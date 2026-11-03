@@ -1,0 +1,25 @@
+{
+  "id": "duct-mate-inc",
+  "placeUrl": "https://www.google.com/maps/place/Duct+Mate+Inc./data=!4m7!3m6!1s0x89c2f90253e040cf:0xbe5e8f5e9f0e3913!8m2!3d40.8765763!4d-74.0518832!16s%2Fg%2F11rxrtxdlk!19sChIJz0DgUwL5wokREzkOn16PXr4",
+  "retrievedAt": "2026-11-03T22:54:39.818Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Duct Mate Inc.",
+  "category": "HVAC contractor",
+  "address": "190 Lexington Ave, Hackensack, NJ 07601, United States ",
+  "phone": "+1 201-488-8002 ",
+  "website": "https://www.ductmatehvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–4:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Duct+Mate+Inc./data=!4m7!3m6!1s0x89c2f90253e040cf:0xbe5e8f5e9f0e3913!8m2!3d40.8765763!4d-74.0518832!16s%2Fg%2F11rxrtxdlk!19sChIJz0DgUwL5wokREzkOn16PXr4?hl=en",
+  "screenshot": "evidence/screenshots/duct-mate-inc/google-maps-listing.png"
+}

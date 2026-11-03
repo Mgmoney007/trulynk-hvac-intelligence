@@ -1,0 +1,2424 @@
+{
+  "firecrawl": [],
+  "id": "newmans-heating-air-conditioning",
+  "name": "newmans-heating-air-conditioning",
+  "website": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+  "auditedAt": "2026-11-03T23:41:33.979Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+      "at": "2026-11-03T23:41:38.256Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+      "title": "Newman's Heating & A/C | Air Conditioning, Heating, Plumbing",
+      "ms": 4151,
+      "error": null,
+      "linkCount": 110
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://newmanshvac.net/contact/",
+      "at": "2026-11-03T23:42:00.059Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://newmanshvac.net/contact/",
+      "title": "Contact Us | Air Conditioning, Heating, Plumbing, & IAQ |",
+      "ms": 4860,
+      "error": null,
+      "linkCount": 73
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://newmanshvac.net/company/",
+      "at": "2026-11-03T23:42:03.728Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://newmanshvac.net/company/",
+      "title": "About Us | Newman's Heating, AC, Plumbing Services | Westfield, NJ",
+      "ms": 3304,
+      "error": null,
+      "linkCount": 81
+    },
+    {
+      "step": "desktop_booking",
+      "method": "playwright_chromium_desktop",
+      "url": "https://newmanshvac.net/request-service/",
+      "at": "2026-11-03T23:42:07.373Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://newmanshvac.net/request-service/",
+      "title": "Request Service | Heating, AC, Plumbing | Repair, Install",
+      "ms": 3258,
+      "error": null,
+      "linkCount": 73
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+      "at": "2026-11-03T23:43:09.038Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+      "title": "Newman's Heating & A/C | Air Conditioning, Heating, Plumbing",
+      "ms": 3490,
+      "error": null,
+      "linkCount": 110
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+    "title": "Newman's Heating & A/C | Air Conditioning, Heating, Plumbing",
+    "lang": "en-US",
+    "metaDescription": "Call Newman's Heating & A/C for your air conditioning, heating, & plumbing repair & installation needs in Westfield, Livingston, Short Hills, & more NJ areas.",
+    "h1": [],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5774,
+    "bodyText": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCustomise\nReject All\nAccept All\nPowered by\nSkip to Content\nSkip to navigation\nSite map\nSkip to content\n862-429-3670\nREQUEST SERVICE\nFINANCING\nServices\nProducts\nCompany\nNews\nMaintenance Program\nHeating System Upgrade\nAS LOW AS $119 PER MONTH\nUPGRADE YOUR AC/HEATING SYSTEM TODAY!\nWHAT'S THE BENEFIT OF UPGRADING?\n\nImproved Energy Efficiency (will pay for itself in just a few years)\nLower Cooling and Heating Costs by up to 35%\nIncreased Comfort and Performance\nEnhance Indoor Air Quality\nThis program is through PSEG and includes all rebates and on-bill payments\n\n*Based on a retail price of $10,000 at 0% interest for 84 months invoiced from PSE&G\n\nSCHEDULE FREE CONSULTATION\n$49 Inspection\nHERE'S WHAT WE WILL DO\nSCHEDULE CONSULTATION\n\"Your Comfort, Our Mission. We're Not Comfortable Until You Are.\"\nHeating\n\nTrust our team at Newman's Heating & A/C to keep your home warm and comfortable on those colder nights here in New Jersey. Our HVAC professionals work with all makes and models of furnaces and heat pumps—you can count on us to help with any type of heating need you may have.\n\nRead More\nCooling\n\nOur high-efficiency air conditioners will bring plenty of comfort to your New Jersey home. Our Newman's Heating & A/C cooling experts work with all makes and models of air conditioners. We are here when you need us.\n\nRead More\nPlumbing\n\nOur expert plumbers offer unparalleled service to keep your home’s plumbing running smoothly. Whether you are looking for a new water heater or need our help with a leaky faucet, our knowledgeable professionals can take care of whatever your plumbing needs may be. Customer satisfaction is at the heart of all we do.\n\nRead More\nNeed HVAC Service?\n\nGive us a call at 862-429-3670!\n\nREQUEST SERVICE\nOur Service Area\n\nServing Northeastern New Jersey Since 1998.\n\nREQUEST ESTIMATE\nBergen County\nEssex County\nGloucester County\nHudson County\nHunterdon County\nMiddlesex County\nMonmouth County\nMorris County\nPassaic County\nSomerset County\nSussex County\nUnion County\nWarren County\nRebates on High-Efficiency Equipment Available Through Our Partnership With\nLearn More\nWe Service All Brands\nABOUT NEWMAN'S\n\nNewman’s Heating & A/C opened its doors in 1998. We’re a small, veteran- and family-owned company with big dreams to be the best heating, ventilation, and air conditioning (HVAC) company in New Jersey.\n\nKen Newman wanted to build a company that family, friends, and neighbors in Northeastern New Jersey could trust for all their HVAC services.\n\nOur in-house capabilities include complete residential service for all brands, installation of new and replacement equipment, an array of plumbing services, and a full range of home comfort service programs and products. Commercially, we offer design, installation, electrical, piping, replacement equipment, and heat coil service repair.\n\nLEARN MORE\nWHAT ARE YOU WAITING FOR?\nCONTACT NEWMAN’S HEATING & A/C TODAY!\nCONTACT US\nVeteran-Owned Company\nGIVE US A CALL!\n862-429-3670\n\n123 Hoffman Blvd.\nEast Orange, NJ 07017\n\n\nEmail Us: customer@newmanshvac.net\n\nServices\n\n\nProducts\n\n\nCompany\n\n\nNews\n\n\nMaintenance Program\n\n© 2026 All Rights Reserved. Privacy Policy · Terms & Conditions · Site Map· Accessibility Statement",
+    "links": [
+      {
+        "href": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=fl-branding",
+        "abs": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=fl-branding",
+        "text": "Visit CookieYes website",
+        "visible": true,
+        "aboveFold": true,
+        "h": 13,
+        "w": 78,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=sl-branding",
+        "abs": "https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=sl-branding",
+        "text": "Visit CookieYes website",
+        "visible": false,
+        "aboveFold": false,
+        "h": 13,
+        "w": 78,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#fl-main-content",
+        "abs": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp#fl-main-content",
+        "text": "Skip to Content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#menu-primary",
+        "abs": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp#menu-primary",
+        "text": "Skip to navigation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/site-map/",
+        "abs": "https://newmanshvac.net/site-map/",
+        "text": "Site map",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#fl-main-content",
+        "abs": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp#fl-main-content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/",
+        "abs": "https://newmanshvac.net/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 400,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:18624293670",
+        "abs": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 324,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/request-service/",
+        "abs": "https://newmanshvac.net/request-service/",
+        "text": "REQUEST SERVICE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 186,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/financing/",
+        "abs": "https://newmanshvac.net/financing/",
+        "text": "FINANCING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 127,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/profile.php?id=100083024306812",
+        "abs": "https://www.facebook.com/profile.php?id=100083024306812",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 34,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:18624293670",
+        "abs": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/request-service/",
+        "abs": "https://newmanshvac.net/request-service/",
+        "text": "REQUEST SERVICE",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/financing/",
+        "abs": "https://newmanshvac.net/financing/",
+        "text": "FINANCING",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/",
+        "abs": "https://newmanshvac.net/residential/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 49,
+        "w": 117,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/air-conditioning/",
+        "abs": "https://newmanshvac.net/residential/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/air-ducts/",
+        "abs": "https://newmanshvac.net/residential/air-ducts/",
+        "text": "Air Duct Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/air-handlers/",
+        "abs": "https://newmanshvac.net/residential/air-handlers/",
+        "text": "Air Handlers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/boilers/",
+        "abs": "https://newmanshvac.net/residential/boilers/",
+        "text": "Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/duct-cleaning/",
+        "abs": "https://newmanshvac.net/residential/duct-cleaning/",
+        "text": "Duct Cleaning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/ductless-systems/",
+        "abs": "https://newmanshvac.net/residential/ductless-systems/",
+        "text": "Ductless Systems",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/furnaces/",
+        "abs": "https://newmanshvac.net/residential/furnaces/",
+        "text": "Gas Furnaces",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/heat-pumps/",
+        "abs": "https://newmanshvac.net/residential/heat-pumps/",
+        "text": "Heat Pumps",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/indoor-air-quality/",
+        "abs": "https://newmanshvac.net/residential/indoor-air-quality/",
+        "text": "Indoor Air Quality",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/whole-house-generators/",
+        "abs": "https://newmanshvac.net/residential/whole-house-generators/",
+        "text": "Whole-House Generators",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/zone-control-systems/",
+        "abs": "https://newmanshvac.net/residential/zone-control-systems/",
+        "text": "Zone Control Systems",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/commercial/",
+        "abs": "https://newmanshvac.net/commercial/",
+        "text": "Commercial",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/commercial/cooling/",
+        "abs": "https://newmanshvac.net/commercial/cooling/",
+        "text": "Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/commercial/heating/",
+        "abs": "https://newmanshvac.net/commercial/heating/",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "abs": "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "text": "Plumbing Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/faucet-repairs/",
+        "abs": "https://newmanshvac.net/residential/faucet-repairs/",
+        "text": "Faucet Repairs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/garbage-disposals/",
+        "abs": "https://newmanshvac.net/residential/garbage-disposals/",
+        "text": "Garbage Disposals",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/leak-detection-services/",
+        "abs": "https://newmanshvac.net/residential/leak-detection-services/",
+        "text": "Leak Detection Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/pipe-repairs/",
+        "abs": "https://newmanshvac.net/residential/pipe-repairs/",
+        "text": "Pipe Repairs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/plumbing/",
+        "abs": "https://newmanshvac.net/residential/plumbing/",
+        "text": "Plumbing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/repiping/",
+        "abs": "https://newmanshvac.net/residential/repiping/",
+        "text": "Repiping",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/tankless-water-heaters/",
+        "abs": "https://newmanshvac.net/residential/tankless-water-heaters/",
+        "text": "Tankless Water Heaters",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/toilet-repairs/",
+        "abs": "https://newmanshvac.net/residential/toilet-repairs/",
+        "text": "Toilet Repairs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/water-filters/",
+        "abs": "https://newmanshvac.net/residential/water-filters/",
+        "text": "Water Filters",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/water-heaters/",
+        "abs": "https://newmanshvac.net/residential/water-heaters/",
+        "text": "Water Heaters",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/water-softeners/",
+        "abs": "https://newmanshvac.net/residential/water-softeners/",
+        "text": "Water Softeners",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/products/",
+        "abs": "https://newmanshvac.net/products/",
+        "text": "Products",
+        "visible": true,
+        "aboveFold": true,
+        "h": 49,
+        "w": 122,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/products/coleman/",
+        "abs": "https://newmanshvac.net/products/coleman/",
+        "text": "Coleman",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/products/air-quality-and-comfort-solutions/",
+        "abs": "https://newmanshvac.net/products/air-quality-and-comfort-solutions/",
+        "text": "Air Quality and Comfort Solutions",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/hvac-brands-we-install-service-nj/",
+        "abs": "https://newmanshvac.net/hvac-brands-we-install-service-nj/",
+        "text": "HVAC Brands We Install & Service",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/company/",
+        "abs": "https://newmanshvac.net/company/",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/service-area/",
+        "abs": "https://newmanshvac.net/service-area/",
+        "text": "Service Area",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/financing/",
+        "abs": "https://newmanshvac.net/financing/",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/pseg-rebates/",
+        "abs": "https://newmanshvac.net/pseg-rebates/",
+        "text": "PSE&G Rebates",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/reviews/",
+        "abs": "https://newmanshvac.net/reviews/",
+        "text": "Read Our Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/request-service/",
+        "abs": "https://newmanshvac.net/request-service/",
+        "text": "Request Service",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/request-estimate/",
+        "abs": "https://newmanshvac.net/request-estimate/",
+        "text": "Request Estimate",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/careers/",
+        "abs": "https://newmanshvac.net/careers/",
+        "text": "Careers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/contact/",
+        "abs": "https://newmanshvac.net/contact/",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/news/",
+        "abs": "https://newmanshvac.net/news/",
+        "text": "News",
+        "visible": true,
+        "aboveFold": true,
+        "h": 49,
+        "w": 75,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/preventative-maintenance-program/",
+        "abs": "https://newmanshvac.net/preventative-maintenance-program/",
+        "text": "Maintenance Program",
+        "visible": true,
+        "aboveFold": true,
+        "h": 49,
+        "w": 237,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp#",
+        "text": "SCHEDULE FREE CONSULTATION",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 268,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp#",
+        "text": "SCHEDULE CONSULTATION",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 232,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/residential/furnaces/",
+        "abs": "https://newmanshvac.net/residential/furnaces/",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 88,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/residential/furnaces/",
+        "abs": "https://newmanshvac.net/residential/furnaces/",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/air-conditioning/",
+        "abs": "https://newmanshvac.net/residential/air-conditioning/",
+        "text": "Cooling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 86,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/air-conditioning/",
+        "abs": "https://newmanshvac.net/residential/air-conditioning/",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "abs": "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "text": "Plumbing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 107,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/residential/residential-plumbing-services/",
+        "abs": "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:18624293670",
+        "abs": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 203,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/request-service/",
+        "abs": "https://newmanshvac.net/request-service/",
+        "text": "REQUEST SERVICE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 229,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/request-estimate/",
+        "abs": "https://newmanshvac.net/request-estimate/",
+        "text": "REQUEST ESTIMATE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 200,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/pseg-rebates/",
+        "abs": "https://newmanshvac.net/pseg-rebates/",
+        "text": "Learn More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/amana.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/amana.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/runtru.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/runtru.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/lennox.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/lennox.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/day-night.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/day-night.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/armstrong-air.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/armstrong-air.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/american-standard.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/american-standard.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/rheem.png",
+        "abs": "https://newmanshvac.net/wp-content/uploads/rheem.png",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/heil.png",
+        "abs": "https://newmanshvac.net/wp-content/uploads/heil.png",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/comfortmaker.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/comfortmaker.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/westinghouse.png",
+        "abs": "https://newmanshvac.net/wp-content/uploads/westinghouse.png",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/Luxaire-Partner-Logo.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/Luxaire-Partner-Logo.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/payne.png",
+        "abs": "https://newmanshvac.net/wp-content/uploads/payne.png",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/fujitsu.png",
+        "abs": "https://newmanshvac.net/wp-content/uploads/fujitsu.png",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/carrier.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/carrier.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/york.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/york.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/ruud.png",
+        "abs": "https://newmanshvac.net/wp-content/uploads/ruud.png",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/bts_coleman_heating_and_cooling_v2-1.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/bts_coleman_heating_and_cooling_v2-1.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/goodman.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/goodman.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/bryant.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/bryant.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/trane.png",
+        "abs": "https://newmanshvac.net/wp-content/uploads/trane.png",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/mitsubishi.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/mitsubishi.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/daikin.webp",
+        "abs": "https://newmanshvac.net/wp-content/uploads/daikin.webp",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/wp-content/uploads/ameristar.png",
+        "abs": "https://newmanshvac.net/wp-content/uploads/ameristar.png",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 216,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/company/",
+        "abs": "https://newmanshvac.net/company/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 143,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://newmanshvac.net/contact/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://newmanshvac.net/",
+        "abs": "https://newmanshvac.net/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 560,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:18624293670",
+        "abs": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": true,
+        "aboveFold": false,
+        "h": 66,
+        "w": 365,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://maps.app.goo.gl/VCg5dq4u5VB9BRMk6",
+        "abs": "https://maps.app.goo.gl/VCg5dq4u5VB9BRMk6",
+        "text": "123 Hoffman Blvd. East Orange, NJ 07017",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 214,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:customer@newmanshvac.net",
+        "abs": "mailto:customer@newmanshvac.net",
+        "text": "customer@newmanshvac.net",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 278,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/residential/",
+        "abs": "https://newmanshvac.net/residential/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 77,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/products/",
+        "abs": "https://newmanshvac.net/products/",
+        "text": "Products",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 81,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/company/",
+        "abs": "https://newmanshvac.net/company/",
+        "text": "Company",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 85,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/news/",
+        "abs": "https://newmanshvac.net/news/",
+        "text": "News",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 50,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/preventative-maintenance-program/",
+        "abs": "https://newmanshvac.net/preventative-maintenance-program/",
+        "text": "Maintenance Program",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 198,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/privacy-policy/",
+        "abs": "https://newmanshvac.net/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 94,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/terms-conditions/",
+        "abs": "https://newmanshvac.net/terms-conditions/",
+        "text": "Terms & Conditions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 133,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/site-map/",
+        "abs": "https://newmanshvac.net/site-map/",
+        "text": "Site Map",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 60,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/accessibility-statement/",
+        "abs": "https://newmanshvac.net/accessibility-statement/",
+        "text": "Accessibility Statement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 160,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://newmanshvac.net/request-service/",
+        "abs": "https://newmanshvac.net/request-service/",
+        "text": "Service",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:18624293670",
+        "abs": "tel:18624293670",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:18624293670",
+        "abs": "tel:18624293670",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:18624293670",
+        "abs": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Translations Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Accessibility Menu",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Consent Preferences",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Customise",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Reject All",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Accept All",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Close",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Show more",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Necessary",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Functional",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Analytics",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Performance",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Advertisement",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Uncategorised",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Reject All",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Save My Preferences",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Accept All",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Services submenu toggle",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Commercial submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Plumbing Services submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Products submenu toggle",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Company submenu toggle",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "previous arrow",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "next arrow",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "CLOSE",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtm.js?id=GTM-PK32GZ2L",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-M5GWGZRH",
+      "https://cdn-cookieyes.com/client_data/48b560bf3bbd29c168fe354d9175af8a/script.js",
+      "https://cdn-cookieyes.com/client_data/48b560bf3bbd29c168fe354d9175af8a/banner.js",
+      "https://newmanshvac.net/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=636b10df",
+      "https://newmanshvac.net/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=636b10df",
+      "https://newmanshvac.net/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=636b10df",
+      "https://newmanshvac.net/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=636b10df",
+      "https://newmanshvac.net/wp-content/plugins/svg-support/vendor/DOMPurify/DOMPurify.min.js?ver=2.5.9",
+      "https://newmanshvac.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://newmanshvac.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://newmanshvac.net/wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js?ver=2.5.10",
+      "https://newmanshvac.net/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=2.6.1",
+      "https://newmanshvac.net/wp-content/plugins/themify-ptb/public/js/ptb-public.js?ver=2.3.2",
+      "https://newmanshvac.net/wp-content/uploads/pp-css-js-dev/custom.js?ver=1547126622",
+      "https://newmanshvac.net/wp-includes/js/wp-emoji-release.min.js?ver=7.0.8",
+      "https://accessibilityserver.org/widget.js",
+      "https://www.cdnstyles.com/static/custom_form_widget/v1/custom_form.widget.js",
+      "https://newmanshvac.net/wp-content/plugins/bb-plugin/js/libs/jquery.wookmark.min.js?ver=2.10.3.1",
+      "https://newmanshvac.net/wp-content/plugins/bb-plugin/js/libs/jquery.mosaicflow.min.js?ver=2.10.3.1",
+      "https://newmanshvac.net/wp-content/plugins/bb-plugin/js/libs/jquery.imagesloaded.min.js?ver=2.10.3.1",
+      "https://newmanshvac.net/wp-content/plugins/bb-plugin/js/libs/jquery.magnificpopup.min.js?ver=2.10.3.1",
+      "https://newmanshvac.net/wp-content/uploads/bb-plugin/cache/5-layout.js?ver=2fee9c3e68f537cbfdf471d58ea40627",
+      "https://newmanshvac.net/wp-content/plugins/bb-plugin/js/libs/jquery.ba-throttle-debounce.min.js?ver=2.10.3.1",
+      "https://newmanshvac.net/wp-content/uploads/bb-plugin/cache/658a82b22ffc48bd3d289f1d83b3c0ab-layout-bundle.js?ver=2.10.3.1-1.5.3.2",
+      "https://newmanshvac.net/wp-content/plugins/shortpixel-adaptive-images/assets/js/ai-2.0.min.js",
+      "https://newmanshvac.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "https://newmanshvac.net/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d",
+      "https://newmanshvac.net/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1775240075&ver=1.23.0",
+      "https://newmanshvac.net/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=2.3.4",
+      "https://newmanshvac.net/wp-content/themes/bb-theme/js/bootstrap.min.js?ver=1.7.19.2",
+      "https://newmanshvac.net/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.19.2",
+      "https://cdn.callrail.com/companies/688531884/wp-0-5-3/swap.js?ver=7.0.8",
+      "//js.callrail.com/companies/688531884/external_forms.js?t=1793749295713&",
+      "https://searchlight.partners/photon/photon-3p.js",
+      "https://cdn.userway.org/widgetapp/2026-10-29-06-53-08/widget_app_base_1793256788095.js",
+      "https://cdn.userway.org/widgetapp/2026-10-29-06-53-08/remediation/remediation_1793256788095.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Place",
+            "@id": "https://newmanshvac.net/#place",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "40.77165032413238",
+              "longitude": " -74.19543643205287"
+            },
+            "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=40.77165032413238, -74.19543643205287",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "123 Hoffman",
+              "addressLocality": "East Orange",
+              "addressRegion": "NJ",
+              "postalCode": "07017",
+              "addressCountry": "United States"
+            }
+          },
+          {
+            "@type": [
+              "HVACBusiness",
+              "Organization"
+            ],
+            "@id": "https://newmanshvac.net/#organization",
+            "name": "Newman's Heating &amp; A/C",
+            "url": "https://newmanshvac.net",
+            "sameAs": [
+              "https://www.facebook.com/Newmans-HVAC-104024178951223"
+            ],
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "123 Hoffman",
+              "addressLocality": "East Orange",
+              "addressRegion": "NJ",
+              "postalCode": "07017",
+              "addressCountry": "United States"
+            },
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://newmanshvac.net/#logo",
+              "url": "https://newmanshvac.net/wp-content/uploads/NEW-Logo-RGB.jpg",
+              "contentUrl": "https://newmanshvac.net/wp-content/uploads/NEW-Logo-RGB.jpg",
+              "caption": "Newman's Heating &amp; A/C",
+              "inLanguage": "en-US",
+              "width": "1024",
+              "height": "1024"
+            },
+            "openingHours": [
+              "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday 00:00-24:00"
+            ],
+            "location": {
+              "@id": "https://newmanshvac.net/#place"
+            },
+            "image": {
+              "@id": "https://newmanshvac.net/#logo"
+            },
+            "telephone": "+1-862-520-2790"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://newmanshvac.net/#website",
+            "url": "https://newmanshvac.net",
+            "name": "Newman's Heating &amp; A/C",
+            "alternateName": "Newman's",
+            "publisher": {
+              "@id": "https://newmanshvac.net/#organization"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://newmanshvac.net/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://newmanshvac.net/wp-content/uploads/callout-hvac1.jpg",
+            "url": "https://newmanshvac.net/wp-content/uploads/callout-hvac1.jpg",
+            "width": "200",
+            "height": "200",
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://newmanshvac.net/#webpage",
+            "url": "https://newmanshvac.net/",
+            "name": "Newman&#039;s Heating &amp; A/C | Air Conditioning, Heating, Plumbing",
+            "datePublished": "2017-09-01T09:53:24-04:00",
+            "dateModified": "2026-10-16T09:04:16-04:00",
+            "about": {
+              "@id": "https://newmanshvac.net/#organization"
+            },
+            "isPartOf": {
+              "@id": "https://newmanshvac.net/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://newmanshvac.net/wp-content/uploads/callout-hvac1.jpg"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Service",
+            "name": "Newman&#039;s Heating &amp; A/C | Air Conditioning, Heating, Plumbing",
+            "description": "Call Newman&#039;s Heating &amp; A/C for your air conditioning, heating, &amp; plumbing repair &amp; installation needs in Westfield, Livingston, Short Hills, &amp; more NJ areas.",
+            "serviceType": "HVAC",
+            "offers": {
+              "@type": "Offer",
+              "availability": "InStock"
+            },
+            "image": {
+              "@id": "https://newmanshvac.net/wp-content/uploads/callout-hvac1.jpg"
+            },
+            "@id": "https://newmanshvac.net/#schema-29739",
+            "mainEntityOfPage": {
+              "@id": "https://newmanshvac.net/#webpage"
+            }
+          },
+          {
+            "@type": "Service",
+            "name": "Newman&#039;s Heating &amp; A/C | Air Conditioning, Heating, Plumbing",
+            "description": "Call Newman&#039;s Heating &amp; A/C for your air conditioning, heating, &amp; plumbing repair &amp; installation needs in Westfield, Livingston, Short Hills, &amp; more NJ areas.",
+            "serviceType": "HVAC",
+            "offers": {
+              "@type": "Offer",
+              "availability": "InStock"
+            },
+            "image": {
+              "@id": "https://newmanshvac.net/wp-content/uploads/callout-hvac1.jpg"
+            },
+            "@id": "https://newmanshvac.net/#schema-105258",
+            "mainEntityOfPage": {
+              "@id": "https://newmanshvac.net/#webpage"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 46,
+    "timing": {
+      "dcl": 1614,
+      "load": 2288,
+      "ttfb": 370
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.003,
+        "sig": " userway_buttons_wrapper ",
+        "text": ""
+      },
+      {
+        "kind": "cookie",
+        "cover": 0.088,
+        "sig": " cky-consent-container cky-box-bottom-left we value your privacy",
+        "text": "we value your privacy\n\nwe use cookies to enhance your browsing experience, serve personalised ads or content, and analys"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+    "navMs": 4151,
+    "tel": [
+      {
+        "href": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624293670"
+      },
+      {
+        "href": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624293670"
+      },
+      {
+        "href": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624293670"
+      },
+      {
+        "href": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624293670"
+      },
+      {
+        "href": "tel:18624293670",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18624293670"
+      },
+      {
+        "href": "tel:18624293670",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18624293670"
+      },
+      {
+        "href": "tel:18624293670",
+        "text": "862-429-3670",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624293670"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      },
+      {
+        "name": "CallRail",
+        "kind": "call_tracking"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+    "navMs": 3490,
+    "timing": {
+      "dcl": 1393,
+      "load": 1953,
+      "ttfb": 196
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:18624538216",
+        "text": "862-453-8216",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624538216"
+      },
+      {
+        "href": "tel:18624538216",
+        "text": "862-453-8216",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624538216"
+      },
+      {
+        "href": "tel:18624538216",
+        "text": "862-453-8216",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624538216"
+      },
+      {
+        "href": "tel:18624538216",
+        "text": "862-453-8216",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624538216"
+      },
+      {
+        "href": "tel:18624538216",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18624538216"
+      },
+      {
+        "href": "tel:18624538216",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18624538216"
+      },
+      {
+        "href": "tel:18624538216",
+        "text": "862-453-8216",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18624538216"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "REQUEST SERVICE"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.016,
+        "sig": " userway_buttons_wrapper ",
+        "text": ""
+      },
+      {
+        "kind": "cookie",
+        "cover": 0.569,
+        "sig": " cky-consent-container cky-box-bottom-left we value your privacy",
+        "text": "we value your privacy\n\nwe use cookies to enhance your browsing experience, serve personalised ads or content, and analys"
+      }
+    ],
+    "maxBlockingCover": 0.569,
+    "smallTapTargets": 4,
+    "visibleNavLinks": 7,
+    "brokenImages": [],
+    "textChars": 3376
+  },
+  "pages": {
+    "contact": {
+      "url": "https://newmanshvac.net/contact/",
+      "finalUrl": "https://newmanshvac.net/contact/",
+      "status": 200,
+      "title": "Contact Us | Air Conditioning, Heating, Plumbing, & IAQ |",
+      "forms": [
+        {
+          "action": "/contact/#gf_2",
+          "method": "post",
+          "id": "gform_2",
+          "cls": "",
+          "fieldCount": 9,
+          "fieldNames": [
+            "input_17",
+            "input_1.3",
+            "input_1.6",
+            "input_2",
+            "input_3",
+            "input_4",
+            "input_15.1",
+            "input_14",
+            "input_13"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/maps/embed/v1/place?q=Newman%E2%80%99s+Heating+%26amp%3B+A%2FC%0A123+Hoffman%0A%0AEast+Orange%2C+NJ+07017&key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8",
+        "about:blank"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "customer@newmanshvac.net"
+      ],
+      "tel": [
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        }
+      ],
+      "owners": [],
+      "bodyText": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCustomise\nReject All\nAccept All\nPowered by\nSkip to Content\nSkip to navigation\nSite map\nSkip to content\n862-429-3670\nREQUEST SERVICE\nFINANCING\nServices\nProducts\nCompany\nNews\nMaintenance Program\nContact Us\nLET’S GET IN TOUCH\n\nDon’t hesitate to contact us with your questions or comments.\n\n\"*\" indicates required fields\n\nNAME*\nFirst\nLast\nEMAIL*\nPHONE\nMESSAGE*\nCONSENT*\nBy submitting this form and signing up for texts, you consent to receive customer care and marketing messages from Newmans HVAC at the number provided, including messages sent by an autodialer. Consent is not a condition of purchase. Msg & data rates may apply. Msg frequency varies. Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available). Reply HELP for help. Visit https://newmanshvac.net/privacy-policy/\n I give my consent\nCAPTCHA\n\nNewman’s Heating & A/C\n\n123 Hoffman\nEast Orange, NJ 07017\n\nGIVE US A CALL\n862-429-3670\nVeteran-Owned Company\nGIVE US A CALL!\n862-429-3670\n\n123 Hoffman Blvd.\nEast Orange, NJ 07017\n\n\nEmail Us: customer@newmanshvac.net\n\nServices\n\n\nProducts\n\n\nCompany\n\n\nNews\n\n\nMaintenance Program\n\n© 2026 All Rights Reserved. Privacy Policy · Terms & Conditions · Site Map· Accessibility Statement",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://newmanshvac.net/contact/#fl-main-content",
+        "https://newmanshvac.net/contact/#menu-primary",
+        "https://newmanshvac.net/site-map/",
+        "https://newmanshvac.net/contact/#fl-main-content",
+        "https://newmanshvac.net/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/residential/",
+        "https://newmanshvac.net/residential/air-conditioning/",
+        "https://newmanshvac.net/residential/air-ducts/",
+        "https://newmanshvac.net/residential/air-handlers/",
+        "https://newmanshvac.net/residential/boilers/",
+        "https://newmanshvac.net/residential/duct-cleaning/",
+        "https://newmanshvac.net/residential/ductless-systems/",
+        "https://newmanshvac.net/residential/furnaces/",
+        "https://newmanshvac.net/residential/heat-pumps/",
+        "https://newmanshvac.net/residential/indoor-air-quality/",
+        "https://newmanshvac.net/residential/whole-house-generators/",
+        "https://newmanshvac.net/residential/zone-control-systems/",
+        "https://newmanshvac.net/commercial/",
+        "https://newmanshvac.net/commercial/cooling/",
+        "https://newmanshvac.net/commercial/heating/",
+        "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "https://newmanshvac.net/residential/faucet-repairs/",
+        "https://newmanshvac.net/residential/garbage-disposals/",
+        "https://newmanshvac.net/residential/leak-detection-services/",
+        "https://newmanshvac.net/residential/pipe-repairs/",
+        "https://newmanshvac.net/residential/plumbing/",
+        "https://newmanshvac.net/residential/repiping/",
+        "https://newmanshvac.net/residential/tankless-water-heaters/",
+        "https://newmanshvac.net/residential/toilet-repairs/",
+        "https://newmanshvac.net/residential/water-filters/",
+        "https://newmanshvac.net/residential/water-heaters/",
+        "https://newmanshvac.net/residential/water-softeners/",
+        "https://newmanshvac.net/products/",
+        "https://newmanshvac.net/products/coleman/",
+        "https://newmanshvac.net/products/air-quality-and-comfort-solutions/",
+        "https://newmanshvac.net/hvac-brands-we-install-service-nj/",
+        "https://newmanshvac.net/company/",
+        "https://newmanshvac.net/service-area/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/pseg-rebates/",
+        "https://newmanshvac.net/reviews/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/request-estimate/",
+        "https://newmanshvac.net/careers/",
+        "https://newmanshvac.net/contact/",
+        "https://newmanshvac.net/news/",
+        "https://newmanshvac.net/preventative-maintenance-program/",
+        "https://newmanshvac.net/",
+        "https://newmanshvac.net/residential/",
+        "https://newmanshvac.net/products/",
+        "https://newmanshvac.net/company/",
+        "https://newmanshvac.net/news/",
+        "https://newmanshvac.net/preventative-maintenance-program/",
+        "https://newmanshvac.net/privacy-policy/",
+        "https://newmanshvac.net/terms-conditions/",
+        "https://newmanshvac.net/site-map/",
+        "https://newmanshvac.net/accessibility-statement/",
+        "https://newmanshvac.net/request-service/"
+      ]
+    },
+    "about": {
+      "url": "https://newmanshvac.net/company/",
+      "finalUrl": "https://newmanshvac.net/company/",
+      "status": 200,
+      "title": "About Us | Newman's Heating, AC, Plumbing Services | Westfield, NJ",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "customer@newmanshvac.net"
+      ],
+      "tel": [
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        }
+      ],
+      "owners": [],
+      "bodyText": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCustomise\nReject All\nAccept All\nPowered by\nSkip to Content\nSkip to navigation\nSite map\nSkip to content\n862-429-3670\nREQUEST SERVICE\nFINANCING\nServices\nProducts\nCompany\nNews\nMaintenance Program\nAbout Us\n\nKen Newman wanted to build a company that family, friends, and neighbors in Northeastern New Jersey could trust for all their heating, ventilation, and air conditioning (HVAC) services.\n\nHe wanted to help create healthy homes that were comfortable and efficient. He knew it was important to staff his company with friendly, knowledgeable workers who could help bring his vision to life.\n\nKen graduated from Lincoln Technical Institute in 1990, where he majored in HVAC. He joined the U.S. Navy shortly after, where he went to Boiler School under the Navy’s SAM 2 program. Ken served on the Fast Frigate Ship USS Ainsworth for two years and then served in the U.S. Naval Reserve for the remainder of his service.\n\nNewman’s Heating & A/C opened its doors in 1998. We’re a small, family-owned company with big dreams to be the best HVAC company in New Jersey.\n\nOur in-house capabilities include complete residential service for all brands, installation of new and replacement heating and cooling equipment, an array of plumbing services, and a full range of home comfort service programs and products. Commercially, we offer design, installation, electrical, piping, replacement equipment, and heat coil service repair.\n\nSince its inception, the firm has steadily grown thanks to Ken’s commitment to quality and craftsmanship. We have a full team of expert technicians, experienced supervisors, and thorough, dedicated office team members ready to handle whatever needs may arise. The office staff includes Ken’s wife, Dana, who is responsible for managing the office and support functions for the firm.\n\nAt Newman’s Heating & A/C, we concentrate our efforts and expertise on reducing your heating and cooling bills and extending the useful life of your HVAC equipment.\n\nWe have all the necessary state-of-the-art computerized data and accounting systems. However, we take it one step further with real people who have a caring attitude and the dedication to meet your needs.\n\nWe take a lot of pride in our work. Each employee demonstrates this pride each day by meeting client needs—one client at a time!\n\nNeed HVAC Service?\nContact the experts at Newman’s Heating & A/C.\nCall us at 862-429-3670!\nREQUEST SERVICE\nVeteran-Owned Company\nGIVE US A CALL!\n862-429-3670\n\n123 Hoffman Blvd.\nEast Orange, NJ 07017\n\n\nEmail Us: customer@newmanshvac.net\n\nServices\n\n\nProducts\n\n\nCompany\n\n\nNews\n\n\nMaintenance Program\n\n© 2026 All Rights Reserved. Privacy Policy · Terms & Conditions · Site Map· Accessibility Statement",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://newmanshvac.net/company/#fl-main-content",
+        "https://newmanshvac.net/company/#menu-primary",
+        "https://newmanshvac.net/site-map/",
+        "https://newmanshvac.net/company/#fl-main-content",
+        "https://newmanshvac.net/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/residential/",
+        "https://newmanshvac.net/residential/air-conditioning/",
+        "https://newmanshvac.net/residential/air-ducts/",
+        "https://newmanshvac.net/residential/air-handlers/",
+        "https://newmanshvac.net/residential/boilers/",
+        "https://newmanshvac.net/residential/duct-cleaning/",
+        "https://newmanshvac.net/residential/ductless-systems/",
+        "https://newmanshvac.net/residential/furnaces/",
+        "https://newmanshvac.net/residential/heat-pumps/",
+        "https://newmanshvac.net/residential/indoor-air-quality/",
+        "https://newmanshvac.net/residential/whole-house-generators/",
+        "https://newmanshvac.net/residential/zone-control-systems/",
+        "https://newmanshvac.net/commercial/",
+        "https://newmanshvac.net/commercial/cooling/",
+        "https://newmanshvac.net/commercial/heating/",
+        "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "https://newmanshvac.net/residential/faucet-repairs/",
+        "https://newmanshvac.net/residential/garbage-disposals/",
+        "https://newmanshvac.net/residential/leak-detection-services/",
+        "https://newmanshvac.net/residential/pipe-repairs/",
+        "https://newmanshvac.net/residential/plumbing/",
+        "https://newmanshvac.net/residential/repiping/",
+        "https://newmanshvac.net/residential/tankless-water-heaters/",
+        "https://newmanshvac.net/residential/toilet-repairs/",
+        "https://newmanshvac.net/residential/water-filters/",
+        "https://newmanshvac.net/residential/water-heaters/",
+        "https://newmanshvac.net/residential/water-softeners/",
+        "https://newmanshvac.net/products/",
+        "https://newmanshvac.net/products/coleman/",
+        "https://newmanshvac.net/products/air-quality-and-comfort-solutions/",
+        "https://newmanshvac.net/hvac-brands-we-install-service-nj/",
+        "https://newmanshvac.net/company/",
+        "https://newmanshvac.net/service-area/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/pseg-rebates/",
+        "https://newmanshvac.net/reviews/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/request-estimate/",
+        "https://newmanshvac.net/careers/",
+        "https://newmanshvac.net/contact/",
+        "https://newmanshvac.net/news/",
+        "https://newmanshvac.net/preventative-maintenance-program/",
+        "https://newmanshvac.net/service-area/",
+        "https://newmanshvac.net/",
+        "https://newmanshvac.net/service-area/",
+        "https://newmanshvac.net/residential/furnaces/",
+        "https://newmanshvac.net/residential/air-conditioning/",
+        "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/",
+        "https://newmanshvac.net/residential/",
+        "https://newmanshvac.net/products/",
+        "https://newmanshvac.net/company/",
+        "https://newmanshvac.net/news/",
+        "https://newmanshvac.net/preventative-maintenance-program/",
+        "https://newmanshvac.net/privacy-policy/",
+        "https://newmanshvac.net/terms-conditions/",
+        "https://newmanshvac.net/site-map/",
+        "https://newmanshvac.net/accessibility-statement/",
+        "https://newmanshvac.net/request-service/"
+      ]
+    },
+    "booking": {
+      "url": "https://newmanshvac.net/request-service/",
+      "finalUrl": "https://newmanshvac.net/request-service/",
+      "status": 200,
+      "title": "Request Service | Heating, AC, Plumbing | Repair, Install",
+      "forms": [
+        {
+          "action": "/request-service/#gf_4",
+          "method": "post",
+          "id": "gform_4",
+          "cls": "",
+          "fieldCount": 15,
+          "fieldNames": [
+            "input_23",
+            "input_1.3",
+            "input_1.6",
+            "input_2",
+            "input_3",
+            "input_4",
+            "input_9",
+            "input_5",
+            "input_7",
+            "input_8",
+            "input_6",
+            "input_21.1",
+            "g-recaptcha-response",
+            "input_19",
+            "input_20"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lfh4NgrAAAAACRwagUQeV6ThbvOBQ2YFUIOaXHL&co=aHR0cHM6Ly9uZXdtYW5zaHZhYy5uZXQ6NDQz&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&theme=light&size=normal&anchor-ms=20000&execute-ms=30000&cb=fadzymndtlkb",
+        "about:blank",
+        "https://www.google.com/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&k=6Lfh4NgrAAAAACRwagUQeV6ThbvOBQ2YFUIOaXHL&bft=0dAFcWeA6qauA7HBWP56Ox6U2no5x-TSZ7fNCuuZ3mr8_NsHLSUxmVpuDpSHh42JGLgS2Ko_2cnLS_dC6zvR7247tAKgKtAfiebA"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "customer@newmanshvac.net"
+      ],
+      "tel": [
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18624293670"
+        },
+        {
+          "href": "tel:18624293670",
+          "text": "862-429-3670",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18624293670"
+        }
+      ],
+      "owners": [],
+      "bodyText": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCustomise\nReject All\nAccept All\nPowered by\nSkip to Content\nSkip to navigation\nSite map\nSkip to content\n862-429-3670\nREQUEST SERVICE\nFINANCING\nServices\nProducts\nCompany\nNews\nMaintenance Program\nRequest Service\n\n\"*\" indicates required fields\n\nNAME*\nFirst\nLast\nEMAIL*\nPHONE\nSELECT A SERVICE ITEM*\n-- select a Service Item --\nAir Conditioners\nAir Ducts\nAir Handlers\nBoilers\nDuct Cleaning\nDuctless Systems\nFaucet Repairs\nGarbage Disposals\nGas Furnaces\nHeat Pumps\nIndoor Air Quality\nLeak Detection Systems\nPipe Repairs\nPlumbing\nRepiping\nTankless Water Heaters\nToilet Repairs\nWater Filters\nWater Heaters\nWater Softeners\nWhole-House Generators\nWhole-House Humidifiers and Dehumidifiers\nZone Control Systems\nOther\nSELECT TYPE OF SERVICE\nSelect one...\nInstallation\nMaintenance\nRepair\nReplacement\nTuneup\nPREFERRED DAY OF SERVICE*\nAny Day\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nPREFERRED TIME OF SERVICE*\nAny Time\nMorning\nMidday\nAfternoon\nEvening\nHOW CAN WE HELP?*\nCONSENT*\nBy submitting this form and signing up for texts, you consent to receive customer care and marketing messages from Newmans HVAC at the number provided, including messages sent by an autodialer. Consent is not a condition of purchase. Msg & data rates may apply. Msg frequency varies. Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available). Reply HELP for help. Visit https://newmanshvac.net/privacy-policy/\n I give my consent\nCAPTCHA\n\nVeteran-Owned Company\nGIVE US A CALL!\n862-429-3670\n\n123 Hoffman Blvd.\nEast Orange, NJ 07017\n\n\nEmail Us: customer@newmanshvac.net\n\nServices\n\n\nProducts\n\n\nCompany\n\n\nNews\n\n\nMaintenance Program\n\n© 2026 All Rights Reserved. Privacy Policy · Terms & Conditions · Site Map· Accessibility Statement",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://newmanshvac.net/request-service/#fl-main-content",
+        "https://newmanshvac.net/request-service/#menu-primary",
+        "https://newmanshvac.net/site-map/",
+        "https://newmanshvac.net/request-service/#fl-main-content",
+        "https://newmanshvac.net/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/residential/",
+        "https://newmanshvac.net/residential/air-conditioning/",
+        "https://newmanshvac.net/residential/air-ducts/",
+        "https://newmanshvac.net/residential/air-handlers/",
+        "https://newmanshvac.net/residential/boilers/",
+        "https://newmanshvac.net/residential/duct-cleaning/",
+        "https://newmanshvac.net/residential/ductless-systems/",
+        "https://newmanshvac.net/residential/furnaces/",
+        "https://newmanshvac.net/residential/heat-pumps/",
+        "https://newmanshvac.net/residential/indoor-air-quality/",
+        "https://newmanshvac.net/residential/whole-house-generators/",
+        "https://newmanshvac.net/residential/zone-control-systems/",
+        "https://newmanshvac.net/commercial/",
+        "https://newmanshvac.net/commercial/cooling/",
+        "https://newmanshvac.net/commercial/heating/",
+        "https://newmanshvac.net/residential/residential-plumbing-services/",
+        "https://newmanshvac.net/residential/faucet-repairs/",
+        "https://newmanshvac.net/residential/garbage-disposals/",
+        "https://newmanshvac.net/residential/leak-detection-services/",
+        "https://newmanshvac.net/residential/pipe-repairs/",
+        "https://newmanshvac.net/residential/plumbing/",
+        "https://newmanshvac.net/residential/repiping/",
+        "https://newmanshvac.net/residential/tankless-water-heaters/",
+        "https://newmanshvac.net/residential/toilet-repairs/",
+        "https://newmanshvac.net/residential/water-filters/",
+        "https://newmanshvac.net/residential/water-heaters/",
+        "https://newmanshvac.net/residential/water-softeners/",
+        "https://newmanshvac.net/products/",
+        "https://newmanshvac.net/products/coleman/",
+        "https://newmanshvac.net/products/air-quality-and-comfort-solutions/",
+        "https://newmanshvac.net/hvac-brands-we-install-service-nj/",
+        "https://newmanshvac.net/company/",
+        "https://newmanshvac.net/service-area/",
+        "https://newmanshvac.net/financing/",
+        "https://newmanshvac.net/pseg-rebates/",
+        "https://newmanshvac.net/reviews/",
+        "https://newmanshvac.net/request-service/",
+        "https://newmanshvac.net/request-estimate/",
+        "https://newmanshvac.net/careers/",
+        "https://newmanshvac.net/contact/",
+        "https://newmanshvac.net/news/",
+        "https://newmanshvac.net/preventative-maintenance-program/",
+        "https://newmanshvac.net/",
+        "https://newmanshvac.net/residential/",
+        "https://newmanshvac.net/products/",
+        "https://newmanshvac.net/company/",
+        "https://newmanshvac.net/news/",
+        "https://newmanshvac.net/preventative-maintenance-program/",
+        "https://newmanshvac.net/privacy-policy/",
+        "https://newmanshvac.net/terms-conditions/",
+        "https://newmanshvac.net/site-map/",
+        "https://newmanshvac.net/accessibility-statement/",
+        "https://newmanshvac.net/request-service/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 48,
+    "at": "2026-11-03T23:43:04.429Z",
+    "statusCounts": {
+      "200": 48
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://newmanshvac.net/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/newmans-heating-air-conditioning/desktop-home.png",
+    "desktop_clean": "evidence/screenshots/newmans-heating-air-conditioning/desktop-home-overlays-hidden.png",
+    "desktop_full": "evidence/screenshots/newmans-heating-air-conditioning/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/newmans-heating-air-conditioning/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/newmans-heating-air-conditioning/desktop-about.png",
+    "desktop_booking": "evidence/screenshots/newmans-heating-air-conditioning/desktop-booking.png",
+    "mobile_asis": "evidence/screenshots/newmans-heating-air-conditioning/mobile-home.png",
+    "mobile_clean": "evidence/screenshots/newmans-heating-air-conditioning/mobile-home-overlays-hidden.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": true,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": true
+    },
+    "sinceYear": 1998,
+    "copyrightYear": 2026,
+    "emails": [
+      "customer@newmanshvac.net"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "REQUEST SERVICE -> https://newmanshvac.net/request-service/",
+      "REQUEST SERVICE -> https://newmanshvac.net/request-service/",
+      "Request Service -> https://newmanshvac.net/request-service/",
+      "SCHEDULE FREE CONSULTATION -> https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp#",
+      "SCHEDULE CONSULTATION -> https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp#",
+      "REQUEST SERVICE -> https://newmanshvac.net/request-service/"
+    ]
+  },
+  "ctaClickTests": [
+    {
+      "text": "SCHEDULE FREE CONSULTATION",
+      "href": "#",
+      "effect": "script-handled (not testable)",
+      "signals": [
+        "onclick@A",
+        "class:n2-style-56000e74ec0ed06b7607173e2fc766c@A",
+        "listener:click"
+      ],
+      "at": "2026-11-03T23:48:11.192Z"
+    },
+    {
+      "text": "SCHEDULE CONSULTATION",
+      "href": "#",
+      "effect": "script-handled (not testable)",
+      "signals": [
+        "onclick@A",
+        "class:n2-style-a72401a28fb7b1636dad458fa359964@A",
+        "listener:click"
+      ],
+      "at": "2026-11-03T23:48:13.943Z"
+    }
+  ]
+}

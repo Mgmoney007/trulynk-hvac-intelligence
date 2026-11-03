@@ -1,0 +1,25 @@
+{
+  "id": "fix-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Fix+Hvac/data=!4m7!3m6!1s0x50fe38293c3983b:0x5e103152c2395408!8m2!3d40.8490615!4d-73.983218!16s%2Fg%2F11nb62l2lc!19sChIJO5jDk4LjDwURCFQ5wlIxEF4",
+  "retrievedAt": "2026-11-03T22:49:31.989Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Fix Hvac",
+  "category": "HVAC contractor",
+  "address": "1435 10th St Apt 402, Fort Lee, NJ 07024, United States ",
+  "phone": "+1 908-639-2079 ",
+  "website": "https://fix-hvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Fix+Hvac/data=!4m7!3m6!1s0x50fe38293c3983b:0x5e103152c2395408!8m2!3d40.8490615!4d-73.983218!16s%2Fg%2F11nb62l2lc!19sChIJO5jDk4LjDwURCFQ5wlIxEF4?hl=en",
+  "screenshot": "evidence/screenshots/fix-hvac/google-maps-listing.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "irepair-heating-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/IRepair+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2febed200ee6d:0x946edd25b1773364!8m2!3d40.8793963!4d-74.1419367!16s%2Fg%2F1hc4px8mv!19sChIJbe4A0r7-wokRZDN3sSXdbpQ",
+  "retrievedAt": "2026-11-03T23:04:28.340Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "IRepair Heating & Air Conditioning",
+  "category": "Air conditioning contractor",
+  "address": "23 Hilton St, Clifton, NJ 07011, United States ",
+  "phone": "+1 973-666-1200 ",
+  "website": "http://www.irepairhvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": true,
+  "canonicalUrl": "https://www.google.com/maps/place/IRepair+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2febed200ee6d:0x946edd25b1773364!8m2!3d40.8793963!4d-74.1419367!16s%2Fg%2F1hc4px8mv!19sChIJbe4A0r7-wokRZDN3sSXdbpQ?hl=en",
+  "screenshot": "evidence/screenshots/irepair-heating-air-conditioning/google-maps-listing.png"
+}

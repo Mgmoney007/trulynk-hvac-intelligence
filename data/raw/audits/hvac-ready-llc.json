@@ -1,0 +1,915 @@
+{
+  "firecrawl": [],
+  "id": "hvac-ready-llc",
+  "name": "HVAC Ready LLC",
+  "website": "http://hvacready.com/",
+  "auditedAt": "2026-11-03T22:59:22.069Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://hvacready.com/",
+      "at": "2026-11-03T22:59:25.338Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvacready.com/",
+      "title": "HVAC Ready",
+      "ms": 3236,
+      "error": null,
+      "linkCount": 52
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.hvacready.com/about",
+      "at": "2026-11-03T22:59:27.938Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvacready.com/about",
+      "title": "About — HVAC Ready",
+      "ms": 1632,
+      "error": null,
+      "linkCount": 46
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://hvacready.com/",
+      "at": "2026-11-03T22:59:44.432Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvacready.com/",
+      "title": "HVAC Ready",
+      "ms": 2484,
+      "error": null,
+      "linkCount": 52
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.hvacready.com/",
+    "title": "HVAC Ready",
+    "lang": "en-US",
+    "metaDescription": null,
+    "h1": [],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 2547,
+    "bodyText": "Skip to Content\nServices\nInstant HVAC Quote\nFinancing\nAbout\nService Area\nSchedule Free Estimate\nService you can trust and depend on\nHeating\nCooling\nWater Heaters\nKeep small problems from becoming big\nRepair\nPreventive Maintenance\nFinancing\nHVAC Ready provides honest, experienced, and reliable heating and cooling services. \nCall for emergency heating or cooling service for your home or business. We also offer residential and commercial maintenance and installation for central air conditioning, heat pumps, gas furnaces and boilers, ductless mini-splits, humidifiers, dehumidifiers, water heaters, and air purifiers. Fully insured, licensed, and bonded.\n\nIs there a space in your home that just doesn’t get comfortable? Too hot in the summer, too cold in the winter? It’s just possible that a ductless mini-split heat pump is the answer to your problem.  Call HVAC READY today for a consultation and free estimate.\n\nDuctless Specialists \nHave you been told you need a new boiler or AC? Maybe you do. But maybe you don’t.\n\nWe’re glad to offer a second opinion. We specialize in keeping old equipment running. Because while that old boiler or HVAC system might not be the most efficient, it might also be what your finances can currently afford — and we’re here to help. Call us to schedule a service call and possible repair. If in the end a replacement is really your best (or only) option, we’ll tell you so, and deduct up to 50% of the cost of the visit or repair from the cost of a new system. And we offer financing, too. \n\nHVAC READY HEATING & COOLING\nTeaneck, New Jersey\n(201) 357-0838 — WhatsApp, Call or Text\nLicensed, Bonded, and Fully Insured — NJ HVAC Lic. #5700\n\nDesigned & Created by SuccessVariable\n\nInstant HVAC Quote\n×\nLoading...",
+    "links": [
+      {
+        "href": "/cart",
+        "abs": "https://www.hvacready.com/cart",
+        "text": "0",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#page",
+        "abs": "https://www.hvacready.com/#page",
+        "text": "Skip to Content",
+        "visible": true,
+        "aboveFold": true,
+        "h": 59,
+        "w": 179,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.hvacready.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 80,
+        "w": 121,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://www.hvacready.com/heating",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://www.hvacready.com/cooling",
+        "text": "Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/water-heating",
+        "abs": "https://www.hvacready.com/water-heating",
+        "text": "Water Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/repair",
+        "abs": "https://www.hvacready.com/repair",
+        "text": "Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/preventive-maintenance",
+        "abs": "https://www.hvacready.com/preventive-maintenance",
+        "text": "Preventive Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/instant-quote",
+        "abs": "https://www.hvacready.com/instant-quote",
+        "text": "Instant HVAC Quote",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 156,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing-1",
+        "abs": "https://www.hvacready.com/financing-1",
+        "text": "Financing",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 77,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://www.hvacready.com/about",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 47,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-area",
+        "abs": "https://www.hvacready.com/service-area",
+        "text": "Service Area",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 98,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/hvacready/?hl=en",
+        "abs": "https://www.instagram.com/hvacready/?hl=en",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 20,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/HVACReadyLLC/",
+        "abs": "https://www.facebook.com/HVACReadyLLC/",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 20,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://wa.me/12013570838",
+        "abs": "https://wa.me/12013570838",
+        "text": "Schedule Free Estimate",
+        "visible": true,
+        "aboveFold": true,
+        "h": 59,
+        "w": 239,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.hvacready.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://www.hvacready.com/heating",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://www.hvacready.com/cooling",
+        "text": "Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/water-heating",
+        "abs": "https://www.hvacready.com/water-heating",
+        "text": "Water Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/repair",
+        "abs": "https://www.hvacready.com/repair",
+        "text": "Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/preventive-maintenance",
+        "abs": "https://www.hvacready.com/preventive-maintenance",
+        "text": "Preventive Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/instant-quote",
+        "abs": "https://www.hvacready.com/instant-quote",
+        "text": "Instant HVAC Quote",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing-1",
+        "abs": "https://www.hvacready.com/financing-1",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://www.hvacready.com/about",
+        "text": "About",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-area",
+        "abs": "https://www.hvacready.com/service-area",
+        "text": "Service Area",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/hvacready/?hl=en",
+        "abs": "https://www.instagram.com/hvacready/?hl=en",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/HVACReadyLLC/",
+        "abs": "https://www.facebook.com/HVACReadyLLC/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://wa.me/12013570838",
+        "abs": "https://wa.me/12013570838",
+        "text": "Schedule Free Estimate",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.hvacready.com/services",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 282,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/instant-quote",
+        "abs": "https://www.hvacready.com/instant-quote",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 526,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing-1",
+        "abs": "https://www.hvacready.com/financing-1",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 260,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://www.hvacready.com/about",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 160,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-area",
+        "abs": "https://www.hvacready.com/service-area",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 332,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/hvacready/?hl=en",
+        "abs": "https://www.instagram.com/hvacready/?hl=en",
+        "text": "Instagram",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 25,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/HVACReadyLLC/",
+        "abs": "https://www.facebook.com/HVACReadyLLC/",
+        "text": "Facebook",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 25,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://wa.me/12013570838",
+        "abs": "https://wa.me/12013570838",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 67,
+        "w": 298,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.hvacready.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 210,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://www.hvacready.com/heating",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 209,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://www.hvacready.com/cooling",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 206,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/water-heating",
+        "abs": "https://www.hvacready.com/water-heating",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/repair",
+        "abs": "https://www.hvacready.com/repair",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 170,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/preventive-maintenance",
+        "abs": "https://www.hvacready.com/preventive-maintenance",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 54,
+        "w": 643,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://www.hvacready.com/heating",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": true,
+        "h": 63,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling",
+        "abs": "https://www.hvacready.com/cooling",
+        "text": "Cooling",
+        "visible": true,
+        "aboveFold": true,
+        "h": 63,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/water-heating",
+        "abs": "https://www.hvacready.com/water-heating",
+        "text": "Water Heaters",
+        "visible": true,
+        "aboveFold": true,
+        "h": 63,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/repair",
+        "abs": "https://www.hvacready.com/repair",
+        "text": "Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 63,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/preventive-maintenance",
+        "abs": "https://www.hvacready.com/preventive-maintenance",
+        "text": "Preventive Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 63,
+        "w": 174,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/financing-1",
+        "abs": "https://www.hvacready.com/financing-1",
+        "text": "Financing",
+        "visible": true,
+        "aboveFold": true,
+        "h": 63,
+        "w": 146,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://wa.me/message/QKSH75O6KIIBJ1",
+        "abs": "https://wa.me/message/QKSH75O6KIIBJ1",
+        "text": "Call HVAC READY today for a consultation and free estimate.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 521,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/financing-1",
+        "abs": "https://www.hvacready.com/financing-1",
+        "text": "we offer financing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 143,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 357-0838",
+        "abs": "tel:(201) 357-0838",
+        "text": "(201) 357-0838",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 148,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://successvariable.com",
+        "abs": "https://successvariable.com/",
+        "text": "SuccessVariable",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 131,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Open Menu Close Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Open Menu Close Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Instant HVAC Quote",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "×",
+        "visible": true,
+        "aboveFold": true
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://assets.squarespace.com/@sqs/polyfiller/1.7.7/modern.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-70c095566385eee0-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-e5e841b3ffca0b5d-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5b1fd9aed201e910-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-88f72d5f001c770b-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-2e71e68f6532e2b6-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-971e4598d508fad2-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/common-203d4ebeb94f7c05-min.en-US.js",
+      "https://assets.squarespace.com/universal/scripts-compressed/performance-328508cb201b215f-min.en-US.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/39188.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/64023.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/image-effect-parallax.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/image-effect-refracted-lines.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/website.components.imageFluid.visitor.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/13ccca86-e96a-4069-a2a1-50da03edf170_1203/website.components.button.visitor.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/image-effect-film-grain.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/website.components.imageFluid.shared.constants.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/06a79c0a-35be-4280-a19e-d99dc6956340_1033/website.components.html.visitor.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/39882.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/image-effect-refracted-circles.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/92452.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/18018.js",
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/a60ddcf2-5694-40a5-af79-0f4d03daf602_1020/image-effect-liquid.js",
+      "https://app.hvacquote.ai/sticky-tab-widget.js?companyId=5fdfcdef-01ba-4e14-acfc-755be3effb6b&tabColor=%2523b42538",
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.dd2e7c413d1ccd0b88463e1d3ea04e6c.js"
+    ],
+    "jsonLd": [
+      {
+        "url": "https://www.hvacready.com",
+        "name": "HVAC Ready",
+        "image": "//images.squarespace-cdn.com/content/v1/64586d0ad9dddc7948219a3a/30344e4b-7a05-40dc-8922-a06ed012eae6/HVACREADY.png",
+        "@context": "http://schema.org",
+        "@type": "WebSite"
+      },
+      {
+        "address": "",
+        "image": "https://static1.squarespace.com/static/64586d0ad9dddc7948219a3a/t/6458717d144c604c400b9a00/1773932670775/",
+        "@context": "http://schema.org",
+        "@type": "LocalBusiness"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 6,
+    "timing": {
+      "dcl": 1725,
+      "load": 2694,
+      "ttfb": 770
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.038,
+        "sig": "hvac-sticky-wrapper hvac-sticky-wrapper ",
+        "text": "instant hvac quote\n×\nloading..."
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.hvacready.com/",
+    "navMs": 3236,
+    "tel": [
+      {
+        "href": "tel:(201) 357-0838",
+        "text": "(201) 357-0838",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013570838"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Squarespace",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.hvacready.com/",
+    "navMs": 2484,
+    "timing": {
+      "dcl": 1363,
+      "load": 1653,
+      "ttfb": 329
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(201) 357-0838",
+        "text": "(201) 357-0838",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013570838"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [
+      "Instant HVAC Quote"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.123,
+        "sig": "hvac-sticky-wrapper hvac-sticky-wrapper ",
+        "text": "instant hvac quote\n×\nloading..."
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 1678
+  },
+  "pages": {
+    "about": {
+      "url": "https://www.hvacready.com/about",
+      "finalUrl": "https://www.hvacready.com/about",
+      "status": 200,
+      "title": "About — HVAC Ready",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:(201) 357-0838",
+          "text": "(201) 357-0838",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12013570838"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to Content\nServices\nInstant HVAC Quote\nFinancing\nAbout\nService Area\nSchedule Free Estimate\n\nHVAC READY \nHeating & Cooling\nis a family-owned \nsmall business \nbased in Teaneck, New Jersey.\nHVAC Ready provides honest, experienced, and reliable heating and cooling services. Voted Best HVAC Specialist in 2024 by the readers of The Jewish Link.   \n\nWe offer service, maintenance, and installation for residential and commercial HVAC systems including central air, heat pumps, gas furnaces and boilers, ductless mini splits, dehumidifiers, humidifiers, PTAC units, water heaters, and air purifiers. Call or WhatsApp for an appointment.\nHVAC READY HEATING & COOLING\nTeaneck, New Jersey\n(201) 357-0838 — WhatsApp, Call or Text\nLicensed, Bonded, and Fully Insured — NJ HVAC Lic. #5700\n\nDesigned & Created by SuccessVariable\n\nInstant HVAC Quote\n×\nLoading...",
+      "vendors": [
+        {
+          "name": "Squarespace",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.hvacready.com/cart",
+        "https://www.hvacready.com/about#page",
+        "https://www.hvacready.com/",
+        "https://www.hvacready.com/heating",
+        "https://www.hvacready.com/cooling",
+        "https://www.hvacready.com/water-heating",
+        "https://www.hvacready.com/repair",
+        "https://www.hvacready.com/preventive-maintenance",
+        "https://www.hvacready.com/instant-quote",
+        "https://www.hvacready.com/financing-1",
+        "https://www.hvacready.com/about",
+        "https://www.hvacready.com/service-area",
+        "https://www.hvacready.com/",
+        "https://www.hvacready.com/heating",
+        "https://www.hvacready.com/cooling",
+        "https://www.hvacready.com/water-heating",
+        "https://www.hvacready.com/repair",
+        "https://www.hvacready.com/preventive-maintenance",
+        "https://www.hvacready.com/instant-quote",
+        "https://www.hvacready.com/financing-1",
+        "https://www.hvacready.com/about",
+        "https://www.hvacready.com/service-area",
+        "https://www.hvacready.com/services",
+        "https://www.hvacready.com/instant-quote",
+        "https://www.hvacready.com/financing-1",
+        "https://www.hvacready.com/about",
+        "https://www.hvacready.com/service-area",
+        "https://www.hvacready.com/",
+        "https://www.hvacready.com/heating",
+        "https://www.hvacready.com/cooling",
+        "https://www.hvacready.com/water-heating",
+        "https://www.hvacready.com/repair",
+        "https://www.hvacready.com/preventive-maintenance"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 15,
+    "at": "2026-11-03T22:59:41.894Z",
+    "statusCounts": {
+      "200": 13,
+      "400": 2
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.hvacready.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/hvac-ready-llc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/hvac-ready-llc/desktop-home-full.png",
+    "desktop_about": "evidence/screenshots/hvac-ready-llc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/hvac-ready-llc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Facebook -> https://www.facebook.com/HVACReadyLLC/",
+      "Schedule Free Estimate -> https://wa.me/12013570838",
+      "Schedule Free Estimate -> https://wa.me/12013570838",
+      "Facebook -> https://www.facebook.com/HVACReadyLLC/",
+      "Call HVAC READY today for a consultation and free estimate. -> https://wa.me/message/QKSH75O6KIIBJ1"
+    ]
+  }
+}

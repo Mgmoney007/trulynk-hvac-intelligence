@@ -1,0 +1,25 @@
+{
+  "id": "best-new-york-hvac-repair",
+  "placeUrl": "https://www.google.com/maps/place/Best+New+York+HVAC+Repair/data=!4m7!3m6!1s0x89c2585fb2856aeb:0x9ce0e03a9cb7c924!8m2!3d40.7268456!4d-73.9749849!16s%2Fg%2F11g6m_c_z8!19sChIJ62qFsl9YwokRJMm3nDrg4Jw",
+  "retrievedAt": "2026-11-03T22:52:32.714Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Best New York HVAC Repair",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 917-924-6063 ",
+  "website": "http://bestnewyorkhvacrepair.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Best+New+York+HVAC+Repair/data=!4m7!3m6!1s0x89c2585fb2856aeb:0x9ce0e03a9cb7c924!8m2!3d40.7268456!4d-73.9749849!16s%2Fg%2F11g6m_c_z8!19sChIJ62qFsl9YwokRJMm3nDrg4Jw?hl=en",
+  "screenshot": "evidence/screenshots/best-new-york-hvac-repair/google-maps-listing.png"
+}

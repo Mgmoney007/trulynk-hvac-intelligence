@@ -1,0 +1,25 @@
+{
+  "id": "msj-hvac-services",
+  "placeUrl": "https://www.google.com/maps/place/MSJ+HVAC+Services/data=!4m7!3m6!1s0x243904992c82ea3:0x21b4a2ee6da5ee68!8m2!3d40.073132!4d-74.6318776!16s%2Fg%2F11ln22x5z5!19sChIJoy7IkkmQQwIRaO6lbe6itCE",
+  "retrievedAt": "2026-11-03T22:50:03.824Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "MSJ HVAC Services",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-467-8618 ",
+  "website": "https://msjhvacservices.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday9 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/MSJ+HVAC+Services/data=!4m7!3m6!1s0x243904992c82ea3:0x21b4a2ee6da5ee68!8m2!3d40.073132!4d-74.6318776!16s%2Fg%2F11ln22x5z5!19sChIJoy7IkkmQQwIRaO6lbe6itCE?hl=en",
+  "screenshot": "evidence/screenshots/msj-hvac-services/google-maps-listing.png"
+}

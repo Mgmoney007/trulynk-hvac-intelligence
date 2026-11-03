@@ -1,0 +1,1598 @@
+{
+  "firecrawl": [],
+  "id": "andes-hvac-aire-acondicionado",
+  "name": "Andes HVAC Aire Acondicionado",
+  "website": "https://andeshvacaireacondicionadollc.com/",
+  "auditedAt": "2026-11-03T23:15:13.822Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://andeshvacaireacondicionadollc.com/",
+      "at": "2026-11-03T23:15:18.197Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://andeshvacaireacondicionadollc.com/",
+      "title": "Andes HVAC | HVAC Repair in North Jersey",
+      "ms": 3833,
+      "error": null,
+      "linkCount": 62
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://andeshvacaireacondicionadollc.com/about",
+      "at": "2026-11-03T23:15:21.033Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://andeshvacaireacondicionadollc.com/about",
+      "title": "About Andes HVAC | North Jersey HVAC Repair Company",
+      "ms": 1890,
+      "error": null,
+      "linkCount": 35
+    },
+    {
+      "step": "desktop_booking",
+      "method": "playwright_chromium_desktop",
+      "url": "https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+      "at": "2026-11-03T23:15:23.722Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+      "title": "Boiler Repair in North Jersey | Andes HVAC",
+      "ms": 2022,
+      "error": null,
+      "linkCount": 35
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://andeshvacaireacondicionadollc.com/",
+      "at": "2026-11-03T23:16:03.314Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://andeshvacaireacondicionadollc.com/",
+      "title": "Andes HVAC | HVAC Repair in North Jersey",
+      "ms": 1947,
+      "error": null,
+      "linkCount": 62
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://andeshvacaireacondicionadollc.com/",
+    "title": "Andes HVAC | HVAC Repair in North Jersey",
+    "lang": "en",
+    "metaDescription": "North Jersey HVAC repair. Central air conditioning repair, boiler repair, mini-split repair & installation, and rooftop AC repair. Free estimates.",
+    "h1": [
+      "North Jersey HVAC Repair\n& Air Conditioning"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 7660,
+    "bodyText": "Serving North Jersey — Essex, Bergen, Union & Passaic Counties\nMon – Fri · 9 AM – 5 PM · Sat · 9 AM – 2 PM\n(973) 855-9039\nHome\nServices\nLocations\nGallery\nBlog\nAbout\nGet Free Estimate\nSERVING NORTH JERSEY · MON – SAT\nNorth Jersey HVAC Repair\n& Air Conditioning\n\nCool in Summer. Warm All Winter.\n\nAndes HVAC repairs central air conditioning, boilers and mini-splits — and replaces the units that are finished — across Montclair, Ridgewood, Summit, Westfield and the rest of North Jersey. We work on existing homes and buildings, not new construction.\n\nGet Free Estimate\n(973) 855-9039\n\nTake 15% off your next maintenance service — just mention it when you call\n\nGet Your Free Estimate\n\nNo pressure, no obligation — just an honest diagnosis and a real price.\n\nLoading the estimate form…\nCore Services\n4\nCORE SERVICES\nTowns Served\n20+\nTOWNS SERVED\nCustomer Discount\n15%\nCUSTOMER DISCOUNT\nRepair & Replacement\nWord-of-Mouth Reputation\nOpen 6 Days\nFree Estimates\nWHAT WE OFFER\nOur Services\n\nCentral air, boilers, mini-splits and full unit replacement — everything an existing North Jersey home needs to stay comfortable, from one crew.\n\nFREE ESTIMATE\nCentral Air Conditioning Repair\n\nDiagnosis and repair for systems that already exist\n\nView service details\nFREE ESTIMATE\nBoiler Repair\n\nSteam and hot-water heat, kept running through winter\n\nView service details\nFREE ESTIMATE\nMini-Split Repair & Installation\n\nDuctless cooling and heat for rooms the ducts never reached\n\nView service details\nFREE ESTIMATE\nRooftop AC Repair\n\nPackaged rooftop units and roof-set condensers, fixed on the roof\n\nView service details\nGet Free Estimate\nView All 4 Services\nWHY ANDES HVAC\nWhy Choose Us\n\nSix reasons homeowners across Montclair, Ridgewood, Summit and the rest of North Jersey keep calling us back.\n\nExisting Buildings Only\n\nWe service, repair and replace equipment in homes and buildings that are already standing and lived in. No new construction, no rough-ins — just the systems people are relying on today.\n\nWe Diagnose Before We Quote\n\nGauges on the ports, amp draw measured, controls checked in order. Finding the actual fault is what stops a thirty-dollar part turning into a whole new system.\n\nHonest, Up-Front Pricing\n\nFree estimates and the price for the repair before the work starts. Ask about 15% off your next maintenance service.\n\nOpen Six Days a Week\n\nMonday to Friday 9 AM – 5 PM and Saturdays 9 AM – 2 PM, which is usually the easiest time for someone to actually be home.\n\nRepair or Replace, Both Priced\n\nIf a unit is worth fixing we fix it. If it is finished, we say so and price the replacement — both numbers, side by side, so the choice is yours.\n\nCooling and Heating, One Call\n\nCentral air, boilers, mini-splits and full unit replacement under one roof. No separate contractor for the half of the year you are not using.\n\nCOVERAGE\nAreas We Serve\n\nBased in Kearny — serving a 25-mile radius across Essex, Bergen, Union, Passaic and Hudson counties.\n\nService Area — Across North Jersey\nKearny, NJ\nHudson County · Home Base\nView →\nMontclair, NJ\nEssex County\nView →\nUpper Montclair, NJ\nEssex County\nView →\nGlen Ridge, NJ\nEssex County\nView →\nShort Hills, NJ\nEssex County\nView →\nLivingston, NJ\nEssex County\nView →\nNorth Caldwell, NJ\nEssex County\nView →\nEssex Fells, NJ\nEssex County\nView →\nRoseland, NJ\nEssex County\nView →\nCedar Grove, NJ\nEssex County\nView →\nRutherford, NJ\nBergen County\nView →\nLyndhurst, NJ\nBergen County\nView →\nRidgewood, NJ\nBergen County\nView →\nGlen Rock, NJ\nBergen County\nView →\nWyckoff, NJ\nBergen County\nView →\nParamus, NJ\nBergen County\nView →\nWayne, NJ\nPassaic County\nView →\nSummit, NJ\nUnion County\nView →\nWestfield, NJ\nUnion County\nView →\nCranford, NJ\nUnion County\nView →\nScotch Plains, NJ\nUnion County\nView →\nGet Free Estimate\nView All Areas\n(973) 855-9039\nGOT QUESTIONS?\nFrequently Asked Questions\nWhat areas does Andes HVAC serve?\nWe work across North Jersey — Montclair, Upper Montclair, Glen Ridge, Short Hills, Livingston, North Caldwell, Essex Fells, Roseland, Cedar Grove, Rutherford, Lyndhurst, Ridgewood, Glen Rock, Wyckoff, Paramus, Wayne, Summit, Westfield, Cranford and Scotch Plains, plus the towns in between. We're based in Kearny. If you're not sure whether you're in range, call and ask.\nDo you work on new construction?\nNo. We work exclusively on existing homes and buildings — service and repair on equipment that's already in place. That's a deliberate choice: a house that's already finished and lived in is a completely different job from a rough-in, and it's the one we're set up to do well.\nWhat does a repair cost?\nIt depends entirely on what has failed. A capacitor is a small job; a compressor or a heat exchanger is not. We diagnose the system first, then give you the price for the repair before any work starts — and if the unit isn't worth repairing, we'll tell you that instead of charging you to find out slowly. Estimates are free.\nWhat does the in-person evaluation cost?\nNothing. Coming out to look at the system, work out what's wrong, and write up a price for the repair costs nothing — there's no trip charge, service call fee, or diagnostic fee added to the bill afterwards. We tell you what we found and what the fix costs before any work starts, and you decide then. If the unit turns out not to be worth repairing, we'll say so, and you haven't paid anything to find that out.\nWhat hours are you open?\nMonday through Friday, 9:00 AM to 5:00 PM, and Saturdays from 9:00 AM to 2:00 PM. Saturday appointments are often the easiest time for people to be home and walk us through what the system has been doing.\nDo you offer any discount?\nYes — 15% off your next maintenance service. Refer a friend or neighbor and the same 15% applies again. Most of our work comes from word of mouth, so we'd rather put it there than into advertising.\nShould I repair my air conditioner or replace it?\nThe honest test is age against the cost of the repair. Under about ten years old with a normal repair, fix it. Fifteen years or more with a major component gone — compressor, coil, heat exchanger — and you're usually paying a large share of a new system to extend an old one. Systems still running R-22 refrigerant tip the math toward replacement faster, because the refrigerant itself is now expensive. We'll price both and let you decide.\nMy house has no ductwork. Can I still get air conditioning?\nYes, and this is a lot of what we do in towns like Montclair, Glen Ridge, Rutherford and Ridgewood. A ductless mini-split puts an indoor head in the room itself and runs a small refrigerant line back to an outdoor unit, so nothing has to be opened up for duct chases. One head handles a room or an open floor; a multi-zone system handles several with one outdoor unit.\nWhy is my upstairs so much hotter than downstairs?\nUsually it's airflow rather than capacity. Undersized or crushed returns, a clogged filter, leaking duct in a hot attic, or dampers that were never balanced will all starve the top floor while the first floor over-cools. That's worth checking before anyone sells you a bigger system. If the ductwork genuinely can't serve the floor, one ductless head upstairs fixes it permanently and costs far less than replacing everything.\nDo you repair boilers as well as air conditioning?\nYes — gas and oil, steam and hot water. No heat, no hot water, banging pipes, cold rooms at the end of the loop, pressure that won't hold. Most heating failures turn out to be a control, a circulator pump, a zone valve, or air in the system rather than the boiler itself, which is why we test before we quote.\nHow often should I have the system serviced?\nOnce a year for each side: cooling in the spring, heating in the fall. It isn't a sales line — most of the emergency calls we get in July and January are for something that would have been visible and cheap during a maintenance visit. Returning customers get 15% off that service.\nNo Heat? No Cooling?\n\nFree estimates across North Jersey · Mon – Fri 9 AM – 5 PM, Sat 9 AM – 2 PM.\n\nGet Free Estimate\n(973) 855-9039\nAndes HVAC\n\nCentral air conditioning repair, boiler repair, mini-split repair and installation, and rooftop AC repair across North Jersey. We work on existing homes and buildings, not new construction.\n\n15% Off Your Next Service\n\nSERVICES\nCentral Air Conditioning Repair\nBoiler Repair\nMini-Split Repair & Installation\nRooftop AC Repair\nView All Services →\nSERVICE AREAS\nKearny, NJ\nMontclair, NJ\nUpper Montclair, NJ\nGlen Ridge, NJ\nShort Hills, NJ\nLivingston, NJ\nNorth Caldwell, NJ\nEssex Fells, NJ\nAll Locations →\nCONTACT\n(973) 855-9039\nandesrefrigerationusa@gmail.com\nServing North Jersey — Essex, Bergen, Union & Passaic Counties\nMonday – Friday\n9:00 AM – 5:00 PM\nSaturday\n9:00 AM – 2:00 PM\n\n© 2026 Andes HVAC Aire Acondicionado LLC. All rights reserved.\n\nHVAC Repair & Air Conditioning · Serving North Jersey",
+    "links": [
+      {
+        "href": "tel:+19738559039",
+        "abs": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://andeshvacaireacondicionadollc.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 80,
+        "w": 121,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://andeshvacaireacondicionadollc.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 45,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://andeshvacaireacondicionadollc.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 80,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/locations",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations",
+        "text": "Locations",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 90,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/gallery",
+        "abs": "https://andeshvacaireacondicionadollc.com/gallery",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 53,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://andeshvacaireacondicionadollc.com/blog",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 33,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://andeshvacaireacondicionadollc.com/about",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 45,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19738559039",
+        "abs": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 207,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/central-ac-repair",
+        "abs": "https://andeshvacaireacondicionadollc.com/services/central-ac-repair",
+        "text": "FREE ESTIMATE Central Air Conditioning Repair Diagnosis and repair for systems t",
+        "visible": true,
+        "aboveFold": false,
+        "h": 534,
+        "w": 411,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/boiler-repair",
+        "abs": "https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+        "text": "FREE ESTIMATE Boiler Repair Steam and hot-water heat, kept running through winte",
+        "visible": true,
+        "aboveFold": false,
+        "h": 534,
+        "w": 411,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/mini-split-repair-installation",
+        "abs": "https://andeshvacaireacondicionadollc.com/services/mini-split-repair-installation",
+        "text": "FREE ESTIMATE Mini-Split Repair & Installation Ductless cooling and heat for roo",
+        "visible": true,
+        "aboveFold": false,
+        "h": 534,
+        "w": 411,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/rooftop-ac-repair",
+        "abs": "https://andeshvacaireacondicionadollc.com/services/rooftop-ac-repair",
+        "text": "FREE ESTIMATE Rooftop AC Repair Packaged rooftop units and roof-set condensers, ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 502,
+        "w": 411,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://andeshvacaireacondicionadollc.com/services",
+        "text": "View All 4 Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 187,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/kearny",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/kearny",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/montclair",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/montclair",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/upper-montclair",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/upper-montclair",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/glen-ridge",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/glen-ridge",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/short-hills",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/short-hills",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/livingston",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/livingston",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/north-caldwell",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/north-caldwell",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/essex-fells",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/essex-fells",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/roseland",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/roseland",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/cedar-grove",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/cedar-grove",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/rutherford",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/rutherford",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/lyndhurst",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/lyndhurst",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/ridgewood",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/ridgewood",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/glen-rock",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/glen-rock",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/wyckoff",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/wyckoff",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/paramus",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/paramus",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/wayne",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/wayne",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/summit",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/summit",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/westfield",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/westfield",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/cranford",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/cranford",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations/scotch-plains",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/scotch-plains",
+        "text": "View →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations",
+        "text": "View All Areas",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 178,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19738559039",
+        "abs": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 188,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19738559039",
+        "abs": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 192,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/central-ac-repair",
+        "abs": "https://andeshvacaireacondicionadollc.com/services/central-ac-repair",
+        "text": "Central Air Conditioning Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 200,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/boiler-repair",
+        "abs": "https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+        "text": "Boiler Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 81,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/mini-split-repair-installation",
+        "abs": "https://andeshvacaireacondicionadollc.com/services/mini-split-repair-installation",
+        "text": "Mini-Split Repair & Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 195,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/rooftop-ac-repair",
+        "abs": "https://andeshvacaireacondicionadollc.com/services/rooftop-ac-repair",
+        "text": "Rooftop AC Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 119,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services",
+        "abs": "https://andeshvacaireacondicionadollc.com/services",
+        "text": "View All Services →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 131,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations/kearny",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/kearny",
+        "text": "Kearny, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 66,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations/montclair",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/montclair",
+        "text": "Montclair, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 83,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations/upper-montclair",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/upper-montclair",
+        "text": "Upper Montclair, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 127,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations/glen-ridge",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/glen-ridge",
+        "text": "Glen Ridge, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 92,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations/short-hills",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/short-hills",
+        "text": "Short Hills, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 88,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations/livingston",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/livingston",
+        "text": "Livingston, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 89,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations/north-caldwell",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/north-caldwell",
+        "text": "North Caldwell, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 118,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations/essex-fells",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations/essex-fells",
+        "text": "Essex Fells, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 92,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/locations",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations",
+        "text": "All Locations →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 104,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+19738559039",
+        "abs": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 106,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:andesrefrigerationusa@gmail.com",
+        "abs": "mailto:andesrefrigerationusa@gmail.com",
+        "text": "andesrefrigerationusa@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 222,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/",
+        "abs": "https://andeshvacaireacondicionadollc.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://andeshvacaireacondicionadollc.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://andeshvacaireacondicionadollc.com/services",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/locations",
+        "abs": "https://andeshvacaireacondicionadollc.com/locations",
+        "text": "Locations",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/gallery",
+        "abs": "https://andeshvacaireacondicionadollc.com/gallery",
+        "text": "Gallery",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://andeshvacaireacondicionadollc.com/blog",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://andeshvacaireacondicionadollc.com/about",
+        "text": "About",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19738559039",
+        "abs": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Get Free Estimate",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Toggle menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Get Free Estimate",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Get Free Estimate",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Kearny, NJ Hudson County · Home Base",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Montclair, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Upper Montclair, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Glen Ridge, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Short Hills, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Livingston, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "North Caldwell, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Essex Fells, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Roseland, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Cedar Grove, NJ Essex County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Rutherford, NJ Bergen County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Lyndhurst, NJ Bergen County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Ridgewood, NJ Bergen County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Glen Rock, NJ Bergen County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Wyckoff, NJ Bergen County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Paramus, NJ Bergen County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Wayne, NJ Passaic County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Summit, NJ Union County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Westfield, NJ Union County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Cranford, NJ Union County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Scotch Plains, NJ Union County",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Get Free Estimate",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "What areas does Andes HVAC serve?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do you work on new construction?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "What does a repair cost?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "What does the in-person evaluation cost?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "What hours are you open?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do you offer any discount?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Should I repair my air conditioner or replace it?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "My house has no ductwork. Can I still get air conditioning?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Why is my upstairs so much hotter than downstairs?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do you repair boilers as well as air conditioning?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "How often should I have the system serviced?",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Get Free Estimate",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Scroll to top",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Close menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle services list",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle locations list",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Get Free Estimate",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://andeshvacaireacondicionadollc.com/assets/index-AOOoHsAV.js",
+      "https://andeshvacaireacondicionadollc.com/~flock.js",
+      "https://andeshvacaireacondicionadollc.com/__l5e/events.270c78a44fc53e7b.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "HVACBusiness",
+        "additionalType": "https://schema.org/HomeAndConstructionBusiness",
+        "name": "Andes HVAC Aire Acondicionado LLC",
+        "alternateName": "Andes HVAC",
+        "legalName": "Andes HVAC Aire Acondicionado LLC",
+        "slogan": "HVAC Repair & Air Conditioning Across North Jersey",
+        "description": "HVAC repair company servicing existing homes and buildings in North Jersey: central air conditioning repair, boiler repair, mini-split repair and installation, and rooftop AC repair. We do not take new construction.",
+        "image": "https://andeshvacaireacondicionadollc.com/andes-hvac-og.jpg",
+        "logo": "https://andeshvacaireacondicionadollc.com/andes-hvac-logo-320.webp",
+        "url": "https://andeshvacaireacondicionadollc.com/",
+        "telephone": "+1-973-855-9039",
+        "email": "andesrefrigerationusa@gmail.com",
+        "priceRange": "$$",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kearny",
+          "addressRegion": "NJ",
+          "postalCode": "07032",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 40.7684,
+          "longitude": -74.1454
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "09:00",
+            "closes": "17:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Saturday",
+            "opens": "09:00",
+            "closes": "14:00"
+          }
+        ],
+        "areaServed": [
+          "Short Hills, NJ",
+          "North Caldwell, NJ",
+          "Essex Fells, NJ",
+          "Glen Ridge, NJ",
+          "Montclair, NJ",
+          "Upper Montclair, NJ",
+          "Livingston, NJ",
+          "Roseland, NJ",
+          "Cedar Grove, NJ",
+          "Rutherford, NJ",
+          "Lyndhurst, NJ",
+          "Wyckoff, NJ",
+          "Ridgewood, NJ",
+          "Glen Rock, NJ",
+          "Paramus, NJ",
+          "Wayne, NJ",
+          "Westfield, NJ",
+          "Summit, NJ",
+          "Cranford, NJ",
+          "Scotch Plains, NJ"
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "HVAC Services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Central Air Conditioning Repair"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Boiler Repair"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Mini-Split Repair & Installation"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Rooftop AC Repair"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What areas does Andes HVAC serve?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We work across North Jersey — Montclair, Upper Montclair, Glen Ridge, Short Hills, Livingston, North Caldwell, Essex Fells, Roseland, Cedar Grove, Rutherford, Lyndhurst, Ridgewood, Glen Rock, Wyckoff, Paramus, Wayne, Summit, Westfield, Cranford and Scotch Plains, plus the towns in between. We're based in Kearny. If you're not sure whether you're in range, call and ask."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you work on new construction?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. We work exclusively on existing homes and buildings — service and repair on equipment that's already in place. That's a deliberate choice: a house that's already finished and lived in is a completely different job from a rough-in, and it's the one we're set up to do well."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What does a repair cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It depends entirely on what has failed. A capacitor is a small job; a compressor or a heat exchanger is not. We diagnose the system first, then give you the price for the repair before any work starts — and if the unit isn't worth repairing, we'll tell you that instead of charging you to find out slowly. Estimates are free."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What does the in-person evaluation cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Nothing. Coming out to look at the system, work out what's wrong, and write up a price for the repair costs nothing — there's no trip charge, service call fee, or diagnostic fee added to the bill afterwards. We tell you what we found and what the fix costs before any work starts, and you decide then. If the unit turns out not to be worth repairing, we'll say so, and you haven't paid anything to find that out."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What hours are you open?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Monday through Friday, 9:00 AM to 5:00 PM, and Saturdays from 9:00 AM to 2:00 PM. Saturday appointments are often the easiest time for people to be home and walk us through what the system has been doing."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you offer any discount?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — 15% off your next maintenance service. Refer a friend or neighbor and the same 15% applies again. Most of our work comes from word of mouth, so we'd rather put it there than into advertising."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I repair my air conditioner or replace it?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The honest test is age against the cost of the repair. Under about ten years old with a normal repair, fix it. Fifteen years or more with a major component gone — compressor, coil, heat exchanger — and you're usually paying a large share of a new system to extend an old one. Systems still running R-22 refrigerant tip the math toward replacement faster, because the refrigerant itself is now expensive. We'll price both and let you decide."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "My house has no ductwork. Can I still get air conditioning?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, and this is a lot of what we do in towns like Montclair, Glen Ridge, Rutherford and Ridgewood. A ductless mini-split puts an indoor head in the room itself and runs a small refrigerant line back to an outdoor unit, so nothing has to be opened up for duct chases. One head handles a room or an open floor; a multi-zone system handles several with one outdoor unit."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why is my upstairs so much hotter than downstairs?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Usually it's airflow rather than capacity. Undersized or crushed returns, a clogged filter, leaking duct in a hot attic, or dampers that were never balanced will all starve the top floor while the first floor over-cools. That's worth checking before anyone sells you a bigger system. If the ductwork genuinely can't serve the floor, one ductless head upstairs fixes it permanently and costs far less than replacing everything."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you repair boilers as well as air conditioning?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — gas and oil, steam and hot water. No heat, no hot water, banging pipes, cold rooms at the end of the loop, pressure that won't hold. Most heating failures turn out to be a control, a circulator pump, a zone valve, or air in the system rather than the boiler itself, which is why we test before we quote."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How often should I have the system serviced?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Once a year for each side: cooling in the spring, heating in the fall. It isn't a sales line — most of the emergency calls we get in July and January are for something that would have been visible and cheap during a maintenance visit. Returning customers get 15% off that service."
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 8,
+    "timing": {
+      "dcl": 2059,
+      "load": 2936,
+      "ttfb": 1023
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.117,
+        "sig": " sticky top-0 z-50 border-b border-border bg-background/90 shadow-card backdrop-blur-md supports-[backdrop-filter]:bg-ba",
+        "text": "home\nservices\nlocations\ngallery\nblog\nabout\nget free estimate"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://andeshvacaireacondicionadollc.com/",
+    "navMs": 3833,
+    "tel": [
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://andeshvacaireacondicionadollc.com/",
+    "navMs": 1947,
+    "timing": {
+      "dcl": 964,
+      "load": 1029,
+      "ttfb": 348
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      },
+      {
+        "href": "tel:+19738559039",
+        "text": "(973) 855-9039",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19738559039"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Get Free Estimate"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.122,
+        "sig": " sticky top-0 z-50 border-b border-border bg-background/90 shadow-card backdrop-blur-md supports-[backdrop-filter]:bg-ba",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 1,
+    "brokenImages": [],
+    "textChars": 8770
+  },
+  "pages": {
+    "about": {
+      "url": "https://andeshvacaireacondicionadollc.com/about",
+      "finalUrl": "https://andeshvacaireacondicionadollc.com/about",
+      "status": 200,
+      "title": "About Andes HVAC | North Jersey HVAC Repair Company",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "andesrefrigerationusa@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        },
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        },
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        },
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        },
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Serving North Jersey — Essex, Bergen, Union & Passaic Counties\nMon – Fri · 9 AM – 5 PM · Sat · 9 AM – 2 PM\n(973) 855-9039\nHome\nServices\nLocations\nGallery\nBlog\nAbout\nGet Free Estimate\nAbout Andes HVAC\n\nAn HVAC repair company serving North Jersey — six days a week, on buildings that already exist.\n\nOUR STORY\nWe fix what's already there\n\nAndes HVAC is built on a simple promise: show up when we said we would, find out what is actually wrong before quoting anything, and leave the property the way we found it. We have grown almost entirely by word of mouth across Montclair, Ridgewood, Summit, Westfield and the rest of North Jersey — one satisfied neighbor at a time.\n\nWe work exclusively on existing homes and buildings. That is a deliberate choice, not a limitation. A house that is already finished and lived in is a completely different job from a rough-in on a new build: the ductwork is where it is, the line set has to be routed through finished walls, the boiler sits where a boiler has sat for eighty years, and nobody wants their ceilings opened up. That is the work we are set up to do, and doing only that is why we are good at it.\n\nToday we handle central air conditioning repair, gas and oil boiler repair on steam and hot-water systems, mini-split repair and installation, and rooftop AC repair. We are open Monday through Friday, 9 AM to 5 PM, and Saturdays 9 AM to 2 PM, and every estimate is free.\n\nWhat We Stand For\nReliability\n\nWe show up on the day we said, at the time we said. If something moves the schedule, you hear it from us first.\n\nRespect\n\nIt's your home. We put covers down, work clean around the mechanical room, and take the old equipment away with us.\n\nDiagnose, Don't Guess\n\nGauges on the ports, amp draw measured, controls checked in order. No parts replaced hopefully and billed anyway.\n\nCommunity\n\nWe live here too. We work local, and our reputation travels by word of mouth rather than advertising.\n\nOur Mission\n\nKeep North Jersey homes comfortable through both halves of the year, on the equipment they already have, for as long as that equipment is worth keeping. Treat every customer like a neighbor, because most of them are. Earn the next referral with the work itself.\n\nOur Promise\n\nWe'll tell you honestly whether a unit is worth repairing — including when the answer costs us the bigger job. And if you're not happy with the work, tell us and we'll come back and make it right. That's how we've built a customer list that runs almost entirely on referrals.\n\nReady to Work With Us?\n\nGet a free, no-pressure estimate on an air conditioning repair, a boiler that has stopped, a mini-split install, or a rooftop unit that will not run.\n\nGet Free Estimate\n(973) 855-9039\nView Services\nNo Heat? No Cooling?\n\nFree estimates across North Jersey · Mon – Fri 9 AM – 5 PM, Sat 9 AM – 2 PM.\n\nGet Free Estimate\n(973) 855-9039\nAndes HVAC\n\nCentral air conditioning repair, boiler repair, mini-split repair and installation, and rooftop AC repair across North Jersey. We work on existing homes and buildings, not new construction.\n\n15% Off Your Next Service\n\nSERVICES\nCentral Air Conditioning Repair\nBoiler Repair\nMini-Split Repair & Installation\nRooftop AC Repair\nView All Services →\nSERVICE AREAS\nKearny, NJ\nMontclair, NJ\nUpper Montclair, NJ\nGlen Ridge, NJ\nShort Hills, NJ\nLivingston, NJ\nNorth Caldwell, NJ\nEssex Fells, NJ\nAll Locations →\nCONTACT\n(973) 855-9039\nandesrefrigerationusa@gmail.com\nServing North Jersey — Essex, Bergen, Union & Passaic Counties\nMonday – Friday\n9:00 AM – 5:00 PM\nSaturday\n9:00 AM – 2:00 PM\n\n© 2026 Andes HVAC Aire Acondicionado LLC. All rights reserved.\n\nHVAC Repair & Air Conditioning · Serving North Jersey",
+      "vendors": [],
+      "links": [
+        "https://andeshvacaireacondicionadollc.com/",
+        "https://andeshvacaireacondicionadollc.com/",
+        "https://andeshvacaireacondicionadollc.com/services",
+        "https://andeshvacaireacondicionadollc.com/locations",
+        "https://andeshvacaireacondicionadollc.com/gallery",
+        "https://andeshvacaireacondicionadollc.com/blog",
+        "https://andeshvacaireacondicionadollc.com/about",
+        "https://andeshvacaireacondicionadollc.com/services",
+        "https://andeshvacaireacondicionadollc.com/services/central-ac-repair",
+        "https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+        "https://andeshvacaireacondicionadollc.com/services/mini-split-repair-installation",
+        "https://andeshvacaireacondicionadollc.com/services/rooftop-ac-repair",
+        "https://andeshvacaireacondicionadollc.com/services",
+        "https://andeshvacaireacondicionadollc.com/locations/kearny",
+        "https://andeshvacaireacondicionadollc.com/locations/montclair",
+        "https://andeshvacaireacondicionadollc.com/locations/upper-montclair",
+        "https://andeshvacaireacondicionadollc.com/locations/glen-ridge",
+        "https://andeshvacaireacondicionadollc.com/locations/short-hills",
+        "https://andeshvacaireacondicionadollc.com/locations/livingston",
+        "https://andeshvacaireacondicionadollc.com/locations/north-caldwell",
+        "https://andeshvacaireacondicionadollc.com/locations/essex-fells",
+        "https://andeshvacaireacondicionadollc.com/locations",
+        "https://andeshvacaireacondicionadollc.com/",
+        "https://andeshvacaireacondicionadollc.com/",
+        "https://andeshvacaireacondicionadollc.com/services",
+        "https://andeshvacaireacondicionadollc.com/locations",
+        "https://andeshvacaireacondicionadollc.com/gallery",
+        "https://andeshvacaireacondicionadollc.com/blog",
+        "https://andeshvacaireacondicionadollc.com/about"
+      ]
+    },
+    "booking": {
+      "url": "https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+      "finalUrl": "https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+      "status": 200,
+      "title": "Boiler Repair in North Jersey | Andes HVAC",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "andesrefrigerationusa@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        },
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        },
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        },
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        },
+        {
+          "href": "tel:+19738559039",
+          "text": "(973) 855-9039",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19738559039"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Serving North Jersey — Essex, Bergen, Union & Passaic Counties\nMon – Fri · 9 AM – 5 PM · Sat · 9 AM – 2 PM\n(973) 855-9039\nHome\nServices\nLocations\nGallery\nBlog\nAbout\nGet Free Estimate\nAll Services\nBoiler Repair\n\nSteam and hot-water heat, kept running through winter\n\nFREE ESTIMATE\nNORTH JERSEY · MON – SAT\n\nA lot of North Jersey heat still comes from a boiler, and much of it is older than the people living with it. We repair gas and oil-fired boilers on both steam and hot-water systems — no heat, no hot water, short cycling, banging pipes, cold rooms at the far end of the loop, pressure that will not hold. Most of what goes wrong is a control, a pump, a valve, or air in the system rather than the boiler itself, and finding that out first is what keeps a repair from turning into a replacement you did not need.\n\nOur Process\n1\nGet Heat On\n\nOn a no-heat call the first job is getting the system running safely, then working out why it stopped.\n\n2\nTest the Controls\n\nAquastat, thermostat, pump, zone valves and safeties get checked in order, not swapped at random.\n\n3\nRepair\n\nWe replace what actually failed and correct the pressure, the venting or the air that caused it.\n\n4\nBalance & Check\n\nThe system is cycled, the zones are proved, and we confirm every room is getting heat before we go.\n\nWhat's Included\nNo-heat and no-hot-water calls on gas and oil boilers\nCirculator pumps, zone valves and thermostats\nAquastats, gas valves, ignitors and control boards\nLow-water cutoffs, sight glasses and steam vents\nExpansion tanks, pressure faults and system bleeding\nRadiator and baseboard balancing for cold rooms\nReady to Book?\n\nGet your free, no-pressure estimate today. Existing homes and buildings only — we don't take new construction.\n\nGet Free Estimate\n(973) 855-9039\n15% Customer Discount\n\nTake 15% off your next maintenance service. Refer a friend or neighbor and the same 15% applies again — most of our work comes from word of mouth, and we'd rather reward that than spend it on advertising.\n\nNo Heat? No Cooling?\n\nFree estimates across North Jersey · Mon – Fri 9 AM – 5 PM, Sat 9 AM – 2 PM.\n\nGet Free Estimate\n(973) 855-9039\nAndes HVAC\n\nCentral air conditioning repair, boiler repair, mini-split repair and installation, and rooftop AC repair across North Jersey. We work on existing homes and buildings, not new construction.\n\n15% Off Your Next Service\n\nSERVICES\nCentral Air Conditioning Repair\nBoiler Repair\nMini-Split Repair & Installation\nRooftop AC Repair\nView All Services →\nSERVICE AREAS\nKearny, NJ\nMontclair, NJ\nUpper Montclair, NJ\nGlen Ridge, NJ\nShort Hills, NJ\nLivingston, NJ\nNorth Caldwell, NJ\nEssex Fells, NJ\nAll Locations →\nCONTACT\n(973) 855-9039\nandesrefrigerationusa@gmail.com\nServing North Jersey — Essex, Bergen, Union & Passaic Counties\nMonday – Friday\n9:00 AM – 5:00 PM\nSaturday\n9:00 AM – 2:00 PM\n\n© 2026 Andes HVAC Aire Acondicionado LLC. All rights reserved.\n\nHVAC Repair & Air Conditioning · Serving North Jersey",
+      "vendors": [],
+      "links": [
+        "https://andeshvacaireacondicionadollc.com/",
+        "https://andeshvacaireacondicionadollc.com/",
+        "https://andeshvacaireacondicionadollc.com/services",
+        "https://andeshvacaireacondicionadollc.com/locations",
+        "https://andeshvacaireacondicionadollc.com/gallery",
+        "https://andeshvacaireacondicionadollc.com/blog",
+        "https://andeshvacaireacondicionadollc.com/about",
+        "https://andeshvacaireacondicionadollc.com/services",
+        "https://andeshvacaireacondicionadollc.com/services/central-ac-repair",
+        "https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+        "https://andeshvacaireacondicionadollc.com/services/mini-split-repair-installation",
+        "https://andeshvacaireacondicionadollc.com/services/rooftop-ac-repair",
+        "https://andeshvacaireacondicionadollc.com/services",
+        "https://andeshvacaireacondicionadollc.com/locations/kearny",
+        "https://andeshvacaireacondicionadollc.com/locations/montclair",
+        "https://andeshvacaireacondicionadollc.com/locations/upper-montclair",
+        "https://andeshvacaireacondicionadollc.com/locations/glen-ridge",
+        "https://andeshvacaireacondicionadollc.com/locations/short-hills",
+        "https://andeshvacaireacondicionadollc.com/locations/livingston",
+        "https://andeshvacaireacondicionadollc.com/locations/north-caldwell",
+        "https://andeshvacaireacondicionadollc.com/locations/essex-fells",
+        "https://andeshvacaireacondicionadollc.com/locations",
+        "https://andeshvacaireacondicionadollc.com/",
+        "https://andeshvacaireacondicionadollc.com/",
+        "https://andeshvacaireacondicionadollc.com/services",
+        "https://andeshvacaireacondicionadollc.com/locations",
+        "https://andeshvacaireacondicionadollc.com/gallery",
+        "https://andeshvacaireacondicionadollc.com/blog",
+        "https://andeshvacaireacondicionadollc.com/about"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 31,
+    "at": "2026-11-03T23:16:00.437Z",
+    "statusCounts": {
+      "200": 31
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://andeshvacaireacondicionadollc.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/andes-hvac-aire-acondicionado/desktop-home.png",
+    "desktop_full": "evidence/screenshots/andes-hvac-aire-acondicionado/desktop-home-full.png",
+    "desktop_about": "evidence/screenshots/andes-hvac-aire-acondicionado/desktop-about.png",
+    "desktop_booking": "evidence/screenshots/andes-hvac-aire-acondicionado/desktop-booking.png",
+    "mobile_asis": "evidence/screenshots/andes-hvac-aire-acondicionado/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "andesrefrigerationusa@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "FREE ESTIMATE Central Air Conditioning Repair Diagnosis and repair for systems t -> https://andeshvacaireacondicionadollc.com/services/central-ac-repair",
+      "FREE ESTIMATE Boiler Repair Steam and hot-water heat, kept running through winte -> https://andeshvacaireacondicionadollc.com/services/boiler-repair",
+      "FREE ESTIMATE Mini-Split Repair & Installation Ductless cooling and heat for roo -> https://andeshvacaireacondicionadollc.com/services/mini-split-repair-installation",
+      "FREE ESTIMATE Rooftop AC Repair Packaged rooftop units and roof-set condensers,  -> https://andeshvacaireacondicionadollc.com/services/rooftop-ac-repair"
+    ]
+  },
+  "ctaClickTests": []
+}

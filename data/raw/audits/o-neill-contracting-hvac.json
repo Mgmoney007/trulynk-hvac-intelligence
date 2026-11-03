@@ -1,0 +1,160 @@
+{
+  "firecrawl": [],
+  "id": "o-neill-contracting-hvac",
+  "name": "O'Neill Contracting HVAC",
+  "website": "https://www.oneillac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "auditedAt": "2026-11-03T23:00:54.749Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.oneillac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "at": "2026-11-03T23:01:48.576Z",
+      "access": "challenge",
+      "status": 429,
+      "finalUrl": "https://www.oneillac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "title": "Just a moment...",
+      "ms": 25466,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.oneillac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "at": "2026-11-03T23:01:56.372Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.oneillac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "title": "O'Neill Contracting Inc. | HVAC | Bergen County, NJ, USA",
+      "ms": 7678,
+      "error": null,
+      "linkCount": 26
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "challenge",
+      "status": 429,
+      "error": null,
+      "url": "https://www.oneillac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+    }
+  ],
+  "desktop": null,
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.oneillac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "navMs": 7678,
+    "timing": {
+      "dcl": 1098,
+      "load": 3041,
+      "ttfb": 221
+    },
+    "viewportMeta": "width=320, user-scalable=yes",
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(201)-385-6727",
+        "text": "(201)-385-6727",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013856727"
+      },
+      {
+        "href": "tel:201-385-6727",
+        "text": "Call Us",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12013856727"
+      },
+      {
+        "href": "tel:201-385-6727",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12013856727"
+      },
+      {
+        "href": "tel:(201)-385-6727",
+        "text": "(201)-385-6727",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013856727"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": "pagebackground_cjg9 pagebackground_cjg9 _7xvid ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 0.242,
+        "sig": "site_header cdnof4 site_header wixui-header ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 4,
+    "visibleNavLinks": 5,
+    "brokenImages": [],
+    "textChars": 2388
+  },
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "https://www.oneillac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/o-neill-contracting-hvac/desktop-home-access-failure.png",
+    "mobile_asis": "evidence/screenshots/o-neill-contracting-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

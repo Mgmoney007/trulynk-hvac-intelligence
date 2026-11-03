@@ -1,0 +1,25 @@
+{
+  "id": "muccia-plumbing-heating-ac",
+  "placeUrl": "https://www.google.com/maps/place/Muccia+Plumbing,+Heating+%26+AC/data=!4m7!3m6!1s0x89c2fa0efc8ca48f:0x111570649971b381!8m2!3d40.9049841!4d-74.0398811!16s%2Fg%2F1tf_p73h!19sChIJj6SM_A76wokRgbNxmWRwFRE",
+  "retrievedAt": "2026-11-03T22:58:14.009Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Muccia Plumbing, Heating & AC",
+  "category": "Plumber",
+  "address": "57 Orchard St, Hackensack, NJ 07601, United States ",
+  "phone": "+1 201-528-1753 ",
+  "website": "https://mucciaplumbing.com/",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Muccia+Plumbing,+Heating+%26+AC/data=!4m7!3m6!1s0x89c2fa0efc8ca48f:0x111570649971b381!8m2!3d40.9049841!4d-74.0398811!16s%2Fg%2F1tf_p73h!19sChIJj6SM_A76wokRgbNxmWRwFRE?hl=en",
+  "screenshot": "evidence/screenshots/muccia-plumbing-heating-ac/google-maps-listing.png"
+}

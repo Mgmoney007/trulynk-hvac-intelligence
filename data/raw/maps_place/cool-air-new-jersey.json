@@ -1,0 +1,25 @@
+{
+  "id": "cool-air-new-jersey",
+  "placeUrl": "https://www.google.com/maps/place/Cool+Air+New+Jersey/data=!4m7!3m6!1s0x89c251c93e12af17:0x7b9199aac9c5eed6!8m2!3d40.7179131!4d-74.0797011!16s%2Fg%2F11kp9d0z49!19sChIJF68SPslRwokR1u7FyaqZkXs",
+  "retrievedAt": "2026-11-03T22:52:00.975Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Cool Air New Jersey",
+  "category": "HVAC contractor",
+  "address": "2327 John F. Kennedy Blvd 3rd floor, Jersey City, NJ 07304, United States ",
+  "phone": "+1 201-744-2020 ",
+  "website": "http://coolairnewjersey.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday6 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Cool+Air+New+Jersey/data=!4m7!3m6!1s0x89c251c93e12af17:0x7b9199aac9c5eed6!8m2!3d40.7179131!4d-74.0797011!16s%2Fg%2F11kp9d0z49!19sChIJF68SPslRwokR1u7FyaqZkXs?hl=en",
+  "screenshot": "evidence/screenshots/cool-air-new-jersey/google-maps-listing.png"
+}

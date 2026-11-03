@@ -1,0 +1,25 @@
+{
+  "id": "zaina-service-tech",
+  "placeUrl": "https://www.google.com/maps/place/Zaina+Service+Tech/data=!4m7!3m6!1s0x89c2fddf1840c5a1:0x9f06ec6b7e94725e!8m2!3d40.897953!4d-74.147181!16s%2Fg%2F11h2qs6nml!19sChIJocVAGN_9wokRXnKUfmvsBp8",
+  "retrievedAt": "2026-11-03T23:02:41.590Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Zaina Service Tech",
+  "category": "HVAC contractor",
+  "address": "244 Trenton Ave, Paterson, NJ 07503, United States ",
+  "phone": "+1 201-206-0105 ",
+  "website": "https://www.zainaservicetech.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Zaina+Service+Tech/data=!4m7!3m6!1s0x89c2fddf1840c5a1:0x9f06ec6b7e94725e!8m2!3d40.897953!4d-74.147181!16s%2Fg%2F11h2qs6nml!19sChIJocVAGN_9wokRXnKUfmvsBp8?hl=en",
+  "screenshot": "evidence/screenshots/zaina-service-tech/google-maps-listing.png"
+}

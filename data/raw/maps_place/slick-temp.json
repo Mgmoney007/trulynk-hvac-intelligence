@@ -1,0 +1,25 @@
+{
+  "id": "slick-temp",
+  "placeUrl": "https://www.google.com/maps/place/Slick+Temp/data=!4m7!3m6!1s0x89c2ff89517a26ed:0xaeb62640aea26976!8m2!3d40.890031!4d-74.1638483!16s%2Fg%2F11yyg781mn!19sChIJ7SZ6UYn_wokRdmmirkAmtq4",
+  "retrievedAt": "2026-11-03T23:06:14.303Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Slick Temp",
+  "category": "HVAC contractor",
+  "address": "126 Circle Ave, Clifton, NJ 07011, United States ",
+  "phone": "+1 973-381-5035 ",
+  "website": "https://slicktemp.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–9 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Slick+Temp/data=!4m7!3m6!1s0x89c2ff89517a26ed:0xaeb62640aea26976!8m2!3d40.890031!4d-74.1638483!16s%2Fg%2F11yyg781mn!19sChIJ7SZ6UYn_wokRdmmirkAmtq4?hl=en",
+  "screenshot": "evidence/screenshots/slick-temp/google-maps-listing.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "temco-heating-air-conditoning-inc",
+  "placeUrl": "https://www.google.com/maps/place/Temco+Heating+%26+Air+Conditoning+Inc/data=!4m7!3m6!1s0x89c2e59b7013e2dd:0x5ad2ddfbe7fa19fc!8m2!3d41.0059848!4d-74.0440527!16s%2Fg%2F1tmy5_05!19sChIJ3eITcJvlwokR_Bn65_vd0lo",
+  "retrievedAt": "2026-11-03T23:00:32.917Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Temco Heating & Air Conditoning Inc",
+  "category": "HVAC contractor",
+  "address": "123 Patterson St, Hillsdale, NJ 07642, United States ",
+  "phone": "+1 201-358-0537 ",
+  "website": "http://www.temcoheatingandairconditioning.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7:30 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Temco+Heating+%26+Air+Conditoning+Inc/data=!4m7!3m6!1s0x89c2e59b7013e2dd:0x5ad2ddfbe7fa19fc!8m2!3d41.0059848!4d-74.0440527!16s%2Fg%2F1tmy5_05!19sChIJ3eITcJvlwokR_Bn65_vd0lo?hl=en",
+  "screenshot": "evidence/screenshots/temco-heating-air-conditoning-inc/google-maps-listing.png"
+}

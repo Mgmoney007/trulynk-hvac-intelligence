@@ -7,6 +7,8 @@ import path from 'node:path';
 import { ROOT, nowIso, readJson, writeJson, appendJsonl, probeUrl, pool, sleep } from './lib/util.mjs';
 import { newContext, navigate, detectOverlays, hideOverlays, collectPage, safeScreenshot, detectVendors, closeBrowser } from './lib/browser.mjs';
 import { normalizePhone, compareTelLink, telHrefProblem } from './lib/phone.mjs';
+import { ownerCandidates as ownerCandidatesLib } from './lib/owners.mjs';
+import { runCtaClickTests } from './lib/cta.mjs';
 
 const AUDIT_DIR = path.join(ROOT, 'data/raw/audits');
 const SHOT_DIR = path.join(ROOT, 'evidence/screenshots');
@@ -52,15 +54,8 @@ function yearsSignals(text) {
   return out;
 }
 
-function ownerCandidates(text) {
-  const out = new Set();
-  const name = "([A-Z][a-z'’]+(?:\\s[A-Z]\\.)?(?:\\s[A-Z][a-z'’\\-]+){1,2})";
-  const re1 = new RegExp(`\\b(?:owner|founder|co-founder|president|proprietor|ceo)(?:\\s+and\\s+\\w+)?[,:\\s\\-–]+${name}`, 'g');
-  const re2 = new RegExp(`${name},?\\s+(?:the\\s+)?(?:owner|founder|co-founder|president|proprietor|ceo)\\b`, 'g');
-  for (const m of text.matchAll(re1)) out.add(`${m[1]} | ${text.slice(Math.max(0, m.index - 40), m.index + m[0].length + 20).replace(/\s+/g, ' ')}`);
-  for (const m of text.matchAll(re2)) out.add(`${m[1]} | ${text.slice(Math.max(0, m.index - 40), m.index + m[0].length + 20).replace(/\s+/g, ' ')}`);
-  return [...out].slice(0, 6);
-}
+// Owner candidates come from scripts/lib/owners.mjs (stricter, tested). Strings: "Name | context".
+const ownerCandidates = text => ownerCandidatesLib(text).map(o => `${o.name} | ${o.context}`);
 
 function emailsFrom(text, links) {
   const s = new Set();
@@ -78,13 +73,22 @@ function sameSite(u, base) {
 }
 
 function pickPage(links, rx, base) {
-  const c = links.filter(l => l.abs && sameSite(l.abs, base) && !/^(tel|mailto|javascript):/i.test(l.href || '') && (rx.test(l.text) || rx.test(new URL(l.abs).pathname.replace(/[-_/]/g, ' '))));
+  // Ignore empty/self/anchor links: an empty-href "Contact Us" button resolves to the current page and must not
+  // stand in for the real contact page.
+  const self = String(base).split('#')[0].replace(/\/$/, '');
+  const c = links.filter(l => l.abs && (l.href || '').trim() && !/^#/.test(l.href.trim()) && l.abs.split('#')[0].replace(/\/$/, '') !== self
+    && sameSite(l.abs, base) && !/^(tel|mailto|javascript):/i.test(l.href || '') && (rx.test(l.text) || rx.test(new URL(l.abs).pathname.replace(/[-_/]/g, ' '))));
   c.sort((a, b) => new URL(a.abs).pathname.length - new URL(b.abs).pathname.length);
   return c[0]?.abs?.split('#')[0] || null;
 }
 
 async function shot(page, dir, name, opts) {
   const f = path.join(dir, name);
+  if (opts?.fullPage) {
+    // Very long pages can exhaust Chromium memory; cap full-page captures at 6000px.
+    const dims = await page.evaluate(() => ({ w: document.documentElement.clientWidth, h: document.documentElement.scrollHeight })).catch(() => null);
+    if (dims) opts = { fullPage: true, clip: { x: 0, y: 0, width: dims.w || 1366, height: Math.min(dims.h || 900, 6000) } };
+  }
   return (await safeScreenshot(page, f, opts)) ? path.relative(ROOT, f) : null;
 }
 
@@ -119,6 +123,9 @@ async function auditCompany(co, { force }) {
     }
     A.screenshots.desktop_full = await shot(page, dir, 'desktop-home-full.png', { fullPage: true });
     A.desktop = { ...d, status: nav.status, finalUrl: nav.finalUrl, navMs: nav.ms, tel: telInfo(d.links), vendors: detectVendors([...d.scripts, ...d.iframes, ...d.links.map(l => l.abs || '')]) };
+
+    // ---------- Empty-href CTA click test (read-only; see lib/cta.mjs) ----------
+    A.ctaClickTests = await runCtaClickTests(ctx, nav.finalUrl, d.links, dir);
 
     // ---------- Contact / about / booking pages ----------
     const base = nav.finalUrl;
@@ -246,8 +253,14 @@ async function main() {
   if (only) cos = cos.filter(c => only.includes(c.id));
   cos = cos.filter(c => c.website);
   await pool(cos, conc, async c => {
-    try { return await auditCompany(c, { force }); }
-    catch (e) { console.error(`FAILED ${c.id}: ${e.message}`); await appendJsonl(path.join(ROOT, 'logs/audit_errors.jsonl'), { id: c.id, at: nowIso(), error: e.message }); }
+    for (let attempt = 0; attempt < 2; attempt++) {
+      try { return await auditCompany(c, { force }); }
+      catch (e) {
+        console.error(`FAILED${attempt ? '' : ' (will retry)'} ${c.id}: ${e.message.split('\n')[0]}`);
+        await appendJsonl(path.join(ROOT, 'logs/audit_errors.jsonl'), { id: c.id, at: nowIso(), attempt, error: e.message.split('\n')[0] });
+        await sleep(3000);
+      }
+    }
   });
   await closeBrowser();
 }

@@ -1,0 +1,684 @@
+{
+  "firecrawl": [],
+  "id": "go-pro-heating-and-cooling",
+  "name": "Go Pro Heating and Cooling",
+  "website": "http://www.gopro-hvac.com/",
+  "auditedAt": "2026-11-03T23:02:47.681Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://www.gopro-hvac.com/",
+      "at": "2026-11-03T23:02:58.154Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.gopro-hvac.com/",
+      "title": "Go Pro Heating & Cooling | HVAC | New Jersey",
+      "ms": 10428,
+      "error": null,
+      "linkCount": 21
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.gopro-hvac.com/contact",
+      "at": "2026-11-03T23:03:52.326Z",
+      "access": "challenge",
+      "status": 429,
+      "finalUrl": "https://www.gopro-hvac.com/contact",
+      "title": "Just a moment...",
+      "ms": 25149,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.gopro-hvac.com/about",
+      "at": "2026-11-03T23:03:56.512Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.gopro-hvac.com/about",
+      "title": "About | Go Pro Heating & Cooling | HVAC | New Jersey",
+      "ms": 4117,
+      "error": null,
+      "linkCount": 14
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://www.gopro-hvac.com/",
+      "at": "2026-11-03T23:04:12.035Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.gopro-hvac.com/",
+      "title": "Go Pro Heating & Cooling | HVAC | New Jersey",
+      "ms": 7801,
+      "error": null,
+      "linkCount": 23
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_contact",
+      "access": "challenge",
+      "status": 429,
+      "error": null,
+      "url": "https://www.gopro-hvac.com/contact"
+    }
+  ],
+  "desktop": {
+    "url": "https://www.gopro-hvac.com/",
+    "title": "Go Pro Heating & Cooling | HVAC | New Jersey",
+    "lang": "en",
+    "metaDescription": "Go Pro Heating & Cooling is your go to for everything HVAC related in northern New Jersey. ",
+    "h1": [
+      "High Quality",
+      "Work by Qualified Technicians",
+      "Contact Us!"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 4910,
+    "bodyText": "Skip to Main Content\n\nHome\n\nAbout\n\nShowcase\n\nServices\n\nMore\n\nFree Estimate\nHigh Quality \nWork by Qualified Technicians\n\nCALL US\n\n973-938-2217­\n\nSTART ONLINE\n\nGet a free estimate in seconds\n\nThe Go Pro Way\n\nWith technicians that are passionate about the trade, we promise you clean, efficient, and professional work. Customer satisfaction is ALWAYS guaranteed. \n\nMore about us\nOur Services\nHeating\nLearn more\nCooling\nLearn More\nWe work with pride, now that’s tough to find.\n\nPassionate\nTechnicians\n\nClean & Efficient\n\nWork\n\nCustomer Satisfaction Guaranteed\n\nGet your\nfree estimate\n\nHere at Go Pro Heating & Cooling we give free estimates for installations.\n\nFirst Name\nEmail\nPhone\nReason For Service\nSubmit\n\nHVAC License #: 19HC00212300\n\n© 2021 by\n\nGo Pro Heating and Cooling. \n\nCONTACT\n\nPhone: 973-938-2217­\n\nEmail: goproHVACNJ@gmail.com\n\n23 Major Street\n\nClifton, New Jersey 07013\n\nWORKING HOURS\n\n24/7 Emergency Service\n\nRESOURCES\n\nLocations\n\nFAQs\n\nContact Us!",
+    "links": [
+      {
+        "href": "https://www.gopro-hvac.com",
+        "abs": "https://www.gopro-hvac.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 70,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com/about",
+        "abs": "https://www.gopro-hvac.com/about",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 69,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com/showcase",
+        "abs": "https://www.gopro-hvac.com/showcase",
+        "text": "Showcase",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 99,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com/services",
+        "abs": "https://www.gopro-hvac.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 88,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com/contact",
+        "abs": "https://www.gopro-hvac.com/contact",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 82,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com/faq",
+        "abs": "https://www.gopro-hvac.com/faq",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 59,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com",
+        "abs": "https://www.gopro-hvac.com/",
+        "text": "Free Estimate",
+        "visible": true,
+        "aboveFold": true,
+        "h": 99,
+        "w": 230,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/goprohvac/?hl=en",
+        "abs": "https://www.instagram.com/goprohvac/?hl=en",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 30,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-938-2217",
+        "abs": "tel:973-938-2217",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 69,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-938-2217",
+        "abs": "tel:973-938-2217",
+        "text": "973-938-2217­",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com#getafreeestimate",
+        "abs": "https://www.gopro-hvac.com/#getafreeestimate",
+        "text": "START ONLINE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 19,
+        "w": 116,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com#getafreeestimate",
+        "abs": "https://www.gopro-hvac.com/#getafreeestimate",
+        "text": "Get a free estimate in seconds",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 153,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com/about",
+        "abs": "https://www.gopro-hvac.com/about",
+        "text": "More about us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 47,
+        "w": 158,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com/services",
+        "abs": "https://www.gopro-hvac.com/services",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 170,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gopro-hvac.com/services",
+        "abs": "https://www.gopro-hvac.com/services",
+        "text": "Learn More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 170,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-938-2217­",
+        "abs": "tel:973-938-2217%C2%AD",
+        "text": "Phone: 973-938-2217­",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 135,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:goproHVACNJ@gmail.com",
+        "abs": "mailto:goproHVACNJ@gmail.com",
+        "text": "Email: goproHVACNJ@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 210,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.gopro-hvac.com/contact",
+        "abs": "https://www.gopro-hvac.com/contact",
+        "text": "Locations",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 61,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.gopro-hvac.com/faq",
+        "abs": "https://www.gopro-hvac.com/faq",
+        "text": "FAQs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 34,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/goprohvac/?hl=en",
+        "abs": "https://www.instagram.com/goprohvac/?hl=en",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 25,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/wix",
+        "abs": "https://www.facebook.com/wix",
+        "text": "White Facebook Icon",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 25,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Skip to Main Content",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Submit",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "get",
+        "id": "comp-k0f09obf",
+        "cls": "AYCJGp comp-k0f09obf wixui-form",
+        "fieldCount": 4,
+        "fieldNames": [
+          "first-name",
+          "email",
+          "phone",
+          "textarea_comp-ki9hiu6w"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-k0fbhu5l&viewerCompId=comp-k0fbhu5l&siteRevision=49&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&regionalLanguage=en&width=234&height=66&instance=UxzKeX97uuLQx6VwPnxY0-hm3fn_xKLuH-hBEyvOa9s.eyJpbnN0YW5jZUlkIjoiN2RlNTAzODItZTI0ZC00ZDM4LWFhMjUtNjI4YjZjOWQxNGIxIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiZmI2MzhhMTYtM2I4MS00NWIxLWFhN2EtOTdjZDNmYzE3MTAyIiwic2lnbkRhdGUiOiIyMDI2LTExLTAzVDIzOjAyOjUxLjY3MFoiLCJkZW1vTW9kZSI6ZmFsc2UsIm9yaWdpbkluc3RhbmNlSWQiOiIzYTZlMGI2Ni03ODMxLTQwNTQtYjY4Mi1iODZiMDlkNjY3OGYiLCJhaWQiOiI2OWNhZGZmMy1hNzY4LTQwZmYtOGZmNS03YWVkNjIzMDQ4MjAiLCJiaVRva2VuIjoiODY4Njg5OTQtZDljYy0wODg5LTAwNWYtZjU0NjUzNWM2NWIzIiwic2l0ZU93bmVySWQiOiJhMzY3YmYzNS05OTkxLTQwMjAtOTg3Zi0xNTdkNWIwMTBkOTEiLCJicyI6IlpZeDg2RFFxNExraTYzTkJMdndIZEtZYnFBanFqV0xoYV9NemZQdFpBRjgiLCJzY2QiOiIyMDIwLTA1LTIyVDIwOjQzOjAwLjEyOVoifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%224e23080d-d0b8-4a29-8dc1-037551e35e42%7C1%22%2C%22siteRevision%22%3A%2249%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%224e23080d-d0b8-4a29-8dc1-037551e35e42%7C1%22%7D&currentRoute=.%2F&vsi=b7c3d698-7a67-4f05-ad11-4e8398cc3caa"
+    ],
+    "scripts": [
+      "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js",
+      "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+      "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.dc28718f.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[AppWidget_Classic].c3a0ae5c.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FormContainer_FormContainerSkin].d49801f5.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[TextInput].93a0b2cf.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[TextAreaInput].7c257711.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_DefaultAreaSkin].3eaf4c42.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_RectangleArea].afbaa6d2.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StripColumnsContainer_Default].119e0578.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].95b2f0f2.bundle.min.js",
+      "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+      "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+      "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "https://static.parastorage.com/unpkg/lodash@4.18.1/lodash.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.5605dbbd.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/main.da54bdad.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.b325a058.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+      "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "Go Pro HVAC",
+        "url": "https://www.gopro-hvac.com"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 14,
+    "timing": {
+      "dcl": 3032,
+      "load": 4081,
+      "ttfb": 2276
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": "comp-k0dxuopw-pinned-layer comp-k0dxuopw-pinned-layer qed8q1 ",
+        "text": "home\n\nabout\n\nshowcase\n\nservices\n\nmore"
+      },
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": "comp-k0nqi75m-pinned-layer comp-k0nqi75m-pinned-layer qed8q1 ",
+        "text": "free estimate"
+      },
+      {
+        "kind": "header",
+        "cover": 0.109,
+        "sig": "site_header cdnof4 site_header wixui-header ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 0.979,
+        "sig": "img_comp-k0dmm6qf qh0lww aycf9d fo4mks ngej4n bgimage ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 0.31,
+        "sig": "img_comp-k0ds1b2v qh0lww aycf9d fo4mks ngej4n bgimage ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": "comp-k0fbhu5l-pinned-layer comp-k0fbhu5l-pinned-layer qed8q1 ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.gopro-hvac.com/",
+    "navMs": 10428,
+    "tel": [
+      {
+        "href": "tel:973-938-2217",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19739382217"
+      },
+      {
+        "href": "tel:973-938-2217",
+        "text": "973-938-2217­",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19739382217"
+      },
+      {
+        "href": "tel:973-938-2217­",
+        "text": "Phone: 973-938-2217­",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19739382217"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Wix",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.gopro-hvac.com/",
+    "navMs": 7801,
+    "timing": {
+      "dcl": 1548,
+      "load": 2554,
+      "ttfb": 900
+    },
+    "viewportMeta": "width=320, user-scalable=yes",
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:973-938-2217",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19739382217"
+      },
+      {
+        "href": "tel:973-938-2217",
+        "text": "973-938-2217­",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19739382217"
+      },
+      {
+        "href": "tel:973-938-2217­",
+        "text": "Phone: 973-938-2217­",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19739382217"
+      },
+      {
+        "href": "tel:",
+        "text": "Phone",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "href_invalid",
+        "problem": "empty",
+        "e164": null
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Free Estimate",
+      "Get a free estimate in seconds",
+      "CALL US"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": "comp-k0fbhu5l-pinned-layer comp-k0fbhu5l-pinned-layer qed8q1 ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 0.014,
+        "sig": "quick_action_bar quick_action_bar gq0em5 wixui-quick-action-bar dbaxv8 ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 920
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.gopro-hvac.com/contact",
+      "status": 429,
+      "access": "challenge",
+      "error": null
+    },
+    "about": {
+      "url": "https://www.gopro-hvac.com/about",
+      "finalUrl": "https://www.gopro-hvac.com/about",
+      "status": 200,
+      "title": "About | Go Pro Heating & Cooling | HVAC | New Jersey",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "comp-k0f09obf",
+          "cls": "AYCJGp comp-k0f09obf wixui-form",
+          "fieldCount": 4,
+          "fieldNames": [
+            "first-name",
+            "email",
+            "phone",
+            "textarea_comp-ki9hiu6w"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-k0fbhu5l&viewerCompId=comp-k0fbhu5l&siteRevision=49&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&regionalLanguage=en&width=234&height=66&instance=94OMtXI5Yz2I-yPFpfokd0GZbZUwgxAYnf537yQ4n2U.eyJpbnN0YW5jZUlkIjoiN2RlNTAzODItZTI0ZC00ZDM4LWFhMjUtNjI4YjZjOWQxNGIxIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiZmI2MzhhMTYtM2I4MS00NWIxLWFhN2EtOTdjZDNmYzE3MTAyIiwic2lnbkRhdGUiOiIyMDI2LTExLTAzVDIzOjAzOjUzLjY1MFoiLCJkZW1vTW9kZSI6ZmFsc2UsIm9yaWdpbkluc3RhbmNlSWQiOiIzYTZlMGI2Ni03ODMxLTQwNTQtYjY4Mi1iODZiMDlkNjY3OGYiLCJhaWQiOiI2OWNhZGZmMy1hNzY4LTQwZmYtOGZmNS03YWVkNjIzMDQ4MjAiLCJiaVRva2VuIjoiODY4Njg5OTQtZDljYy0wODg5LTAwNWYtZjU0NjUzNWM2NWIzIiwic2l0ZU93bmVySWQiOiJhMzY3YmYzNS05OTkxLTQwMjAtOTg3Zi0xNTdkNWIwMTBkOTEiLCJicyI6IlpZeDg2RFFxNExraTYzTkJMdndIZEtZYnFBanFqV0xoYV9NemZQdFpBRjgiLCJzY2QiOiIyMDIwLTA1LTIyVDIwOjQzOjAwLjEyOVoifQ&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%224e23080d-d0b8-4a29-8dc1-037551e35e42%7C1%22%2C%22siteRevision%22%3A%2249%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22en%22%2C%22locale%22%3A%22en-us%22%2C%22BSI%22%3A%224e23080d-d0b8-4a29-8dc1-037551e35e42%7C1%22%7D&currentRoute=.%2Fabout&vsi=faf958af-c592-490f-8154-f067fab13bad"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "goprohvacnj@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:973-938-2217­",
+          "text": "Phone: 973-938-2217­",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19739382217"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to Main Content\n\nHome\n\nAbout\n\nShowcase\n\nServices\n\nMore\n\nFree Estimate\nAbout Go Pro Heating & Cooling\nWe work with pride, now that’s tough to find!\n\nGo Pro Heating and Cooling was founded based on integrity and pride. With technicians that are passionate about the trade, we promise you clean, efficient, and professional work. Customer satisfaction is ALWAYS guaranteed. \n\nOur Process\n\nSTEP 1\n\nRequest our\nServices\n\nSTEP 2\n\nMeet with our technician\n\nSTEP 3\n\nReview service options & pricing\n\nSTEP 4\n\nWork in progress\n\nSTEP 5\n\n Happy Customer\nOur Quality Guarantee\n\nWe are all about quality workmanship and keeping our customers happy. \n\nGet your\nfree estimate\n\nHere at Go Pro Heating & Cooling we give free estimates for installations.\n\nFirst Name\nEmail\nPhone\nReason For Service\nSubmit\n\nHVAC License #: 19HC00212300\n\n© 2021 by\n\nGo Pro Heating and Cooling. \n\nCONTACT\n\nPhone: 973-938-2217­\n\nEmail: goproHVACNJ@gmail.com\n\n23 Major Street\n\nClifton, New Jersey 07013\n\nWORKING HOURS\n\n24/7 Emergency Service\n\nRESOURCES\n\nLocations\n\nFAQs\n\nContact Us!",
+      "vendors": [
+        {
+          "name": "Wix",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.gopro-hvac.com/",
+        "https://www.gopro-hvac.com/about",
+        "https://www.gopro-hvac.com/showcase",
+        "https://www.gopro-hvac.com/services",
+        "https://www.gopro-hvac.com/contact",
+        "https://www.gopro-hvac.com/faq",
+        "https://www.gopro-hvac.com/",
+        "https://www.gopro-hvac.com/contact",
+        "https://www.gopro-hvac.com/faq"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 7,
+    "at": "2026-11-03T23:04:03.124Z",
+    "statusCounts": {
+      "200": 6,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.gopro-hvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/go-pro-heating-and-cooling/desktop-home.png",
+    "desktop_full": "evidence/screenshots/go-pro-heating-and-cooling/desktop-home-full.png",
+    "desktop_about": "evidence/screenshots/go-pro-heating-and-cooling/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/go-pro-heating-and-cooling/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00212300"
+    ],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "copyrightYear": 2021,
+    "emails": [
+      "goprohvacnj@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Free Estimate -> https://www.gopro-hvac.com/",
+      "Get a free estimate in seconds -> https://www.gopro-hvac.com/#getafreeestimate",
+      "White Facebook Icon -> https://www.facebook.com/wix"
+    ]
+  },
+  "ctaClickTests": []
+}

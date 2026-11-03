@@ -1,0 +1,1573 @@
+{
+  "firecrawl": [],
+  "id": "hvac-zone-inc",
+  "name": "HVAC ZONE INC",
+  "website": "http://hvaczonenj.com/",
+  "auditedAt": "2026-11-03T22:50:54.740Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://hvaczonenj.com/",
+      "at": "2026-11-03T22:50:58.463Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvaczonenj.com/",
+      "title": "HVAC Zone Inc | NJ Master HVAC Contractor — Installation, Repair & Air Quality",
+      "ms": 3524,
+      "error": null,
+      "linkCount": 79
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.hvaczonenj.com/index.html",
+      "at": "2026-11-03T22:51:10.482Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvaczonenj.com/index.html",
+      "title": "HVAC Zone Inc | NJ Master HVAC Contractor — Installation, Repair & Air Quality",
+      "ms": 9825,
+      "error": null,
+      "linkCount": 78
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.hvaczonenj.com/index.html",
+      "at": "2026-11-03T22:51:13.439Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvaczonenj.com/index.html",
+      "title": "HVAC Zone Inc | NJ Master HVAC Contractor — Installation, Repair & Air Quality",
+      "ms": 1443,
+      "error": null,
+      "linkCount": 79
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://hvaczonenj.com/",
+      "at": "2026-11-03T22:51:24.973Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.hvaczonenj.com/",
+      "title": "HVAC Zone Inc | NJ Master HVAC Contractor — Installation, Repair & Air Quality",
+      "ms": 2406,
+      "error": null,
+      "linkCount": 79
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.hvaczonenj.com/",
+    "title": "HVAC Zone Inc | NJ Master HVAC Contractor — Installation, Repair & Air Quality",
+    "lang": "en",
+    "metaDescription": "HVAC Zone Inc is a NJ Master HVACR Contractor. Installation, repair, maintenance and sales of heating and cooling equipment across most major brands. Plus the HVAC Information Hub — daily product reviews, tools, IAQ, smart thermostats and building science.",
+    "h1": [
+      "STAY COMFORTABLE\nAND BREATHE CLEAN AIR"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 13853,
+    "bodyText": "973-687-6386\nHome\nServices\nBrands\nInformation Hub\nAbout\nContact\nRequest a Consultation\nLOCAL HVAC OUTLOOK\nYour week, your building, your weather\n\nEnter your city or use your location for a 7-day forecast translated into heating, cooling, humidity, and IAQ demand — wherever you are in the world.\n\nGet outlook\nUse my location\n\nNewark, NJ, US\n\nHeating-dominant week · Cooling degree-days: 0 · Heating degree-days: 56\n\n73°F\nweek high\n46°F\nweek low\nDAY\tHI / LO\tRH\tPRECIP\tDEMAND\nTue, Nov 3\t72°F / 46°F\t92%\t0.0 mm\tMild\nWed, Nov 4\t73°F / 49°F\t94%\t0.0 mm\tMild\nThu, Nov 5\t69°F / 53°F\t100%\t1.6 mm\tMild\nFri, Nov 6\t64°F / 58°F\t99%\t19.2 mm\tMild\nSat, Nov 7\t58°F / 48°F\t75%\t0.0 mm\tMild\nSun, Nov 8\t57°F / 48°F\t72%\t0.0 mm\tMild\nMon, Nov 9\t55°F / 49°F\t57%\t0.0 mm\tMild\nHigh humidity most of the week — dehumidification matters; watch indoor moisture and IAQ.\n\nForecast: Open-Meteo. Degree-day base 65°F. Informational — not a substitute for a site assessment by a licensed HVAC professional.\n\nNJ MASTER HVACR CONTRACTOR\nSTAY COMFORTABLE\nAND BREATHE CLEAN AIR\n\nHVAC Zone Inc is a multi-service New Jersey Master HVACR contractor. From installation and repair to maintenance and indoor air quality, our in-house team of installers and service techs keeps homeowners, builders, and property managers comfortable year-round.\n\nRequest a Consultation\n Explore the Information Hub\nLICENSED & INSURED\nFINANCING AVAILABLE\nNO CHARGE FOR WARRANTY\nLicensed & Insured\n24/7 Emergency Service\nFinancing Available\nMost major brands\nNo Charge for Warranty\nWHAT WE DO\nFull-service heating, cooling & air quality\n\nResidential and medium commercial — installation, repair, maintenance, and sales across most major brands on the market today.\n\nInstallation\n\nNew construction, replacements, and system upgrades — sized and engineered for your space, not just swapped in.\n\nRepair\n\nFast, honest diagnostics on any brand. We find the root cause instead of just swapping parts.\n\nMaintenance\n\nPlanned service plans that extend equipment life, keep efficiency up, and prevent the mid-season breakdown.\n\nIndoor Air Quality\n\nFiltration, ventilation, humidity control, and IAQ monitoring — because comfort means clean, healthy air.\n\nCommercial & Builders\n\nA capable team for property managers and building contractors — coordinated, reliable, and code-compliant.\n\nSales & Equipment\n\nMulti-brand dealer with access to a wide network of manufacturers and vendors — the right equipment at fair pricing, no single-brand bias.\n\nINDOOR AIR QUALITY\nIAQ products we install & service\n\nClean air is half of comfort. These whole-home systems integrate with your HVAC equipment to filter, ventilate, and balance humidity — far beyond what a standard 1-inch filter can do. We specify, install, and service them all, with no single-brand bias.\n\nMedia air cleaners\n\nHigh-MERV (MERV 13–16) media filtration built into your ductwork — captures dust, pollen, pet dander, and fine particles with minimal airflow loss.\n\nUV-C germicidal lights\n\nUltraviolet light in the airstream and at the coil to reduce bacteria, viruses, and mold — and keep the evaporator coil clean for better efficiency.\n\nWhole-home humidifiers\n\nBypass, fan-powered, and steam humidifiers that hold a healthy 30–50% relative humidity in winter — protecting sinuses, woodwork, and electronics.\n\nWhole-home dehumidifiers\n\nTackle damp basements and humid summers, cut mold and dust-mite growth, and let you set the thermostat a few degrees higher while staying comfortable.\n\nVentilation (ERV / HRV)\n\nEnergy and heat recovery ventilators bring in fresh, filtered outdoor air and exhaust stale air while recovering the heating or cooling you already paid for.\n\nAir purifiers & VOC control\n\nWhole-home purifiers with carbon and photocatalytic stages that neutralize odors, smoke, and volatile organic compounds from cooking, cleaning, and furnishings.\n\nAlready monitoring your air? See our explainer on IAQ monitors & sensors. Guidance grounded in the U.S. EPA’s Indoor Air Quality resources. Not sure what you need? Request a consultation and we’ll assess your home or building.\n\nWHY HVAC ZONE\nA team capable — and the network to back it up\n\nOur wide network of equipment manufacturers, vendors, engineering consultants, and contractors throughout the HVAC industry lets us help builders, property managers, and homeowners meet their needs. We run our own in-house team of installers and service techs, so the job gets done right — the first time.\n\nJS\nMEET THE TEAM\nJavier Santiago\nFounder & New Jersey Master HVACR Contractor, Lic. #19HC00897200\n\n20+ years in the field installing, servicing, and troubleshooting heating and cooling systems across North Jersey. Javier is the technical reviewer for the HVAC Zone Information Hub.\n\nPeace of mind for homeowners\nClear pricing, honest diagnostics, and work you can trust.\nA capable team for contractors\nCoordinated scheduling and code-compliant installs that keep your project moving.\nMost brands serviced\nMulti-brand dealer carrying Daikin/Goodman, Rheem/Ruud, Coleman, American Standard, Mitsubishi, Carrier/Bryant and more — and we service nearly every brand on the market.\nRequest a consultation\nSERVICE AREAS\nBergen County\nHudson County\nEssex County\nUnion County\nPassaic County\nMiddlesex\nMorris County\n+ statewide\nMULTI-BRAND DEALER\nBrands we service & install\n\nWe carry, service, and install equipment from the industry's leading manufacturers — and most other brands on the market too.\n\n+ MOST BRANDS\n\nBrand names and logos are trademarks of their respective owners, shown here only to indicate the brands we service and install. Links go to official manufacturer sites for your research — HVAC Zone remains brand-neutral.\n\nINDUSTRY OWNERSHIP\nMeet the brands\n\nThe HVAC industry has consolidated into a handful of global parents, so several “competing” labels are actually built by the same company. Here’s who owns whom today — and what each brand is positioned to offer. We stay neutral: knowing the family tree helps you compare value, not pick a logo.\n\nDaikin Industries\nJAPAN\nOfficial site →\nThe world’s largest air-conditioning manufacturer.\nDaikin\nPremium full line — high-efficiency furnaces, ACs and heat pumps, plus the industry’s widest ductless and VRF range.\nGoodman\nValue-oriented, builder-friendly equipment sold through distribution. Daikin’s high-volume brand.\nAmana\nValue tier sharing Goodman’s platform, set apart by stronger warranties — including a lifetime unit-replacement compressor warranty.\nCarrier Global\nUSA\nOfficial site →\nPioneered modern air conditioning; broad residential and commercial portfolio.\nCarrier\nFlagship premium brand; full residential and commercial line.\nBryant\nCarrier’s dealer-channel sister brand — near-identical equipment under a different nameplate.\nPayne\nBuilder / entry-level tier of the Carrier family.\nICP brands: Heil, Tempstar, Comfortmaker, Arcoaire, Day & Night, Keeprite\nValue and contractor tiers sharing common platforms (International Comfort Products).\nViessmann Climate Solutions ACQUIRED 2024\nEuropean heat-pump and heating leader added to Carrier’s portfolio.\nTrane Technologies\nUSA / IRELAND\nOfficial site →\nGlobal climate-innovation company spanning residential and commercial.\nTrane\nPremium brand with deep commercial heritage and high-efficiency residential equipment.\nAmerican Standard Heating & Air Conditioning\nTrane’s consumer sister brand — comparable engineering under a different name.\nOxbox\nContractor-direct, online-first value brand.\nRunTru\nBudget / builder tier.\nThermo Pride\nRugged, long-life oil-fired furnaces.\nRheem Manufacturing\nUSA / PALOMA (JAPAN)\nOfficial site →\nAir and water-heating specialist; owned by Paloma Industries of Japan.\nRheem\nFull residential and commercial line sold through retail and contractor channels.\nRuud\nContractor-channel sister brand — same equipment as Rheem under a different label.\nNortek / Nordyne family ACQUIRED OCT 2024\nFrigidaire HVAC, Maytag HVAC, Miller, Gibson and Intertherm — value, retail and manufactured-housing tiers; plus Broan ventilation.\nFujitsu General ACQUIRED 2025\nDuctless mini-split brand added to the Paloma/Rheem group.\nValue tiers: Richmond, Sure Comfort, WeatherKing\nEntry-level and private-label water-heating and HVAC lines.\nBosch Home Comfort Group\nGERMANY\nNEW OWNER 2025\nOfficial site →\nAcquired Johnson Controls’ residential & light-commercial HVAC business in August 2025 — a major ownership shift.\nYork\nMid-tier dealer brand (formerly Johnson Controls).\nColeman\nManufactured-housing and residential value brand (formerly Johnson Controls).\nLuxaire\nYork’s sister brand (formerly Johnson Controls).\nChampion\nValue tier (formerly Johnson Controls).\nJCI–Hitachi Air Conditioning JV\nThe former Johnson Controls–Hitachi joint venture moved to Bosch with the deal.\nLennox International\nUSA\nOfficial site →\nPremium residential and commercial; dealer-only distribution.\nLennox\nFlagship premium brand known for high-efficiency, smart-home-ready equipment.\nArmstrong Air\nLennox engineering at a lower price point — built by Allied Air Enterprises.\nAllied Air Enterprises: AirEase, Concord, Ducane, Allied Commercial, MagicPak\nValue and specialty tiers under the Lennox-owned Allied umbrella.\nMitsubishi Electric\nJAPAN\nOfficial site →\nGlobal leader in ductless and variable-refrigerant-flow systems.\nMitsubishi Electric (Mr. Slim, City Multi, M-/P-Series)\nPremium ductless mini-splits and VRF; strong cold-climate heat-pump performance.\nSamsung\nSOUTH KOREA\nOfficial site →\nTech-forward HVAC within the Samsung group.\nSamsung HVAC\nWindFree ductless and Digital VRF systems with smart-home integration.\nLG Electronics\nSOUTH KOREA\nOfficial site →\nDesign- and connectivity-focused HVAC.\nLG HVAC\nArt Cool and Multi F ductless, Multi V VRF — strong on design and smart controls.\nGree Electric Appliances\nCHINA\nOfficial site →\nOne of the world’s largest air-conditioner manufacturers; a major OEM for other labels.\nGree\nHigh-volume residential and light-commercial full line.\nTOSOT\nGree’s lifestyle sub-brand for comfort and appliances.\nKINGHOME\nGree sub-brand.\nMidea Group\nCHINA\nOfficial site →\nOne of the world’s largest appliance and HVAC manufacturers. Midea is a major OEM — it builds equipment sold under many other labels, not just its own name.\nCooper & Hunter\nValue-oriented ductless brand (Ukraine-founded, distributed in the US by ComfortSide). Its mini-splits are rebadged Midea units — Midea is the manufacturer, not the brand’s corporate owner. Some models are sourced from Gree.\nAlso OEM-built on Midea platforms\nCarrier and Bryant ductless systems, the Bosch Climate 5000 series, MRCOOL and Durastar are widely reported to use Midea equipment.\nTCL Technology\nCHINA\nGROWING FAST\nOfficial site →\nConsumer-electronics giant that has become one of the world’s largest air-conditioner exporters — roughly 20 million AC units a year across 160+ countries.\nTCL Air Conditioner (T-Pro, FreshIN, BreezeIN, SaveIN AI)\nDuctless mini-splits, window units, portables and light-commercial systems; value-to-mid positioning with smart-home and AI energy-saving features. Sold via retail (e.g., Home Depot) and as OEM/ODM for other labels.\n\nOwnership and brand-positioning details compiled from Carrier’s brand portfolio, Carrier’s Viessmann acquisition, Bosch on the Johnson Controls HVAC acquisition, Rheem / Paloma and the Nortek acquisition, Nortek/Nordyne under Rheem, ServiceTitan’s manufacturer guide, Allied Air Enterprises (Lennox), Gree / TOSOT / KINGHOME, and reporting on Midea as the manufacturer behind Cooper & Hunter and other labels and Midea vs. Cooper & Hunter, TCL’s scale and product range, and TCL air-conditioner manufacturing overview. Accurate as of July 2026; M&A in this sector moves quickly, so we revisit periodically.\n\nTHE HVAC INFORMATION HUB\nYour daily source for HVAC knowledge\n\nEquipment reviews, tools, indoor air quality, smart thermostats, and building science — the goal is the most comprehensive HVAC information hub on the internet.\n\nAll articles\nSearch the HVAC Information Hub\nSearch\nTOOLS\nNitrogen Pressure Testing and Brazing Purge: The Tools and Numbers Behind a Leak-Tight Install\n\nFlowing nitrogen while brazing and holding a standing pressure test afterward catch most install-day leaks. Test pressures, hold times, temperature correction, and the tools that make it work.\n\nHVAC Zone Team\n•\n7 min read\n•\nToday\nAQI\n18\nINDOOR AIR QUALITY\nRange Hoods and Gas Stove Pollution: Capture Efficiency, CFM, and Makeup Air Explained\n\nGas stoves raise indoor nitrogen dioxide, and front burners can escape a range hood. LBNL capture efficiency findings, ASHRAE 62.2 kitchen exhaust rates, IRC makeup air above 400 cfm, and a kitchen ventilation checklist.\n\nHVAC Zone Team\n•\n7 min read\n•\nYesterday\nEQUIPMENT\nCondensing vs. Non-Condensing Boilers: Why Return Water Temperature Decides Your Real Efficiency\n\nA 95% AFUE condensing boiler only condenses when return water stays below about 130°F. Federal minimums, ENERGY STAR levels, GSA field savings of 14% to 24%, outdoor reset, and a replacement checklist.\n\nHVAC Zone Team\n•\n7 min read\n•\n2 days ago\nBrowse the full hub\nTHE VISION\nBuilt to be the HVAC go-to spot\n\nThe Information Hub is more than a blog. Here's how it grows into a daily, multi-channel resource.\n\nDaily Posts\n\nNew product trends, reviews, and building science articles published every day.\n\nDAILY\nEmail Brief\n\nThe weekly HVAC Zone Brief — the week's best reads delivered to your inbox.\n\nWEEKLY\nSocial Clips\n\nShort explainers and reviews adapted for your feeds — the hub, everywhere you are.\n\nONGOING\nOne-Click Reference\n\nSearchable, categorized library so the answer you need is always a click away.\n\nALWAYS ON\nNeed service, a quote, or a second opinion?\n\nTell us what's going on with your system and a real tech will get back to you. Residential and medium commercial across New Jersey.\n\nEmail HVAC Zone\nCall (973) 687-6386\n\n24/7 emergency service available for existing and new customers across NJ.\n\nInstallation, repair, maintenance and sales of heating and cooling equipment across most major brands. Multi-brand dealer — no single-brand bias.\n\nSERVICES\nInstallation\nRepair\nMaintenance\nIndoor Air Quality\nCommercial\nHUB\nAll Articles\nEquipment Reviews\nSmart Thermostats\nBuilding Science\nProduct Trends\nCOMPANY\nAbout\nContact\ninfo@hvaczonenj.com\n(973) 687-6386\n© 2026 HVAC Zone Inc · NJ Master HVACR Contractor · Licensed & Insured",
+    "links": [
+      {
+        "href": "tel:+19736876386",
+        "abs": "tel:+19736876386",
+        "text": "973-687-6386",
+        "visible": true,
+        "aboveFold": true,
+        "h": 51,
+        "w": 228,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "index.html",
+        "abs": "https://www.hvaczonenj.com/index.html",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 72,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "index.html#services",
+        "abs": "https://www.hvaczonenj.com/index.html#services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 94,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "index.html#meet-the-brands",
+        "abs": "https://www.hvaczonenj.com/index.html#meet-the-brands",
+        "text": "Brands",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 81,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "Information Hub",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 151,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "index.html#about",
+        "abs": "https://www.hvaczonenj.com/index.html#about",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 73,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "index.html#contact",
+        "abs": "https://www.hvaczonenj.com/index.html#contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 88,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "index.html#contact",
+        "abs": "https://www.hvaczonenj.com/index.html#contact",
+        "text": "Request a Consultation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 235,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://open-meteo.com/",
+        "abs": "https://open-meteo.com/",
+        "text": "Open-Meteo",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 84,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.hvaczonenj.com/#contact",
+        "text": "Request a Consultation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 64,
+        "w": 296,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "Explore the Information Hub",
+        "visible": true,
+        "aboveFold": false,
+        "h": 64,
+        "w": 310,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "articles/iaq-monitors-explained.html",
+        "abs": "https://www.hvaczonenj.com/articles/iaq-monitors-explained.html",
+        "text": "IAQ monitors & sensors",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 177,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.epa.gov/indoor-air-quality-iaq",
+        "abs": "https://www.epa.gov/indoor-air-quality-iaq",
+        "text": "U.S. EPA’s Indoor Air Quality",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 211,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.hvaczonenj.com/#contact",
+        "text": "Request a consultation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 172,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.hvaczonenj.com/#contact",
+        "text": "Request a consultation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 259,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.daikin.com/",
+        "abs": "https://www.daikin.com/",
+        "text": "Daikin official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.goodmanmfg.com/",
+        "abs": "https://www.goodmanmfg.com/",
+        "text": "Goodman official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.carrier.com/residential/en/us/",
+        "abs": "https://www.carrier.com/residential/en/us/",
+        "text": "Carrier official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.bryant.com/",
+        "abs": "https://www.bryant.com/",
+        "text": "Bryant official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.rheem.com/",
+        "abs": "https://www.rheem.com/",
+        "text": "Rheem official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.ruud.com/",
+        "abs": "https://www.ruud.com/",
+        "text": "Ruud official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.americanstandardair.com/",
+        "abs": "https://www.americanstandardair.com/",
+        "text": "American Standard official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.armstrongair.com/",
+        "abs": "https://www.armstrongair.com/",
+        "text": "Armstrong Air official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.colemanac.com/",
+        "abs": "https://www.colemanac.com/",
+        "text": "Coleman official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.mitsubishipro.com/",
+        "abs": "https://www.mitsubishipro.com/",
+        "text": "Mitsubishi Electric official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.samsunghvac.com/",
+        "abs": "https://www.samsunghvac.com/",
+        "text": "Samsung HVAC official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lghvac.com/",
+        "abs": "https://www.lghvac.com/",
+        "text": "LG HVAC official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://cooperandhunterusa.com/",
+        "abs": "https://cooperandhunterusa.com/",
+        "text": "Cooper & Hunter official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gree.com/",
+        "abs": "https://www.gree.com/",
+        "text": "Gree official site",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.daikin.com/",
+        "abs": "https://www.daikin.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.corporate.carrier.com/",
+        "abs": "https://www.corporate.carrier.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.tranetechnologies.com/",
+        "abs": "https://www.tranetechnologies.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.rheem.com/",
+        "abs": "https://www.rheem.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.bosch-thermotechnology.com/",
+        "abs": "https://www.bosch-thermotechnology.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lennox.com/",
+        "abs": "https://www.lennox.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.mitsubishielectric.com/",
+        "abs": "https://www.mitsubishielectric.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.samsunghvac.com/",
+        "abs": "https://www.samsunghvac.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lghvac.com/",
+        "abs": "https://www.lghvac.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.gree.com/",
+        "abs": "https://www.gree.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.midea.com/",
+        "abs": "https://www.midea.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.tcl.com/",
+        "abs": "https://www.tcl.com/",
+        "text": "Official site →",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.carrier.com/us/en/our-brands/",
+        "abs": "https://www.carrier.com/us/en/our-brands/",
+        "text": "Carrier’s brand portfolio",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 157,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.viessmann-climatesolutions.com/en/newsroom/company/carrier-completes-acquisition-of-viessmann-climate-solutions.html",
+        "abs": "https://www.viessmann-climatesolutions.com/en/newsroom/company/carrier-completes-acquisition-of-viessmann-climate-solutions.html",
+        "text": "Carrier’s Viessmann acquisition",
+        "visible": true,
+        "aboveFold": false,
+        "h": 41,
+        "w": 594,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.bosch.co.jp/press/rbjp-2606-03/?lang=en",
+        "abs": "https://www.bosch.co.jp/press/rbjp-2606-03/?lang=en",
+        "text": "Bosch on the Johnson Controls HVAC acquisition",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 325,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.factorstoday.com/research/RHEEM",
+        "abs": "https://www.factorstoday.com/research/RHEEM",
+        "text": "Rheem / Paloma and the Nortek acquisition",
+        "visible": true,
+        "aboveFold": false,
+        "h": 41,
+        "w": 626,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.linkedin.com/pulse/nortek-nordyne-recent-hvac-innovations-a2l-apex-coils-jules-williams-nc3zc",
+        "abs": "https://www.linkedin.com/pulse/nortek-nordyne-recent-hvac-innovations-a2l-apex-coils-jules-williams-nc3zc",
+        "text": "Nortek/Nordyne under Rheem",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 199,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.servicetitan.com/blog/hvac-manufacturers",
+        "abs": "https://www.servicetitan.com/blog/hvac-manufacturers",
+        "text": "ServiceTitan’s manufacturer guide",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 226,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.alliedair.com/",
+        "abs": "https://www.alliedair.com/",
+        "text": "Allied Air Enterprises (Lennox)",
+        "visible": true,
+        "aboveFold": false,
+        "h": 41,
+        "w": 630,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://manuals.plus/fr/category/gree",
+        "abs": "https://manuals.plus/fr/category/gree",
+        "text": "Gree / TOSOT / KINGHOME",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 182,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.heatpumped.org/p/web-confusion",
+        "abs": "https://www.heatpumped.org/p/web-confusion",
+        "text": "Midea as the manufacturer behind Cooper & Hunter and other labels",
+        "visible": true,
+        "aboveFold": false,
+        "h": 41,
+        "w": 556,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://titan-supply.com/info/midea-vs-hunter-cooper",
+        "abs": "https://titan-supply.com/info/midea-vs-hunter-cooper",
+        "text": "Midea vs. Cooper & Hunter",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 178,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://us.tcl.com/pages/our-story",
+        "abs": "https://us.tcl.com/pages/our-story",
+        "text": "TCL’s scale and product range",
+        "visible": true,
+        "aboveFold": false,
+        "h": 41,
+        "w": 617,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.accio.com/supplier/tcl-aircond-from-which-country",
+        "abs": "https://www.accio.com/supplier/tcl-aircond-from-which-country",
+        "text": "TCL air-conditioner manufacturing overview",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 291,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "All articles",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 158,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "articles/nitrogen-pressure-testing-brazing-purge-standing-pressure-test-hvac-tools.html",
+        "abs": "https://www.hvaczonenj.com/articles/nitrogen-pressure-testing-brazing-purge-standing-pressure-test-hvac-tools.html",
+        "text": "TOOLS Nitrogen Pressure Testing and Brazing Purge: The Tools and Numbers Behind ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 740,
+        "w": 761,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "articles/range-hood-capture-efficiency-gas-stove-no2-kitchen-ventilation-makeup-air.html",
+        "abs": "https://www.hvaczonenj.com/articles/range-hood-capture-efficiency-gas-stove-no2-kitchen-ventilation-makeup-air.html",
+        "text": "AQI 18 INDOOR AIR QUALITY Range Hoods and Gas Stove Pollution: Capture Efficienc",
+        "visible": true,
+        "aboveFold": false,
+        "h": 740,
+        "w": 371,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "articles/condensing-vs-non-condensing-boilers-return-water-temperature-outdoor-reset-afue.html",
+        "abs": "https://www.hvaczonenj.com/articles/condensing-vs-non-condensing-boilers-return-water-temperature-outdoor-reset-afue.html",
+        "text": "EQUIPMENT Condensing vs. Non-Condensing Boilers: Why Return Water Temperature De",
+        "visible": true,
+        "aboveFold": false,
+        "h": 572,
+        "w": 371,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "Browse the full hub",
+        "visible": true,
+        "aboveFold": false,
+        "h": 64,
+        "w": 234,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:info@hvaczonenj.com",
+        "abs": "mailto:info@hvaczonenj.com",
+        "text": "Email HVAC Zone",
+        "visible": true,
+        "aboveFold": false,
+        "h": 64,
+        "w": 206,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19736876386",
+        "abs": "tel:+19736876386",
+        "text": "Call (973) 687-6386",
+        "visible": true,
+        "aboveFold": false,
+        "h": 64,
+        "w": 234,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "index.html",
+        "abs": "https://www.hvaczonenj.com/index.html",
+        "text": "HVAC Zone home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 328,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "index.html#services",
+        "abs": "https://www.hvaczonenj.com/index.html#services",
+        "text": "Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 81,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "index.html#services",
+        "abs": "https://www.hvaczonenj.com/index.html#services",
+        "text": "Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 48,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "index.html#services",
+        "abs": "https://www.hvaczonenj.com/index.html#services",
+        "text": "Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 98,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "index.html#services",
+        "abs": "https://www.hvaczonenj.com/index.html#services",
+        "text": "Indoor Air Quality",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 132,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "index.html#services",
+        "abs": "https://www.hvaczonenj.com/index.html#services",
+        "text": "Commercial",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 90,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "All Articles",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 81,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "Equipment Reviews",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 148,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "Smart Thermostats",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 145,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "Building Science",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 126,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "hub.html",
+        "abs": "https://www.hvaczonenj.com/hub.html",
+        "text": "Product Trends",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 116,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "index.html#about",
+        "abs": "https://www.hvaczonenj.com/index.html#about",
+        "text": "About",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 45,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "index.html#contact",
+        "abs": "https://www.hvaczonenj.com/index.html#contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 59,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@hvaczonenj.com",
+        "abs": "mailto:info@hvaczonenj.com",
+        "text": "info@hvaczonenj.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 168,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+19736876386",
+        "abs": "tel:+19736876386",
+        "text": "(973) 687-6386",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 120,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvaczonenj.com/#",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvaczonenj.com/#",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvaczonenj.com/#",
+        "text": "YouTube",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://www.hvaczonenj.com/#",
+        "text": "X",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Switch to dark mode",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Get outlook",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Use my location",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Search",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "get",
+        "id": "outlook-form",
+        "cls": "outlook-form",
+        "fieldCount": 1,
+        "fieldNames": [
+          "outlook-city"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "hub.html",
+        "method": "get",
+        "id": "",
+        "cls": "hub-search",
+        "fieldCount": 1,
+        "fieldNames": [
+          "q"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": true
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://www.hvaczonenj.com/js/main.js",
+      "https://www.hvaczonenj.com/js/weather.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://www.hvaczonenj.com/#website",
+            "name": "HVAC Zone Inc",
+            "alternateName": "HVAC Zone",
+            "url": "https://www.hvaczonenj.com/",
+            "publisher": {
+              "@id": "https://www.hvaczonenj.com/#business"
+            }
+          },
+          {
+            "@type": "HVACBusiness",
+            "@id": "https://www.hvaczonenj.com/#business",
+            "name": "HVAC Zone Inc",
+            "url": "https://www.hvaczonenj.com/",
+            "logo": "https://www.hvaczonenj.com/img/hvac-zone-logo.png",
+            "image": "https://www.hvaczonenj.com/img/hvac-zone-logo.png",
+            "telephone": "+1-973-687-6386",
+            "priceRange": "$$",
+            "description": "NJ Master HVACR contractor. Installation, repair, maintenance and sales of heating and cooling equipment across most major brands. Residential and medium commercial. Multi-brand dealer with no single-brand bias.",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "142 Lincoln Ave",
+              "addressLocality": "Newark",
+              "addressRegion": "NJ",
+              "postalCode": "07104",
+              "addressCountry": "US"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 40.77017,
+              "longitude": -74.1639
+            },
+            "hasMap": "https://www.google.com/maps/search/?api=1&query=142+Lincoln+Ave+Newark+NJ+07104",
+            "openingHoursSpecification": {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00",
+              "closes": "23:59"
+            },
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "Bergen County, NJ"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Hudson County, NJ"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Essex County, NJ"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Union County, NJ"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Passaic County, NJ"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Middlesex County, NJ"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Morris County, NJ"
+              },
+              {
+                "@type": "State",
+                "name": "New Jersey"
+              }
+            ],
+            "hasOfferCatalog": {
+              "@type": "OfferCatalog",
+              "name": "HVAC Services",
+              "itemListElement": [
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "HVAC Installation"
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "HVAC Repair"
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "HVAC Maintenance Plans"
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Indoor Air Quality"
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Commercial HVAC and Builder Services"
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "HVAC Equipment Sales"
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "24/7 Emergency HVAC Service"
+                  }
+                }
+              ]
+            },
+            "founder": {
+              "@type": "Person",
+              "@id": "https://www.hvaczonenj.com/#javier-santiago",
+              "name": "Javier Santiago",
+              "jobTitle": "Founder & New Jersey Master HVACR Contractor",
+              "hasCredential": {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "license",
+                "name": "New Jersey Master HVACR License 19HC00897200",
+                "recognizedBy": {
+                  "@type": "GovernmentOrganization",
+                  "name": "New Jersey State Board of Examiners of Master Heating, Ventilating, Air Conditioning and Refrigeration Contractors"
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 29,
+    "timing": {
+      "dcl": 2076,
+      "load": 2475,
+      "ttfb": 1244
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.081,
+        "sig": " site-header ",
+        "text": "home\nservices\nbrands\ninformation hub\nabout\ncontact\nrequest a consultation"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.hvaczonenj.com/",
+    "navMs": 3524,
+    "tel": [
+      {
+        "href": "tel:+19736876386",
+        "text": "973-687-6386",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736876386"
+      },
+      {
+        "href": "tel:+19736876386",
+        "text": "Call (973) 687-6386",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736876386"
+      },
+      {
+        "href": "tel:+19736876386",
+        "text": "(973) 687-6386",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736876386"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "ServiceTitan",
+        "kind": "field_service"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.hvaczonenj.com/",
+    "navMs": 2406,
+    "timing": {
+      "dcl": 1493,
+      "load": 1529,
+      "ttfb": 950
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+19736876386",
+        "text": "973-687-6386",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736876386"
+      },
+      {
+        "href": "tel:+19736876386",
+        "text": "Call (973) 687-6386",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736876386"
+      },
+      {
+        "href": "tel:+19736876386",
+        "text": "(973) 687-6386",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736876386"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.11,
+        "sig": " site-header ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 0,
+    "brokenImages": [],
+    "textChars": 14283
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.hvaczonenj.com/index.html",
+      "finalUrl": "https://www.hvaczonenj.com/index.html",
+      "status": 200,
+      "title": "HVAC Zone Inc | NJ Master HVAC Contractor — Installation, Repair & Air Quality",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "outlook-form",
+          "cls": "outlook-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "outlook-city"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": "hub.html",
+          "method": "get",
+          "id": "",
+          "cls": "hub-search",
+          "fieldCount": 1,
+          "fieldNames": [
+            "q"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": true
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@hvaczonenj.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19736876386",
+          "text": "973-687-6386",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736876386"
+        },
+        {
+          "href": "tel:+19736876386",
+          "text": "Call (973) 687-6386",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736876386"
+        },
+        {
+          "href": "tel:+19736876386",
+          "text": "(973) 687-6386",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736876386"
+        }
+      ],
+      "owners": [],
+      "bodyText": "973-687-6386\nHome\nServices\nBrands\nInformation Hub\nAbout\nContact\nRequest a Consultation\nLOCAL HVAC OUTLOOK\nYour week, your building, your weather\n\nEnter your city or use your location for a 7-day forecast translated into heating, cooling, humidity, and IAQ demand — wherever you are in the world.\n\nGet outlook\nUse my location\n\nFetching forecast…\n\nNJ MASTER HVACR CONTRACTOR\nSTAY COMFORTABLE\nAND BREATHE CLEAN AIR\n\nHVAC Zone Inc is a multi-service New Jersey Master HVACR contractor. From installation and repair to maintenance and indoor air quality, our in-house team of installers and service techs keeps homeowners, builders, and property managers comfortable year-round.\n\nRequest a Consultation\n Explore the Information Hub\nLICENSED & INSURED\nFINANCING AVAILABLE\nNO CHARGE FOR WARRANTY\nLicensed & Insured\n24/7 Emergency Service\nFinancing Available\nMost major brands\nNo Charge for Warranty\nWHAT WE DO\nFull-service heating, cooling & air quality\n\nResidential and medium commercial — installation, repair, maintenance, and sales across most major brands on the market today.\n\nInstallation\n\nNew construction, replacements, and system upgrades — sized and engineered for your space, not just swapped in.\n\nRepair\n\nFast, honest diagnostics on any brand. We find the root cause instead of just swapping parts.\n\nMaintenance\n\nPlanned service plans that extend equipment life, keep efficiency up, and prevent the mid-season breakdown.\n\nIndoor Air Quality\n\nFiltration, ventilation, humidity control, and IAQ monitoring — because comfort means clean, healthy air.\n\nCommercial & Builders\n\nA capable team for property managers and building contractors — coordinated, reliable, and code-compliant.\n\nSales & Equipment\n\nMulti-brand dealer with access to a wide network of manufacturers and vendors — the right equipment at fair pricing, no single-brand bias.\n\nINDOOR AIR QUALITY\nIAQ products we install & service\n\nClean air is half of comfort. These whole-home systems integrate with your HVAC equipment to filter, ventilate, and balance humidity — far beyond what a standard 1-inch filter can do. We specify, install, and service them all, with no single-brand bias.\n\nMedia air cleaners\n\nHigh-MERV (MERV 13–16) media filtration built into your ductwork — captures dust, pollen, pet dander, and fine particles with minimal airflow loss.\n\nUV-C germicidal lights\n\nUltraviolet light in the airstream and at the coil to reduce bacteria, viruses, and mold — and keep the evaporator coil clean for better efficiency.\n\nWhole-home humidifiers\n\nBypass, fan-powered, and steam humidifiers that hold a healthy 30–50% relative humidity in winter — protecting sinuses, woodwork, and electronics.\n\nWhole-home dehumidifiers\n\nTackle damp basements and humid summers, cut mold and dust-mite growth, and let you set the thermostat a few degrees higher while staying comfortable.\n\nVentilation (ERV / HRV)\n\nEnergy and heat recovery ventilators bring in fresh, filtered outdoor air and exhaust stale air while recovering the heating or cooling you already paid for.\n\nAir purifiers & VOC control\n\nWhole-home purifiers with carbon and photocatalytic stages that neutralize odors, smoke, and volatile organic compounds from cooking, cleaning, and furnishings.\n\nAlready monitoring your air? See our explainer on IAQ monitors & sensors. Guidance grounded in the U.S. EPA’s Indoor Air Quality resources. Not sure what you need? Request a consultation and we’ll assess your home or building.\n\nWHY HVAC ZONE\nA team capable — and the network to back it up\n\nOur wide network of equipment manufacturers, vendors, engineering consultants, and contractors throughout the HVAC industry lets us help builders, property managers, and homeowners meet their needs. We run our own in-house team of installers and service techs, so the job gets done right — the first time.\n\nJS\nMEET THE TEAM\nJavier Santiago\nFounder & New Jersey Master HVACR Contractor, Lic. #19HC00897200\n\n20+ years in the field installing, servicing, and troubleshooting heating and cooling systems across North Jersey. Javier is the technical reviewer for the HVAC Zone Information Hub.\n\nPeace of mind for homeowners\nClear pricing, honest diagnostics, and work you can trust.\nA capable team for contractors\nCoordinated scheduling and code-compliant installs that keep your project moving.\nMost brands serviced\nMulti-brand dealer carrying Daikin/Goodman, Rheem/Ruud, Coleman, American Standard, Mitsubishi, Carrier/Bryant and more — and we service nearly every brand on the market.\nRequest a consultation\nSERVICE AREAS\nBergen County\nHudson County\nEssex County\nUnion County\nPassaic County\nMiddlesex\nMorris County\n+ statewide\nMULTI-BRAND DEALER\nBrands we service & install\n\nWe carry, service, and install equipment from the industry's leading manufacturers — and most other brands on the market too.\n\n+ MOST BRANDS\n\nBrand names and logos are trademarks of their respective owners, shown here only to indicate the brands we service and install. Links go to official manufacturer sites for your research — HVAC Zone remains brand-neutral.\n\nINDUSTRY OWNERSHIP\nMeet the brands\n\nThe HVAC industry has consolidated into a handful of global parents, so several “competing” labels are actually built by the same company. Here’s who owns whom today — and what each brand is positioned to offer. We stay neutral: knowing the family tree helps you compare value, not pick a logo.\n\nDaikin Industries\nJAPAN\nOfficial site →\nThe world’s largest air-conditioning manufacturer.\nDaikin\nPremium full line — high-efficiency furnaces, ACs and heat pumps, plus the industry’s widest ductless and VRF range.\nGoodman\nValue-oriented, builder-friendly equipment sold through distribution. Daikin’s high-volume brand.\nAmana\nValue tier sharing Goodman’s platform, set apart by stronger warranties — including a lifetime unit-replacement compressor warranty.\nCarrier Global\nUSA\nOfficial site →\nPioneered modern air conditioning; broad residential and commercial portfolio.\nCarrier\nFlagship premium brand; full residential and commercial line.\nBryant\nCarrier’s dealer-channel sister brand — near-identical equipment under a different nameplate.\nPayne\nBuilder / entry-level tier of the Carrier family.\nICP brands: Heil, Tempstar, Comfortmaker, Arcoaire, Day & Night, Keeprite\nValue and contractor tiers sharing common platforms (International Comfort Products).\nViessmann Climate Solutions ACQUIRED 2024\nEuropean heat-pump and heating leader added to Carrier’s portfolio.\nTrane Technologies\nUSA / IRELAND\nOfficial site →\nGlobal climate-innovation company spanning residential and commercial.\nTrane\nPremium brand with deep commercial heritage and high-efficiency residential equipment.\nAmerican Standard Heating & Air Conditioning\nTrane’s consumer sister brand — comparable engineering under a different name.\nOxbox\nContractor-direct, online-first value brand.\nRunTru\nBudget / builder tier.\nThermo Pride\nRugged, long-life oil-fired furnaces.\nRheem Manufacturing\nUSA / PALOMA (JAPAN)\nOfficial site →\nAir and water-heating specialist; owned by Paloma Industries of Japan.\nRheem\nFull residential and commercial line sold through retail and contractor channels.\nRuud\nContractor-channel sister brand — same equipment as Rheem under a different label.\nNortek / Nordyne family ACQUIRED OCT 2024\nFrigidaire HVAC, Maytag HVAC, Miller, Gibson and Intertherm — value, retail and manufactured-housing tiers; plus Broan ventilation.\nFujitsu General ACQUIRED 2025\nDuctless mini-split brand added to the Paloma/Rheem group.\nValue tiers: Richmond, Sure Comfort, WeatherKing\nEntry-level and private-label water-heating and HVAC lines.\nBosch Home Comfort Group\nGERMANY\nNEW OWNER 2025\nOfficial site →\nAcquired Johnson Controls’ residential & light-commercial HVAC business in August 2025 — a major ownership shift.\nYork\nMid-tier dealer brand (formerly Johnson Controls).\nColeman\nManufactured-housing and residential value brand (formerly Johnson Controls).\nLuxaire\nYork’s sister brand (formerly Johnson Controls).\nChampion\nValue tier (formerly Johnson Controls).\nJCI–Hitachi Air Conditioning JV\nThe former Johnson Controls–Hitachi joint venture moved to Bosch with the deal.\nLennox International\nUSA\nOfficial site →\nPremium residential and commercial; dealer-only distribution.\nLennox\nFlagship premium brand known for high-efficiency, smart-home-ready equipment.\nArmstrong Air\nLennox engineering at a lower price point — built by Allied Air Enterprises.\nAllied Air Enterprises: AirEase, Concord, Ducane, Allied Commercial, MagicPak\nValue and specialty tiers under the Lennox-owned Allied umbrella.\nMitsubishi Electric\nJAPAN\nOfficial site →\nGlobal leader in ductless and variable-refrigerant-flow systems.\nMitsubishi Electric (Mr. Slim, City Multi, M-/P-Series)\nPremium ductless mini-splits and VRF; strong cold-climate heat-pump performance.\nSamsung\nSOUTH KOREA\nOfficial site →\nTech-forward HVAC within the Samsung group.\nSamsung HVAC\nWindFree ductless and Digital VRF systems with smart-home integration.\nLG Electronics\nSOUTH KOREA\nOfficial site →\nDesign- and connectivity-focused HVAC.\nLG HVAC\nArt Cool and Multi F ductless, Multi V VRF — strong on design and smart controls.\nGree Electric Appliances\nCHINA\nOfficial site →\nOne of the world’s largest air-conditioner manufacturers; a major OEM for other labels.\nGree\nHigh-volume residential and light-commercial full line.\nTOSOT\nGree’s lifestyle sub-brand for comfort and appliances.\nKINGHOME\nGree sub-brand.\nMidea Group\nCHINA\nOfficial site →\nOne of the world’s largest appliance and HVAC manufacturers. Midea is a major OEM — it builds equipment sold under many other labels, not just its own name.\nCooper & Hunter\nValue-oriented ductless brand (Ukraine-founded, distributed in the US by ComfortSide). Its mini-splits are rebadged Midea units — Midea is the manufacturer, not the brand’s corporate owner. Some models are sourced from Gree.\nAlso OEM-built on Midea platforms\nCarrier and Bryant ductless systems, the Bosch Climate 5000 series, MRCOOL and Durastar are widely reported to use Midea equipment.\nTCL Technology\nCHINA\nGROWING FAST\nOfficial site →\nConsumer-electronics giant that has become one of the world’s largest air-conditioner exporters — roughly 20 million AC units a year across 160+ countries.\nTCL Air Conditioner (T-Pro, FreshIN, BreezeIN, SaveIN AI)\nDuctless mini-splits, window units, portables and light-commercial systems; value-to-mid positioning with smart-home and AI energy-saving features. Sold via retail (e.g., Home Depot) and as OEM/ODM for other labels.\n\nOwnership and brand-positioning details compiled from Carrier’s brand portfolio, Carrier’s Viessmann acquisition, Bosch on the Johnson Controls HVAC acquisition, Rheem / Paloma and the Nortek acquisition, Nortek/Nordyne under Rheem, ServiceTitan’s manufacturer guide, Allied Air Enterprises (Lennox), Gree / TOSOT / KINGHOME, and reporting on Midea as the manufacturer behind Cooper & Hunter and other labels and Midea vs. Cooper & Hunter, TCL’s scale and product range, and TCL air-conditioner manufacturing overview. Accurate as of July 2026; M&A in this sector moves quickly, so we revisit periodically.\n\nTHE HVAC INFORMATION HUB\nYour daily source for HVAC knowledge\n\nEquipment reviews, tools, indoor air quality, smart thermostats, and building science — the goal is the most comprehensive HVAC information hub on the internet.\n\nAll articles\nSearch the HVAC Information Hub\nSearch\nTOOLS\nNitrogen Pressure Testing and Brazing Purge: The Tools and Numbers Behind a Leak-Tight Install\n\nFlowing nitrogen while brazing and holding a standing pressure test afterward catch most install-day leaks. Test pressures, hold times, temperature correction, and the tools that make it work.\n\nHVAC Zone Team\n•\n7 min read\n•\nToday\nAQI\n18\nINDOOR AIR QUALITY\nRange Hoods and Gas Stove Pollution: Capture Efficiency, CFM, and Makeup Air Explained\n\nGas stoves raise indoor nitrogen dioxide, and front burners can escape a range hood. LBNL capture efficiency findings, ASHRAE 62.2 kitchen exhaust rates, IRC makeup air above 400 cfm, and a kitchen ventilation checklist.\n\nHVAC Zone Team\n•\n7 min read\n•\nYesterday\nEQUIPMENT\nCondensing vs. Non-Condensing Boilers: Why Return Water Temperature Decides Your Real Efficiency\n\nA 95% AFUE condensing boiler only condenses when return water stays below about 130°F. Federal minimums, ENERGY STAR levels, GSA field savings of 14% to 24%, outdoor reset, and a replacement checklist.\n\nHVAC Zone Team\n•\n7 min read\n•\n2 days ago\nBrowse the full hub\nTHE VISION\nBuilt to be the HVAC go-to spot\n\nThe Information Hub is more than a blog. Here's how it grows into a daily, multi-channel resource.\n\nDaily Posts\n\nNew product trends, reviews, and building science articles published every day.\n\nDAILY\nEmail Brief\n\nThe weekly HVAC Zone Brief — the week's best reads delivered to your inbox.\n\nWEEKLY\nSocial Clips\n\nShort explainers and reviews adapted for your feeds — the hub, everywhere you are.\n\nONGOING\nOne-Click Reference\n\nSearchable, categorized library so the answer you need is always a click away.\n\nALWAYS ON\nNeed service, a quote, or a second opinion?\n\nTell us what's going on with your system and a real tech will get back to you. Residential and medium commercial across New Jersey.\n\nEmail HVAC Zone\nCall (973) 687-6386\n\n24/7 emergency service available for existing and new customers across NJ.\n\nInstallation, repair, maintenance and sales of heating and cooling equipment across most major brands. Multi-brand dealer — no single-brand bias.\n\nSERVICES\nInstallation\nRepair\nMaintenance\nIndoor Air Quality\nCommercial\nHUB\nAll Articles\nEquipment Reviews\nSmart Thermostats\nBuilding Science\nProduct Trends\nCOMPANY\nAbout\nContact\ninfo@hvaczonenj.com\n(973) 687-6386\n© 2026 HVAC Zone Inc · NJ Master HVACR Contractor · Licensed & Insured",
+      "vendors": [
+        {
+          "name": "ServiceTitan",
+          "kind": "field_service"
+        }
+      ],
+      "links": [
+        "https://www.hvaczonenj.com/index.html",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#meet-the-brands",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/index.html#about",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/articles/iaq-monitors-explained.html",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/articles/nitrogen-pressure-testing-brazing-purge-standing-pressure-test-hvac-tools.html",
+        "https://www.hvaczonenj.com/articles/range-hood-capture-efficiency-gas-stove-no2-kitchen-ventilation-makeup-air.html",
+        "https://www.hvaczonenj.com/articles/condensing-vs-non-condensing-boilers-return-water-temperature-outdoor-reset-afue.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/index.html",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/index.html#about",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/index.html#",
+        "https://www.hvaczonenj.com/index.html#",
+        "https://www.hvaczonenj.com/index.html#",
+        "https://www.hvaczonenj.com/index.html#"
+      ]
+    },
+    "about": {
+      "url": "https://www.hvaczonenj.com/index.html",
+      "finalUrl": "https://www.hvaczonenj.com/index.html",
+      "status": 200,
+      "title": "HVAC Zone Inc | NJ Master HVAC Contractor — Installation, Repair & Air Quality",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "outlook-form",
+          "cls": "outlook-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "outlook-city"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": "hub.html",
+          "method": "get",
+          "id": "",
+          "cls": "hub-search",
+          "fieldCount": 1,
+          "fieldNames": [
+            "q"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": true
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@hvaczonenj.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19736876386",
+          "text": "973-687-6386",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736876386"
+        },
+        {
+          "href": "tel:+19736876386",
+          "text": "Call (973) 687-6386",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736876386"
+        },
+        {
+          "href": "tel:+19736876386",
+          "text": "(973) 687-6386",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736876386"
+        }
+      ],
+      "owners": [],
+      "bodyText": "973-687-6386\nHome\nServices\nBrands\nInformation Hub\nAbout\nContact\nRequest a Consultation\nLOCAL HVAC OUTLOOK\nYour week, your building, your weather\n\nEnter your city or use your location for a 7-day forecast translated into heating, cooling, humidity, and IAQ demand — wherever you are in the world.\n\nGet outlook\nUse my location\n\nNewark, NJ, US\n\nHeating-dominant week · Cooling degree-days: 0 · Heating degree-days: 56\n\n73°F\nweek high\n46°F\nweek low\nDAY\tHI / LO\tRH\tPRECIP\tDEMAND\nTue, Nov 3\t72°F / 46°F\t92%\t0.0 mm\tMild\nWed, Nov 4\t73°F / 49°F\t95%\t0.0 mm\tMild\nThu, Nov 5\t69°F / 53°F\t100%\t1.6 mm\tMild\nFri, Nov 6\t64°F / 58°F\t99%\t19.2 mm\tMild\nSat, Nov 7\t58°F / 48°F\t75%\t0.0 mm\tMild\nSun, Nov 8\t57°F / 48°F\t72%\t0.0 mm\tMild\nMon, Nov 9\t55°F / 49°F\t57%\t0.0 mm\tMild\nHigh humidity most of the week — dehumidification matters; watch indoor moisture and IAQ.\n\nForecast: Open-Meteo. Degree-day base 65°F. Informational — not a substitute for a site assessment by a licensed HVAC professional.\n\nNJ MASTER HVACR CONTRACTOR\nSTAY COMFORTABLE\nAND BREATHE CLEAN AIR\n\nHVAC Zone Inc is a multi-service New Jersey Master HVACR contractor. From installation and repair to maintenance and indoor air quality, our in-house team of installers and service techs keeps homeowners, builders, and property managers comfortable year-round.\n\nRequest a Consultation\n Explore the Information Hub\nLICENSED & INSURED\nFINANCING AVAILABLE\nNO CHARGE FOR WARRANTY\nLicensed & Insured\n24/7 Emergency Service\nFinancing Available\nMost major brands\nNo Charge for Warranty\nWHAT WE DO\nFull-service heating, cooling & air quality\n\nResidential and medium commercial — installation, repair, maintenance, and sales across most major brands on the market today.\n\nInstallation\n\nNew construction, replacements, and system upgrades — sized and engineered for your space, not just swapped in.\n\nRepair\n\nFast, honest diagnostics on any brand. We find the root cause instead of just swapping parts.\n\nMaintenance\n\nPlanned service plans that extend equipment life, keep efficiency up, and prevent the mid-season breakdown.\n\nIndoor Air Quality\n\nFiltration, ventilation, humidity control, and IAQ monitoring — because comfort means clean, healthy air.\n\nCommercial & Builders\n\nA capable team for property managers and building contractors — coordinated, reliable, and code-compliant.\n\nSales & Equipment\n\nMulti-brand dealer with access to a wide network of manufacturers and vendors — the right equipment at fair pricing, no single-brand bias.\n\nINDOOR AIR QUALITY\nIAQ products we install & service\n\nClean air is half of comfort. These whole-home systems integrate with your HVAC equipment to filter, ventilate, and balance humidity — far beyond what a standard 1-inch filter can do. We specify, install, and service them all, with no single-brand bias.\n\nMedia air cleaners\n\nHigh-MERV (MERV 13–16) media filtration built into your ductwork — captures dust, pollen, pet dander, and fine particles with minimal airflow loss.\n\nUV-C germicidal lights\n\nUltraviolet light in the airstream and at the coil to reduce bacteria, viruses, and mold — and keep the evaporator coil clean for better efficiency.\n\nWhole-home humidifiers\n\nBypass, fan-powered, and steam humidifiers that hold a healthy 30–50% relative humidity in winter — protecting sinuses, woodwork, and electronics.\n\nWhole-home dehumidifiers\n\nTackle damp basements and humid summers, cut mold and dust-mite growth, and let you set the thermostat a few degrees higher while staying comfortable.\n\nVentilation (ERV / HRV)\n\nEnergy and heat recovery ventilators bring in fresh, filtered outdoor air and exhaust stale air while recovering the heating or cooling you already paid for.\n\nAir purifiers & VOC control\n\nWhole-home purifiers with carbon and photocatalytic stages that neutralize odors, smoke, and volatile organic compounds from cooking, cleaning, and furnishings.\n\nAlready monitoring your air? See our explainer on IAQ monitors & sensors. Guidance grounded in the U.S. EPA’s Indoor Air Quality resources. Not sure what you need? Request a consultation and we’ll assess your home or building.\n\nWHY HVAC ZONE\nA team capable — and the network to back it up\n\nOur wide network of equipment manufacturers, vendors, engineering consultants, and contractors throughout the HVAC industry lets us help builders, property managers, and homeowners meet their needs. We run our own in-house team of installers and service techs, so the job gets done right — the first time.\n\nJS\nMEET THE TEAM\nJavier Santiago\nFounder & New Jersey Master HVACR Contractor, Lic. #19HC00897200\n\n20+ years in the field installing, servicing, and troubleshooting heating and cooling systems across North Jersey. Javier is the technical reviewer for the HVAC Zone Information Hub.\n\nPeace of mind for homeowners\nClear pricing, honest diagnostics, and work you can trust.\nA capable team for contractors\nCoordinated scheduling and code-compliant installs that keep your project moving.\nMost brands serviced\nMulti-brand dealer carrying Daikin/Goodman, Rheem/Ruud, Coleman, American Standard, Mitsubishi, Carrier/Bryant and more — and we service nearly every brand on the market.\nRequest a consultation\nSERVICE AREAS\nBergen County\nHudson County\nEssex County\nUnion County\nPassaic County\nMiddlesex\nMorris County\n+ statewide\nMULTI-BRAND DEALER\nBrands we service & install\n\nWe carry, service, and install equipment from the industry's leading manufacturers — and most other brands on the market too.\n\n+ MOST BRANDS\n\nBrand names and logos are trademarks of their respective owners, shown here only to indicate the brands we service and install. Links go to official manufacturer sites for your research — HVAC Zone remains brand-neutral.\n\nINDUSTRY OWNERSHIP\nMeet the brands\n\nThe HVAC industry has consolidated into a handful of global parents, so several “competing” labels are actually built by the same company. Here’s who owns whom today — and what each brand is positioned to offer. We stay neutral: knowing the family tree helps you compare value, not pick a logo.\n\nDaikin Industries\nJAPAN\nOfficial site →\nThe world’s largest air-conditioning manufacturer.\nDaikin\nPremium full line — high-efficiency furnaces, ACs and heat pumps, plus the industry’s widest ductless and VRF range.\nGoodman\nValue-oriented, builder-friendly equipment sold through distribution. Daikin’s high-volume brand.\nAmana\nValue tier sharing Goodman’s platform, set apart by stronger warranties — including a lifetime unit-replacement compressor warranty.\nCarrier Global\nUSA\nOfficial site →\nPioneered modern air conditioning; broad residential and commercial portfolio.\nCarrier\nFlagship premium brand; full residential and commercial line.\nBryant\nCarrier’s dealer-channel sister brand — near-identical equipment under a different nameplate.\nPayne\nBuilder / entry-level tier of the Carrier family.\nICP brands: Heil, Tempstar, Comfortmaker, Arcoaire, Day & Night, Keeprite\nValue and contractor tiers sharing common platforms (International Comfort Products).\nViessmann Climate Solutions ACQUIRED 2024\nEuropean heat-pump and heating leader added to Carrier’s portfolio.\nTrane Technologies\nUSA / IRELAND\nOfficial site →\nGlobal climate-innovation company spanning residential and commercial.\nTrane\nPremium brand with deep commercial heritage and high-efficiency residential equipment.\nAmerican Standard Heating & Air Conditioning\nTrane’s consumer sister brand — comparable engineering under a different name.\nOxbox\nContractor-direct, online-first value brand.\nRunTru\nBudget / builder tier.\nThermo Pride\nRugged, long-life oil-fired furnaces.\nRheem Manufacturing\nUSA / PALOMA (JAPAN)\nOfficial site →\nAir and water-heating specialist; owned by Paloma Industries of Japan.\nRheem\nFull residential and commercial line sold through retail and contractor channels.\nRuud\nContractor-channel sister brand — same equipment as Rheem under a different label.\nNortek / Nordyne family ACQUIRED OCT 2024\nFrigidaire HVAC, Maytag HVAC, Miller, Gibson and Intertherm — value, retail and manufactured-housing tiers; plus Broan ventilation.\nFujitsu General ACQUIRED 2025\nDuctless mini-split brand added to the Paloma/Rheem group.\nValue tiers: Richmond, Sure Comfort, WeatherKing\nEntry-level and private-label water-heating and HVAC lines.\nBosch Home Comfort Group\nGERMANY\nNEW OWNER 2025\nOfficial site →\nAcquired Johnson Controls’ residential & light-commercial HVAC business in August 2025 — a major ownership shift.\nYork\nMid-tier dealer brand (formerly Johnson Controls).\nColeman\nManufactured-housing and residential value brand (formerly Johnson Controls).\nLuxaire\nYork’s sister brand (formerly Johnson Controls).\nChampion\nValue tier (formerly Johnson Controls).\nJCI–Hitachi Air Conditioning JV\nThe former Johnson Controls–Hitachi joint venture moved to Bosch with the deal.\nLennox International\nUSA\nOfficial site →\nPremium residential and commercial; dealer-only distribution.\nLennox\nFlagship premium brand known for high-efficiency, smart-home-ready equipment.\nArmstrong Air\nLennox engineering at a lower price point — built by Allied Air Enterprises.\nAllied Air Enterprises: AirEase, Concord, Ducane, Allied Commercial, MagicPak\nValue and specialty tiers under the Lennox-owned Allied umbrella.\nMitsubishi Electric\nJAPAN\nOfficial site →\nGlobal leader in ductless and variable-refrigerant-flow systems.\nMitsubishi Electric (Mr. Slim, City Multi, M-/P-Series)\nPremium ductless mini-splits and VRF; strong cold-climate heat-pump performance.\nSamsung\nSOUTH KOREA\nOfficial site →\nTech-forward HVAC within the Samsung group.\nSamsung HVAC\nWindFree ductless and Digital VRF systems with smart-home integration.\nLG Electronics\nSOUTH KOREA\nOfficial site →\nDesign- and connectivity-focused HVAC.\nLG HVAC\nArt Cool and Multi F ductless, Multi V VRF — strong on design and smart controls.\nGree Electric Appliances\nCHINA\nOfficial site →\nOne of the world’s largest air-conditioner manufacturers; a major OEM for other labels.\nGree\nHigh-volume residential and light-commercial full line.\nTOSOT\nGree’s lifestyle sub-brand for comfort and appliances.\nKINGHOME\nGree sub-brand.\nMidea Group\nCHINA\nOfficial site →\nOne of the world’s largest appliance and HVAC manufacturers. Midea is a major OEM — it builds equipment sold under many other labels, not just its own name.\nCooper & Hunter\nValue-oriented ductless brand (Ukraine-founded, distributed in the US by ComfortSide). Its mini-splits are rebadged Midea units — Midea is the manufacturer, not the brand’s corporate owner. Some models are sourced from Gree.\nAlso OEM-built on Midea platforms\nCarrier and Bryant ductless systems, the Bosch Climate 5000 series, MRCOOL and Durastar are widely reported to use Midea equipment.\nTCL Technology\nCHINA\nGROWING FAST\nOfficial site →\nConsumer-electronics giant that has become one of the world’s largest air-conditioner exporters — roughly 20 million AC units a year across 160+ countries.\nTCL Air Conditioner (T-Pro, FreshIN, BreezeIN, SaveIN AI)\nDuctless mini-splits, window units, portables and light-commercial systems; value-to-mid positioning with smart-home and AI energy-saving features. Sold via retail (e.g., Home Depot) and as OEM/ODM for other labels.\n\nOwnership and brand-positioning details compiled from Carrier’s brand portfolio, Carrier’s Viessmann acquisition, Bosch on the Johnson Controls HVAC acquisition, Rheem / Paloma and the Nortek acquisition, Nortek/Nordyne under Rheem, ServiceTitan’s manufacturer guide, Allied Air Enterprises (Lennox), Gree / TOSOT / KINGHOME, and reporting on Midea as the manufacturer behind Cooper & Hunter and other labels and Midea vs. Cooper & Hunter, TCL’s scale and product range, and TCL air-conditioner manufacturing overview. Accurate as of July 2026; M&A in this sector moves quickly, so we revisit periodically.\n\nTHE HVAC INFORMATION HUB\nYour daily source for HVAC knowledge\n\nEquipment reviews, tools, indoor air quality, smart thermostats, and building science — the goal is the most comprehensive HVAC information hub on the internet.\n\nAll articles\nSearch the HVAC Information Hub\nSearch\nTOOLS\nNitrogen Pressure Testing and Brazing Purge: The Tools and Numbers Behind a Leak-Tight Install\n\nFlowing nitrogen while brazing and holding a standing pressure test afterward catch most install-day leaks. Test pressures, hold times, temperature correction, and the tools that make it work.\n\nHVAC Zone Team\n•\n7 min read\n•\nToday\nAQI\n18\nINDOOR AIR QUALITY\nRange Hoods and Gas Stove Pollution: Capture Efficiency, CFM, and Makeup Air Explained\n\nGas stoves raise indoor nitrogen dioxide, and front burners can escape a range hood. LBNL capture efficiency findings, ASHRAE 62.2 kitchen exhaust rates, IRC makeup air above 400 cfm, and a kitchen ventilation checklist.\n\nHVAC Zone Team\n•\n7 min read\n•\nYesterday\nEQUIPMENT\nCondensing vs. Non-Condensing Boilers: Why Return Water Temperature Decides Your Real Efficiency\n\nA 95% AFUE condensing boiler only condenses when return water stays below about 130°F. Federal minimums, ENERGY STAR levels, GSA field savings of 14% to 24%, outdoor reset, and a replacement checklist.\n\nHVAC Zone Team\n•\n7 min read\n•\n2 days ago\nBrowse the full hub\nTHE VISION\nBuilt to be the HVAC go-to spot\n\nThe Information Hub is more than a blog. Here's how it grows into a daily, multi-channel resource.\n\nDaily Posts\n\nNew product trends, reviews, and building science articles published every day.\n\nDAILY\nEmail Brief\n\nThe weekly HVAC Zone Brief — the week's best reads delivered to your inbox.\n\nWEEKLY\nSocial Clips\n\nShort explainers and reviews adapted for your feeds — the hub, everywhere you are.\n\nONGOING\nOne-Click Reference\n\nSearchable, categorized library so the answer you need is always a click away.\n\nALWAYS ON\nNeed service, a quote, or a second opinion?\n\nTell us what's going on with your system and a real tech will get back to you. Residential and medium commercial across New Jersey.\n\nEmail HVAC Zone\nCall (973) 687-6386\n\n24/7 emergency service available for existing and new customers across NJ.\n\nInstallation, repair, maintenance and sales of heating and cooling equipment across most major brands. Multi-brand dealer — no single-brand bias.\n\nSERVICES\nInstallation\nRepair\nMaintenance\nIndoor Air Quality\nCommercial\nHUB\nAll Articles\nEquipment Reviews\nSmart Thermostats\nBuilding Science\nProduct Trends\nCOMPANY\nAbout\nContact\ninfo@hvaczonenj.com\n(973) 687-6386\n© 2026 HVAC Zone Inc · NJ Master HVACR Contractor · Licensed & Insured",
+      "vendors": [
+        {
+          "name": "ServiceTitan",
+          "kind": "field_service"
+        }
+      ],
+      "links": [
+        "https://www.hvaczonenj.com/index.html",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#meet-the-brands",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/index.html#about",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/articles/iaq-monitors-explained.html",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/articles/nitrogen-pressure-testing-brazing-purge-standing-pressure-test-hvac-tools.html",
+        "https://www.hvaczonenj.com/articles/range-hood-capture-efficiency-gas-stove-no2-kitchen-ventilation-makeup-air.html",
+        "https://www.hvaczonenj.com/articles/condensing-vs-non-condensing-boilers-return-water-temperature-outdoor-reset-afue.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/index.html",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/index.html#services",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/hub.html",
+        "https://www.hvaczonenj.com/index.html#about",
+        "https://www.hvaczonenj.com/index.html#contact",
+        "https://www.hvaczonenj.com/index.html#",
+        "https://www.hvaczonenj.com/index.html#",
+        "https://www.hvaczonenj.com/index.html#",
+        "https://www.hvaczonenj.com/index.html#"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 8,
+    "at": "2026-11-03T22:51:22.521Z",
+    "statusCounts": {
+      "200": 8
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.hvaczonenj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/hvac-zone-inc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/hvac-zone-inc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/hvac-zone-inc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/hvac-zone-inc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/hvac-zone-inc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00897200"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "info@hvaczonenj.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Facebook -> https://www.hvaczonenj.com/#"
+    ]
+  },
+  "ctaClickTests": []
+}

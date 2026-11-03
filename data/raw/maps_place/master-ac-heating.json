@@ -1,0 +1,25 @@
+{
+  "id": "master-ac-heating",
+  "placeUrl": "https://www.google.com/maps/place/Master+AC+%26+Heating/data=!4m7!3m6!1s0x89c255c360c8a6ff:0xc1dfd05b594c2b30!8m2!3d40.7579133!4d-74.1490845!16s%2Fg%2F11t__k_qfz!19sChIJ_6bIYMNVwokRMCtMWVvQ38E",
+  "retrievedAt": "2026-11-03T22:51:39.588Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Master AC & Heating",
+  "category": "HVAC contractor",
+  "address": "206 Bergen Ave #214, Kearny, NJ 07032, United States ",
+  "phone": "+1 201-690-1808 ",
+  "website": "https://masterhvacsolutions.com/kearny-nj/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–10 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Master+AC+%26+Heating/data=!4m7!3m6!1s0x89c255c360c8a6ff:0xc1dfd05b594c2b30!8m2!3d40.7579133!4d-74.1490845!16s%2Fg%2F11t__k_qfz!19sChIJ_6bIYMNVwokRMCtMWVvQ38E?hl=en",
+  "screenshot": "evidence/screenshots/master-ac-heating/google-maps-listing.png"
+}

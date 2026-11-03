@@ -53,8 +53,14 @@ export function detectVendors(urls) {
 }
 
 let browserPromise = null;
-export function getBrowser() {
-  if (!browserPromise) browserPromise = loadPlaywright().chromium.launch();
+// Relaunch automatically if Chromium crashes or disconnects, so one crash does not fail every later company.
+export async function getBrowser() {
+  if (browserPromise) {
+    const b = await browserPromise.catch(() => null);
+    if (b && b.isConnected()) return b;
+    browserPromise = null;
+  }
+  browserPromise = loadPlaywright().chromium.launch({ args: ['--disable-dev-shm-usage'] }).then(b => { b.on('disconnected', () => { browserPromise = null; }); return b; });
   return browserPromise;
 }
 export async function closeBrowser() { if (browserPromise) { (await browserPromise).close(); browserPromise = null; } }

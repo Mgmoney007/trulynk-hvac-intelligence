@@ -1,0 +1,25 @@
+{
+  "id": "integrate-comfort-systems",
+  "placeUrl": "https://www.google.com/maps/place/Integrate+Comfort+Systems/data=!4m7!3m6!1s0x89c255b84f0cc463:0xcf58fb049d80c25b!8m2!3d40.7902133!4d-74.149847!16s%2Fg%2F11cls6v4pj!19sChIJY8QMT7hVwokRW8KAnQT7WM8",
+  "retrievedAt": "2026-11-03T23:10:41.799Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Integrate Comfort Systems",
+  "category": "Air conditioning contractor",
+  "address": "267 Cortlandt St, Belleville, NJ 07109, United States ",
+  "phone": "+1 866-218-3478 ",
+  "website": "https://icshvac.com/?utm_medium=organic&utm_source=google&utm_campaign=gbp_belleville",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–4 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Integrate+Comfort+Systems/data=!4m7!3m6!1s0x89c255b84f0cc463:0xcf58fb049d80c25b!8m2!3d40.7902133!4d-74.149847!16s%2Fg%2F11cls6v4pj!19sChIJY8QMT7hVwokRW8KAnQT7WM8?hl=en",
+  "screenshot": "evidence/screenshots/integrate-comfort-systems/google-maps-listing.png"
+}

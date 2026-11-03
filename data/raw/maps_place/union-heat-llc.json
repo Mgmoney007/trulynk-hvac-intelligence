@@ -1,0 +1,25 @@
+{
+  "id": "union-heat-llc",
+  "placeUrl": "https://www.google.com/maps/place/Union+Heat,+LLC/data=!4m7!3m6!1s0x89c3adc286bc481d:0x3611c2e615f7c9cb!8m2!3d40.7087075!4d-74.3032039!16s%2Fg%2F1pp2v3j0s!19sChIJHUi8hsKtw4kRy8n3FebCETY",
+  "retrievedAt": "2026-11-03T23:13:21.012Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Union Heat, LLC",
+  "category": "HVAC contractor",
+  "address": "38 Morris Ave Rear Garage, Springfield, NJ 07081, United States ",
+  "phone": "+1 908-688-4111 ",
+  "website": "https://unionheatnj.com/contact-union-heat/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Union+Heat,+LLC/data=!4m7!3m6!1s0x89c3adc286bc481d:0x3611c2e615f7c9cb!8m2!3d40.7087075!4d-74.3032039!16s%2Fg%2F1pp2v3j0s!19sChIJHUi8hsKtw4kRy8n3FebCETY?hl=en",
+  "screenshot": "evidence/screenshots/union-heat-llc/google-maps-listing.png"
+}

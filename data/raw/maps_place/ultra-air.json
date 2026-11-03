@@ -1,0 +1,25 @@
+{
+  "id": "ultra-air",
+  "placeUrl": "https://www.google.com/maps/place/Ultra+Air/data=!4m7!3m6!1s0x89c2ff42e46a0f1d:0xb8c6ddae86b017b2!8m2!3d40.8289197!4d-74.144921!16s%2Fg%2F11fz9_4htl!19sChIJHQ9q5EL_wokRshewhq7dxrg",
+  "retrievedAt": "2026-11-03T23:03:34.602Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Ultra Air",
+  "category": "HVAC contractor",
+  "address": "19 Main Ave, Clifton, NJ 07014, United States ",
+  "phone": "+1 973-450-1141 ",
+  "website": "https://www.ultraairductless.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday9 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Ultra+Air/data=!4m7!3m6!1s0x89c2ff42e46a0f1d:0xb8c6ddae86b017b2!8m2!3d40.8289197!4d-74.144921!16s%2Fg%2F11fz9_4htl!19sChIJHQ9q5EL_wokRshewhq7dxrg?hl=en",
+  "screenshot": "evidence/screenshots/ultra-air/google-maps-listing.png"
+}

@@ -1,0 +1,166 @@
+{
+  "firecrawl": [],
+  "id": "a-c-quality-air",
+  "name": "A&C Quality Air",
+  "website": "http://hvacqualityair.com/",
+  "auditedAt": "2026-11-03T23:04:43.149Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://hvacqualityair.com/",
+      "at": "2026-11-03T23:04:52.003Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "http://hvacqualityair.com/",
+      "title": "Coming Soon",
+      "ms": 8821,
+      "error": null,
+      "linkCount": 1
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://hvacqualityair.com/",
+      "at": "2026-11-03T23:05:01.884Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "http://hvacqualityair.com/",
+      "title": "Coming Soon",
+      "ms": 8547,
+      "error": null,
+      "linkCount": 1
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "http://hvacqualityair.com/",
+    "title": "Coming Soon",
+    "lang": "",
+    "metaDescription": null,
+    "h1": [
+      "Future home of something quite cool."
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 900,
+    "bodyText": "Future home of something quite cool.\n\nIf you're the site owner, log in to launch this site\n\nIf you are a visitor, check back soon.",
+    "links": [
+      {
+        "href": "/cpanel",
+        "abs": "http://hvacqualityair.com/cpanel",
+        "text": "log in",
+        "visible": true,
+        "aboveFold": true,
+        "h": 25,
+        "w": 52,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://img1.wsimg.com/traffic-assets/js/tccl.min.js"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 0,
+    "timing": {
+      "dcl": 803,
+      "load": 804,
+      "ttfb": 315
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "http://hvacqualityair.com/",
+    "navMs": 8821,
+    "tel": [],
+    "vendors": [
+      {
+        "name": "GoDaddy Builder",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "http://hvacqualityair.com/",
+    "navMs": 8547,
+    "timing": {
+      "dcl": 528,
+      "load": 529,
+      "ttfb": 164
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [],
+    "telAboveFold": false,
+    "ctaAboveFold": [],
+    "menuToggle": false,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 0,
+    "brokenImages": [],
+    "textChars": 130
+  },
+  "pages": {},
+  "linkCheck": {
+    "checked": 1,
+    "at": "2026-11-03T23:04:52.437Z",
+    "statusCounts": {
+      "200": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "http://hvacqualityair.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": false
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/a-c-quality-air/desktop-home.png",
+    "desktop_full": "evidence/screenshots/a-c-quality-air/desktop-home-full.png",
+    "mobile_asis": "evidence/screenshots/a-c-quality-air/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  },
+  "ctaClickTests": []
+}

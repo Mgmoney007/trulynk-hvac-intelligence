@@ -1,0 +1,20 @@
+{
+  "id": "hvac-zone-inc",
+  "query": "HVAC ZONE INC",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=HVAC%20ZONE%20INC&find_loc=Newark%2C%20NJ",
+  "retrievedAt": "2026-11-03T22:55:32.490Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Comfort Zone HVAC Building Performance Inc.",
+      "rating": "A+",
+      "phone": "(347) 215-4151",
+      "address": "2 Queensdale St, Staten Island, NY 10309-3019",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/staten-island/profile/commercial-air-conditioning-contractors/comfort-zone-hvac-building-performance-inc-0121-87158048"
+    }
+  ],
+  "error": null
+}

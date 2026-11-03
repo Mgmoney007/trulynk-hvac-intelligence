@@ -1,0 +1,25 @@
+{
+  "id": "total-comfort-services-llc",
+  "placeUrl": "https://www.google.com/maps/place/Total+Comfort+Services+LLC/data=!4m7!3m6!1s0x89c2e28093d9e54f:0xb4cc79ef44207a38!8m2!3d40.9841917!4d-74.0107484!16s%2Fg%2F1v5k3z1_!19sChIJT-XZk4DiwokROHogRO95zLQ",
+  "retrievedAt": "2026-11-03T22:56:26.658Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Total Comfort Services LLC",
+  "category": "Heating contractor",
+  "address": "20 Booker St, Westwood, NJ 07675, United States ",
+  "phone": "+1 201-581-9179 ",
+  "website": "https://www.totalcomfort.biz/?utm_source=gbp",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Total+Comfort+Services+LLC/data=!4m7!3m6!1s0x89c2e28093d9e54f:0xb4cc79ef44207a38!8m2!3d40.9841917!4d-74.0107484!16s%2Fg%2F1v5k3z1_!19sChIJT-XZk4DiwokROHogRO95zLQ?hl=en",
+  "screenshot": "evidence/screenshots/total-comfort-services-llc/google-maps-listing.png"
+}

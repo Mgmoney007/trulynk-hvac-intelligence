@@ -1,0 +1,3456 @@
+{
+  "firecrawl": [],
+  "id": "sm-heating-and-air-conditioning-inc",
+  "name": "SM Heating and Air Conditioning Inc.",
+  "website": "http://www.smheatingandair.com/",
+  "auditedAt": "2026-11-03T22:59:46.505Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://www.smheatingandair.com/",
+      "at": "2026-11-03T22:59:50.642Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://smheatingandair.com/",
+      "title": "AC & Heating Repair in Pequannock, NJ | SM Heating",
+      "ms": 4098,
+      "error": null,
+      "linkCount": 172
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://smheatingandair.com/contact-us/",
+      "at": "2026-11-03T22:59:55.419Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://smheatingandair.com/contact-us/",
+      "title": "Contact SM Heating and Air Conditioning | Pequannock",
+      "ms": 3191,
+      "error": null,
+      "linkCount": 117
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://smheatingandair.com/about-us/",
+      "at": "2026-11-03T22:59:57.934Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://smheatingandair.com/about-us/",
+      "title": "About SM Heating and Air Conditioning | Pequannock",
+      "ms": 1959,
+      "error": null,
+      "linkCount": 118
+    },
+    {
+      "step": "desktop_booking",
+      "method": "playwright_chromium_desktop",
+      "url": "https://smheatingandair.com/indoor-air-quality/",
+      "at": "2026-11-03T23:00:01.296Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://smheatingandair.com/indoor-air-quality/",
+      "title": "Indoor Air Quality Services in Pequannock, NJ",
+      "ms": 2649,
+      "error": null,
+      "linkCount": 129
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://www.smheatingandair.com/",
+      "at": "2026-11-03T23:01:16.823Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://smheatingandair.com/",
+      "title": "AC & Heating Repair in Pequannock, NJ | SM Heating",
+      "ms": 3546,
+      "error": null,
+      "linkCount": 172
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://smheatingandair.com/",
+    "title": "AC & Heating Repair in Pequannock, NJ | SM Heating",
+    "lang": "en-US",
+    "metaDescription": "HVAC repair, installation and maintenance in Pequannock, NJ and across Morris, Passaic, Essex and Bergen Counties. Call 973-628-6472.",
+    "h1": [
+      "HEATING AND AIR CONDITIONING COMPANY IN PEQUANNOCK, NJ"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 7745,
+    "bodyText": " COUPONS\n FINANCING\n REVIEWS\n COMFORT CLUB\n CONTACT US\n WE ARE HIRING! APPLY TODAY \nCONTACT US TODAY!\n 973-628-6472\n REQUEST SERVICE\nHEATING\nAIR CONDITIONING\nAIR QUALITY\nCOMMERCIAL\nSERVICE AREAS\nCALCULATOR\nABOUT US\nRELIABLE SERVICE\nYOU CAN TRUST\n\nWe provide quality air conditioning and heating services to Pequannock, NJ.\nBOOK NOW\n\nSAME-DAY SERVICES\nTRUSTED TECHNICIANS\nALWAYS ON-TIME\nA/C REPLACEMENTS\n\nWhen you need to install a new air conditioner, trust our experts with accurate and efficient air conditioner replacements.\n\nA/C SERVICES\n\nWe perform complete air conditioner services, from routine air conditioner maintenance to air conditioner repair services and installations.\n\nA/C REPAIRS & MAINTENANCE\n\nIs your air conditioner malfunctioning? Contact us for fast and correct air conditioner repairs and AC tune-ups.\n\nPrevious\nNext\nHEATING AND AIR CONDITIONING COMPANY IN PEQUANNOCK, NJ\n\nFor top-rated air conditioner repair services or furnace replacements, call SM Heating and Air Conditioning at 973-628-6472 to schedule an appointment in Pequannock, NJ. We also serve Morris County and the surrounding areas.\n\nIn business for more than 25 years, the experts at SM Heating and Air Conditioning provide quality heating and air conditioning repairs to Pequannock, NJ.\n\nWhether you need preventive air conditioner maintenance services, heating repairs, or even a full HVAC system replacement, our top-rated technicians can handle it all! We also offer indoor air quality services to keep your family happy and healthy!\n\nCall us today to schedule an appointment in Pompton Lakes, Woodland Park, Wayne, Montville, Lincoln Park, Pompton Plains, Riverdale, Bloomingdale, or Butler, NJ, and the surrounding areas. We offer same-day services!\n\nCALL TODAY FOR RELIABLE SERVICE!\n 973-628-6472\nSCHEDULE SERVICE\nContact Us\nFirst Name *\nLast Name\nPhone *\nEmail *\nAddress *\nCity *\nState *\nZip *\nHow Can We Help You *\nSubmit\nSee Why We’re the Best HVAC Company In Northern New Jersey\n\nREAD MORE REVIEWS\nLEAVE A REVIEW\nMORE REASONS TO\nRELY ON US\nON-TIME ARRIVALS\n\nWhen you schedule furnace repairs or A/C maintenance with our team, we respect your time and always arrive on time!\n\nSTRAIGHTFORWARD PRICING\n\nWe offer straightforward pricing so there are never any surprises on the bill after we complete the work.\n\nWHITE GLOVE SERVICE\n\nWe understand that when your air conditioner or furnace breaks down, you need to get them back up and running quickly. We offer same-day services for your convenience.\n\nTEXT NOTIFICATIONS\n\nYou’ll receive OMW text notifications and appointment reminders on every service.\n\nCALL TODAY!\nREQUEST SERVICE\nCALL US FOR RELIABLE AIR CONDITIONING & FURNACE REPAIRS\nIN PEQUANNOCK, NJ\n\nDon’t sweat the stress of a broken air conditioner, or be left in the cold come the winter months. Instead, schedule top-rated, reliable repairs or replacements with our experts at SM Heating and Air Conditioning.\n\nOur honest, reliable heating and air conditioning contractors perform preventative maintenance, same-day repairs, and full replacements and installations.\n\nCall us today to schedule an appointment! Proudly serving Passaic, Morris, and Essex Counties, we offer on-time appointments!\n\nADDITIONAL SERVICES WE OFFER:\nAir Conditioner Replacements\nAir Conditioner Repairs & Maintenance\nIndoor Air Quality Services\nCommercial HVAC Services\nHeating Replacements\nHeating Repairs & Maintenance\nFurnace Replacements\nFurnace Repairs & Maintenance\nCALL TODAY FOR RELIABLE SERVICE!\n 973-628-6472\n REQUEST SERVICE\nCOUPONS\nINSTANT SAVINGS\nPrevious\nNext\nUP TO $1500 OFF\nAC SYSTEM INSTALLATION OR REPLACEMENT\nSEE MORE SPECIALS\n\nTERMS AND CONDITIONS APPLY\n\n$25 OFF\nFIRST TIME CUSTOMERS A/C SYSTEM REPAIR\nSEE MORE SPECIALS\n\nTERMS AND CONDITIONS APPLY\n\nFINANCING AVAILABLE\n\nTailored Financing Options Help You Get What You Really Want Or Need\n\nEXPLORE YOUR OPTIONS\n\nMEMBERSHIP PLAN\n\nMembership Plans Help You Save On Your Next Heating or AC Service\n\nEXPLORE YOUR OPTIONS\n\nTRUST OUR EXPERTS\nWITH AIR CONDITIONER SERVICES\nIN NORTHERN NEW JERSEY\n\nKeep your home or business cool and comfortable all summer with a fully functioning air conditioner. Our A/C contractors at SM Heating and Air Conditioning perform complete services, from A/C maintenance to air conditioner repairs and installations.\n\nWhen you need to get your unit back up and running quickly, book an appointment with our team. We offer straightforward pricing.\n\nSAME-DAY SERVICES\n\nFast, reliable repairs and maintenance—get your heating or cooling system fixed the same day you call, so you’re never left uncomfortable.\n\nCUSTOMER-FOCUSED SERVICES\n\nWe put our customers first, making sure we prioritize your best interests.\n\nPROFESSIONAL TECHNICIANS\n\nOur certified experts bring years of hands-on experience, ensuring every job is done right the first time—with skill, safety, and professionalism.\n\nRELIABLE SERVICE IN YOUR AREA!\nPLEASE TYPE IN\nYOUR ZIPCODE\n GO\nPEQUANNOCK TOWNSHIP\nCOOLING\nHEATING\nPOMPTON LAKES\nCOOLING\nHEATING\nWOODLAND PARK\nCOOLING\nHEATING\nWAYNE\nCOOLING\nHEATING\nMONTVILLE\nCOOLING\nHEATING\nLINCOLN PARK\nCOOLING\nHEATING\nPOMPTON PLAINS\nCOOLING\nHEATING\nRIVERDALE\nCOOLING\nHEATING\nBLOOMINGDALE\nCOOLING\nHEATING\nBUTLER\nCOOLING\nHEATING\n REQUEST SERVICE\nWhen you need HVAC repairs or replacement, call SM Heating and Air Conditioning at 973-628-6472 for appointments in Pequannock, NJ. Serving Passaic, Morris, and Essex Counties, we provide straightforward pricing.\nCALL 973-628-6472\nSPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS\nSCHEDULE ONLINE\nBOOK YOUR ONLINE APPOINTMENT TODAY\nLicense: 19HC00340300\nLOCATION\nSM Heating and Air Conditioning\n94 Wanaque Ave #1\nPompton Lakes, NJ 07442\nPhone: 973-628-6472\ninfo@smheatingandair.com\n\n\nFind Us On Google\nWE ACCEPT\n\nHELPFUL LINKS\nFAQs\nAccessibility\nPrivacy Policy\nTerms & Conditions\nCOPYRIGHT © 2026 SM HEATING AND AIR CONDITIONING | ALL RIGHTS RESERVED",
+    "links": [
+      {
+        "href": "https://smheatingandair.com/",
+        "abs": "https://smheatingandair.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9736286472",
+        "abs": "tel:9736286472",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/",
+        "abs": "https://smheatingandair.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 243,
+        "w": 342,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "COUPONS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 98,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/financing/",
+        "abs": "https://smheatingandair.com/financing/",
+        "text": "FINANCING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 107,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/reviews/",
+        "abs": "https://smheatingandair.com/reviews/",
+        "text": "REVIEWS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 92,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/comfort-club/",
+        "abs": "https://smheatingandair.com/comfort-club/",
+        "text": "COMFORT CLUB",
+        "visible": true,
+        "aboveFold": true,
+        "h": 68,
+        "w": 97,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/contact-us/",
+        "abs": "https://smheatingandair.com/contact-us/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 68,
+        "w": 93,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/smheatingandair_nj/",
+        "abs": "https://www.instagram.com/smheatingandair_nj/",
+        "text": "Navigate social pages",
+        "visible": true,
+        "aboveFold": true,
+        "h": 58,
+        "w": 49,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/SMHEATINGANDAIR?fref=ts",
+        "abs": "https://www.facebook.com/SMHEATINGANDAIR?fref=ts",
+        "text": "Navigate social pages",
+        "visible": true,
+        "aboveFold": true,
+        "h": 58,
+        "w": 49,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/careers/",
+        "abs": "https://smheatingandair.com/careers/",
+        "text": "WE ARE HIRING! APPLY TODAY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 248,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9736286472",
+        "abs": "tel:9736286472",
+        "text": "CONTACT US TODAY! 973-628-6472",
+        "visible": true,
+        "aboveFold": true,
+        "h": 65,
+        "w": 321,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews/",
+        "abs": "https://smheatingandair.com/reviews/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 72,
+        "w": 321,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/",
+        "abs": "https://smheatingandair.com/heating/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 98,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/repair/",
+        "abs": "https://smheatingandair.com/heating/repair/",
+        "text": "Heater Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/furnace-repair/",
+        "abs": "https://smheatingandair.com/heating/furnace-repair/",
+        "text": "Furnace Tune-Up & Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/installation/",
+        "abs": "https://smheatingandair.com/heating/installation/",
+        "text": "Heating Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/furnace-installation/",
+        "abs": "https://smheatingandair.com/heating/furnace-installation/",
+        "text": "Furnace Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/boiler-services/",
+        "abs": "https://smheatingandair.com/heating/boiler-services/",
+        "text": "Boiler Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/magicpak/",
+        "abs": "https://smheatingandair.com/magicpak/",
+        "text": "MagicPak Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/#list",
+        "abs": "https://smheatingandair.com/heating/#list",
+        "text": "View All Heating Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/",
+        "abs": "https://smheatingandair.com/air-conditioning/",
+        "text": "AIR CONDITIONING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 179,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/repair/",
+        "abs": "https://smheatingandair.com/air-conditioning/repair/",
+        "text": "AC Tune-Up & Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "abs": "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "text": "Ductless Mini Splits",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/installation/",
+        "abs": "https://smheatingandair.com/air-conditioning/installation/",
+        "text": "AC Installation & Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/handler/",
+        "abs": "https://smheatingandair.com/air-conditioning/handler/",
+        "text": "Air Handler Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "abs": "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "text": "Evaporator Coil Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/magicpak/",
+        "abs": "https://smheatingandair.com/magicpak/",
+        "text": "MagicPak Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/#list",
+        "abs": "https://smheatingandair.com/air-conditioning/#list",
+        "text": "View All AC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/indoor-air-quality/",
+        "abs": "https://smheatingandair.com/indoor-air-quality/",
+        "text": "AIR QUALITY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 127,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-duct-repair/",
+        "abs": "https://smheatingandair.com/air-duct-repair/",
+        "text": "Ductwork Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "abs": "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "text": "Filter Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-cleaner-filtration/",
+        "abs": "https://smheatingandair.com/air-cleaner-filtration/",
+        "text": "Air Cleaners & Filtration",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/smart-thermostats/",
+        "abs": "https://smheatingandair.com/smart-thermostats/",
+        "text": "Smart Home Thermostats",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/commercial-hvac/",
+        "abs": "https://smheatingandair.com/commercial-hvac/",
+        "text": "COMMERCIAL",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 135,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/",
+        "abs": "https://smheatingandair.com/service-areas/",
+        "text": "SERVICE AREAS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 151,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "text": "Fairfield Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "text": "Franklin Lakes Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "text": "Montclair Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "text": "Montville Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "text": "Pequannock Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "text": "Pompton Lakes Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "text": "Pompton Plains Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "text": "Wayne Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "text": "West Milford Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/#list",
+        "abs": "https://smheatingandair.com/service-areas/#list",
+        "text": "View All Service Areas",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/hvac-cost-calculator/",
+        "abs": "https://smheatingandair.com/hvac-cost-calculator/",
+        "text": "CALCULATOR",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 132,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/about-us/",
+        "abs": "https://smheatingandair.com/about-us/",
+        "text": "ABOUT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 37,
+        "w": 108,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/comfort-club/",
+        "abs": "https://smheatingandair.com/comfort-club/",
+        "text": "Comfort Club",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "abs": "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "text": "Certifications",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/news-media/",
+        "abs": "https://smheatingandair.com/news-media/",
+        "text": "News & Media",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "Coupons",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/financing/",
+        "abs": "https://smheatingandair.com/financing/",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/reviews/",
+        "abs": "https://smheatingandair.com/reviews/",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/comfort-club/",
+        "abs": "https://smheatingandair.com/comfort-club/",
+        "text": "Comfort Club",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/contact-us/",
+        "abs": "https://smheatingandair.com/contact-us/",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/installation/",
+        "abs": "https://smheatingandair.com/air-conditioning/installation/",
+        "text": "A/C Replacements When you need to install a new air conditioner, trust our exper",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/repair/",
+        "abs": "https://smheatingandair.com/air-conditioning/repair/",
+        "text": "A/C Repairs & Maintenance Is your air conditioner malfunctioning? Contact us for",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/",
+        "abs": "https://smheatingandair.com/air-conditioning/",
+        "text": "A/C Services We perform complete air conditioner services, from routine air cond",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/repair/",
+        "abs": "https://smheatingandair.com/heating/repair/",
+        "text": "Heating Repair & Maintenance Stay warm all winter with heating repairs from our ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/installation/",
+        "abs": "https://smheatingandair.com/heating/installation/",
+        "text": "Heating Replacements Is it time to replace your aging heater? Schedule installat",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/indoor-air-quality/",
+        "abs": "https://smheatingandair.com/indoor-air-quality/",
+        "text": "Indoor Air Quality Services Keep the air in your property clean and safe. Book i",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/installation/",
+        "abs": "https://smheatingandair.com/air-conditioning/installation/",
+        "text": "A/C REPLACEMENTS When you need to install a new air conditioner, trust our exper",
+        "visible": true,
+        "aboveFold": true,
+        "h": 204,
+        "w": 377,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/",
+        "abs": "https://smheatingandair.com/air-conditioning/",
+        "text": "A/C SERVICES We perform complete air conditioner services, from routine air cond",
+        "visible": true,
+        "aboveFold": true,
+        "h": 204,
+        "w": 377,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/repair/",
+        "abs": "https://smheatingandair.com/air-conditioning/repair/",
+        "text": "A/C REPAIRS & MAINTENANCE Is your air conditioner malfunctioning? Contact us for",
+        "visible": true,
+        "aboveFold": true,
+        "h": 204,
+        "w": 377,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/repair/",
+        "abs": "https://smheatingandair.com/heating/repair/",
+        "text": "Heating Repair & Maintenance Stay warm all winter with heating repairs from our ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/installation/",
+        "abs": "https://smheatingandair.com/heating/installation/",
+        "text": "Heating Replacements Is it time to replace your aging heater? Schedule installat",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality/",
+        "abs": "https://smheatingandair.com/indoor-air-quality/",
+        "text": "Indoor Air Quality Services Keep the air in your property clean and safe. Book i",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9736286472",
+        "abs": "tel:9736286472",
+        "text": "CALL TODAY FOR RELIABLE SERVICE! 973-628-6472",
+        "visible": true,
+        "aboveFold": false,
+        "h": 167,
+        "w": 604,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews/",
+        "abs": "https://smheatingandair.com/reviews/",
+        "text": "READ MORE REVIEWS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 344,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/feedback/",
+        "abs": "https://smheatingandair.com/feedback/",
+        "text": "LEAVE A REVIEW",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 344,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9736286472",
+        "abs": "tel:9736286472",
+        "text": "CALL TODAY!",
+        "visible": true,
+        "aboveFold": false,
+        "h": 87,
+        "w": 111,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/installation/",
+        "abs": "https://smheatingandair.com/air-conditioning/installation/",
+        "text": "Air Conditioner Replacements",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 658,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/air-conditioning/repair/",
+        "abs": "https://smheatingandair.com/air-conditioning/repair/",
+        "text": "Air Conditioner Repairs & Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 658,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/indoor-air-quality/",
+        "abs": "https://smheatingandair.com/indoor-air-quality/",
+        "text": "Indoor Air Quality Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 658,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/commercial-hvac/",
+        "abs": "https://smheatingandair.com/commercial-hvac/",
+        "text": "Commercial HVAC Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 658,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/installation/",
+        "abs": "https://smheatingandair.com/heating/installation/",
+        "text": "Heating Replacements",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 658,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/repair/",
+        "abs": "https://smheatingandair.com/heating/repair/",
+        "text": "Heating Repairs & Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 658,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/furnace-installation/",
+        "abs": "https://smheatingandair.com/heating/furnace-installation/",
+        "text": "Furnace Replacements",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 658,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/heating/furnace-repair/",
+        "abs": "https://smheatingandair.com/heating/furnace-repair/",
+        "text": "Furnace Repairs & Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 658,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9736286472",
+        "abs": "tel:9736286472",
+        "text": "CALL TODAY FOR RELIABLE SERVICE! 973-628-6472",
+        "visible": true,
+        "aboveFold": false,
+        "h": 133,
+        "w": 501,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "SEE MORE SPECIALS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 429,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "SEE MORE SPECIALS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 429,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "See More Specials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "See More Specials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "See More Specials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "See More Specials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "See More Specials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "See More Specials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://smheatingandair.com/financing/",
+        "text": "FINANCING AVAILABLE Tailored Financing Options Help You Get What You Really Want",
+        "visible": true,
+        "aboveFold": false,
+        "h": 241,
+        "w": 794,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": " /membership/",
+        "abs": "https://smheatingandair.com/membership/",
+        "text": "MEMBERSHIP PLAN Membership Plans Help You Save On Your Next Heating or AC Servic",
+        "visible": true,
+        "aboveFold": false,
+        "h": 241,
+        "w": 751,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/",
+        "abs": "https://smheatingandair.com/air-conditioning/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/",
+        "abs": "https://smheatingandair.com/heating/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "pompton-lakes-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/pompton-lakes-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "pompton-lakes-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/pompton-lakes-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "woodland-park-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/woodland-park-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "woodland-park-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/woodland-park-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "wayne-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/wayne-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "wayne-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/wayne-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "montville-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/montville-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "montville-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/montville-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "lincoln-park-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/lincoln-park-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "lincoln-park-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/lincoln-park-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "pompton-plains-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/pompton-plains-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "pompton-plains-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/pompton-plains-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "riverdale-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/riverdale-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "riverdale-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/riverdale-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "bloomingdale-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/bloomingdale-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "bloomingdale-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/bloomingdale-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "butler-air-conditioning-contractor/",
+        "abs": "https://smheatingandair.com/butler-air-conditioning-contractor/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "butler-heating-furnace-contractor/",
+        "abs": "https://smheatingandair.com/butler-heating-furnace-contractor/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9736286472",
+        "abs": "tel:9736286472",
+        "text": "CALL 973-628-6472 SPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 98,
+        "w": 683,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:info@smheatingandair.com",
+        "abs": "mailto:info@smheatingandair.com",
+        "text": "info@smheatingandair.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 316,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.google.com/maps?cid=8162767499753566028",
+        "abs": "https://www.google.com/maps?cid=8162767499753566028",
+        "text": "Find Us On Google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 316,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/smheatingandair_nj/",
+        "abs": "https://www.instagram.com/smheatingandair_nj/",
+        "text": "Navigate social pages",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/SMHEATINGANDAIR?fref=ts",
+        "abs": "https://www.facebook.com/SMHEATINGANDAIR?fref=ts",
+        "text": "Navigate social pages",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/frequently-asked-questions/",
+        "abs": "https://smheatingandair.com/frequently-asked-questions/",
+        "text": "FAQs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 316,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/accessibility/",
+        "abs": "https://smheatingandair.com/accessibility/",
+        "text": "Accessibility",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 316,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/privacy-policy/",
+        "abs": "https://smheatingandair.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 316,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/terms-conditions/",
+        "abs": "https://smheatingandair.com/terms-conditions/",
+        "text": "Terms & Conditions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 316,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/",
+        "abs": "https://smheatingandair.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/",
+        "abs": "https://smheatingandair.com/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/repair/",
+        "abs": "https://smheatingandair.com/heating/repair/",
+        "text": "Heater Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/installation/",
+        "abs": "https://smheatingandair.com/heating/installation/",
+        "text": "Heating Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/boiler-services/",
+        "abs": "https://smheatingandair.com/heating/boiler-services/",
+        "text": "Boiler Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/furnace-repair/",
+        "abs": "https://smheatingandair.com/heating/furnace-repair/",
+        "text": "Furnace Tune-Up & Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/furnace-installation/",
+        "abs": "https://smheatingandair.com/heating/furnace-installation/",
+        "text": "Furnace Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/magicpak/",
+        "abs": "https://smheatingandair.com/magicpak/",
+        "text": "MagicPak Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating/#list",
+        "abs": "https://smheatingandair.com/heating/#list",
+        "text": "View All Heating Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/",
+        "abs": "https://smheatingandair.com/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/repair/",
+        "abs": "https://smheatingandair.com/air-conditioning/repair/",
+        "text": "AC Tune-Up & Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/installation/",
+        "abs": "https://smheatingandair.com/air-conditioning/installation/",
+        "text": "AC Installation and Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/evaporator-coil/",
+        "abs": "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "text": "Evaporator Coil Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/ductless-mini-split/",
+        "abs": "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "text": "Ductless Mini Splits",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/handler/",
+        "abs": "https://smheatingandair.com/air-conditioning/handler/",
+        "text": "Air Handler Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "",
+        "abs": "https://smheatingandair.com/",
+        "text": "MagicPak Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/#list",
+        "abs": "https://smheatingandair.com/air-conditioning/#list",
+        "text": "View All AC Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality/",
+        "abs": "https://smheatingandair.com/indoor-air-quality/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-duct-repair/",
+        "abs": "https://smheatingandair.com/air-duct-repair/",
+        "text": "Ductwork Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-furnace-filter-replacement/",
+        "abs": "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "text": "Filter Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-cleaner-filtration/",
+        "abs": "https://smheatingandair.com/air-cleaner-filtration/",
+        "text": "Air Cleaners & Filtration",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/smart-thermostats/",
+        "abs": "https://smheatingandair.com/smart-thermostats/",
+        "text": "Smart Home Thermostats",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac/",
+        "abs": "https://smheatingandair.com/commercial-hvac/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/",
+        "abs": "https://smheatingandair.com/service-areas/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/fairfield-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "text": "Fairfield Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/montclair-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "text": "Montclair Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/pequannock-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "text": "Pequannock Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/pompton-plains-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "text": "Pompton Plains Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/west-milford-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "text": "West Milford Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "text": "Franklin Lakes Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/montville-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "text": "Montville Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "text": "Pompton Lakes Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/wayne-heating-and-cooling-services/",
+        "abs": "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "text": "Wayne Heating and Cooling Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-areas/#list",
+        "abs": "https://smheatingandair.com/service-areas/#list",
+        "text": "Service Areas",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/coupons/",
+        "abs": "https://smheatingandair.com/coupons/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/morris-county/",
+        "abs": "https://smheatingandair.com/morris-county/",
+        "text": "Morris County",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/passaic-county/",
+        "abs": "https://smheatingandair.com/passaic-county/",
+        "text": "Passaic County",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/essex-county/",
+        "abs": "https://smheatingandair.com/essex-county/",
+        "text": "Essex County",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews/",
+        "abs": "https://smheatingandair.com/reviews/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us/",
+        "abs": "https://smheatingandair.com/about-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/certified-hvac-contractor-morris-county-nj/",
+        "abs": "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "text": "Certifications",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/careers/",
+        "abs": "https://smheatingandair.com/careers/",
+        "text": "Careers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://smheatingandair.com/financing/",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/frequently-asked-questions/",
+        "abs": "https://smheatingandair.com/frequently-asked-questions/",
+        "text": "FAQ's",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/comfort-club",
+        "abs": "https://smheatingandair.com/comfort-club",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/certified-hvac-contractor-morris-county-nj/",
+        "abs": "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "text": "Certifications",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/careers/",
+        "abs": "https://smheatingandair.com/careers/",
+        "text": "Careers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://smheatingandair.com/financing/",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/frequently-asked-questions/",
+        "abs": "https://smheatingandair.com/frequently-asked-questions/",
+        "text": "FAQ's",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-cost-calculator/",
+        "abs": "https://smheatingandair.com/hvac-cost-calculator/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://smheatingandair.com/contact-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 424,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://smheatingandair.com/hvac-cost-calculator/",
+        "abs": "https://smheatingandair.com/hvac-cost-calculator/",
+        "text": "Try the free calculator",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Translations Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Accessibility Menu",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "REQUEST SERVICE",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "BOOK NOW",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Previous",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Next",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Submit",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "REQUEST SERVICE",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "REQUEST SERVICE",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Slide 1",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Slide 2",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "GO",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "REQUEST SERVICE",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "SCHEDULE ONLINE BOOK YOUR ONLINE APPOINTMENT TODAY",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Close",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Submit",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "post",
+        "id": "form_contact-us",
+        "cls": "frm-show-form  frm_pro_form ",
+        "fieldCount": 11,
+        "fieldNames": [
+          "item_meta[41]",
+          "item_meta[42]",
+          "item_meta[43]",
+          "item_meta[44]",
+          "item_meta[45]",
+          "item_meta[46]",
+          "item_meta[47]",
+          "item_meta[48]",
+          "item_meta[52]",
+          "item_meta[103]",
+          "ak_hp_textarea"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": null,
+        "method": "post",
+        "id": "form_contact-us",
+        "cls": "frm-show-form  frm_pro_form ",
+        "fieldCount": 11,
+        "fieldNames": [
+          "item_meta[41]",
+          "item_meta[42]",
+          "item_meta[43]",
+          "item_meta[44]",
+          "item_meta[45]",
+          "item_meta[46]",
+          "item_meta[47]",
+          "item_meta[48]",
+          "item_meta[52]",
+          "item_meta[104]",
+          "ak_hp_textarea"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=AW-17467418937&cx=c&gtm=4e6b21h1",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-TTXNBX9T",
+      "https://connect.facebook.net/signals/config/1254897723167418?v=2.9.435&r=stable&domain=smheatingandair.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-TTXNBX9T",
+      "https://smheatingandair.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://smheatingandair.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://www.googletagmanager.com/gtag/js?id=GT-P3FFFMZX",
+      "https://cdn.userway.org/widget.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-17467418937",
+      "https://www.googletagmanager.com/gtag/js?id=G-LVKND7T3CJ",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17467418937/?random=1793746788596&cv=11&fst=1793746788596&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21v9243722667za208zb9243742795zd9243742795xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120412528~120420415~120469145~120469153~121246026~121246034~123691370~123814185&u_w=1366&u_h=900&url=https%3A%2F%2Fsmheatingandair.com%2F&rcb=14&frm=0&tiba=AC%20%26%20Heating%20Repair%20in%20Pequannock%2C%20NJ%20%7C%20SM%20Heating&did=dZTNiMT&gdid=dZTNiMT&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1900364992.1793746789&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://smheatingandair.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://static.elfsight.com/platform/platform.js",
+      "https://smheatingandair.com/wp-content/themes/plumberseo-bootstrap/inc/assets/js/aos.js",
+      "https://cdn.callrail.com/companies/708273348/wp-0-5-3/swap.js?ver=6.8.2",
+      "https://smheatingandair.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "https://smheatingandair.com/wp-content/plugins/wp-popups-lite/src/assets/js/wppopups.js?ver=2.2.0.8",
+      "https://smheatingandair.com/wp-content/themes/plumberseo-bootstrap/inc/assets/js/popper.min.js?ver=7.1.4",
+      "https://smheatingandair.com/wp-content/themes/plumberseo-bootstrap/inc/assets/js/bootstrap.min.js?ver=7.1.4",
+      "https://smheatingandair.com/wp-content/themes/plumberseo-bootstrap/inc/assets/js/scripts.js?ver=7.1.4",
+      "https://smheatingandair.com/wp-content/themes/plumberseo-bootstrap/inc/assets/js/theme-script.min.js?ver=7.1.4",
+      "https://smheatingandair.com/wp-content/themes/plumberseo-bootstrap/inc/assets/js/skip-link-focus-fix.min.js?ver=20151215",
+      "https://smheatingandair.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-33078016c5e1e9f07c35.js",
+      "https://stats.wp.com/e-202645.js",
+      "https://smheatingandair.com/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1787279072",
+      "https://smheatingandair.com/wp-content/plugins/formidable-pro/js/frm.min.js?ver=6.34-jquery",
+      "https://cdn.userway.org/widgetapp/2026-10-29-06-53-08/widget_app_base_1793256788095.js",
+      "https://cdn.userway.org/widgetapp/2026-10-29-06-53-08/remediation/remediation_1793256788095.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://smheatingandair.com/",
+            "url": "https://smheatingandair.com/",
+            "name": "AC & Heating Repair in Pequannock, NJ | SM Heating",
+            "isPartOf": {
+              "@id": "https://smheatingandair.com/#website"
+            },
+            "about": {
+              "@id": "https://smheatingandair.com/#organization"
+            },
+            "datePublished": "2022-11-01T20:11:21+00:00",
+            "dateModified": "2026-09-22T13:33:09+00:00",
+            "description": "HVAC repair, installation and maintenance in Pequannock, NJ and across Morris, Passaic, Essex and Bergen Counties. Call 973-628-6472.",
+            "breadcrumb": {
+              "@id": "https://smheatingandair.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://smheatingandair.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://smheatingandair.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://smheatingandair.com/#website",
+            "url": "https://smheatingandair.com/",
+            "name": "SM Heating and Air Conditioning",
+            "description": "Reliable Service You Can Trust",
+            "publisher": {
+              "@id": "https://smheatingandair.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://smheatingandair.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://smheatingandair.com/#organization",
+            "name": "SM Heating and Air Conditioning",
+            "url": "https://smheatingandair.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://smheatingandair.com/#/schema/logo/image/",
+              "url": "https://smheatingandair.com/wp-content/uploads/2025/09/sm-new-logo.png",
+              "contentUrl": "https://smheatingandair.com/wp-content/uploads/2025/09/sm-new-logo.png",
+              "width": 238,
+              "height": 283,
+              "caption": "SM Heating and Air Conditioning"
+            },
+            "image": {
+              "@id": "https://smheatingandair.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/SMHEATINGANDAIR?fref=ts",
+              "https://x.com/SMheatingandair",
+              "https://www.youtube.com/@SMHeatingandAirConditioningInc"
+            ]
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": [
+          "HVACBusiness"
+        ],
+        "@id": "https://smheatingandair.com/#organization",
+        "name": "SM Heating and Air Conditioning",
+        "image": "/wp-content/uploads/2025/05/sm-haeting-logo.png",
+        "alternateName": [
+          "SM Heating and Air Conditioning",
+          "SM Heating and Cooling"
+        ],
+        "url": "https://www.smheatingandair.com/",
+        "telephone": "973-628-6472",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "availableLanguage": "English"
+        },
+        "priceRange": "$100 - $500",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "3"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ezra C."
+            },
+            "reviewBody": "Sam and the team at SM Heating and Air were fantastic. Quick, responsive, and extremely helpful, especially when dealing with the home warranty company. Highly recommend, would definitely use them again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Inna S."
+            },
+            "reviewBody": "Easy to work with, efficient, friendly, did the job he said he would do, no surprises with the bill.  submits the permit on your behalf with the town you just have to pay for it and pick it up later and schedule inspection."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael C."
+            },
+            "reviewBody": "Was time to replace our complete Heating & Air Conditioning System (outside condensing unit, inside evaporator coil & furnace), Steve & his crew showed up on time & the job was completed in one day. They are very neat & clean & all the debris was cleaned up & removed from the job, the complete system was fully checked before they left to be sure everything was in proper working order & they checked back a few times to be certain that was still the case & there has been no issues with any aspect of the job, very pleased."
+          }
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "7:00",
+            "closes": "17:30"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Saturday"
+            ],
+            "opens": "8:00",
+            "closes": "12:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "00:00"
+          }
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Air Conditioning, Heating, and Indoor Air Quality",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Heating Repair and Replacement"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Cooling Repair and Replacement"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Air Conditioning Services"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Indoor Air Quality Services"
+              }
+            }
+          ]
+        },
+        "paymentAccepted": [
+          "Cash",
+          "Credit Card",
+          "Check"
+        ],
+        "sameAs": [
+          "https://www.facebook.com/SMHEATINGANDAIR/",
+          "https://x.com/SMheatingandair",
+          "https://www.youtube.com/@SMHeatingandAirConditioningInc"
+        ],
+        "address": [
+          {
+            "@type": "PostalAddress",
+            "streetAddress": "94 Wanaque Ave #1",
+            "addressLocality": "Pompton Lakes",
+            "addressRegion": "NJ",
+            "postalCode": "07442",
+            "addressCountry": "US"
+          }
+        ],
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 41.0066353,
+          "longitude": -74.2921953
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": [
+            "Morris County, NJ",
+            "Passaic County, NJ",
+            "Essex County, NJ",
+            "Pequannock Township, NJ",
+            "Pompton Lakes, NJ",
+            "Woodland Park, NJ",
+            "Wayne, NJ",
+            "Montville, NJ",
+            "Lincoln Park, NJ",
+            "Pompton Plains, NJ",
+            "Riverdale, NJ",
+            "Bloomingdale, NJ",
+            "Butler, NJ"
+          ]
+        }
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 28,
+    "timing": {
+      "dcl": 2154,
+      "load": 2687,
+      "ttfb": 558
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.002,
+        "sig": " userway_buttons_wrapper ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 0.27,
+        "sig": "masthead site-header navbar-static-top navbar-light ",
+        "text": " coupons\n financing\n reviews\n comfort club\n contact us\n we are hiring! apply today \ncontact us today!\n 973-628-6472\n req"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://smheatingandair.com/",
+    "navMs": 4098,
+    "tel": [
+      {
+        "href": "tel:9736286472",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CONTACT US TODAY! 973-628-6472",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CALL TODAY FOR RELIABLE SERVICE! 973-628-6472",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CALL TODAY!",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CALL TODAY FOR RELIABLE SERVICE! 973-628-6472",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CALL 973-628-6472 SPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736286472"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      },
+      {
+        "name": "CallRail",
+        "kind": "call_tracking"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://smheatingandair.com/",
+    "navMs": 3546,
+    "timing": {
+      "dcl": 1752,
+      "load": 2024,
+      "ttfb": 498
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:9736286472",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "Contact Us Today! 973-628-6472",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CALL TODAY FOR RELIABLE SERVICE! 973-628-6472",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CALL TODAY!",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CALL TODAY FOR RELIABLE SERVICE! 973-628-6472",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736286472"
+      },
+      {
+        "href": "tel:9736286472",
+        "text": "CALL 973-628-6472 SPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736286472"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact Us",
+      "BOOK NOW"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.007,
+        "sig": " userway_buttons_wrapper ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 0.135,
+        "sig": "masthead site-header navbar-static-top navbar-light ",
+        "text": "coupons\nfinancing\nreviews\ncomfort club\ncontact us"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 7,
+    "brokenImages": [],
+    "textChars": 5100
+  },
+  "pages": {
+    "contact": {
+      "url": "https://smheatingandair.com/contact-us/",
+      "finalUrl": "https://smheatingandair.com/contact-us/",
+      "status": 200,
+      "title": "Contact SM Heating and Air Conditioning | Pequannock",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "form_contact-us",
+          "cls": "frm-show-form  frm_pro_form ",
+          "fieldCount": 11,
+          "fieldNames": [
+            "item_meta[41]",
+            "item_meta[42]",
+            "item_meta[43]",
+            "item_meta[44]",
+            "item_meta[45]",
+            "item_meta[46]",
+            "item_meta[47]",
+            "item_meta[48]",
+            "item_meta[52]",
+            "item_meta[103]",
+            "ak_hp_textarea"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": null,
+          "method": "post",
+          "id": "form_contact-us",
+          "cls": "frm-show-form  frm_pro_form ",
+          "fieldCount": 11,
+          "fieldNames": [
+            "item_meta[41]",
+            "item_meta[42]",
+            "item_meta[43]",
+            "item_meta[44]",
+            "item_meta[45]",
+            "item_meta[46]",
+            "item_meta[47]",
+            "item_meta[48]",
+            "item_meta[52]",
+            "item_meta[104]",
+            "ak_hp_textarea"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.8509559963027!2d-74.2921953!3d41.0066353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3036e405722f1%3A0x7147f9caf6ea2f4c!2sSM%20Heating%20and%20Air%20Conditioning%20Inc.!5e0!3m2!1sen!2sus!4v1748455249867!5m2!1sen!2sus"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@smheatingandair.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:9736286472",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736286472"
+        },
+        {
+          "href": "tel:9736286472",
+          "text": "CONTACT US TODAY! 973-628-6472",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736286472"
+        },
+        {
+          "href": "tel:9736286472",
+          "text": "CALL 973-628-6472 SPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736286472"
+        }
+      ],
+      "owners": [],
+      "bodyText": " COUPONS\n FINANCING\n REVIEWS\n COMFORT CLUB\n CONTACT US\n WE ARE HIRING! APPLY TODAY \nCONTACT US TODAY!\n 973-628-6472\n REQUEST SERVICE\nHEATING\nAIR CONDITIONING\nAIR QUALITY\nCOMMERCIAL\nSERVICE AREAS\nCALCULATOR\nABOUT US\nCONTACT US\n\nSAME-DAY SERVICES\n\nON-TIME SERVICES\n\nTRUSTED TECHNICIANS\n\nHome » Contact Us\n\nContact SM Heating and Air Conditioning\nWhen you need expert heating and air conditioning services you can count on in the greater Pequannock, NJ, area, call SM Heating and Air Conditioning at 973-628-6472. We’re the nice guys you can rely on!\n\nSM Heating and Air Conditioning\n\n94 Wanaque Ave #1\n\nPompton Lakes, NJ 07442\n\nPhone: 973-628-6472\nHours of Operation:\nMonday: 7:00 AM – 5:30 PM\nTuesday: 7:00 AM – 5:30 PM\nWednesday: 7:00 AM – 5:30 PM\nThursday: 7:00 AM – 5:30 PM\nFriday: 7:00 AM – 5:30 PM\nSaturday: 8:00 AM – 12:00 PM\nSunday: Closed\n\nWhen it comes to keeping your home comfortable year-round, homeowners in Pequannock, NJ, and across Northern New Jersey can rely on SM Heating and Air Conditioning for prompt, professional service they can trust. Our friendly, experienced technicians are dedicated to delivering top-quality heating and cooling solutions, from expert installations and fast repairs to routine maintenance that keeps your system running at peak efficiency.\n\nGive us a call today and experience the difference of working with honest, reliable professionals who genuinely care about your comfort and satisfaction!\n\nWhy Choose SM Heating and Air Conditioning?\n\nContact SM Heating and Air Conditioning today and experience the difference working with honest, reliable, nice guys can make!\n\nWhen you work with us, you can count on:\n\nSAME DAY SERVICE- We know that being without heat or air conditioning for any amount of time is unpleasant. That’s why we do our best to get to you the same day you call, or the very next day.\nSTRAIGHTFORWARD PRICING- Honesty and integrity are at the core of our company values, so we always provide transparent, up-front pricing.\nON-TIME SERVICE- You can trust that when you call us, we show up when we say we will! If we’re running behind, we’ll give you a call to keep you informed.\nTRUSTED TECHNICIANS- Our technicians have a reputation for being honest, reliable, nice guys.\nLATEST TECHNOLOGY- We employ the latest technologies and techniques to get your heating and A/C issues resolved as quickly as possible!\n\nGet in touch with the friendly, professional team at SM Heating and Air Conditioning today and experience Reliable Service You Can Trust!\n\nCall SM Heating and Air Conditioning today at 973-628-6472 for reliable expert air conditioning and heating services in Morris, Passaic and Essex Counties. Our trusted technicians offer same-day service and straightforward pricing!\n\nSCHEDULE SERVICE\nContact Us\nFirst Name *\nLast Name\nPhone *\nEmail *\nAddress *\nCity *\nState *\nZip *\nHow Can We Help You *\nSubmit\nSAME-DAY SERVICES\n\nFast, reliable repairs and maintenance—get your heating or cooling system fixed the same-day you call, so you’re never left uncomfortable.\n\nCUSTOMER-FOCUSED SERVICES\n\nWe put our customers first, making sure we prioritize your best interests.\n\nPROFESSIONAL TECHNICIANS\n\nOur certified experts bring years of hands-on experience, ensuring every job is done right the first time—with skill, safety, and professionalism.\n\nCALL 973-628-6472\nSPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS\nSCHEDULE ONLINE\nBOOK YOUR ONLINE APPOINTMENT TODAY\nLicense: 19HC00340300\nLOCATION\nSM Heating and Air Conditioning\n94 Wanaque Ave #1\nPompton Lakes, NJ 07442\nPhone: 973-628-6472\ninfo@smheatingandair.com\n\n\nFind Us On Google\nWE ACCEPT\n\nHELPFUL LINKS\nFAQs\nAccessibility\nPrivacy Policy\nTerms & Conditions\nCOPYRIGHT © 2026 SM HEATING AND AIR CONDITIONING | ALL RIGHTS RESERVED",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/contact-us/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/heating/",
+        "https://smheatingandair.com/heating/repair/",
+        "https://smheatingandair.com/heating/furnace-repair/",
+        "https://smheatingandair.com/heating/installation/",
+        "https://smheatingandair.com/heating/furnace-installation/",
+        "https://smheatingandair.com/heating/boiler-services/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/heating/#list",
+        "https://smheatingandair.com/air-conditioning/",
+        "https://smheatingandair.com/air-conditioning/repair/",
+        "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "https://smheatingandair.com/air-conditioning/installation/",
+        "https://smheatingandair.com/air-conditioning/handler/",
+        "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/air-conditioning/#list",
+        "https://smheatingandair.com/indoor-air-quality/",
+        "https://smheatingandair.com/air-duct-repair/",
+        "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "https://smheatingandair.com/air-cleaner-filtration/",
+        "https://smheatingandair.com/smart-thermostats/",
+        "https://smheatingandair.com/commercial-hvac/",
+        "https://smheatingandair.com/service-areas/",
+        "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/#list",
+        "https://smheatingandair.com/hvac-cost-calculator/",
+        "https://smheatingandair.com/about-us/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/news-media/",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/contact-us/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/accessibility/",
+        "https://smheatingandair.com/privacy-policy/",
+        "https://smheatingandair.com/terms-conditions/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/heating/",
+        "https://smheatingandair.com/heating/repair/",
+        "https://smheatingandair.com/heating/installation/",
+        "https://smheatingandair.com/heating/boiler-services/",
+        "https://smheatingandair.com/heating/furnace-repair/",
+        "https://smheatingandair.com/heating/furnace-installation/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/heating/#list",
+        "https://smheatingandair.com/air-conditioning/",
+        "https://smheatingandair.com/air-conditioning/repair/",
+        "https://smheatingandair.com/air-conditioning/installation/",
+        "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "https://smheatingandair.com/air-conditioning/handler/",
+        "https://smheatingandair.com/contact-us/",
+        "https://smheatingandair.com/air-conditioning/#list",
+        "https://smheatingandair.com/indoor-air-quality/",
+        "https://smheatingandair.com/air-duct-repair/",
+        "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "https://smheatingandair.com/air-cleaner-filtration/",
+        "https://smheatingandair.com/smart-thermostats/",
+        "https://smheatingandair.com/commercial-hvac/",
+        "https://smheatingandair.com/service-areas/",
+        "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/#list",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/morris-county/",
+        "https://smheatingandair.com/passaic-county/",
+        "https://smheatingandair.com/essex-county/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/about-us/",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/comfort-club",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/hvac-cost-calculator/",
+        "https://smheatingandair.com/contact-us/"
+      ]
+    },
+    "about": {
+      "url": "https://smheatingandair.com/about-us/",
+      "finalUrl": "https://smheatingandair.com/about-us/",
+      "status": 200,
+      "title": "About SM Heating and Air Conditioning | Pequannock",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "form_contact-us",
+          "cls": "frm-show-form  frm_pro_form ",
+          "fieldCount": 11,
+          "fieldNames": [
+            "item_meta[41]",
+            "item_meta[42]",
+            "item_meta[43]",
+            "item_meta[44]",
+            "item_meta[45]",
+            "item_meta[46]",
+            "item_meta[47]",
+            "item_meta[48]",
+            "item_meta[52]",
+            "item_meta[103]",
+            "ak_hp_textarea"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": null,
+          "method": "post",
+          "id": "form_contact-us",
+          "cls": "frm-show-form  frm_pro_form ",
+          "fieldCount": 11,
+          "fieldNames": [
+            "item_meta[41]",
+            "item_meta[42]",
+            "item_meta[43]",
+            "item_meta[44]",
+            "item_meta[45]",
+            "item_meta[46]",
+            "item_meta[47]",
+            "item_meta[48]",
+            "item_meta[52]",
+            "item_meta[104]",
+            "ak_hp_textarea"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@smheatingandair.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:9736286472",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736286472"
+        },
+        {
+          "href": "tel:9736286472",
+          "text": "CONTACT US TODAY! 973-628-6472",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736286472"
+        },
+        {
+          "href": "tel:9736286472",
+          "text": "CALL 973-628-6472 SPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736286472"
+        }
+      ],
+      "owners": [],
+      "bodyText": " COUPONS\n FINANCING\n REVIEWS\n COMFORT CLUB\n CONTACT US\n WE ARE HIRING! APPLY TODAY \nCONTACT US TODAY!\n 973-628-6472\n REQUEST SERVICE\nHEATING\nAIR CONDITIONING\nAIR QUALITY\nCOMMERCIAL\nSERVICE AREAS\nCALCULATOR\nABOUT US\nABOUT US\n\nSAME-DAY SERVICES\n\nON-TIME SERVICES\n\nTRUSTED TECHNICIANS\n\nHome » About Us\n\nAbout SM Heating and Air Conditioning\n\nSM Heating and Air Conditioning is your neighborhood HVAC company that has proudly served the greater Pequannock, NJ, area and the greater Morris County area for nearly 30 years. Our commitment to you goes beyond just keeping you comfortable—we believe in building lifelong relationships with our customers based on trust, integrity, and a genuine passion for quality service.\n\nHonest, Reliable HVAC Experts\n\nFinding an AC and heating company you can trust isn’t always easy. At SM Heating and Air Conditioning, we’re redefining what it means to be an HVAC contractor in North Jersey. Our team is made up of skilled, certified technicians who prioritize your comfort and safety, never cutting corners, never selling you what you don’t need.\n\nOur Mission\n\nWe treat every customer like a neighbor, not just a number. We take pride in being the “nice guys” you can count on in Essex, Morris, and Passaic Counties. Whether we’re installing a brand new high-efficiency air conditioning system, repairing a furnace, or simply answering your maintenance questions, you’ll notice our professionalism and sincerity at every step.\n\nOur promise is simple: Honest recommendations and upfront pricing, matched by reliable workmanship and attentive service. When you choose SM Heating and Air Conditioning, you’re getting more than expert HVAC solutions—you’re getting peace of mind.\n\nWhy Choose SM Heating and Air Conditioning?\nLocal Roots, Local Commitment\n\nWe’re proud to call Northern New Jersey home, and we’re committed to enhancing comfort throughout Morris County. Our understanding of the unique needs of New Jersey homes, especially with our region’s sweltering summers and freezing winters, means we can offer tailored solutions that truly work.\n\nCertified, Experienced Technicians\n\nOur technicians are fully licensed, insured, and professionally trained. We stay up to date on the latest heating and cooling technologies, ensuring our customers benefit from energy-efficient, cost-saving upgrades and repairs. No project is too big or small for our team. From single-family homes to small businesses, we approach every job with the same diligence and care.\n\n“Nice Guys” Who Care\n\nWe’ve built our reputation on being the “nice guys” of HVAC. Customers regularly share stories of our courteous technicians who go the extra mile—from taking time to explain options, to respecting your home, to following up after a job is done. Our goal is to deliver the kind of customer experience we’d want for our own families.\n\nQuality Work—Guaranteed\n\nWe only use high-quality parts and trusted brands, ensuring your systems are durable, efficient, and reliable. Our workmanship comes with a satisfaction guarantee and generous warranties, so you can feel confident your investment is protected.\n\nFull-Service Heating & Cooling Company\nHEATING REPAIR & INSTALLATION: Heaters, furnaces, and heat pumps.\nAIR CONDITIONING SERVICES: Central air, ductless mini-splits, energy-efficient upgrades.\nMAINTENANCE PLANS: Seasonal tune-ups keep your system running strong, all year round.\n\nIf you’re looking for a heating and air contractor in the greater Pequannock, NJ, area choose the team with a reputation for honesty and heart. Contact SM Heating and Air Conditioning today at 973-628-6472.\n\nSCHEDULE SERVICE\nContact Us\nFirst Name *\nLast Name\nPhone *\nEmail *\nAddress *\nCity *\nState *\nZip *\nHow Can We Help You *\nSubmit\nSAME-DAY SERVICES\n\nFast, reliable repairs and maintenance—get your heating or cooling system fixed the same-day you call, so you’re never left uncomfortable.\n\nCUSTOMER-FOCUSED SERVICES\n\nWe put our customers first, making sure we prioritize your best interests.\n\nPROFESSIONAL TECHNICIANS\n\nOur certified experts bring years of hands-on experience, ensuring every job is done right the first time—with skill, safety, and professionalism.\n\nCALL 973-628-6472\nSPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS\nSCHEDULE ONLINE\nBOOK YOUR ONLINE APPOINTMENT TODAY\nLicense: 19HC00340300\nLOCATION\nSM Heating and Air Conditioning\n94 Wanaque Ave #1\nPompton Lakes, NJ 07442\nPhone: 973-628-6472\ninfo@smheatingandair.com\n\n\nFind Us On Google\nWE ACCEPT\n\nHELPFUL LINKS\nFAQs\nAccessibility\nPrivacy Policy\nTerms & Conditions\nCOPYRIGHT © 2026 SM HEATING AND AIR CONDITIONING | ALL RIGHTS RESERVED",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/contact-us/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/heating/",
+        "https://smheatingandair.com/heating/repair/",
+        "https://smheatingandair.com/heating/furnace-repair/",
+        "https://smheatingandair.com/heating/installation/",
+        "https://smheatingandair.com/heating/furnace-installation/",
+        "https://smheatingandair.com/heating/boiler-services/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/heating/#list",
+        "https://smheatingandair.com/air-conditioning/",
+        "https://smheatingandair.com/air-conditioning/repair/",
+        "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "https://smheatingandair.com/air-conditioning/installation/",
+        "https://smheatingandair.com/air-conditioning/handler/",
+        "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/air-conditioning/#list",
+        "https://smheatingandair.com/indoor-air-quality/",
+        "https://smheatingandair.com/air-duct-repair/",
+        "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "https://smheatingandair.com/air-cleaner-filtration/",
+        "https://smheatingandair.com/smart-thermostats/",
+        "https://smheatingandair.com/commercial-hvac/",
+        "https://smheatingandair.com/service-areas/",
+        "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/#list",
+        "https://smheatingandair.com/hvac-cost-calculator/",
+        "https://smheatingandair.com/about-us/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/news-media/",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/contact-us/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/membership/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/accessibility/",
+        "https://smheatingandair.com/privacy-policy/",
+        "https://smheatingandair.com/terms-conditions/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/heating/",
+        "https://smheatingandair.com/heating/repair/",
+        "https://smheatingandair.com/heating/installation/",
+        "https://smheatingandair.com/heating/boiler-services/",
+        "https://smheatingandair.com/heating/furnace-repair/",
+        "https://smheatingandair.com/heating/furnace-installation/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/heating/#list",
+        "https://smheatingandair.com/air-conditioning/",
+        "https://smheatingandair.com/air-conditioning/repair/",
+        "https://smheatingandair.com/air-conditioning/installation/",
+        "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "https://smheatingandair.com/air-conditioning/handler/",
+        "https://smheatingandair.com/about-us/",
+        "https://smheatingandair.com/air-conditioning/#list",
+        "https://smheatingandair.com/indoor-air-quality/",
+        "https://smheatingandair.com/air-duct-repair/",
+        "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "https://smheatingandair.com/air-cleaner-filtration/",
+        "https://smheatingandair.com/smart-thermostats/",
+        "https://smheatingandair.com/commercial-hvac/",
+        "https://smheatingandair.com/service-areas/",
+        "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/#list",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/morris-county/",
+        "https://smheatingandair.com/passaic-county/",
+        "https://smheatingandair.com/essex-county/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/about-us/",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/comfort-club",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/hvac-cost-calculator/",
+        "https://smheatingandair.com/contact-us/"
+      ]
+    },
+    "booking": {
+      "url": "https://smheatingandair.com/indoor-air-quality/",
+      "finalUrl": "https://smheatingandair.com/indoor-air-quality/",
+      "status": 200,
+      "title": "Indoor Air Quality Services in Pequannock, NJ",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "form_contact-us",
+          "cls": "frm-show-form  frm_pro_form ",
+          "fieldCount": 11,
+          "fieldNames": [
+            "item_meta[41]",
+            "item_meta[42]",
+            "item_meta[43]",
+            "item_meta[44]",
+            "item_meta[45]",
+            "item_meta[46]",
+            "item_meta[47]",
+            "item_meta[48]",
+            "item_meta[52]",
+            "item_meta[103]",
+            "ak_hp_textarea"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": null,
+          "method": "post",
+          "id": "form_contact-us",
+          "cls": "frm-show-form  frm_pro_form ",
+          "fieldCount": 11,
+          "fieldNames": [
+            "item_meta[41]",
+            "item_meta[42]",
+            "item_meta[43]",
+            "item_meta[44]",
+            "item_meta[45]",
+            "item_meta[46]",
+            "item_meta[47]",
+            "item_meta[48]",
+            "item_meta[52]",
+            "item_meta[104]",
+            "ak_hp_textarea"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": null,
+          "method": "post",
+          "id": "form_contact-us",
+          "cls": "frm-show-form  frm_pro_form ",
+          "fieldCount": 11,
+          "fieldNames": [
+            "item_meta[41]",
+            "item_meta[42]",
+            "item_meta[43]",
+            "item_meta[44]",
+            "item_meta[45]",
+            "item_meta[46]",
+            "item_meta[47]",
+            "item_meta[48]",
+            "item_meta[52]",
+            "item_meta[105]",
+            "ak_hp_textarea"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@smheatingandair.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:9736286472",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736286472"
+        },
+        {
+          "href": "tel:9736286472",
+          "text": "CONTACT US TODAY! 973-628-6472",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736286472"
+        },
+        {
+          "href": "tel:9736286472",
+          "text": "CALL 973-628-6472 SPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736286472"
+        }
+      ],
+      "owners": [],
+      "bodyText": " COUPONS\n FINANCING\n REVIEWS\n COMFORT CLUB\n CONTACT US\n WE ARE HIRING! APPLY TODAY \nCONTACT US TODAY!\n 973-628-6472\n REQUEST SERVICE\nHEATING\nAIR CONDITIONING\nAIR QUALITY\nCOMMERCIAL\nSERVICE AREAS\nCALCULATOR\nABOUT US\nINDOOR AIR QUALITY\n\nSAME-DAY SERVICES\n\nON-TIME SERVICES\n\nTRUSTED TECHNICIANS\n\nHome » Indoor Air Quality\n\nIndoor Air Quality Services in Pequannock, NJ\nExperience the valuable difference in your household's air quality with SM Heating and Air Conditioning. To ensure your home is a healthy and comfortable haven in Pequannock, NJ, call us today at 973-628-6472.\n\nIs the air in your home as clean and fresh as it should be? At SM Heating and Air Conditioning in Pequannock, NJ, we specialize in improving your indoor environment with top-notch indoor air quality services. Our commitment to same day service, straightforward pricing, and punctual, trusted technicians sets us apart. Utilizing the latest technology, we have built a reputation as the honest, reliable “nice guys” in the field.\n\nGet professional air purifier installation services to enhance your indoor air quality.\n\nWe offer the following IAQ services:\n\nDuctwork Repair & Installation\nHumidifiers\nDehumidifiers\nAir Purifier, Cleaners & Filtration\nThermostats\nIndoor Air Quality Services in Morris, Passaic and Essex Counties\n\nResidents in the Morris, Passaic and Essex Counties rely on SM Heating and Air Conditioning for exceptional indoor air quality services. Our services are tailored to reduce allergens and contaminants, ensuring a healthier indoor environment.\n\nA few top benefits of indoor air quality services include:\n\nHEALTHIER LIVING ENVIRONMENT: Our services reduce allergens, pollutants, and contaminants, improving respiratory health for everyone at home.\nENHANCED COMFORT: By maintaining optimal humidity levels and ensuring proper ventilation, we enhance overall indoor comfort.\nODOR REDUCTION: Eliminate persistent odors from pets, cooking, and smoking through effective air purification methods.\nENERGY EFFICIENCY: Systems running at peak performance improve HVAC efficiency, lowering energy consumption and costs.\nPREVENTION OF MOLD GROWTH: Proper air management reduces humidity levels, which decreases the likelihood of mold growth in hidden areas.\n\nInvesting in professional air quality services can significantly boost your home’s environmental health, ensuring that the air you breathe is clean and free from harmful irritants.\n\n$25 OFF\nFirst Time Customers\nSEE MORE SPECIALS\nSCHEDULE SERVICE\nContact Us\nFirst Name *\nLast Name\nPhone *\nEmail *\nAddress *\nCity *\nState *\nZip *\nHow Can We Help You *\nSubmit\nSee Why We’re the Best HVAC Company In Pequannock Township, NJ\n\nREAD MORE REVIEWS\nLEAVE A REVIEW\nCommon Indoor Air Quality Issues in Morris, Passaic and Essex Counties\n\nUnderstanding common air quality issues is the first step towards improving your indoor environment. Homeowners in Morris, Passaic and Essex Counties frequently encounter the following problems:\n\nDust and Allergens\nAccumulation from pets, dust mites, and pollen can exacerbate allergies and asthma symptoms.\nPoor Ventilation\nVolatile Organic Compounds (VOCs)\nHigh Humidity Levels\nCarbon Monoxide\n\nIdentifying these issues allows homeowners to take proactive steps in improving their air quality, fostering a safer and more pleasant living space.\n\nEnsure efficient HVAC performance with ductwork repair and installation.\n\nCall SM Heating and Air Conditioning for Indoor Air Quality Services\nAt SM Heating and Air Conditioning, we adopt a thorough process for delivering our air quality services. Here’s how we make your home a cleaner, healthier living environment:\n\nComprehensive Assessment\nOur technicians evaluate your current air quality, inspecting for pollutants, allergens, and sources of contamination.\nCustomized Solutions\nProfessional Installation\nOngoing Maintenance\nEducation and Support\n\nChoosing SM Heating and Air Conditioning for indoor air quality services in Pequannock, NJ, guarantees a comprehensive approach to clean, healthy air. Our reputation as the honest, reliable “nice guys” in the community is built on our commitment to exceptional service and customer satisfaction.\n\nBy addressing your indoor air quality with professional care, SM Heating and Air Conditioning helps make your home more comfortable, healthier, and energy-efficient. Call us at 973-628-6472 to improve the air you breathe in Pequannock, NJ!\n\nSAME-DAY SERVICES\n\nFast, reliable repairs and maintenance—get your heating or cooling system fixed the same-day you call, so you’re never left uncomfortable.\n\nCUSTOMER-FOCUSED SERVICES\n\nWe put our customers first, making sure we prioritize your best interests.\n\nPROFESSIONAL TECHNICIANS\n\nOur certified experts bring years of hands-on experience, ensuring every job is done right the first time—with skill, safety, and professionalism.\n\nCALL 973-628-6472\nSPEAK WITH OUR HELPFUL CUSTOMER SERVICE REPS\nSCHEDULE ONLINE\nBOOK YOUR ONLINE APPOINTMENT TODAY\nLicense: 19HC00340300\nLOCATION\nSM Heating and Air Conditioning\n94 Wanaque Ave #1\nPompton Lakes, NJ 07442\nPhone: 973-628-6472\ninfo@smheatingandair.com\n\n\nFind Us On Google\nWE ACCEPT\n\nHELPFUL LINKS\nFAQs\nAccessibility\nPrivacy Policy\nTerms & Conditions\nCOPYRIGHT © 2026 SM HEATING AND AIR CONDITIONING | ALL RIGHTS RESERVED",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/contact-us/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/heating/",
+        "https://smheatingandair.com/heating/repair/",
+        "https://smheatingandair.com/heating/furnace-repair/",
+        "https://smheatingandair.com/heating/installation/",
+        "https://smheatingandair.com/heating/furnace-installation/",
+        "https://smheatingandair.com/heating/boiler-services/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/heating/#list",
+        "https://smheatingandair.com/air-conditioning/",
+        "https://smheatingandair.com/air-conditioning/repair/",
+        "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "https://smheatingandair.com/air-conditioning/installation/",
+        "https://smheatingandair.com/air-conditioning/handler/",
+        "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/air-conditioning/#list",
+        "https://smheatingandair.com/indoor-air-quality/",
+        "https://smheatingandair.com/air-duct-repair/",
+        "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "https://smheatingandair.com/air-cleaner-filtration/",
+        "https://smheatingandair.com/smart-thermostats/",
+        "https://smheatingandair.com/commercial-hvac/",
+        "https://smheatingandair.com/service-areas/",
+        "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/#list",
+        "https://smheatingandair.com/hvac-cost-calculator/",
+        "https://smheatingandair.com/about-us/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/news-media/",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/comfort-club/",
+        "https://smheatingandair.com/contact-us/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/air-cleaner-filtration/",
+        "https://smheatingandair.com/air-duct-repair/",
+        "https://smheatingandair.com/humidifiers/",
+        "https://smheatingandair.com/dehumidifiers/",
+        "https://smheatingandair.com/air-cleaner-filtration/",
+        "https://smheatingandair.com/smart-thermostats/",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/membership/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/feedback/",
+        "https://smheatingandair.com/air-duct-repair/",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/accessibility/",
+        "https://smheatingandair.com/privacy-policy/",
+        "https://smheatingandair.com/terms-conditions/",
+        "https://smheatingandair.com/",
+        "https://smheatingandair.com/heating/",
+        "https://smheatingandair.com/heating/repair/",
+        "https://smheatingandair.com/heating/installation/",
+        "https://smheatingandair.com/heating/boiler-services/",
+        "https://smheatingandair.com/heating/furnace-repair/",
+        "https://smheatingandair.com/heating/furnace-installation/",
+        "https://smheatingandair.com/magicpak/",
+        "https://smheatingandair.com/heating/#list",
+        "https://smheatingandair.com/air-conditioning/",
+        "https://smheatingandair.com/air-conditioning/repair/",
+        "https://smheatingandair.com/air-conditioning/installation/",
+        "https://smheatingandair.com/air-conditioning/evaporator-coil/",
+        "https://smheatingandair.com/air-conditioning/ductless-mini-split/",
+        "https://smheatingandair.com/air-conditioning/handler/",
+        "https://smheatingandair.com/indoor-air-quality/",
+        "https://smheatingandair.com/air-conditioning/#list",
+        "https://smheatingandair.com/indoor-air-quality/",
+        "https://smheatingandair.com/air-duct-repair/",
+        "https://smheatingandair.com/ac-furnace-filter-replacement/",
+        "https://smheatingandair.com/air-cleaner-filtration/",
+        "https://smheatingandair.com/smart-thermostats/",
+        "https://smheatingandair.com/commercial-hvac/",
+        "https://smheatingandair.com/service-areas/",
+        "https://smheatingandair.com/service-areas/fairfield-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montclair-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pequannock-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-plains-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/west-milford-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/franklin-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/montville-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/pompton-lakes-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/wayne-heating-and-cooling-services/",
+        "https://smheatingandair.com/service-areas/#list",
+        "https://smheatingandair.com/coupons/",
+        "https://smheatingandair.com/morris-county/",
+        "https://smheatingandair.com/passaic-county/",
+        "https://smheatingandair.com/essex-county/",
+        "https://smheatingandair.com/reviews/",
+        "https://smheatingandair.com/about-us/",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/comfort-club",
+        "https://smheatingandair.com/certified-hvac-contractor-morris-county-nj/",
+        "https://smheatingandair.com/careers/",
+        "https://smheatingandair.com/financing/",
+        "https://smheatingandair.com/frequently-asked-questions/",
+        "https://smheatingandair.com/hvac-cost-calculator/",
+        "https://smheatingandair.com/contact-us/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 60,
+    "at": "2026-11-03T23:01:13.216Z",
+    "statusCounts": {
+      "200": 60
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://smheatingandair.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/sm-heating-and-air-conditioning-inc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/sm-heating-and-air-conditioning-inc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/sm-heating-and-air-conditioning-inc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/sm-heating-and-air-conditioning-inc/desktop-about.png",
+    "desktop_booking": "evidence/screenshots/sm-heating-and-air-conditioning-inc/desktop-booking.png",
+    "mobile_asis": "evidence/screenshots/sm-heating-and-air-conditioning-inc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": false,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00340300"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": true,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "info@smheatingandair.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Heating Replacements Is it time to replace your aging heater? Schedule installat -> https://smheatingandair.com/heating/installation/",
+      "Indoor Air Quality Services Keep the air in your property clean and safe. Book i -> https://smheatingandair.com/indoor-air-quality/",
+      "Heating Replacements Is it time to replace your aging heater? Schedule installat -> https://smheatingandair.com/heating/installation/",
+      "Indoor Air Quality Services Keep the air in your property clean and safe. Book i -> https://smheatingandair.com/indoor-air-quality/"
+    ]
+  },
+  "ctaClickTests": []
+}

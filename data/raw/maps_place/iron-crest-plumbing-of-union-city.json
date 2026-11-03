@@ -1,0 +1,25 @@
+{
+  "id": "iron-crest-plumbing-of-union-city",
+  "placeUrl": "https://www.google.com/maps/place/Iron+Crest+Plumbing+of+Union+City/data=!4m7!3m6!1s0x44be667d5048c477:0xc62efa8afae5e998!8m2!3d40.7686086!4d-74.0316054!16s%2Fg%2F11nw2zqk6m!19sChIJd8RIUH1mvkQRmOnl-or6LsY",
+  "retrievedAt": "2026-11-03T22:53:04.221Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Iron Crest Plumbing of Union City",
+  "category": "Plumber",
+  "address": "2518 Bergenline Ave, Union City, NJ 07087, United States ",
+  "phone": "+1 551-233-8816 ",
+  "website": "https://www.ironcrestplumbing.com/location/union-city",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Iron+Crest+Plumbing+of+Union+City/data=!4m7!3m6!1s0x44be667d5048c477:0xc62efa8afae5e998!8m2!3d40.7686086!4d-74.0316054!16s%2Fg%2F11nw2zqk6m!19sChIJd8RIUH1mvkQRmOnl-or6LsY?hl=en",
+  "screenshot": "evidence/screenshots/iron-crest-plumbing-of-union-city/google-maps-listing.png"
+}

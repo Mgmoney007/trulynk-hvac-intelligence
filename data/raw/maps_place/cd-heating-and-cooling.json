@@ -1,0 +1,25 @@
+{
+  "id": "cd-heating-and-cooling",
+  "placeUrl": "https://www.google.com/maps/place/CD+Heating+and+Cooling/data=!4m7!3m6!1s0x280032edf7ecff97:0xb46b2f51109e8a5b!8m2!3d40.8715287!4d-74.1409629!16s%2Fg%2F11whgwt9vl!19sChIJl__s9-0yACgRW4qeEFEva7Q",
+  "retrievedAt": "2026-11-03T23:06:03.578Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "CD Heating and Cooling",
+  "category": "HVAC contractor",
+  "address": "125 Hadley Ave, Clifton, NJ 07011, United States ",
+  "phone": "+1 862-285-3076 ",
+  "website": "https://www.cdheatingandcooling.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/CD+Heating+and+Cooling/data=!4m7!3m6!1s0x280032edf7ecff97:0xb46b2f51109e8a5b!8m2!3d40.8715287!4d-74.1409629!16s%2Fg%2F11whgwt9vl!19sChIJl__s9-0yACgRW4qeEFEva7Q?hl=en",
+  "screenshot": "evidence/screenshots/cd-heating-and-cooling/google-maps-listing.png"
+}

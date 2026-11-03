@@ -1,0 +1,23 @@
+{
+  "id": "jm-heights-cooling-corp",
+  "placeUrl": "https://www.google.com/maps/place/JM+Heights+Cooling+Corp./data=!4m7!3m6!1s0x6df3a6a9560154b7:0x899d31cab18a24cc!8m2!3d40.9324375!4d-74.19842!16s%2Fg%2F11n52yn7rn!19sChIJt1QBVqmm820RzCSKscoxnYk",
+  "retrievedAt": "2026-11-03T22:59:07.535Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "JM Heights Cooling Corp.",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-824-3272 ",
+  "website": "https://jmheights.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/JM+Heights+Cooling+Corp./data=!4m7!3m6!1s0x6df3a6a9560154b7:0x899d31cab18a24cc!8m2!3d40.9324375!4d-74.19842!16s%2Fg%2F11n52yn7rn!19sChIJt1QBVqmm820RzCSKscoxnYk?hl=en",
+  "screenshot": "evidence/screenshots/jm-heights-cooling-corp/google-maps-listing.png"
+}

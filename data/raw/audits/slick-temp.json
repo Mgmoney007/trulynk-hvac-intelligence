@@ -1,0 +1,981 @@
+{
+  "id": "slick-temp",
+  "name": "Slick Temp",
+  "website": "https://slicktemp.com/",
+  "auditedAt": "2026-11-03T22:25:27.705Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://slicktemp.com/",
+      "at": "2026-11-03T22:25:29.654Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://slicktemp.com/",
+      "title": "Slick Temp | HVAC Contractor in Clifton, NJ — 7 Days a Week",
+      "ms": 1898,
+      "error": null,
+      "linkCount": 28
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://slicktemp.com/",
+      "at": "2026-11-03T22:25:33.878Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://slicktemp.com/",
+      "title": "Slick Temp | HVAC Contractor in Clifton, NJ — 7 Days a Week",
+      "ms": 1580,
+      "error": null,
+      "linkCount": 28
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://slicktemp.com/",
+    "title": "Slick Temp | HVAC Contractor in Clifton, NJ — 7 Days a Week",
+    "lang": "en",
+    "metaDescription": "Slick Temp — HVAC contractor on Circle Ave in Clifton, NJ. Heating, cooling, heat pumps & ductwork across Passaic County. Open 7 AM–9 PM, 7 days. Call +1 973-381-5035.",
+    "h1": [
+      "The climate in your home,\ndialed."
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 8762,
+    "bodyText": "Slick Temp\nOPEN · 7 AM–9 PM\n(973) 381-5035\nCLIFTON · CIRCLE AVE · 7 DAYS\nThe climate in your home,\ndialed.\n\nSlick Temp is a licensed HVAC contractor on Circle Ave. Heating, cooling, heat pumps, and ductwork across Passaic County — open 7 AM to 9 PM, 7 days a week. A real person answers the line.\n\n📞\nCall (973) 381-5035\n→\nOur services\n7/7\nDAYS A WEEK\n7a-9p\nDAILY HOURS\nNJ\nLICENSED / INSURED\nINDOOR\n72°F\nSET\n70°F\nClifton · NJ\n126 CIRCLE AVE\nON SITE\n25%\nEFFICIENCY\nDISPATCH\nLive now· 7d\nTODAY\n7AM–9PMopen\nSERVICE AREA\nPassaic Co.all\nRATING\n★ 5.0/5\nWHAT WE DO\nSix specialties,\none contractor.\n\nFrom a split-system install to a commercial heat-pump retrofit — Slick Temp is a full-service HVAC crew with NJ-licensed techs on every job.\n\n↗\n01 / 06\n❄\nAir Conditioning\n\nCentral AC, mini-splits, repair, tune-up, seasonal service. Every brand.\n\n↗\n02 / 06\n🔥\nHeating Systems\n\nFurnaces, boilers, heat pumps — every brand.\n\n↗\n03 / 06\n♨\nHeat Pumps\n\nHigh-efficiency install & service, cold-climate rated.\n\n↗\n04 / 06\n💨\nDuctwork & Air Quality\n\nDesign, clean, seal, replace. Better airflow, cleaner air, lower bills.\n\n↗\n05 / 06\n🏠\nResidential\n\nSingle-family, multi-unit, apartments.\n\n↗\n06 / 06\n🏢\nCommercial\n\nOffices, retail, light industrial.\n\nIN THE FIELD\nClifton jobs.\nNo filters, no staging.\n\nSlick Temp out on calls across Clifton, Paterson, Passaic and Wayne — installs, service, and system replacements, finished tested and clean.\n\nTechnician · Clifton\nFEATURED\nSystem install\nNEW\nService call\nDONE\nMaintenance\nTUNE-UP\nEquipment\nCLEAN\nHeating\nINSTALL\nField\nPASSAIC CO.\nCommercial · Clifton\nDONE\nDuctwork\nSEALED\nCooling\nSERVICE\nHeat pump\nINSTALL\nOn site\nCLIFTON\nWHERE WE GO\nAll of Passaic County.\n\nDispatched from 126 Circle Ave — most calls in Passaic County get a tech on site the same day, during business hours.\n\n📍\nHQ ADDRESS\n126 Circle Ave, Clifton, NJ 07011\nPassaic County · New Jersey\n→\n📞\nDISPATCH\n(973) 381-5035\nReal person · 7 AM – 9 PM daily\n↗\n⏰\nHOURS\n7 AM — 9 PM · 7 days\nNo voicemail · No phone tree\n→\nCITIES SERVED\nClifton\n0 mi\nPassaic\n3 mi\nPaterson\n4 mi\nNutley\n4 mi\nMontclair\n5 mi\nWayne\n6 mi\nLittle Falls\n4 mi\nPassaic County\n—\nClifton HQ · Live\nREVIEWS\nClifton talks.\n\nVerified reviews from homeowners and businesses across Clifton, Passaic, and Paterson — real names, real jobs, five stars.\n\n\"\n★★★★★\n\nHeat pump install was textbook. Quote came in writing, crew arrived on time, left the basement cleaner than they found it. Exactly what you'd hope for.\n\nHO\nHenrietta O.\nCLIFTON, NJ\n\"\n★★★★★\n\nCentral AC went out mid-July. Slick Temp got a tech to my Clifton house the same afternoon. Honest diagnosis, reasonable price, cold air in two hours.\n\nRV\nRaul V.\nCLIFTON, NJ\n\"\n★★★★★\n\nThey maintain the HVAC at our building in Passaic. Responsive, no upselling, straight answers every time. Rare in this industry.\n\nPS\nPriya S.\nPASSAIC, NJ\nCOMMON QUESTIONS\nBefore\nyou call.\n\nThe fastest answers to what Clifton homeowners ask. If yours isn't here, just pick up the phone.\n\n📞\nCall us\nWhat are Slick Temp's hours?\nSlick Temp is open 7 AM to 9 PM, 7 days a week, including weekends. Call any time during those hours for service, estimates, or emergency repairs.\nWhat areas do you serve?\nDo you install heat pumps?\nAre you licensed and insured?\nHow does pricing work?\nDo you service commercial buildings?\nDISPATCH LIVE · 7 AM – 9 PM\nComfortable\nis one tap away.\n\nNo phone tree. No voicemail. A real human on the Clifton dispatch line, every hour we're open. You're minutes from comfort.\n\nCLIFTON DISPATCH\n(973) 381-5035\n📞\nTap to call\n126 Circle Ave · Clifton, NJ 07011\nTap to call (973) 381-5035\n📞\nSlick Temp\n\nLicensed HVAC contractor at 126 Circle Ave, Clifton, NJ 07011. Heating, cooling, heat pumps, and ductwork across Passaic County. Open 7 AM–9 PM every day.\n\nExplore\nServices\nOur Work\nContact\nServices\nAir Conditioning\nHeating\nHeat Pumps\nDuctwork\nCommercial\nContact\n(973) 381-5035\n7 AM – 9 PM, 7 days\n126 Circle Ave\nClifton, NJ 07011\n© 2025 Slick Temp · Licensed HVAC Contractor\nPrivacy\nTerms\nDisclaimer",
+    "links": [
+      {
+        "href": "#hero",
+        "abs": "https://slicktemp.com/#hero",
+        "text": "Slick Temp",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 164,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": true,
+        "h": 25,
+        "w": 104,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "📞 Call (973) 381-5035",
+        "visible": true,
+        "aboveFold": true,
+        "h": 62,
+        "w": 229,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#services",
+        "abs": "https://slicktemp.com/#services",
+        "text": "→ Our services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 188,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "↗ 01 / 06 ❄ Air Conditioning Central AC, mini-splits, repair, tune-up, seasonal ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 416,
+        "w": 643,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "↗ 02 / 06 🔥 Heating Systems Furnaces, boilers, heat pumps — every brand.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 200,
+        "w": 643,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "↗ 03 / 06 ♨ Heat Pumps High-efficiency install & service, cold-climate rated.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 200,
+        "w": 643,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "↗ 04 / 06 💨 Ductwork & Air Quality Design, clean, seal, replace. Better airflow",
+        "visible": true,
+        "aboveFold": false,
+        "h": 416,
+        "w": 423,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "↗ 05 / 06 🏠 Residential Single-family, multi-unit, apartments.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 200,
+        "w": 423,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "↗ 06 / 06 🏢 Commercial Offices, retail, light industrial.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 200,
+        "w": 423,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 131,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "📞 Call us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 62,
+        "w": 143,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "h": 144,
+        "w": 426,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "📞 Tap to call",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 426,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "Tap to call (973) 381-5035 📞",
+        "visible": true,
+        "aboveFold": true,
+        "h": 68,
+        "w": 68,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#hero",
+        "abs": "https://slicktemp.com/#hero",
+        "text": "Slick Temp",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 164,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#services",
+        "abs": "https://slicktemp.com/#services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 57,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#work",
+        "abs": "https://slicktemp.com/#work",
+        "text": "Our Work",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 62,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#final-bg",
+        "abs": "https://slicktemp.com/#final-bg",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 52,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#services",
+        "abs": "https://slicktemp.com/#services",
+        "text": "Air Conditioning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 105,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#services",
+        "abs": "https://slicktemp.com/#services",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 51,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#services",
+        "abs": "https://slicktemp.com/#services",
+        "text": "Heat Pumps",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 80,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#services",
+        "abs": "https://slicktemp.com/#services",
+        "text": "Ductwork",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 64,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#services",
+        "abs": "https://slicktemp.com/#services",
+        "text": "Commercial",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 79,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+19733815035",
+        "abs": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 98,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://slicktemp.com/#",
+        "text": "Privacy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://slicktemp.com/#",
+        "text": "Terms",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 34,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "javascript:void(0)",
+        "abs": "javascript:void(0)",
+        "text": "Disclaimer",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 59,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Disclaimer",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "HVACBusiness",
+        "@id": "https://slicktemp.com/#business",
+        "name": "Slick Temp",
+        "description": "HVAC contractor at 126 Circle Ave in Clifton, NJ. Heating, air conditioning, heat pumps, and ductwork across Passaic County. Open 7 AM to 9 PM, 7 days a week.",
+        "url": "https://slicktemp.com/",
+        "telephone": "+1-973-381-5035",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOwKHNXCZEErX0sS1KHzcm0jgbrGdt3gLanDfP6=s1360-w1360-h1020-rw",
+        "priceRange": "$$",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "126 Circle Ave",
+          "addressLocality": "Clifton",
+          "addressRegion": "NJ",
+          "postalCode": "07011",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 40.8618,
+          "longitude": -74.1573
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "07:00",
+            "closes": "21:00"
+          }
+        ],
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Clifton"
+          },
+          {
+            "@type": "City",
+            "name": "Paterson"
+          },
+          {
+            "@type": "City",
+            "name": "Passaic"
+          },
+          {
+            "@type": "City",
+            "name": "Wayne"
+          },
+          {
+            "@type": "City",
+            "name": "Nutley"
+          },
+          {
+            "@type": "City",
+            "name": "Montclair"
+          },
+          {
+            "@type": "City",
+            "name": "Little Falls"
+          }
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "HVAC Services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Air Conditioning Install & Repair"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Furnace & Boiler Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Heat Pump Install & Service"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Ductwork & Air Quality"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Residential HVAC"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Commercial HVAC"
+              }
+            }
+          ]
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "3",
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Henrietta O."
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "reviewBody": "Heat pump install was textbook. Quote came in writing, crew arrived on time, left the basement cleaner than they found it. Exactly what you'd hope for."
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Raul V."
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "reviewBody": "Central AC went out mid-July. Slick Temp got a tech to my Clifton house the same afternoon. Honest diagnosis, reasonable price, cold air in two hours."
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Priya S."
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "reviewBody": "They maintain the HVAC at our building in Passaic. Responsive, no upselling, straight answers every time. Rare in this industry."
+          }
+        ],
+        "potentialAction": {
+          "@type": "ReserveAction",
+          "target": "tel:+19733815035",
+          "name": "Call Slick Temp"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "https://slicktemp.com/#website",
+        "url": "https://slicktemp.com/",
+        "name": "Slick Temp",
+        "publisher": {
+          "@id": "https://slicktemp.com/#business"
+        },
+        "inLanguage": "en-US"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What are Slick Temp's hours?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Slick Temp is open 7 AM to 9 PM, 7 days a week, including weekends. Call any time during those hours for service, estimates, or emergency repairs."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What areas does Slick Temp serve?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Slick Temp services Clifton, Paterson, Passaic, Wayne, Nutley, Montclair, Little Falls, and the wider Passaic County, NJ area."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does Slick Temp install heat pumps?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Slick Temp specializes in heat pump install and service across every major brand — including cold-climate heat pumps suited to North Jersey winters."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Slick Temp licensed and insured?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Every technician carries a current New Jersey HVAC license and Slick Temp carries full liability and workers' compensation insurance."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you give written estimates?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Every job starts with an on-site diagnosis and a written estimate. Work begins only after you approve the price in writing — no surprises on the invoice."
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 0,
+    "timing": {
+      "dcl": 936,
+      "load": 1363,
+      "ttfb": 523
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": " bg-stage ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": " bg-dots ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 0.004,
+        "sig": " fab-call call slick temp at 973-381-5035",
+        "text": "tap to call (973) 381-5035\n📞"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://slicktemp.com/",
+    "navMs": 1898,
+    "tel": [
+      {
+        "href": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "📞 Call (973) 381-5035",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 01 / 06 ❄ Air Conditioning Central AC, mini-splits, repair, tune-up, seasonal ",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 02 / 06 🔥 Heating Systems Furnaces, boilers, heat pumps — every brand.",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 03 / 06 ♨ Heat Pumps High-efficiency install & service, cold-climate rated.",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 04 / 06 💨 Ductwork & Air Quality Design, clean, seal, replace. Better airflow",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 05 / 06 🏠 Residential Single-family, multi-unit, apartments.",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 06 / 06 🏢 Commercial Offices, retail, light industrial.",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "📞 Call us",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "📞 Tap to call",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "Tap to call (973) 381-5035 📞",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://slicktemp.com/",
+    "navMs": 1580,
+    "timing": {
+      "dcl": 692,
+      "load": 1040,
+      "ttfb": 444
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "📞 Call (973) 381-5035",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 01 / 06 ❄ Air Conditioning Central AC, mini-splits, repair, tune-up, seasonal ",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 02 / 06 🔥 Heating Systems Furnaces, boilers, heat pumps — every brand.",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 03 / 06 ♨ Heat Pumps High-efficiency install & service, cold-climate rated.",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 04 / 06 💨 Ductwork & Air Quality Design, clean, seal, replace. Better airflow",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 05 / 06 🏠 Residential Single-family, multi-unit, apartments.",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "↗ 06 / 06 🏢 Commercial Offices, retail, light industrial.",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "📞 Call us",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "📞 Tap to call",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "📞",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19733815035"
+      },
+      {
+        "href": "tel:+19733815035",
+        "text": "(973) 381-5035",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19733815035"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "📞 Call (973) 381-5035"
+    ],
+    "menuToggle": false,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": " bg-stage ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": " bg-dots ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 0.014,
+        "sig": " fab-call call slick temp at 973-381-5035",
+        "text": "📞"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 1,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 3963
+  },
+  "pages": {},
+  "linkCheck": {
+    "checked": 1,
+    "at": "2026-11-03T22:25:31.591Z",
+    "statusCounts": {
+      "200": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://slicktemp.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/slick-temp/desktop-home.png",
+    "desktop_full": "evidence/screenshots/slick-temp/desktop-home-full.png",
+    "mobile_asis": "evidence/screenshots/slick-temp/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2025,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

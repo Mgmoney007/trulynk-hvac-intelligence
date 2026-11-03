@@ -1,0 +1,25 @@
+{
+  "id": "air-tech-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Air+tech+Heating+%26+Cooling/data=!4m7!3m6!1s0x4721c0b31abf8985:0x836fd8851951935d!8m2!3d40.930381!4d-74.1469864!16s%2Fg%2F11nb798l2y!19sChIJhYm_GrPAIUcRXZNRGYXYb4M",
+  "retrievedAt": "2026-11-03T22:57:30.472Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Air tech Heating & Cooling",
+  "category": "HVAC contractor",
+  "address": "283 E 24th St, Paterson, NJ 07514, United States ",
+  "phone": "+1 973-204-2826 ",
+  "website": "https://njairtech.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–7 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Air+tech+Heating+%26+Cooling/data=!4m7!3m6!1s0x4721c0b31abf8985:0x836fd8851951935d!8m2!3d40.930381!4d-74.1469864!16s%2Fg%2F11nb798l2y!19sChIJhYm_GrPAIUcRXZNRGYXYb4M?hl=en",
+  "screenshot": "evidence/screenshots/air-tech-heating-cooling/google-maps-listing.png"
+}

@@ -1,0 +1,94 @@
+{
+  "firecrawl": [],
+  "id": "all-time-heating-cooling-plumbing",
+  "name": "All Time Heating Cooling & Plumbing",
+  "website": "https://alltimeplumbinghvac.com/?utm_source=omg-gbp&utm_medium=webclick",
+  "auditedAt": "2026-11-03T23:07:29.147Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://alltimeplumbinghvac.com/?utm_source=omg-gbp&utm_medium=webclick",
+      "at": "2026-11-03T23:07:49.623Z",
+      "access": "http_error",
+      "status": 502,
+      "finalUrl": "https://alltimeplumbinghvac.com/?utm_source=omg-gbp&utm_medium=webclick",
+      "title": "",
+      "ms": 8691,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://alltimeplumbinghvac.com/?utm_source=omg-gbp&utm_medium=webclick",
+      "at": "2026-11-03T23:08:10.336Z",
+      "access": "http_error",
+      "status": 502,
+      "finalUrl": "https://alltimeplumbinghvac.com/?utm_source=omg-gbp&utm_medium=webclick",
+      "title": "",
+      "ms": 8872,
+      "error": null,
+      "linkCount": 0
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "http_error",
+      "status": 502,
+      "error": null,
+      "url": "https://alltimeplumbinghvac.com/?utm_source=omg-gbp&utm_medium=webclick"
+    },
+    {
+      "step": "mobile_home",
+      "access": "http_error",
+      "status": 502,
+      "error": null,
+      "url": "https://alltimeplumbinghvac.com/?utm_source=omg-gbp&utm_medium=webclick"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": null,
+    "httpStatus": null,
+    "httpError": "AbortError: This operation was aborted",
+    "httpsStatus": null,
+    "httpsError": "AbortError: This operation was aborted",
+    "redirectsToHttps": false
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/all-time-heating-cooling-plumbing/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/all-time-heating-cooling-plumbing/mobile-home-access-failure.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

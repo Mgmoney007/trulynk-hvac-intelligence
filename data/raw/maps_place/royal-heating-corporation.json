@@ -1,0 +1,25 @@
+{
+  "id": "royal-heating-corporation",
+  "placeUrl": "https://www.google.com/maps/place/Royal+Heating+Corporation/data=!4m7!3m6!1s0x89c2510fd9f62749:0x6128c5d82a4b5d76!8m2!3d40.7007209!4d-74.0906517!16s%2Fg%2F1tfwqwpq!19sChIJSSf22Q9RwokRdl1LKtjFKGE",
+  "retrievedAt": "2026-11-03T22:48:50.005Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Royal Heating Corporation",
+  "category": "HVAC contractor",
+  "address": "10 Martin Luther King Dr, Jersey City, NJ 07305, United States ",
+  "phone": "+1 201-434-0315 ",
+  "website": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7:30 AM–4 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Royal+Heating+Corporation/data=!4m7!3m6!1s0x89c2510fd9f62749:0x6128c5d82a4b5d76!8m2!3d40.7007209!4d-74.0906517!16s%2Fg%2F1tfwqwpq!19sChIJSSf22Q9RwokRdl1LKtjFKGE?hl=en",
+  "screenshot": "evidence/screenshots/royal-heating-corporation/google-maps-listing.png"
+}

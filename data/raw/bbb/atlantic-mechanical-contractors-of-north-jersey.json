@@ -1,0 +1,30 @@
+{
+  "id": "atlantic-mechanical-contractors-of-north-jersey",
+  "query": "Atlantic Mechanical Contractors of North Jersey",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Atlantic%20Mechanical%20Contractors%20of%20North%20Jersey&find_loc=Clifton%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:19:33.246Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": {
+    "ad": false,
+    "name": "Atlantic Mechanical Contractors of North Jersey, Inc.",
+    "rating": "C",
+    "phone": "(973) 650-0790",
+    "address": "178 Lakeview Ave, Clifton, NJ 07011-4071",
+    "accredited": true,
+    "href": "https://www.bbb.org/us/nj/clifton/profile/heating-and-air-conditioning/atlantic-mechanical-contractors-of-north-jersey-inc-0221-90153526",
+    "basis": "name+city",
+    "nameSimilarity": 1
+  },
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Atlantic Mechanical Contractors of North Jersey, Inc.",
+      "rating": "C",
+      "phone": "(973) 650-0790",
+      "address": "178 Lakeview Ave, Clifton, NJ 07011-4071",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/clifton/profile/heating-and-air-conditioning/atlantic-mechanical-contractors-of-north-jersey-inc-0221-90153526"
+    }
+  ],
+  "error": null
+}

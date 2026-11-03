@@ -1,0 +1,159 @@
+{
+  "firecrawl": [],
+  "id": "whalen-ives-inc",
+  "name": "Whalen & Ives, Inc.",
+  "website": "https://www.whalenives.com/service-area/mahwah/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*548*whalen-ives-park-ridge",
+  "auditedAt": "2026-11-03T23:01:58.137Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.whalenives.com/service-area/mahwah/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*548*whalen-ives-park-ridge",
+      "at": "2026-11-03T23:02:03.099Z",
+      "access": "http_error",
+      "status": 403,
+      "finalUrl": "https://www.whalenives.com/service-area/mahwah/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*548*whalen-ives-park-ridge",
+      "title": "Error 403 Forbidden",
+      "ms": 788,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.whalenives.com/service-area/mahwah/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*548*whalen-ives-park-ridge",
+      "at": "2026-11-03T23:02:05.979Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.whalenives.com/service-area/mahwah/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*548*whalen-ives-park-ridge",
+      "title": "HVAC, Plumbing, Electrical & Generator Services in Mahwah, NJ | Whalen & Ives",
+      "ms": 2467,
+      "error": null,
+      "linkCount": 157
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "http_error",
+      "status": 403,
+      "error": null,
+      "url": "https://www.whalenives.com/service-area/mahwah/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*548*whalen-ives-park-ridge"
+    }
+  ],
+  "desktop": null,
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.whalenives.com/service-area/mahwah/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*548*whalen-ives-park-ridge",
+    "navMs": 2467,
+    "timing": {
+      "dcl": 1619,
+      "load": 1923,
+      "ttfb": 323
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:2015907320",
+        "text": "(201) 590-7320",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015907320"
+      },
+      {
+        "href": "tel:2015907320",
+        "text": "(201) 590-7320",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015907320"
+      },
+      {
+        "href": "tel:2015907320",
+        "text": "(201) 590-7320",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015907320"
+      },
+      {
+        "href": "tel:2015907320",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12015907320"
+      },
+      {
+        "href": "tel:2015907320",
+        "text": "(201) 590-7320",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015907320"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "SCHEDULE NOW",
+      "SCHEDULE SERVICE"
+    ],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 3,
+    "visibleNavLinks": 5,
+    "brokenImages": [],
+    "textChars": 6061
+  },
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "http://www.whalenives.com/",
+    "httpStatus": 403,
+    "httpError": null,
+    "httpsStatus": 403,
+    "httpsError": null,
+    "redirectsToHttps": false
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/whalen-ives-inc/desktop-home-access-failure.png",
+    "mobile_asis": "evidence/screenshots/whalen-ives-inc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

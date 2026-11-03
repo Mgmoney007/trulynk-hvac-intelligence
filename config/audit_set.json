@@ -1,0 +1,434 @@
+[
+  {
+    "id": "jimmy-s-arctic-heating-air-conditioning-repair",
+    "name": "Jimmy's Arctic Heating & Air Conditioning Repair",
+    "website": "https://www.jimmysarcticair.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "arcticflow-hvac-repair-union-city",
+    "name": "ArcticFlow HVAC Repair Union City",
+    "website": "https://arcticflowhvacunioncity.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "royal-heating-corporation",
+    "name": "Royal Heating Corporation",
+    "website": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+    "county": "Hudson"
+  },
+  {
+    "id": "fred-s-climate-control",
+    "name": "Fred's Climate Control",
+    "website": "https://fredsclimate.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "american-way-plumbing-heating-air-conditioning",
+    "name": "American Way Plumbing, Heating & Air Conditioning",
+    "website": "https://plumbingheatingcoolingnj.com/service-areas/city-of-jersey-city-nj-plumber-heating-air-conditioning-service-repair-installation/",
+    "county": "Hudson"
+  },
+  {
+    "id": "deaire-heating-cooling",
+    "name": "DeAire Heating & Cooling",
+    "website": "http://deaireheatingandcooling.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "service-hvac-units-llc",
+    "name": "Service HVAC Units LLC",
+    "website": "https://servicehvacunits.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "bargotti-co-plumbing-hvac",
+    "name": "Bargotti Co. Plumbing & Hvac",
+    "website": "https://bargottihvac.com/contact-bargotti-hvac/",
+    "county": "Hudson"
+  },
+  {
+    "id": "aeromark-mechanical-inc",
+    "name": "Aeromark Mechanical Inc",
+    "website": "https://aeromarknj.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "new-jersey-ptac-services",
+    "name": "New Jersey PTAC Services.",
+    "website": "http://www.newjerseyptac.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "master-ac-heating",
+    "name": "Master AC & Heating",
+    "website": "https://masterhvacsolutions.com/kearny-nj/",
+    "county": "Hudson"
+  },
+  {
+    "id": "cool-air-new-jersey",
+    "name": "Cool Air New Jersey",
+    "website": "http://coolairnewjersey.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "rentanac-nyc",
+    "name": "RentAnAC NYC",
+    "website": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+    "county": "Hudson"
+  },
+  {
+    "id": "andes-hvac-aire-acondicionado",
+    "name": "Andes HVAC Aire Acondicionado",
+    "website": "https://andeshvacaireacondicionadollc.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "iron-crest-plumbing-of-union-city",
+    "name": "Iron Crest Plumbing of Union City",
+    "website": "https://www.ironcrestplumbing.com/location/union-city",
+    "county": "Hudson"
+  },
+  {
+    "id": "cronin-plumbing-and-heating",
+    "name": "Cronin Plumbing and Heating",
+    "website": "http://croninplumbingandheating.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "andes-refrigeration",
+    "name": "Andes Refrigeration",
+    "website": "https://andesrefrigerationusa.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "hvac-metals-llc",
+    "name": "HVAC Metals, LLC",
+    "website": "https://www.hvacmetalsllc.com/",
+    "county": "Hudson"
+  },
+  {
+    "id": "duct-mate-inc",
+    "name": "Duct Mate Inc.",
+    "website": "https://www.ductmatehvac.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "first-choice-plumbing-heating-air-conditioning-electrical-ha",
+    "name": "First Choice Plumbing, Heating, Air Conditioning & Electrical (Hackensack)",
+    "website": "https://www.fccomfort.com/service-areas/hackensack-nj/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*626*first-choice-hackensack",
+    "county": "Bergen"
+  },
+  {
+    "id": "jemmy-s-hvac-heating-and-air-conditioning",
+    "name": "Jemmy's HVAC Heating and Air Conditioning",
+    "website": "http://jemmyshvacnj.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "first-choice-plumbing-heating-and-air-conditioning",
+    "name": "First Choice Plumbing Heating and Air Conditioning",
+    "website": "https://firstchoicenj.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "new-jersey-hvac",
+    "name": "New Jersey HVAC",
+    "website": "https://www.newjerseyhvac.net/",
+    "county": "Bergen"
+  },
+  {
+    "id": "yuhan-heating-air-conditioning",
+    "name": "Yuhan Heating & Air Conditioning",
+    "website": "https://www.yuhanhvac.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "grc-mechanical-services",
+    "name": "GRC Mechanical Services",
+    "website": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "county": "Bergen"
+  },
+  {
+    "id": "fix-hvac",
+    "name": "Fix Hvac",
+    "website": "https://fix-hvac.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "airtek-mechanical-heating-cooling-llc",
+    "name": "Airtek Mechanical Heating & Cooling LLC",
+    "website": "http://www.airtekmechanicalhvac.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "price-beat-hvac",
+    "name": "Price Beat HVAC",
+    "website": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+    "county": "Bergen"
+  },
+  {
+    "id": "e-z-temp",
+    "name": "E-Z Temp",
+    "website": "http://www.eztemp.net/",
+    "county": "Bergen"
+  },
+  {
+    "id": "jason-mazzer-plumbing-hvac-llc",
+    "name": "Jason Mazzer Plumbing & HVAC, LLC",
+    "website": "http://mazzerplumbing.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "total-comfort-services-llc",
+    "name": "Total Comfort Services LLC",
+    "website": "https://www.totalcomfort.biz/?utm_source=gbp",
+    "county": "Bergen"
+  },
+  {
+    "id": "railroad-climate-services",
+    "name": "Railroad Climate Services",
+    "website": "https://railroadclimateservices.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "win-air-heating-cooling",
+    "name": "Win Air Heating & Cooling",
+    "website": "https://winair.jobbersites.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "551-hvac-repair",
+    "name": "551 HVAC Repair",
+    "website": "https://hvacinstallationandrepairnj.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "finch-heating-cooling",
+    "name": "Finch Heating & Cooling",
+    "website": "https://finchheatingpalisadespark.com/",
+    "county": "Bergen"
+  },
+  {
+    "id": "general-air-pro-llc",
+    "name": "General Air Pro LLC",
+    "website": "https://generalairpro.com/?utm_source=Google+Business+listing",
+    "county": "Bergen"
+  },
+  {
+    "id": "bloomfield-cooling-heating-electric-inc",
+    "name": "Bloomfield Cooling, Heating & Electric Inc.",
+    "website": "http://www.bloomfieldcooling.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "super-service-plumbers-heating-and-cooling",
+    "name": "Super Service Plumbers Heating and Cooling",
+    "website": "https://superplumbersnj.com/hoboken/",
+    "county": "Passaic"
+  },
+  {
+    "id": "m-s-technician",
+    "name": "M&S Technician",
+    "website": "https://mstechnicians.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "go-pro-heating-and-cooling",
+    "name": "Go Pro Heating and Cooling",
+    "website": "http://www.gopro-hvac.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "service-champions-plumbing-heating-air",
+    "name": "Service Champions Plumbing, Heating & Air",
+    "website": "http://servicechampionsnj.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "master-group-heating-cooling-plumbing",
+    "name": "Master Group Heating, Cooling & Plumbing",
+    "website": "https://www.mastergroupnj.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "sm-heating-and-air-conditioning-inc",
+    "name": "SM Heating and Air Conditioning Inc.",
+    "website": "http://www.smheatingandair.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "all-week-mechanical-group-air-conditioning-2",
+    "name": "ALL WEEK MECHANICAL GROUP AIR CONDITIONING",
+    "website": "https://allweekairconditioning.com/ac-repairs-clifton-nj",
+    "county": "Passaic"
+  },
+  {
+    "id": "ez-flow-mechanical-heating-cooling",
+    "name": "EZ Flow Mechanical Heating & Cooling",
+    "website": "http://ezflownj.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "clifton-ac-repair-systems",
+    "name": "Clifton AC Repair Systems",
+    "website": "https://www.airconditioningrepairnewjersey.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "tornado-hvac",
+    "name": "Tornado HVAC",
+    "website": "https://tornadohvacnj.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "a-c-quality-air",
+    "name": "A&C Quality Air",
+    "website": "http://hvacqualityair.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "overcool-llc",
+    "name": "OverCool LLC",
+    "website": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+    "county": "Passaic"
+  },
+  {
+    "id": "zaina-service-tech",
+    "name": "Zaina Service Tech",
+    "website": "https://www.zainaservicetech.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "pacific-air-hvac",
+    "name": "Pacific Air HVAC",
+    "website": "https://www.pacificairhvac.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "atlantic-mechanical-contractors-of-north-jersey-2",
+    "name": "Atlantic Mechanical Contractors of North Jersey",
+    "website": "https://atlanticwaynenjhvacplumber.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "air-tech-heating-cooling",
+    "name": "Air tech Heating & Cooling",
+    "website": "https://njairtech.com/",
+    "county": "Passaic"
+  },
+  {
+    "id": "jf-mechanical-heating-air-conditioning",
+    "name": "JF Mechanical Heating & Air Conditioning",
+    "website": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+    "county": "Passaic"
+  },
+  {
+    "id": "air-comfort-and-refrigeration-services-bloomfield-new-jersey",
+    "name": "Air Comfort and Refrigeration Services - Bloomfield New Jersey",
+    "website": "http://aircomfortandrefrigeration.us/",
+    "county": "Essex"
+  },
+  {
+    "id": "ac-heat-by-kyle",
+    "name": "AC & Heat by Kyle",
+    "website": "https://www.acandheatbykyle.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "residential-air-systems-inc",
+    "name": "Residential Air Systems, Inc.",
+    "website": "http://www.comfortnj.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "newmans-heating-air-conditioning",
+    "name": "Newmans Heating & Air Conditioning",
+    "website": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+    "county": "Essex"
+  },
+  {
+    "id": "hvac-zone-inc",
+    "name": "HVAC ZONE INC",
+    "website": "http://hvaczonenj.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "lincoln-mechanical-corporation",
+    "name": "Lincoln Mechanical Corporation",
+    "website": "http://www.lincolnmec.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "precision-hvac-repair-caldwell",
+    "name": "Precision HVAC Repair Caldwell",
+    "website": "https://precisionclimatecontrolcaldwell.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "margo-plumbing-heating-cooling-inc",
+    "name": "MarGo Plumbing Heating Cooling Inc.",
+    "website": "https://www.margoplumbing.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "go-green-heating-air-conditioning",
+    "name": "Go Green Heating & Air Conditioning",
+    "website": "https://www.gogreenhvacnj.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "air-crew-heating-and-cooling",
+    "name": "Air Crew Heating and Cooling",
+    "website": "http://www.aircrewhvacnj.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "air-plus-hvac",
+    "name": "Air Plus hvac",
+    "website": "https://airplusnj.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "premier-hvac-services",
+    "name": "Premier HVAC Services",
+    "website": "https://premier-hvac-services.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "adriatic-aire",
+    "name": "Adriatic Aire",
+    "website": "https://www.adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+    "county": "Essex"
+  },
+  {
+    "id": "lightning-mechanical-llc-commercial-hvac-services",
+    "name": "Lightning Mechanical LLC: Commercial HVAC Services",
+    "website": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "county": "Essex"
+  },
+  {
+    "id": "maverick-ambitions-hvac-newark-s-experts",
+    "name": "Maverick Ambitions HVAC- Newark's Experts",
+    "website": "https://www.mahvacnj.com/",
+    "county": "Essex"
+  },
+  {
+    "id": "integrate-comfort-systems",
+    "name": "Integrate Comfort Systems",
+    "website": "https://icshvac.com/?utm_medium=organic&utm_source=google&utm_campaign=gbp_belleville",
+    "county": "Essex"
+  },
+  {
+    "id": "j-m-cooling-and-heating",
+    "name": "J&M Cooling and Heating",
+    "website": "https://jmcoolingheating.com/furnace-repair/?utm_source=gbp&utm_medium=organic",
+    "county": "Essex"
+  },
+  {
+    "id": "multitemp-hvac",
+    "name": "Multitemp HVAC",
+    "website": "http://multitemphvac.com/",
+    "county": "Essex"
+  }
+]

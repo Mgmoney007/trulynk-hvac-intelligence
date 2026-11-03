@@ -1,0 +1,25 @@
+{
+  "id": "grc-mechanical-services",
+  "placeUrl": "https://www.google.com/maps/place/GRC+Mechanical+Services/data=!4m7!3m6!1s0x89c2f992f6458393:0x11a735be851c1eb9!8m2!3d40.8723937!4d-74.056319!16s%2Fg%2F1xtf2hp1!19sChIJk4NF9pL5wokRuR4chb41pxE",
+  "retrievedAt": "2026-11-03T22:55:43.718Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "GRC Mechanical Services",
+  "category": "HVAC contractor",
+  "address": "244 Green St, South Hackensack, NJ 07606, United States ",
+  "phone": "+1 201-489-6233 ",
+  "website": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "rating": 4.6,
+  "reviews": null,
+  "rateBoxText": "4.6",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/GRC+Mechanical+Services/data=!4m7!3m6!1s0x89c2f992f6458393:0x11a735be851c1eb9!8m2!3d40.8723937!4d-74.056319!16s%2Fg%2F1xtf2hp1!19sChIJk4NF9pL5wokRuR4chb41pxE?hl=en",
+  "screenshot": "evidence/screenshots/grc-mechanical-services/google-maps-listing.png"
+}

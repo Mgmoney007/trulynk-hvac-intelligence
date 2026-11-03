@@ -1,0 +1,120 @@
+{
+  "firecrawl": [
+    {
+      "at": "2026-11-03T23:29:36.712Z",
+      "method": "firecrawl_scrape_desktop",
+      "url": "http://deaireheatingandcooling.com/",
+      "purpose": "fallback: near-empty page in headless Chromium",
+      "statusCode": 200,
+      "title": "Home",
+      "tel": [],
+      "mailto": [],
+      "linkCount": 0,
+      "vendors": [],
+      "screenshot": "evidence/screenshots/deaire-heating-cooling/firecrawl-desktop.png",
+      "scrapeId": "01a1a3bd-240c-76bf-bcae-227be992540a",
+      "creditsUsed": 1,
+      "proxyUsed": "basic"
+    }
+  ],
+  "id": "deaire-heating-cooling",
+  "name": "DeAire Heating & Cooling",
+  "website": "http://deaireheatingandcooling.com/",
+  "auditedAt": "2026-11-03T22:53:33.458Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://deaireheatingandcooling.com/",
+      "at": "2026-11-03T22:53:39.930Z",
+      "access": "suspect_interstitial",
+      "status": 200,
+      "finalUrl": "https://www.deaireheatingandcooling.com/",
+      "title": "Home",
+      "ms": 1421,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://deaireheatingandcooling.com/",
+      "at": "2026-11-03T22:53:46.410Z",
+      "access": "suspect_interstitial",
+      "status": 200,
+      "finalUrl": "https://www.deaireheatingandcooling.com/",
+      "title": "Home",
+      "ms": 1336,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "firecrawl_desktop",
+      "method": "firecrawl_scrape_desktop",
+      "url": "http://deaireheatingandcooling.com/",
+      "at": "2026-11-03T23:29:36.712Z",
+      "access": "ok",
+      "status": 200
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "suspect_interstitial",
+      "status": 200,
+      "error": null,
+      "url": "http://deaireheatingandcooling.com/"
+    },
+    {
+      "step": "mobile_home",
+      "access": "suspect_interstitial",
+      "status": 200,
+      "error": null,
+      "url": "http://deaireheatingandcooling.com/"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "https://www.deaireheatingandcooling.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/deaire-heating-cooling/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/deaire-heating-cooling/mobile-home-access-failure.png",
+    "firecrawl_desktop": "evidence/screenshots/deaire-heating-cooling/firecrawl-desktop.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

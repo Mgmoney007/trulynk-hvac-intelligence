@@ -1,0 +1,25 @@
+{
+  "id": "win-air-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Win+Air+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2f7b7f5081347:0x622bc18ba2abb850!8m2!3d40.8170804!4d-73.9946226!16s%2Fg%2F11cmxt3hc6!19sChIJRxMI9bf3wokRULiroovBK2I",
+  "retrievedAt": "2026-11-03T22:50:45.802Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Win Air Heating & Cooling",
+  "category": "HVAC contractor",
+  "address": "311 Anderson Ave Apt, Fairview, NJ 07022, United States ",
+  "phone": "+1 201-923-1704 ",
+  "website": "https://winair.jobbersites.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Win+Air+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2f7b7f5081347:0x622bc18ba2abb850!8m2!3d40.8170804!4d-73.9946226!16s%2Fg%2F11cmxt3hc6!19sChIJRxMI9bf3wokRULiroovBK2I?hl=en",
+  "screenshot": "evidence/screenshots/win-air-heating-cooling/google-maps-listing.png"
+}

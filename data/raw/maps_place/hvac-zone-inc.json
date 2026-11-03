@@ -1,0 +1,25 @@
+{
+  "id": "hvac-zone-inc",
+  "placeUrl": "https://www.google.com/maps/place/HVAC+ZONE+INC/data=!4m7!3m6!1s0x6884aaee39d4f217:0x5d79e509fdfd3375!8m2!3d40.769996!4d-74.1636542!16s%2Fg%2F11s_vfw4vg!19sChIJF_LUOe6qhGgRdTP9_QnleV0",
+  "retrievedAt": "2026-11-03T22:49:00.518Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "HVAC ZONE INC",
+  "category": "Heating contractor",
+  "address": "142 Lincoln Ave, Newark, NJ 07104, United States ",
+  "phone": "+1 973-687-6386 ",
+  "website": "http://hvaczonenj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/HVAC+ZONE+INC/data=!4m7!3m6!1s0x6884aaee39d4f217:0x5d79e509fdfd3375!8m2!3d40.769996!4d-74.1636542!16s%2Fg%2F11s_vfw4vg!19sChIJF_LUOe6qhGgRdTP9_QnleV0?hl=en",
+  "screenshot": "evidence/screenshots/hvac-zone-inc/google-maps-listing.png"
+}

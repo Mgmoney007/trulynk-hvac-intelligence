@@ -1,0 +1,1116 @@
+{
+  "firecrawl": [],
+  "id": "urban-mechanical-nj",
+  "name": "Urban Mechanical NJ",
+  "website": "http://urbanmechanicalnj.com/",
+  "auditedAt": "2026-11-03T23:10:00.763Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://urbanmechanicalnj.com/",
+      "at": "2026-11-03T23:10:07.732Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://urbanmechanicalnj.com/",
+      "title": "Urban Mechanical NJ – Specializing in Residential & Commercial HVAC",
+      "ms": 6900,
+      "error": null,
+      "linkCount": 50
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://urbanmechanicalnj.com/contact/",
+      "at": "2026-11-03T23:10:12.219Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://urbanmechanicalnj.com/contact/",
+      "title": "Contact – Urban Mechanical NJ",
+      "ms": 3702,
+      "error": null,
+      "linkCount": 43
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://urbanmechanicalnj.com/about/",
+      "at": "2026-11-03T23:10:15.602Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://urbanmechanicalnj.com/about/",
+      "title": "About – Urban Mechanical NJ",
+      "ms": 2865,
+      "error": null,
+      "linkCount": 41
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://urbanmechanicalnj.com/",
+      "at": "2026-11-03T23:10:34.390Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://urbanmechanicalnj.com/",
+      "title": "Urban Mechanical NJ – Specializing in Residential & Commercial HVAC",
+      "ms": 5350,
+      "error": null,
+      "linkCount": 50
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://urbanmechanicalnj.com/",
+    "title": "Urban Mechanical NJ – Specializing in Residential & Commercial HVAC",
+    "lang": "en-US",
+    "metaDescription": null,
+    "h1": [],
+    "viewportMeta": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 4025,
+    "bodyText": "Have any questions? call us\n+1 (201) 687-1074\n\t\n\t\n\t\nClick To Call Now!\nServices\nAbout\nFAQs\nResources\nFinancing\nContact\n\t\n\nWe specialize in Residential & Light Commercial HVAC Service, Installs, Replacements, & Maintenance.\n\nMost importantly, we offer vital Preventative Maintenance Plans to fit any, and all budgets.\n\nThe professionals at Urban Mechanical know that your Home or Business are sanctuaries of comfort and peace. Which means that it’s a focus of importance for us to help you maintain comfortable and ideal temperatures. If you’re in need of HVAC services, or just want more information about how we can help with any other issues, please contact us today! Our skilled technicians are always ready to help you! We can talk through some possible solutions over the phone before making any decisions. We provide excellent customer service by offering fast response times coupled with the commitment of communication during all aspects of our time together. We are available for both your Heating and Cooling repairs, replacements, and installations. And most importantly, we offer vital preventive maintenance plans to fit any and all budgets.\n\n100% Financing Available!\nCheck out our great financing options here.\n\nWith approved credit through Synchrony Financing homeowners are eligible for fixed interest rates, flexible terms, and affordable monthly payments that fit their budget.\n\nGET APPROVED\nGET APPROVED\n\nEasy and affordable payment options for all credit score levels. Get back to comfort fast with FTL Finance. Complete the single online application for real-time financing options.\n\nGET APPROVED\nGET APPROVED\nServicing homes in the NJ area for over a decade!\nCounties we service\nEssex County • Union County\n• Passaic County • Bergen County\n• Hudson County\nLet us help keep you and\nyour loved ones comfortable!\nCall Today\nCall Today\nHEATING & COOLING SERVICES\nOur extensive HVAC knowledge and array of services guarantee year-round comfort for homes and commercial businesses alike.\nAIR CONDITIONING\n\nAC repair, AC installation,\nand AC maintenance.\n\nLearn more\nHEATING\n\nHeat pump and furnace repair, installation, and maintenance.\n\nLearn more\nINDOOR AIR QUALITY\n\nBreathe easier with our indoor air quality services and products.\n\nLearn more\nCOMMERCIAL HVAC\n\nCommercial HVAC repair, installation, and maintenance.\n\nLearn more\nMAINTENANCE\n\nAffordable HVAC maintenance and maintenance plans\n\nLearn more\nOur latest projects\n Follow on Instagram\n© 2022 Urban Mechanical. All Rights Reserved. Designed & Powered By Rolesville Design Co",
+    "links": [
+      {
+        "href": "tel:201687-1074",
+        "abs": "tel:201687-1074",
+        "text": "+1 (201) 687-1074",
+        "visible": true,
+        "aboveFold": true,
+        "h": 23,
+        "w": 147,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://twitter.com/urbanmechnj",
+        "abs": "https://twitter.com/urbanmechnj",
+        "text": "Twitter",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 42,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/urbanmechanicalnj/",
+        "abs": "https://www.instagram.com/urbanmechanicalnj/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 42,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.yelp.com/biz/urban-mechanical-jersey-city-2",
+        "abs": "https://www.yelp.com/biz/urban-mechanical-jersey-city-2",
+        "text": "Linkedin",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 42,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/",
+        "abs": "https://urbanmechanicalnj.com/",
+        "text": "Specializing in Residential & Commercial HVAC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 160,
+        "w": 160,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:2016871074",
+        "abs": "tel:2016871074",
+        "text": "Click To Call Now!",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 208,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/",
+        "abs": "https://urbanmechanicalnj.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 16,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://urbanmechanicalnj.com/#",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 87,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/air-conditioning/",
+        "abs": "https://urbanmechanicalnj.com/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/heating/",
+        "abs": "https://urbanmechanicalnj.com/heating/",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "abs": "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "text": "Indoor Air Quality",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/maintenance/",
+        "abs": "https://urbanmechanicalnj.com/maintenance/",
+        "text": "Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/commercial-hvac/",
+        "abs": "https://urbanmechanicalnj.com/commercial-hvac/",
+        "text": "Commercial Hvac",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/about/",
+        "abs": "https://urbanmechanicalnj.com/about/",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 49,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/faq/",
+        "abs": "https://urbanmechanicalnj.com/faq/",
+        "text": "FAQs",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 41,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/blog/",
+        "abs": "https://urbanmechanicalnj.com/blog/",
+        "text": "Resources",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 83,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/financing/",
+        "abs": "https://urbanmechanicalnj.com/financing/",
+        "text": "Financing",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 79,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/contact/",
+        "abs": "https://urbanmechanicalnj.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 65,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://urbanmechanicalnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/",
+        "abs": "https://urbanmechanicalnj.com/",
+        "text": "Specializing in Residential & Commercial HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/",
+        "abs": "https://urbanmechanicalnj.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://urbanmechanicalnj.com/#",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/air-conditioning/",
+        "abs": "https://urbanmechanicalnj.com/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/heating/",
+        "abs": "https://urbanmechanicalnj.com/heating/",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "abs": "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "text": "Indoor Air Quality",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/maintenance/",
+        "abs": "https://urbanmechanicalnj.com/maintenance/",
+        "text": "Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/commercial-hvac/",
+        "abs": "https://urbanmechanicalnj.com/commercial-hvac/",
+        "text": "Commercial Hvac",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/about/",
+        "abs": "https://urbanmechanicalnj.com/about/",
+        "text": "About",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/faq/",
+        "abs": "https://urbanmechanicalnj.com/faq/",
+        "text": "FAQs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/blog/",
+        "abs": "https://urbanmechanicalnj.com/blog/",
+        "text": "Resources",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/financing/",
+        "abs": "https://urbanmechanicalnj.com/financing/",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/contact/",
+        "abs": "https://urbanmechanicalnj.com/contact/",
+        "text": "Contact",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://twitter.com/urbanmechnj",
+        "abs": "https://twitter.com/urbanmechnj",
+        "text": "Twitter",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/urbanmechanicalnj/",
+        "abs": "https://www.instagram.com/urbanmechanicalnj/",
+        "text": "Instagram",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.yelp.com/biz/urban-mechanical-jersey-city-2",
+        "abs": "https://www.yelp.com/biz/urban-mechanical-jersey-city-2",
+        "text": "Linkedin",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:2016871074",
+        "abs": "tel:2016871074",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.mysynchrony.com/mmc/S6202610607",
+        "abs": "https://www.mysynchrony.com/mmc/S6202610607",
+        "text": "GET APPROVED GET APPROVED",
+        "visible": true,
+        "aboveFold": false,
+        "h": 71,
+        "w": 229,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://beta.apptracker.ftlfinance.com/new/C19042",
+        "abs": "https://beta.apptracker.ftlfinance.com/new/C19042",
+        "text": "GET APPROVED GET APPROVED",
+        "visible": true,
+        "aboveFold": false,
+        "h": 71,
+        "w": 229,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/contact/",
+        "abs": "https://urbanmechanicalnj.com/contact/",
+        "text": "Call Today Call Today",
+        "visible": true,
+        "aboveFold": false,
+        "h": 71,
+        "w": 188,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/air-conditioning/",
+        "abs": "https://urbanmechanicalnj.com/air-conditioning/",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 115,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/heating/",
+        "abs": "https://urbanmechanicalnj.com/heating/",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 115,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "abs": "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 115,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/commercial-hvac/",
+        "abs": "https://urbanmechanicalnj.com/commercial-hvac/",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 115,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://urbanmechanicalnj.com/maintenance/",
+        "abs": "https://urbanmechanicalnj.com/maintenance/",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 115,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/17841441000720450/",
+        "abs": "https://www.instagram.com/17841441000720450/",
+        "text": "Follow on Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 183,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://twitter.com/urbanmechnj",
+        "abs": "https://twitter.com/urbanmechnj",
+        "text": "Twitter",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 56,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/urbanmechanicalnj/",
+        "abs": "https://www.instagram.com/urbanmechanicalnj/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 56,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.yelp.com/biz/urban-mechanical-jersey-city-2",
+        "abs": "https://www.yelp.com/biz/urban-mechanical-jersey-city-2",
+        "text": "Yelp",
+        "visible": true,
+        "aboveFold": false,
+        "h": 56,
+        "w": 56,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://rolesvilledesignco.com/",
+        "abs": "https://rolesvilledesignco.com/",
+        "text": "© 2022 Urban Mechanical. All Rights Reserved. Designed & Powered By Rolesville D",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 721,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:2016871074",
+        "abs": "tel:2016871074",
+        "text": "(201) 687-1074",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Search",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://urbanmechanicalnj.com/",
+        "method": "get",
+        "id": "",
+        "cls": "",
+        "fieldCount": 1,
+        "fieldNames": [
+          "s"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": true
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://urbanmechanicalnj.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://urbanmechanicalnj.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://urbanmechanicalnj.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.8.7",
+      "https://urbanmechanicalnj.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.8.7",
+      "https://urbanmechanicalnj.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.8.7",
+      "https://urbanmechanicalnj.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.8.7",
+      "https://stats.wp.com/s-202645.js",
+      "https://urbanmechanicalnj.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18",
+      "https://urbanmechanicalnj.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6",
+      "https://urbanmechanicalnj.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6",
+      "https://urbanmechanicalnj.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6",
+      "https://urbanmechanicalnj.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.13",
+      "https://urbanmechanicalnj.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.13",
+      "https://urbanmechanicalnj.com/wp-content/plugins/mojo-marketplace-wp-plugin//vendor/newfold-labs/wp-module-performance/build/image-lazy-loader.min.js?ver=1738176378",
+      "https://urbanmechanicalnj.com/wp-content/themes/xtra/assets/js/codevz-menu.min.js?ver=4.6.3",
+      "https://urbanmechanicalnj.com/wp-content/themes/xtra/assets/js/custom.js?ver=4.6.3",
+      "https://urbanmechanicalnj.com/wp-content/themes/xtra/assets/js/woocommerce.js?ver=4.6.3",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/assets/js/codevzplus.js?ver=4.4.5",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/assets/js/woocommerce.js?ver=4.4.5",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/assets/js/share.js?ver=4.4.5",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/assets/js/mobile-nav.js?ver=4.4.5",
+      "https://urbanmechanicalnj.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.8.7",
+      "https://urbanmechanicalnj.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.8.7",
+      "https://urbanmechanicalnj.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.3",
+      "https://urbanmechanicalnj.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.3",
+      "https://urbanmechanicalnj.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "https://urbanmechanicalnj.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.3",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/assets/js/parallax.js?ver=4.4.5",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/wpbakery/assets/js/image.js?ver=4.4.5",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/assets/js/tilt.js?ver=4.4.5",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/wpbakery/assets/js/gallery.js?ver=4.4.5",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/wpbakery/assets/js/carousel.js?ver=4.4.5",
+      "https://stats.wp.com/e-202645.js",
+      "https://urbanmechanicalnj.com/wp-content/themes/xtra/assets/js/search.js?ver=6.6.11",
+      "https://urbanmechanicalnj.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.15.1",
+      "https://urbanmechanicalnj.com/wp-content/plugins/codevz-plus/elementor/assets/js/elementor.js?ver=4.4.5"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 11,
+    "timing": {
+      "dcl": 5747,
+      "load": 6308,
+      "ttfb": 2323
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://urbanmechanicalnj.com/",
+    "navMs": 6900,
+    "tel": [
+      {
+        "href": "tel:201687-1074",
+        "text": "+1 (201) 687-1074",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016871074"
+      },
+      {
+        "href": "tel:2016871074",
+        "text": "Click To Call Now!",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12016871074"
+      },
+      {
+        "href": "tel:2016871074",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12016871074"
+      },
+      {
+        "href": "tel:2016871074",
+        "text": "(201) 687-1074",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016871074"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      },
+      {
+        "name": "Synchrony",
+        "kind": "financing"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://urbanmechanicalnj.com/",
+    "navMs": 5350,
+    "timing": {
+      "dcl": 4285,
+      "load": 4498,
+      "ttfb": 1642
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:201687-1074",
+        "text": "+1 (201) 687-1074",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016871074"
+      },
+      {
+        "href": "tel:2016871074",
+        "text": "Click To Call Now!",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12016871074"
+      },
+      {
+        "href": "tel:2016871074",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12016871074"
+      },
+      {
+        "href": "tel:2016871074",
+        "text": "(201) 687-1074",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12016871074"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [],
+    "menuToggle": false,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.089,
+        "sig": " xtra-fixed-mobile-nav xtra-fixed-mobile-nav-title-row ",
+        "text": "(201) 687-1074"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 1,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 1958
+  },
+  "pages": {
+    "contact": {
+      "url": "https://urbanmechanicalnj.com/contact/",
+      "finalUrl": "https://urbanmechanicalnj.com/contact/",
+      "status": 200,
+      "title": "Contact – Urban Mechanical NJ",
+      "forms": [
+        {
+          "action": "https://urbanmechanicalnj.com/",
+          "method": "get",
+          "id": "",
+          "cls": "",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": true
+        },
+        {
+          "action": "",
+          "method": "post",
+          "id": "happyforms-form-2012",
+          "cls": "",
+          "fieldCount": 7,
+          "fieldNames": [
+            "2012-number",
+            "2012_single_line_text_0",
+            "2012_email_1",
+            "2012_single_line_text_6",
+            "2012_single_line_text_7",
+            "2012_number_8",
+            "2012_multi_line_text_5"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@urbanmechanicalnj.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:201687-1074",
+          "text": "+1 (201) 687-1074",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016871074"
+        },
+        {
+          "href": "tel:2016871074",
+          "text": "Click To Call Now!",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12016871074"
+        },
+        {
+          "href": "tel:2016871074",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12016871074"
+        },
+        {
+          "href": "tel:2016871074",
+          "text": "Phone: (201) 687-1074",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016871074"
+        },
+        {
+          "href": "tel:2016871074",
+          "text": "CLICK HERE TO GIVE US A CALL! CLICK HERE TO GIVE US A CALL!",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12016871074"
+        },
+        {
+          "href": "tel:2016871074",
+          "text": "(201) 687-1074",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016871074"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Have any questions? call us\n+1 (201) 687-1074\n\t\n\t\n\t\nClick To Call Now!\nServices\nAbout\nFAQs\nResources\nFinancing\nContact\n\t\nContact\nCONTACT\nGET IN TOUCH WITH US\nContact us now\n\tPhone: (201) 687-1074\n\t\nEmail: info@urbanmechanicalnj.com\nCLICK HERE TO GIVE US A CALL!\nCLICK HERE TO GIVE US A CALL!\nFull name \nEmail \nAddress \nCity \nZip Code \nHow Can we help? \nGet in touch\n© 2022 Urban Mechanical. All Rights Reserved. Designed & Powered By Rolesville Design Co",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://urbanmechanicalnj.com/",
+        "https://urbanmechanicalnj.com/",
+        "https://urbanmechanicalnj.com/contact/#",
+        "https://urbanmechanicalnj.com/air-conditioning/",
+        "https://urbanmechanicalnj.com/heating/",
+        "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "https://urbanmechanicalnj.com/maintenance/",
+        "https://urbanmechanicalnj.com/commercial-hvac/",
+        "https://urbanmechanicalnj.com/about/",
+        "https://urbanmechanicalnj.com/faq/",
+        "https://urbanmechanicalnj.com/blog/",
+        "https://urbanmechanicalnj.com/financing/",
+        "https://urbanmechanicalnj.com/contact/",
+        "https://urbanmechanicalnj.com/contact/#",
+        "https://urbanmechanicalnj.com/",
+        "https://urbanmechanicalnj.com/",
+        "https://urbanmechanicalnj.com/contact/#",
+        "https://urbanmechanicalnj.com/air-conditioning/",
+        "https://urbanmechanicalnj.com/heating/",
+        "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "https://urbanmechanicalnj.com/maintenance/",
+        "https://urbanmechanicalnj.com/commercial-hvac/",
+        "https://urbanmechanicalnj.com/about/",
+        "https://urbanmechanicalnj.com/faq/",
+        "https://urbanmechanicalnj.com/blog/",
+        "https://urbanmechanicalnj.com/financing/",
+        "https://urbanmechanicalnj.com/contact/"
+      ]
+    },
+    "about": {
+      "url": "https://urbanmechanicalnj.com/about/",
+      "finalUrl": "https://urbanmechanicalnj.com/about/",
+      "status": 200,
+      "title": "About – Urban Mechanical NJ",
+      "forms": [
+        {
+          "action": "https://urbanmechanicalnj.com/",
+          "method": "get",
+          "id": "",
+          "cls": "",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": true
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:201687-1074",
+          "text": "+1 (201) 687-1074",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016871074"
+        },
+        {
+          "href": "tel:2016871074",
+          "text": "Click To Call Now!",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12016871074"
+        },
+        {
+          "href": "tel:2016871074",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12016871074"
+        },
+        {
+          "href": "tel:2016871074",
+          "text": "(201) 687-1074",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12016871074"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Have any questions? call us\n+1 (201) 687-1074\n\t\n\t\n\t\nClick To Call Now!\nServices\nAbout\nFAQs\nResources\nFinancing\nContact\n\t\nAbout\nABOUT\nABOUT US\nEverything there is to know about us!\n\nUrban Mechanical has been leading the way in Residential and Light Commercial HVAC Services throughout northern New Jersey since 2008. For over a decade, we've been helping Homeowners and Business owners throughout the area with affordable and reliable work on their Heating, Cooling, and Indoor Air Quality needs. We have been fully committed to providing quality services for reasonable and affordable prices.\n\n \n\nHere at Urban Mechanical, we also believe that no one should be without a reliable HVAC Service Provider. Regardless of your budget, Urban Mechanical is committed to providing you with the services that you and your HVAC equipment deserve! We understand that a clean, safe, and properly running HVAC system is essential to the health of the occupants of your home or even at your business. That's why we pride ourselves on offering affordable HVAC solutions for all things related to your HVAC needs. Also, we are honored to offer you 100% financing for things like repairs, replacements, and completely new HVAC system installations.\n\n \n\nAt Urban Mechanical, we understand that a company is only good as their word. That's why we offer a one-year labor guarantee on the services that we perform for our clients. Regardless the size of the job, large whether it's large or small, at your home or business you will get great service at an affordable price. And for Commercial clients, we offer annual service contracts to make sure that they get the regular scheduled maintenance to keep their HVAC equipment running at peak performance throughout the year\n\nWhat We Do\nCentral Air Conditioners\nHot-Air Furnaces\nHeat Pumps\nHot Water & Steam Boilers\nDuctless Mini-Split Systems\nIndoor air quality products\nThermostats and controls\nLet us help you keep you cool!\n\nWhen things get hot (or don't get hot) we can help!\n\nCall Today\nCall Today\n© 2022 Urban Mechanical. All Rights Reserved. Designed & Powered By Rolesville Design Co",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://urbanmechanicalnj.com/",
+        "https://urbanmechanicalnj.com/",
+        "https://urbanmechanicalnj.com/about/#",
+        "https://urbanmechanicalnj.com/air-conditioning/",
+        "https://urbanmechanicalnj.com/heating/",
+        "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "https://urbanmechanicalnj.com/maintenance/",
+        "https://urbanmechanicalnj.com/commercial-hvac/",
+        "https://urbanmechanicalnj.com/about/",
+        "https://urbanmechanicalnj.com/faq/",
+        "https://urbanmechanicalnj.com/blog/",
+        "https://urbanmechanicalnj.com/financing/",
+        "https://urbanmechanicalnj.com/contact/",
+        "https://urbanmechanicalnj.com/",
+        "https://urbanmechanicalnj.com/",
+        "https://urbanmechanicalnj.com/about/#",
+        "https://urbanmechanicalnj.com/air-conditioning/",
+        "https://urbanmechanicalnj.com/heating/",
+        "https://urbanmechanicalnj.com/indoor-air-quality/",
+        "https://urbanmechanicalnj.com/maintenance/",
+        "https://urbanmechanicalnj.com/commercial-hvac/",
+        "https://urbanmechanicalnj.com/about/",
+        "https://urbanmechanicalnj.com/faq/",
+        "https://urbanmechanicalnj.com/blog/",
+        "https://urbanmechanicalnj.com/financing/",
+        "https://urbanmechanicalnj.com/contact/",
+        "https://urbanmechanicalnj.com/contact/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 11,
+    "at": "2026-11-03T23:10:28.711Z",
+    "statusCounts": {
+      "200": 11
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://urbanmechanicalnj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/urban-mechanical-nj/desktop-home.png",
+    "desktop_full": "evidence/screenshots/urban-mechanical-nj/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/urban-mechanical-nj/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/urban-mechanical-nj/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/urban-mechanical-nj/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 2008,
+    "copyrightYear": 2022,
+    "emails": [
+      "info@urbanmechanicalnj.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

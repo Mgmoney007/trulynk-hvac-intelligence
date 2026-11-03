@@ -1,0 +1,1401 @@
+{
+  "firecrawl": [],
+  "id": "air-solutions-llc-heating-hvac-air-conditioning",
+  "name": "Air Solutions LLC | Heating HVAC Air Conditioning",
+  "website": "https://airsolutionsnj.com/",
+  "auditedAt": "2026-11-03T23:09:20.380Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://airsolutionsnj.com/",
+      "at": "2026-11-03T23:09:29.450Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://airsolutionsnj.com/",
+      "title": "AC Repair Wayne NJ | HVAC Repair Wayne NJ - Air Solutions LLC | Heating HVAC Air Conditioning",
+      "ms": 9020,
+      "error": null,
+      "linkCount": 64
+    },
+    {
+      "step": "desktop_booking",
+      "method": "playwright_chromium_desktop",
+      "url": "https://airsolutionsnj.com/contact-us/",
+      "at": "2026-11-03T23:09:34.263Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://airsolutionsnj.com/contact-us/",
+      "title": "Contact us - Air Solutions LLC | Heating HVAC Air Conditioning",
+      "ms": 3633,
+      "error": null,
+      "linkCount": 29
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://airsolutionsnj.com/",
+      "at": "2026-11-03T23:09:58.209Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://airsolutionsnj.com/",
+      "title": "AC Repair Wayne NJ | HVAC Repair Wayne NJ - Air Solutions LLC | Heating HVAC Air Conditioning",
+      "ms": 5385,
+      "error": null,
+      "linkCount": 64
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://airsolutionsnj.com/",
+    "title": "AC Repair Wayne NJ | HVAC Repair Wayne NJ - Air Solutions LLC | Heating HVAC Air Conditioning",
+    "lang": "en-US",
+    "metaDescription": "If you need AC repair Wayne NJ then you have come to the right place. We provide Air Conditioning repair services, as well as HVAC repair in Wayne, NJ,",
+    "h1": [
+      "No 1. AC Repair Wayne NJ",
+      "What To Expect, What It Costs, And How To Choose The Right HVAC Contractor"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 15412,
+    "bodyText": "Skip to content\n130 Oldham Rd, Wayne, NJ 07470\nairsolutionsllc1@gmail.com\nFacebook\n \nYoutube\n \nInstagram\n \nTwitter\n \nPinterest\nHome\nAC Repair\nHeating Repair\nAreas Served\nContact Us\nEmergency?\n\n(973) 694-3013\n\nNo 1. AC Repair Wayne NJ\nWhat To Expect, What It Costs, And How To Choose The Right HVAC Contractor \nSee Services\nWhat HVAC repair do Wayne homes need, from Packanack Lake to Point View?\n\nAir Solutions repairs HVAC systems for homes across Wayne, from Packanack Lake to Point View. Wayne’s climate puts both halves of a system to work. Records from a nearby weather station show about 38 days a year above 90°F in recent years, up from about 23 in the 1970s, and about 80 freezing nights a year, up from about 71. Our repair work covers:\n\nAC repair: cooling systems that stop cooling, run without keeping up, or fail.\nHeating repair: heating systems that won’t start, won’t hold temperature, or fail in cold weather.\nCoil cleaning: cleaning the coils an air conditioner depends on to move heat.\nSigns Your AC Needs Repair In Wayne, NJ\n\nAir conditioners rarely fail without warning. Most systems give you clear signals days or weeks before a full breakdown.\n\nThe system runs but doesn’t cool. Warm air from your vents usually points to a refrigerant leak, a dirty evaporator coil, or a failing compressor. A refrigerant leak is worth addressing quickly — left untreated, it can destroy the compressor.\n\nStrange noises. A well-maintained AC is relatively quiet. Grinding typically means a worn blower motor bearing. Banging suggests something loose or broken inside the unit. Squealing is often a belt or fan blade issue. If you hear any of these, turn the system off and call — running a noisy unit turns a minor repair into a major one.\n\nIce on the unit. Ice forming on your indoor air handler or outdoor condenser usually means restricted airflow or low refrigerant. Start with the air filter — a clogged filter is the most common cause. If changing the filter doesn’t clear it within a few hours, a refrigerant leak or failing blower motor is likely.\n\nA spike in your energy bill. An AC that’s working harder than it should to maintain temperature will show up on your PSEG or JCP&L bill before it shows up anywhere else. Dirty coils, worn components, or an aging compressor all reduce efficiency without obviously breaking the system.\n\nOther signs that warrant a service call:\n\nShort cycling (turning on and off repeatedly)\nWater pooling around the indoor air handler\nMusty or burning smell from vents\nCertain rooms consistently warmer than others\nThermostat not responding or not triggering the system\nHow Much Does AC Repair Cost In Wayne, NJ?\n\nCost is one of the first questions homeowners ask — and it’s a fair one. Unfortunately, there is no single answer. AC repair costs vary based on what’s wrong with the system, the age and brand of the unit, and the contractor you hire. That said, there are some general benchmarks that can help you plan.\n\nFor most common repairs in the Wayne and Passaic County area, homeowners typically pay between $150 and $800. Here’s a breakdown of typical cost ranges for the most frequent issues:\n\n•       Refrigerant recharge (R-410A): $200 – $500 depending on the amount needed\n\n•       Capacitor replacement: $150 – $300 (one of the most common and least expensive repairs)\n\n•       Evaporator coil cleaning or replacement: $300 – $1,200\n\n•       Blower motor replacement: $350 – $700\n\n•       Compressor replacement: $800 – $2,500 (often triggers a full system replacement discussion)\n\n•       Thermostat replacement: $150 – $350 including installation\n\n•       Drain line clearing: $100 – $250\n\nA few important notes on pricing: any reputable HVAC contractor in Wayne should be willing to give you a written estimate before starting work. Be cautious of companies that quote over the phone without seeing the system — accurate diagnosis requires hands-on inspection. Also, ask whether the quoted price includes the service call fee, labor, and parts, or whether those are billed separately.\n\nIf your system is more than 12–15 years old and the repair estimate is close to or more than half the cost of a replacement, it’s worth getting a new AC installation quote to compare. Older systems also lose efficiency over time, meaning a new high-efficiency unit can actually pay for itself in energy savings.\n\n \n\nCustomers Talking About US\nAir Solutions LLC | Heating HVAC Air Conditioning\n100 Google reviews\nWrite a review\nElsie Urbina\nGreat service at a great price highly Recomended will be using these guys again\nKen Schmarge\nKen of Air Solutions is skilled and professional. One of our AC units went out during a heat wave and he was able to fit us in to diagnose and fix the problem in under an hour. I recommend Air Solutions for all your HVAC needs!\nLoretta Simek\nWe had an air conditioner emergency just before the heat wave. Our current contracted company could not locate the part needed. So they recommended purchasing a new unit. Air Solutions was recommended to us. I called them for help. They came quickly, identified the problem, located the part needed and repaired the system within 2 hrs. Mohammed and his partner are knowledgeable, courteous, and were prompt to address our problems. I highly recommend them.\nTramena\nI had the Best experience very professionally kept the line of communication open, I would choose air solutions again and again.\nSharon Yerman\nClean, quick, and courteous. Great service at a fair price! They made replacing our air conditioner completely hassle-free. Highly recommend!\nKristin & Greg Miller\nFantastic service, price, very professional! My go to!\nYvette Bailey\nI’m in the need of a new HVAC system. The company was referred by several of my neighbors and friends. As soon as I called the company they took my information and came to give me an estimate. The two HVAC guys came in professionally explain details of things I didn’t understand and definitely gave me a great price out of all of the other companies that gave me estimates. I definitely recommend this company!!\nLetty Cantamessa\nI was in a total pickle this weekend. It was 90 degrees and our unit just stopped working. I called Air Solutions LLC. Mohammed was exceptional. He arrived within the hour and had the issue diagnosed and repaired in 30 minutes. My unit was fixed and fur baby and toddler were comfortable. I can’t thank Air Solutions LLC enough. Pricing was competitive and fair! Air Solutions LLC will be my HVAC company going forward! Hands Down! If I we’re able to give 10 stars I would. I highly recommend the company.\nDean Cantamessa\nAir conditioning failed. Called after doing a lot of our own research and Air Solutions arrived on a Saturday evening at 8pm. Under an hour from when we called. Made repair in under 30 mins and very competitive pricing. Absolute pleasure dealing with this Team!!! Highly recommend to anyone needing service or a second opinion!!!!!!!\nDJSean15\nVery efficient and courteous! Definitely recommend for your heating and cooling needs!\nVerified by Trustindex \nAC Brands We Service In Wayne\n\nOur technicians service and repair all major residential and commercial AC brands, including\n\nCarrier · Goodman · Trane · Rheem · Lennox · York · American Standard · Bryant · Heil · Ruud\n\nGoodman systems are common in Passaic County new construction from the last 15 years. Carrier and Trane are frequently found in older Wayne homes that have been updated. Whatever’s installed, we carry the components to diagnose and repair it — most jobs are completed in a single visit.\n\nServing Packanack Lake, Mountain View, Preakness And All Of Wayne\n\nAir Solutions LLC is based at 130 Oldham Rd in Wayne. We serve the full township — Packanack Lake, Mountain View, Preakness, Wayne Center, Pines Lake, and every neighborhood in between.\n\nMost service calls in Wayne get a same-day response during regular business hours. For genuine emergencies — complete system failure during a heat wave, for example — we run 24-hour service across Passaic County. Having a relationship with a local contractor before an emergency is always the better position to be in. But if you don’t and something fails tonight, call us anyway.\n\nWe also serve surrounding communities including Woodland Park, Totowa, Clifton, Little Falls, and Pompton Lakes. See our full service area for details.\n\nHeat Pumps Vs. Central AC In Wayne, NJ: Which Is Right For Your Home?\n\nIf you’re facing a major repair or a full system replacement, now is a good time to consider whether a heat pump might be a better fit than a traditional central air conditioner.\n\nA heat pump does everything a central AC does — it cools your home in summer — but it also provides heating in winter by reversing the refrigeration cycle. For Wayne homeowners who use electric or oil heat, a heat pump can deliver significant energy savings during the heating season, sometimes 30–50% compared to electric resistance heat.\n\nWhen A Heat Pump Makes Sense In NJ\n\n•       Your current system heats with electric resistance, propane, or oil\n\n•       You want one system for both heating and cooling\n\n•       Your home is well-insulated and doesn’t have extreme heating demands\n\n•       You want to maximize utility rebates and federal tax credits\n\n \n\nWhen Central AC Is Still The Better Choice\n\n•       You have a high-efficiency gas furnace in good condition\n\n•       Your home has extreme heating demands that require a gas backup\n\n•       Budget is a primary constraint (central AC still has lower upfront cost)\n\n \n\n \n\nModern cold-climate heat pumps are now designed to operate efficiently in temperatures well below freezing, making them increasingly practical for New Jersey winters. Ask a certified Wayne HVAC contractor like Air Solutions LLC for a load calculation to see if a heat pump would serve your home well.\n\nWhy Wayne Homeowners And Businesses Choose Air Solutions\n\nNATE-certified technicians. NATE (North American Technician Excellence) is the gold standard certification for HVAC technicians — it requires passing rigorous industry exams and ongoing continuing education. Our technicians hold NATE certification. When a contractor mentions it, it’s a meaningful signal of technical competence. When they can’t, it’s worth asking why.\n\nWritten estimates before any work begins. We don’t start repairs without your approval of a written estimate. No surprises.\n\nWarranty on all work. Every service we perform comes with a warranty on parts and labor. If something we repaired fails, we come back.\n\nNJ licensed and insured. We hold a valid NJ Master HVACR License and carry full liability insurance. You can verify contractor licensing through the NJ Division of Consumer Affairs. Never hire an unlicensed contractor for HVAC work — you risk voiding your equipment warranty and taking on liability if something goes wrong.\n\n30+ brands serviced. Residential and commercial. If it heats or cools a building in Wayne, we work on it.\n\nDo You Need A Permit For AC Repair In Wayne, NJ?\nLearn more\nShort Cycling Of Air Conditioners: Causes, Costs, And When To Call A Professionals\nLearn more\nFurnace Won’t Turn On? How To Fix What To Check And When To Call A Pro\nLearn more\nHow To Choose A Licensed HVAC Contractor In Wayne, NJ\n\nThe cheapest quote is rarely the best outcome. A poorly installed or incorrectly repaired system costs far more over its lifetime than a slightly higher upfront price.\n\nVerify NJ licensing. Any contractor performing HVAC work in New Jersey must hold a valid NJ Master HVACR License and a Home Improvement Contractor license. Both are verifiable through the NJ Division of Consumer Affairs.\n\nAsk these questions before you hire anyone:\n\nDo you provide a written estimate before work starts?\nIs the repair covered by a labor warranty, and for how long?\nAre your technicians NATE-certified?\nDo you carry liability insurance?\nCan you provide references from customers in Wayne or Passaic County?\n\nWatch for these red flags:\n\nPrices quoted over the phone without inspecting the system\nRequests for full payment upfront\nNo written estimate or contract\nPressure to replace the entire system before a proper diagnosis\nUnable to provide proof of licensing or insurance\nIs Air Solutions Licensed To Repair HVAC In New Jersey?\n\nYes. Air Solutions LLC holds New Jersey Master HVACR contractor license 19HC00381700. New Jersey requires a license from the State Board of Examiners of HVACR Contractors to perform HVACR work, unless an exemption applies. Since October 5, 2020, the state construction code has also required local enforcing agencies to make sure permit applicants hold that HVACR license. You can check any contractor’s license through the NJ Division of Consumer Affairs.\n\nNJ Rebates And Federal Tax Credits For HVAC Upgrades\nIf you're looking at a major repair or a full replacement, rebates and tax credits can meaningfully offset the cost. PSE&G offers rebates on high-efficiency central air conditioning systems, heat pumps, and smart thermostats. Qualifying equipment typically needs to meet SEER2 efficiency thresholds. Rebates range from $50 on a smart thermostat to several hundred dollars on qualifying central AC or heat pump installations. JCP&L customers can access rebates through the NJ Clean Energy Program on qualifying HVAC equipment. These can be combined with federal incentives for significant total savings. Federal tax credits (IRA, 2025–2026). Under the Inflation Reduction Act, homeowners installing qualifying heat pumps may be eligible for a tax credit of up to $2,000. Qualifying central AC installations can receive up to $600. These credits apply to the year the equipment is placed in service. Ask us which systems qualify when you request a quote — a trustworthy contractor builds rebate and credit eligibility into the total cost discussion, not as an afterthought.\nLearn more\nFrequently Asked Questions About AC Repair In Wayne, NJ\nHow Quickly Can I Get Same-Day AC Repair In Wayne, NJ?\n\nMost established HVAC companies serving Wayne offer same-day or next-day service during normal business hours, particularly during peak summer season. For true emergencies — such as a complete system failure during a heat wave — look for contractors that advertise 24-hour emergency HVAC service in Passaic County. Having a relationship with a local company before an emergency strikes is the best way to ensure fast response when you need it most.\n\nHow Do I Know If I Should Repair Or Replace My AC Unit?\n\nA general rule of thumb: if the repair cost is more than 50% of the cost of a new system AND your unit is older than 10 years, replacement is often the smarter financial choice. Other factors include whether your current system uses R-22 refrigerant (now phased out and very expensive to recharge), whether it’s been repaired multiple times in recent years, and whether you’re interested in the energy savings and rebates available with a new high-efficiency system.\n\nWhat’s The Difference Between An AC Tune-Up And A Repair?\n\nA tune-up is preventive maintenance performed on a functioning system — cleaning components, checking refrigerant levels, tightening connections, and testing performance. A repair addresses a specific problem that’s causing the system to fail or underperform. Tune-ups are typically less expensive and are best scheduled in spring before cooling season. Repairs are reactive and are needed when something breaks or stops working correctly.\n\nWhy Does My AC Smell Musty When It Turns On?\n\nA musty or mildew-like smell from your vents usually means mold or bacteria has grown on the evaporator coil or inside the ductwork — both of which stay moist from the condensation the cooling process creates. A professional AC cleaning can resolve this. It’s also worth having your indoor air quality assessed if the smell is persistent; UV air purifiers and whole-home air cleaners can prevent future growth.\n\nAre There Rebates Available For AC Repair Or Replacement In New Jersey?\n\nRebates are generally available for new system installations rather than repairs. Both PSE&G and JCP&L offer rebates for qualifying high-efficiency central air conditioners and heat pumps through the NJ Clean Energy Program. Federal tax credits under the Inflation Reduction Act also apply to qualifying installations in 2025 and 2026. Talk to your contractor about which equipment qualifies and how to apply — a reputable HVAC company in Wayne will walk you through the process.\n\nSchedule AC Repair In Wayne, NJ\n\nAir Solutions LLC\n130 Oldham Rd, Wayne, NJ 07470\n (973) 694-3013\nAvailable 24/7 for emergencies\n\nWe serve Wayne and all of Passaic County, including Woodland Park, Totowa, Clifton, Little Falls, Hawthorne NJ 07506, Boonton NJ 07005 and Pompton Lakes. \n\nRequest a service appointment or call directly — we’ll confirm availability and get you on the schedule.\n\nAir Solutions LLC offer quality services to ensure a healthy and pleasant environment in your space.\n\nFacebook\n \nInstagram\n \nYoutube\n \nPinterest\n \nTwitter\nUtility Pages\nAbout Us\nTestimonial\nBlogs\nContact Us\nServices\nMaintenance\nInstallation\nCleaning\nHeating\nArea Served\n\nAir Solutions LLC 2023-2024\n\nCall US 973-694-3013",
+    "links": [
+      {
+        "href": "#content",
+        "abs": "https://airsolutionsnj.com/#content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://web.facebook.com/AirSolutionsllc",
+        "abs": "https://web.facebook.com/AirSolutionsllc",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.youtube.com/channel/UC0S22xtNbkefrkaR8dxYNJA",
+        "abs": "https://www.youtube.com/channel/UC0S22xtNbkefrkaR8dxYNJA",
+        "text": "Youtube",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/airsolutionsllc/",
+        "abs": "https://www.instagram.com/airsolutionsllc/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "Twitter",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.pinterest.com/airsolutionsllcusa/",
+        "abs": "https://www.pinterest.com/airsolutionsllcusa/",
+        "text": "Pinterest",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/",
+        "abs": "https://airsolutionsnj.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 56,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/ac-repair/",
+        "abs": "https://airsolutionsnj.com/ac-repair/",
+        "text": "AC Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 97,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/ac-installation/",
+        "abs": "https://airsolutionsnj.com/ac-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 59,
+        "w": 218,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/ac-maintenance/",
+        "abs": "https://airsolutionsnj.com/ac-maintenance/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 59,
+        "w": 218,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/coil-cleaning-services/",
+        "abs": "https://airsolutionsnj.com/coil-cleaning-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 59,
+        "w": 218,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/heating-repair/",
+        "abs": "https://airsolutionsnj.com/heating-repair/",
+        "text": "Heating Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 141,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/areas-served/",
+        "abs": "https://airsolutionsnj.com/areas-served/",
+        "text": "Areas Served",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 128,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/contact-us/",
+        "abs": "https://airsolutionsnj.com/contact-us/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 106,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973)%20694-3013",
+        "abs": "tel:(973)%20694-3013",
+        "text": "Emergency?",
+        "visible": true,
+        "aboveFold": true,
+        "h": 17,
+        "w": 96,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "See Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 65,
+        "w": 166,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 120,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 134,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 94,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/coil-cleaning-services/",
+        "abs": "https://airsolutionsnj.com/coil-cleaning-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 194,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 94,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 25,
+        "w": 94,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 65,
+        "w": 204,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 17,
+        "w": 82,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://share.google/f20DXBwXQDeGSNaZM",
+        "abs": "https://share.google/f20DXBwXQDeGSNaZM",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 17,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/heating-repair/",
+        "abs": "https://airsolutionsnj.com/heating-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 17,
+        "w": 104,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/ac-repair/",
+        "abs": "https://airsolutionsnj.com/ac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 46,
+        "w": 422,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 120,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 133,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/ac-repair-in-boonton-nj/hvac-repair-cost/",
+        "abs": "https://airsolutionsnj.com/ac-repair-in-boonton-nj/hvac-repair-cost/",
+        "text": "AC repair costs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 818,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/contact-us/",
+        "abs": "https://airsolutionsnj.com/contact-us/",
+        "text": "new AC installation quote",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 195,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://admin.trustindex.io/api/googleWriteReview?place-id=ChIJvwdTotsDw4kRECIuIseP0tk",
+        "abs": "https://admin.trustindex.io/api/googleWriteReview?place-id=ChIJvwdTotsDw4kRECIuIseP0tk",
+        "text": "Write a review",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 138,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvwdTotsDw4kRECIuIseP0tk",
+        "abs": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvwdTotsDw4kRECIuIseP0tk",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 40,
+        "w": 252,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.trustindex.io/?a=sys&c=wp-verified-badge&url=/review-platform-verification/",
+        "abs": "https://www.trustindex.io/?a=sys&c=wp-verified-badge&url=/review-platform-verification/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 20,
+        "w": 79,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas-served/",
+        "abs": "https://airsolutionsnj.com/areas-served/",
+        "text": "service area",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 87,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/heating-repair/",
+        "abs": "https://airsolutionsnj.com/heating-repair/",
+        "text": "Wayne HVAC contractor",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 183,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njconsumeraffairs.gov/",
+        "abs": "https://www.njconsumeraffairs.gov/",
+        "text": "NJ Division of Consumer Affairs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 1237,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/do-you-need-a-permit-for-ac-repair-in-wayne-nj/",
+        "abs": "https://airsolutionsnj.com/do-you-need-a-permit-for-ac-repair-in-wayne-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 590,
+        "w": 400,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/do-you-need-a-permit-for-ac-repair-in-wayne-nj/",
+        "abs": "https://airsolutionsnj.com/do-you-need-a-permit-for-ac-repair-in-wayne-nj/",
+        "text": "Do You Need A Permit For AC Repair In Wayne, NJ?",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 313,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/do-you-need-a-permit-for-ac-repair-in-wayne-nj/",
+        "abs": "https://airsolutionsnj.com/do-you-need-a-permit-for-ac-repair-in-wayne-nj/",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/short-cycling-of-air-conditioners-causes-costs-and-when-to-call-a-professionals/",
+        "abs": "https://airsolutionsnj.com/short-cycling-of-air-conditioners-causes-costs-and-when-to-call-a-professionals/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 320,
+        "w": 400,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/short-cycling-of-air-conditioners-causes-costs-and-when-to-call-a-professionals/",
+        "abs": "https://airsolutionsnj.com/short-cycling-of-air-conditioners-causes-costs-and-when-to-call-a-professionals/",
+        "text": "Short Cycling Of Air Conditioners: Causes, Costs, And When To Call A Professiona",
+        "visible": true,
+        "aboveFold": false,
+        "h": 67,
+        "w": 303,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/short-cycling-of-air-conditioners-causes-costs-and-when-to-call-a-professionals/",
+        "abs": "https://airsolutionsnj.com/short-cycling-of-air-conditioners-causes-costs-and-when-to-call-a-professionals/",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/furnace-wont-turn-on-how-to-fix-what-to-check-and-when-to-call-a-pro/",
+        "abs": "https://airsolutionsnj.com/furnace-wont-turn-on-how-to-fix-what-to-check-and-when-to-call-a-pro/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 320,
+        "w": 400,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/furnace-wont-turn-on-how-to-fix-what-to-check-and-when-to-call-a-pro/",
+        "abs": "https://airsolutionsnj.com/furnace-wont-turn-on-how-to-fix-what-to-check-and-when-to-call-a-pro/",
+        "text": "Furnace Won’t Turn On? How To Fix What To Check And When To Call A Pro",
+        "visible": true,
+        "aboveFold": false,
+        "h": 67,
+        "w": 309,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/furnace-wont-turn-on-how-to-fix-what-to-check-and-when-to-call-a-pro/",
+        "abs": "https://airsolutionsnj.com/furnace-wont-turn-on-how-to-fix-what-to-check-and-when-to-call-a-pro/",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.energystar.gov/about/federal-tax-credits",
+        "abs": "https://www.energystar.gov/about/federal-tax-credits",
+        "text": "Learn more",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/ac-repair-hawthorne-nj/",
+        "abs": "https://airsolutionsnj.com/ac-repair-hawthorne-nj/",
+        "text": "Hawthorne NJ 07506",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 150,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/ac-repair-in-boonton-nj/",
+        "abs": "https://airsolutionsnj.com/ac-repair-in-boonton-nj/",
+        "text": "Boonton NJ 07005",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 133,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/contact-us/",
+        "abs": "https://airsolutionsnj.com/contact-us/",
+        "text": "Request a service appointment",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://web.facebook.com/AirSolutionsllc",
+        "abs": "https://web.facebook.com/AirSolutionsllc",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/airsolutionsllc/",
+        "abs": "https://www.instagram.com/airsolutionsllc/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.youtube.com/channel/UC0S22xtNbkefrkaR8dxYNJA",
+        "abs": "https://www.youtube.com/channel/UC0S22xtNbkefrkaR8dxYNJA",
+        "text": "Youtube",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.pinterest.com/airsolutionsllcusa/",
+        "abs": "https://www.pinterest.com/airsolutionsllcusa/",
+        "text": "Pinterest",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "Twitter",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://g.page/r/CRAiLiLHj9LZEBM/review",
+        "abs": "https://g.page/r/CRAiLiLHj9LZEBM/review",
+        "text": "Testimonial",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://airsolutionsnj.com/blogs/",
+        "abs": "https://airsolutionsnj.com/blogs/",
+        "text": "Blogs",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "Cleaning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airsolutionsnj.com/#",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-694-3013",
+        "abs": "tel:973-694-3013",
+        "text": "Call US 973-694-3013",
+        "visible": true,
+        "aboveFold": true,
+        "h": 60,
+        "w": 1366,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "X",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Write a review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous review",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d192961.58065372295!2d-74.32494138085936!3d40.91520435432839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c303dba25307bf%3A0xd9d28fc7222e2210!2sAir%20Solutions%20LLC!5e0!3m2!1sen!2stw!4v1689150980747!5m2!1sen!2stw"
+    ],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=GT-WF3L5SP",
+      "https://airsolutionsnj.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://airsolutionsnj.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/js/chunks/section-stretched-section.min.js?ver=4.3.6",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.6",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.6",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.3.6",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/js/chunks/video.min.js?ver=4.3.6",
+      "https://airsolutionsnj.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://airsolutionsnj.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.8.2",
+      "https://airsolutionsnj.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.6",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.6",
+      "https://airsolutionsnj.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.6",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "https://airsolutionsnj.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.25.2",
+      "https://cdn.trustindex.io/loader.js",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.25.2",
+      "https://airsolutionsnj.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "https://airsolutionsnj.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.25.2",
+      "https://airsolutionsnj.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.25.2",
+      "https://airsolutionsnj.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.8.2",
+      "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": [
+              "HVACBusiness",
+              "Organization"
+            ],
+            "@id": "https://airsolutionsnj.com/#organization",
+            "name": "Air Solutions LLC",
+            "url": "https://airsolutionsnj.com",
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://airsolutionsnj.com/#logo",
+              "url": "http://airsolutionsnj.com/wp-content/uploads/2023/07/cropped-Dark-Blue-Minimalist-Business-Finance-Logo.png",
+              "contentUrl": "http://airsolutionsnj.com/wp-content/uploads/2023/07/cropped-Dark-Blue-Minimalist-Business-Finance-Logo.png",
+              "caption": "Air Solutions LLC",
+              "inLanguage": "en-US",
+              "width": "499",
+              "height": "222"
+            },
+            "openingHours": [
+              "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+            ],
+            "image": {
+              "@id": "https://airsolutionsnj.com/#logo"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://airsolutionsnj.com/#website",
+            "url": "https://airsolutionsnj.com",
+            "name": "Air Solutions LLC",
+            "publisher": {
+              "@id": "https://airsolutionsnj.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://airsolutionsnj.com/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://airsolutionsnj.com/wp-content/uploads/2023/07/img-bg-hero-slider-home-01-min-1.jpg",
+            "url": "https://airsolutionsnj.com/wp-content/uploads/2023/07/img-bg-hero-slider-home-01-min-1.jpg",
+            "width": "2000",
+            "height": "1080",
+            "caption": "Ac Repair wayne nj",
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://airsolutionsnj.com/#webpage",
+            "url": "https://airsolutionsnj.com/",
+            "name": "AC Repair Wayne NJ | HVAC Repair Wayne NJ - Air Solutions LLC | Heating HVAC Air Conditioning",
+            "datePublished": "2026-03-30T21:13:06+00:00",
+            "dateModified": "2026-10-08T21:44:26+00:00",
+            "about": {
+              "@id": "https://airsolutionsnj.com/#organization"
+            },
+            "isPartOf": {
+              "@id": "https://airsolutionsnj.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://airsolutionsnj.com/wp-content/uploads/2023/07/img-bg-hero-slider-home-01-min-1.jpg"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "VideoObject",
+            "name": "AC Repair Wayne NJ | HVAC Repair Wayne NJ - Air Solutions LLC | Heating HVAC Air Conditioning",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "uploadDate": "2026-03-30T21:13:06+00:00",
+            "thumbnailUrl": "https://airsolutionsnj.com/wp-content/uploads/2023/07/img-bg-hero-slider-home-01-min-1.jpg",
+            "embedUrl": "https://www.youtube.com/embed/kSqIuZZ-8CQ",
+            "isFamilyFriendly": "True",
+            "@id": "https://airsolutionsnj.com/#schema-27170",
+            "isPartOf": {
+              "@id": "https://airsolutionsnj.com/#webpage"
+            },
+            "publisher": {
+              "@id": "https://airsolutionsnj.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://airsolutionsnj.com/#webpage"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "HVAC Repair",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://airsolutionsnj.com/wp-content/uploads/2023/07/cropped-Dark-Blue-Minimalist-Business-Finance-Logo.png",
+          "width": 499,
+          "height": 222
+        },
+        "description": "No 1. AC Repair Wayne NJ\t\t\t\t\n\t\tWhat to Expect, What It Costs, and How to Choose the Right HVAC Contractor \t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSee Services\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tAC And HVAC Repair Wayne NJ:\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tTrusted Heating, Cooling, &amp; Air Conditioning Installation &amp; Repair Service\t\t\t\t\t\n\t\tIf you need AC repair Wayne NJ then you have come to the right place. We provide Air Conditioning repair services, as well as HVAC repair in Wayne, NJ, furnace repair, and Heating repair in Wayne and surrounding areas. Air Solutions LLC provides AC repair, installation, and maintenance to homeowners and businesses across Wayne, NJ, and Passaic County. Our NATE-certified technicians are available 24 hours a day, including weekends, so a broken air conditioner doesn't turn into a three-day ordeal.\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tProfessional installation\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tPreventive maintenance\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tCleaning &amp; sanitizing\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tEmergency service\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead More\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOur Services\n\t\t\t\t\t\n\t\t\t\t\tfast, cheap &amp; clean installation\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tOur HVAC Repair services Wayne NJ\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tWe offer a warranty on all of our air conditioning services\t\t\t\t\t\n\t\tAll our air conditioning services come with a warranty. At Air Solutions LLC, we are happy to be the best providers of expert heating, ventilation, air conditioning installation, and HVAC repair services. Through our commitment to providing quality solutions, we have established a strong clientele base of residential and commercial clients in Packanack Lake to Mountain View. \t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tHVAC Installation\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tInstallation of new heating, cooling, and air conditioning systems\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead More\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tCoil Cleaning\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\toutdoor condenser\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead About Coil Cleaning\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tHeating\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tThermostat installation and programming\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead More\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tMaintenance\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tRepair and maintenance services for existing systems\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead More\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSee More Services\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tWhen you Needs Ac HVAC Repair in Wayne, NJ\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tThe Most Expensive Mistake Wayne Homeowners Make\n\t\t\t\t\t\n\t\tWe see it constantly: a homeowner notices the AC isn't quite right — maybe it's running longer than usual, maybe one room feels warmer than the others — and they decide to wait. A few weeks pass. Then a heat wave hits, the system gives out completely, and what would have been a $250 capacitor replacement is now a conversation about whether to replace the whole unit.A failing capacitor costs $150 to $300 to fix. A compressor failure costs $800 to $2,500. And if the compressor goes on a system that's already 12 years old, replacement is almost always the smarter call — which means a $6,000 to $10,000 decision that could have been avoided entirely.If something feels off, call early. The repair is almost always cheaper than you expect. The delay is what makes it expensive.\t\t\n\t\t\t\t\t\t\tmore than 30 brands\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tWe Cover major brands for repair and installation at reasonable price\t\t\t\t\t\n\t\t\t\t\t\t\t100% guaranteed\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tCustomer satisfaction is at the heart of everything we do. \t\t\t\t\t\n\t\t\t\t\t\t\tScheduledtime\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tCall us at anytime\t\t\t\t\t\n\t\t\t\t\tDo you want to know about our other highlights?\t\t\t\t\n\t\t\t\t\tRead more\t\t\t\t\n\t\t\t\t\tEmergency HVAC repair services 24 hours a day\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tHVAC Repair Wayne NJ\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tGreat tips for your air conditioner Repair\t\t\t\t\t\n\t\tWe offer the Best air conditioning &amp; furnace repair in Wayne NJAt Air Solutions LLC, we know that your home or work space is one of the most important spaces in your life and believe that the quality of that space must be unsurpassed so as to provide maximum comfort and convenience. That is why our company has a group of competent and skillful staff whose only concern is giving you nothing short of the best in the business. With years of proven service delivery and quality workmanship, we have risen to become the top shot and go-to HVAC Repair company in the city for all your air conditioning needs and anything else related to heating Repair and cooling. We are also specialists in furnace repair in Wayne NJ. Our Team is ready to provide 24-hour Emergency AC repair service all over the Wayne and North New Jersey areas, so don't hesitate to reach out to us at any time you need. \t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tQuality assurance\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDurability guarantee\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tSatisfaction guarantee\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead More\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOur services\n\t\t\t\t\t\n\t\t\t\t\tRequest a quote\t\t\t\t\n\t\t\t\t\tSigns Your AC Needs Repair in Wayne, NJ\t\t\t\t\n\t\tAir conditioners rarely fail without warning. Most systems give you clear signals days or weeks before a full breakdown.The system runs but doesn't cool. Warm air from your vents usually points to a refrigerant leak, a dirty evaporator coil, or a failing compressor. A refrigerant leak is worth addressing quickly — left untreated, it can destroy the compressor.Strange noises. A well-maintained AC is relatively quiet. Grinding typically means a worn blower motor bearing. Banging suggests something loose or broken inside the unit. Squealing is often a belt or fan blade issue. If you hear any of these, turn the system off and call — running a noisy unit turns a minor repair into a major one.Ice on the unit. Ice forming on your indoor air handler or outdoor condenser usually means restricted airflow or low refrigerant. Start with the air filter — a clogged filter is the most common cause. If changing the filter doesn't clear it within a few hours, a refrigerant leak or failing blower motor is likely.A spike in your energy bill. An AC that's working harder than it should to maintain temperature will show up on your PSEG or JCP&amp;L bill before it shows up anywhere else. Dirty coils, worn components, or an aging compressor all reduce efficiency without obviously breaking the system.Other signs that warrant a service call:Short cycling (turning on and off repeatedly)Water pooling around the indoor air handlerMusty or burning smell from ventsCertain rooms consistently warmer than othersThermostat not responding or not triggering the system\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tHow Much Does AC Repair Cost in Wayne, NJ?Cost is one of the first questions homeowners ask — and it's a fair one. Unfortunately, there is no single answer. AC repair costs vary based on what's wrong with the system, the age and brand of the unit, and the contractor you hire. That said, there are some general benchmarks that can help you plan.For most common repairs in the Wayne and Passaic County area, homeowners typically pay between $150 and $800. Here's a breakdown of typical cost ranges for the most frequent issues:•       Refrigerant recharge (R-410A): $200 – $500 depending on the amount needed•       Capacitor replacement: $150 – $300 (one of the most common and least expensive repairs)•       Evaporator coil cleaning or replacement: $300 – $1,200•       Blower motor replacement: $350 – $700•       Compressor replacement: $800 – $2,500 (often triggers a full system replacement discussion)•       Thermostat replacement: $150 – $350 including installation•       Drain line clearing: $100 – $250A few important notes on pricing: any reputable HVAC contractor in Wayne should be willing to give you a written estimate before starting work. Be cautious of companies that quote over the phone without seeing the system — accurate diagnosis requires hands-on inspection. Also, ask whether the quoted price includes the service call fee, labor, and parts, or whether those are billed separately.If your system is more than 12–15 years old and the repair estimate is close to or more than half the cost of a replacement, it's worth getting a new AC installation quote to compare. Older systems also lose efficiency over time, meaning a new high-efficiency unit can actually pay for itself in energy savings. \t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\tCustomers Talking About US\t\t\t\t\n\t\t         Air Solutions LLC | Heating HVAC Air Conditioning   100 Google reviews   Write a review                 Posted on Google        Elsie Urbina     Trustindex verifies that the original source of the review is Google. Great service at a great price highly Recomended will be using these guys again         Posted on Google        Ken Schmarge     Trustindex verifies that the original source of the review is Google. Ken of Air Solutions is skilled and professional. One of our AC units went out during a heat wave and he was able to fit us in to diagnose and fix the problem in under an hour. I recommend Air Solutions for all your HVAC needs!         Posted on Google        Loretta Simek     Trustindex verifies that the original source of the review is Google. We had an air conditioner emergency just before the heat wave. Our current contracted company could not locate the part needed. So they recommended purchasing a new unit.\nAir Solutions was recommended to us. I called them for help. They came quickly, identified the problem, located the part needed and repaired the system within 2 hrs.\nMohammed and his partner are knowledgeable, courteous, and were prompt to address our problems.\nI highly recommend them.         Posted on Google        Tramena     Trustindex verifies that the original source of the review is Google. I had the Best experience very professionally kept the line of communication open, I would choose air solutions again and again.         Posted on Google        Sharon Yerman     Trustindex verifies that the original source of the review is Google. Clean, quick, and courteous. Great service at a fair price! They made replacing our air conditioner completely hassle-free. Highly recommend!         Posted on Google        Kristin &amp; Greg Miller     Trustindex verifies that the original source of the review is Google. Fantastic service, price, very professional! My go to!         Posted on Google        Yvette Bailey     Trustindex verifies that the original source of the review is Google. I’m in the need of a new HVAC system. The  company was referred by several of my neighbors and friends. As soon as I called the company they took my information and came to give me an estimate. The two HVAC guys came in professionally explain details of things I didn’t understand and definitely gave me a great price out of all of the other companies that gave me estimates. I definitely recommend this company!!         Posted on Google        Letty Cantamessa     Trustindex verifies that the original source of the review is Google. I was in a total pickle this weekend. It was 90 degrees and our unit just stopped working. I called Air Solutions LLC. Mohammed was exceptional. He arrived within the hour and had the issue diagnosed and repaired in 30 minutes. My unit was fixed and fur baby and toddler were comfortable.  I can’t thank Air Solutions LLC enough.  Pricing was competitive and fair!   Air Solutions LLC will be my HVAC company going forward! Hands Down! If I we’re able to give 10 stars I would. I highly recommend the company.         Posted on Google        Dean Cantamessa     Trustindex verifies that the original source of the review is Google. Air conditioning failed.  Called after doing a lot of our own research and Air Solutions arrived on a Saturday evening at 8pm. Under an hour from when we called.  Made repair in under 30 mins and very competitive pricing. Absolute pleasure dealing with this Team!!!   Highly recommend to anyone needing service or a second opinion!!!!!!!         Posted on Google        DJSean15     Trustindex verifies that the original source of the review is Google. Very efficient and courteous!  Definitely recommend for your heating and cooling needs!             Verified by Trustindex  Trustindex verified badge is the Universal Symbol of Trust. Only the greatest companies can get the verified badge who has a review score above 4.5, based on customer reviews over the past 12 months. Read more       \t\t\n\t\t\t\t\tAC Brands We Service in Wayne\n\t\t\t\t\n\t\tOur technicians service and repair all major residential and commercial AC brands, includingCarrier · Goodman · Trane · Rheem · Lennox · York · American Standard · Bryant · Heil · Ruud\nGoodman systems are common in Passaic County new construction from the last 15 years. Carrier and Trane are frequently found in older Wayne homes that have been updated. Whatever's installed, we carry the components to diagnose and repair it — most jobs are completed in a single visit.\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\tServing Packanack Lake, Mountain View, Preakness and All of Wayne\n\t\t\t\t\n\t\tAir Solutions LLC is based at 130 Oldham Rd in Wayne. We serve the full township — Packanack Lake, Mountain View, Preakness, Wayne Center, Pines Lake, and every neighborhood in between.Most service calls in Wayne get a same-day response during regular business hours. For genuine emergencies — complete system failure during a heat wave, for example — we run 24-hour service across Passaic County. Having a relationship with a local contractor before an emergency is always the better position to be in. But if you don't and something fails tonight, call us anyway.We also serve surrounding communities including Woodland Park, Totowa, Clifton, Little Falls, and Pompton Lakes. See our full service area for details.\t\t\n\t\t\t\t\tHeat Pumps vs. Central AC in Wayne, NJ: Which Is Right for Your Home?\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tIf you're facing a major repair or a full system replacement, now is a good time to consider whether a heat pump might be a better fit than a traditional central air conditioner.A heat pump does everything a central AC does — it cools your home in summer — but it also provides heating in winter by reversing the refrigeration cycle. For Wayne homeowners who use electric or oil heat, a heat pump can deliver significant energy savings during the heating season, sometimes 30–50% compared to electric resistance heat.When a Heat Pump Makes Sense in NJ•       Your current system heats with electric resistance, propane, or oil•       You want one system for both heating and cooling•       Your home is well-insulated and doesn't have extreme heating demands•       You want to maximize utility rebates and federal tax credits When Central AC Is Still the Better Choice•       You have a high-efficiency gas furnace in good condition•       Your home has extreme heating demands that require a gas backup•       Budget is a primary constraint (central AC still has lower upfront cost)  Modern cold-climate heat pumps are now designed to operate efficiently in temperatures well below freezing, making them increasingly practical for New Jersey winters. Ask a certified Wayne HVAC contractor like Air Solutions LLC for a load calculation to see if a heat pump would serve your home well.Why Wayne Homeowners and Businesses Choose Air SolutionsNATE-certified technicians. NATE (North American Technician Excellence) is the gold standard certification for HVAC technicians — it requires passing rigorous industry exams and ongoing continuing education. Our technicians hold NATE certification. When a contractor mentions it, it's a meaningful signal of technical competence. When they can't, it's worth asking why.Written estimates before any work begins. We don't start repairs without your approval of a written estimate. No surprises.Warranty on all work. Every service we perform comes with a warranty on parts and labor. If something we repaired fails, we come back.NJ licensed and insured. We hold a valid NJ Master HVACR License and carry full liability insurance. You can verify contractor licensing through the NJ Division of Consumer Affairs. Never hire an unlicensed contractor for HVAC work — you risk voiding your equipment warranty and taking on liability if something goes wrong.30+ brands serviced. Residential and commercial. If it heats or cools a building in Wayne, we work on it.\t\t\n                    \n                                                \n                        NJ Rebates and Federal Tax Credits for HVAC Upgrades\n                    \n                        If you're looking at a major repair or a full replacement, rebates and tax credits can meaningfully offset the cost.\nPSE&amp;G offers rebates on high-efficiency central air conditioning systems, heat pumps, and smart thermostats. Qualifying equipment typically needs to meet SEER2 efficiency thresholds. Rebates range from $50 on a smart thermostat to several hundred dollars on qualifying central AC or heat pump installations.\nJCP&amp;L customers can access rebates through the NJ Clean Energy Program on qualifying HVAC equipment. These can be combined with federal incentives for significant total savings.\nFederal tax credits (IRA, 2025–2026). Under the Inflation Reduction Act, homeowners installing qualifying heat pumps may be eligible for a tax credit of up to $2,000. Qualifying central AC installations can receive up to $600. These credits apply to the year the equipment is placed in service.\nAsk us which systems qualify when you request a quote — a trustworthy contractor builds rebate and credit eligibility into the total cost discussion, not as an afterthought.                    \n                                                            \n                                    Learn more                                 \n\t\t\t\t\tHow to Choose a Licensed HVAC Contractor in Wayne, NJ\n\t\t\t\t\n\t\tThe cheapest quote is rarely the best outcome. A poorly installed or incorrectly repaired system costs far more over its lifetime than a slightly higher upfront price.Verify NJ licensing. Any contractor performing HVAC work in New Jersey must hold a valid NJ Master HVACR License and a Home Improvement Contractor license. Both are verifiable through the NJ Division of Consumer Affairs.Ask these questions before you hire anyone:Do you provide a written estimate before work starts?Is the repair covered by a labor warranty, and for how long?Are your technicians NATE-certified?Do you carry liability insurance?Can you provide references from customers in Wayne or Passaic County?Watch for these red flags:Prices quoted over the phone without inspecting the systemRequests for full payment upfrontNo written estimate or contractPressure to replace the entire system before a proper diagnosisUnable to provide proof of licensing or insuranceFrequently Asked Questions About AC Repair in Wayne, NJHow quickly can I get same-day AC repair in Wayne, NJ?Most established HVAC companies serving Wayne offer same-day or next-day service during normal business hours, particularly during peak summer season. For true emergencies — such as a complete system failure during a heat wave — look for contractors that advertise 24-hour emergency HVAC service in Passaic County. Having a relationship with a local company before an emergency strikes is the best way to ensure fast response when you need it most.How do I know if I should repair or replace my AC unit?A general rule of thumb: if the repair cost is more than 50% of the cost of a new system AND your unit is older than 10 years, replacement is often the smarter financial choice. Other factors include whether your current system uses R-22 refrigerant (now phased out and very expensive to recharge), whether it's been repaired multiple times in recent years, and whether you're interested in the energy savings and rebates available with a new high-efficiency system.What's the difference between an AC tune-up and a repair?A tune-up is preventive maintenance performed on a functioning system — cleaning components, checking refrigerant levels, tightening connections, and testing performance. A repair addresses a specific problem that's causing the system to fail or underperform. Tune-ups are typically less expensive and are best scheduled in spring before cooling season. Repairs are reactive and are needed when something breaks or stops working correctly.Why does my AC smell musty when it turns on?A musty or mildew-like smell from your vents usually means mold or bacteria has grown on the evaporator coil or inside the ductwork — both of which stay moist from the condensation the cooling process creates. A professional AC cleaning can resolve this. It's also worth having your indoor air quality assessed if the smell is persistent; UV air purifiers and whole-home air cleaners can prevent future growth.Are there rebates available for AC repair or replacement in New Jersey?Rebates are generally available for new system installations rather than repairs. Both PSE&amp;G and JCP&amp;L offer rebates for qualifying high-efficiency central air conditioners and heat pumps through the NJ Clean Energy Program. Federal tax credits under the Inflation Reduction Act also apply to qualifying installations in 2025 and 2026. Talk to your contractor about which equipment qualifies and how to apply — a reputable HVAC company in Wayne will walk you through the process.\t\t\n\t\t\t\t\tSchedule AC Repair in Wayne, NJ\n\t\t\t\t\n\t\tAir Solutions LLC130 Oldham Rd, Wayne, NJ 07470📞 (973) 694-3013Available 24/7 for emergenciesWe serve Wayne and all of Passaic County, including Woodland Park, Totowa, Clifton, Little Falls, and Pompton Lakes.Request a service appointment or call directly — we'll confirm availability and get you on the schedule.https://www.youtube.com/watch?v=kSqIuZZ-8CQ",
+        "sku": null,
+        "mpn": null,
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "72"
+        },
+        "offers": {
+          "shippingDetails": [
+            []
+          ],
+          "@type": "Offer",
+          "price": null,
+          "priceValidUntil": null,
+          "url": "https://airsolutionsnj.com/",
+          "priceCurrency": "USD",
+          "availability": null,
+          "hasMerchantReturnPolicy": [
+            {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "",
+              "returnPolicyCategory": "",
+              "merchantReturnDays": 0,
+              "returnFees": "",
+              "returnMethod": ""
+            }
+          ]
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "name": "Madison Hendry",
+              "@type": "Person"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "reviewBody": "Muhammed was excellent. When he arrived, he quickly diagnosed the issue with our air conditioner, and clearly explained the problem in terms I could easily understand. After fixing the issue he did a full check on the compressor and the air flow to ensure it was working correctly all within an hour of arriving. I appreciate his professionalism, clear communication and swift service, especially after getting an alternative quote that said we needed to replace the whole system for a couple of grand. Highly recommend this trustworthy service for anyone needing AC repairs!!"
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "name": "Brook D",
+              "@type": "Person"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "reviewBody": "Mohamad and Fadi were so great and very knowledgeable. Had our air up and running within an hour and didn’t even try to sell us a new system like everyone else we called !"
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "name": "Kim Hamilton",
+              "@type": "Person"
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "reviewBody": "The best in the business. Let’s you know why you have a problem, then fixes it. Very through, There isn't anything they can't do. Great guys, you can ask any questions.\r\nThey blow everybody else out of the water."
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "itemReviewed": {
+          "@type": "LocalBusiness",
+          "name": "Air Solutions LLC | Heating HVAC Air Conditioning",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://airsolutionsnj.com/wp-content/uploads/2023/07/cropped-Dark-Blue-Minimalist-Business-Finance-Logo.png",
+            "width": 499,
+            "height": 222
+          },
+          "telephone": "(973) 694-3013",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": null,
+            "addressLocality": "Wayne, NJ",
+            "postalCode": "07470",
+            "addressRegion": "New Jersey",
+            "addressCountry": "US"
+          },
+          "priceRange": "$$"
+        },
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5"
+        },
+        "reviewBody": "I recently had my condenser replaced and couldn’t be happier with the service! Fadi was incredibly responsive, promptly answering all my questions and worked hard to get me scheduled quickly. They were professional, efficient, and made the entire process stress-free. The price was very reasonable compared to other quotes I received, and their transparency was much appreciated. The guys were knowledgeable, respectful, and completed the job with great attention to detail. Overall, they were a pleasure to work with, and I highly recommend them to anyone in need of HVAC services. Excellent service at a fair price.  I definitely would use them again!",
+        "datePublished": "2026-03-30T21:13:06+0000",
+        "author": {
+          "@type": "Person",
+          "name": "Manny Liwanag",
+          "sameAs": "https://airsolutionsnj.com/author/sharif"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Manny Liwanag",
+          "sameAs": "https://airsolutionsnj.com"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "organization",
+        "name": "Air Solutions LLC",
+        "url": "https://airsolutionsnj.com",
+        "ContactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "emergency",
+          "telephone": "+1-973-694-3013",
+          "url": "184",
+          "contactOption": [
+            "HearingImpairedSupported",
+            "TollFree"
+          ],
+          "availableLanguage": "English"
+        },
+        "sameAs": [
+          "https://web.facebook.com/AirSolutionsllc",
+          "https://www.instagram.com/airsolutionsllc/",
+          "https://www.youtube.com/channel/UC0S22xtNbkefrkaR8dxYNJA",
+          "https://www.pinterest.com/airsolutionsllcusa/",
+          "https://web.facebook.com/AirSolutionsllc",
+          "https://www.instagram.com/airsolutionsllc/",
+          "https://www.youtube.com/channel/UC0S22xtNbkefrkaR8dxYNJA",
+          "https://www.pinterest.com/airsolutionsllcusa/"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "id": "site-navigation",
+            "name": "Home",
+            "url": "https://airsolutionsnj.com/"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "id": "site-navigation",
+            "name": "AC Repair",
+            "url": "https://airsolutionsnj.com/ac-repair/"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "id": "site-navigation",
+            "name": "AC Installation",
+            "url": "https://airsolutionsnj.com/ac-installation/"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "id": "site-navigation",
+            "name": "AC Maintenance",
+            "url": "https://airsolutionsnj.com/ac-maintenance/"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "id": "site-navigation",
+            "name": "Coil Cleaning Services",
+            "url": "https://airsolutionsnj.com/coil-cleaning-services/"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "id": "site-navigation",
+            "name": "Heating repair",
+            "url": "https://airsolutionsnj.com/heating-repair/"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "id": "site-navigation",
+            "name": "Areas Served",
+            "url": "https://airsolutionsnj.com/areas-served/"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "id": "site-navigation",
+            "name": "Contact us",
+            "url": "https://airsolutionsnj.com/contact-us/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Air Solutions LLC",
+        "url": "https://airsolutionsnj.com",
+        "potentialAction": [
+          {
+            "@type": "SearchAction",
+            "target": "https://airsolutionsnj.com/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "HVAC Contractor",
+        "brand": {
+          "@type": "Organization",
+          "name": "Air Solutions LLC"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "bestRating": "5",
+          "worstRating": "1",
+          "reviewCount": "45"
+        }
+      },
+      {
+        "_parseError": true
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 97,
+    "timing": {
+      "dcl": 3644,
+      "load": 5969,
+      "ttfb": 1483
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt",
+      "Mixed Content: The page at 'https://airsolutionsnj.com/' was loaded over HTTPS, but requested an insecure font 'http://airsolutionsnj.com/wp-content/uploads/elementor/google-fonts/fonts/sora-xmqbuffyt"
+    ],
+    "overlays": [
+      {
+        "kind": "bottom_bar",
+        "cover": 0.067,
+        "sig": "callnowbutton call-now-button  cnb-zoom-130  cnb-zindex-10  cnb-text  cnb-full cnb-full-bottom cnb-displaymode cnb-displ",
+        "text": "call us 973-694-3013"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://airsolutionsnj.com/",
+    "navMs": 9020,
+    "tel": [
+      {
+        "href": "tel:(973)%20694-3013",
+        "text": "Emergency?",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19736943013"
+      },
+      {
+        "href": "tel:973-694-3013",
+        "text": "Call US 973-694-3013",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736943013"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://airsolutionsnj.com/",
+    "navMs": 5385,
+    "timing": {
+      "dcl": 2499,
+      "load": 3198,
+      "ttfb": 1103
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 395,
+    "scrollWidth": 395,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(973)%20694-3013",
+        "text": "Emergency?",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19736943013"
+      },
+      {
+        "href": "tel:973-694-3013",
+        "text": "Call US 973-694-3013",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736943013"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Facebook",
+      "Contact Us",
+      "Call US 973-694-3013"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "bottom_bar",
+        "cover": 0.089,
+        "sig": "callnowbutton call-now-button  cnb-zoom-130  cnb-zindex-10  cnb-text  cnb-full cnb-full-bottom cnb-displaymode cnb-displ",
+        "text": "call us 973-694-3013"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 5,
+    "brokenImages": [],
+    "textChars": 17168
+  },
+  "pages": {
+    "booking": {
+      "url": "https://airsolutionsnj.com/contact-us/",
+      "finalUrl": "https://airsolutionsnj.com/contact-us/",
+      "status": 200,
+      "title": "Contact us - Air Solutions LLC | Heating HVAC Air Conditioning",
+      "forms": [],
+      "iframes": [
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d193002.47202946068!2d-74.337301!3d40.901193!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c303dba25307bf%3A0xd9d28fc7222e2210!2sAir%20Solutions%20LLC!5e0!3m2!1sen!2sus!4v1689940288304!5m2!1sen!2sus"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "airsolutionsllc1@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(973)%20694-3013",
+          "text": "Emergency?",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19736943013"
+        },
+        {
+          "href": "tel:973-694-3013",
+          "text": "Call US 973-694-3013",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736943013"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n130 Oldham Rd, Wayne, NJ 07470\nairsolutionsllc1@gmail.com\nFacebook\n \nYoutube\n \nInstagram\n \nTwitter\n \nPinterest\nHome\nAC Repair\nHeating Repair\nAreas Served\nContact Us\nEmergency?\n\n(973) 694-3013\n\nContact Us\nWrite Us A Message\n\nSend Us A Message & We Will Contact You\n\nGet In Touch\n\nWith Air Solutions LLC | Heating HVAC Air Conditioning\n\nContact\n\n(973) 694-3013\n\nAddress\n\n130 Oldham Rd, Wayne, NJ 07470\n\nEmail\n\nairsolutionsllc1@gmail.com\n\nAir Solutions LLC offer quality services to ensure a healthy and pleasant environment in your space.\n\nFacebook\n \nInstagram\n \nYoutube\n \nPinterest\n \nTwitter\nUtility Pages\nAbout Us\nTestimonial\nBlogs\nContact Us\nServices\nMaintenance\nInstallation\nCleaning\nHeating\nArea Served\n\nAir Solutions LLC 2023-2024\n\nCall US 973-694-3013",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://airsolutionsnj.com/contact-us/#content",
+        "https://airsolutionsnj.com/contact-us/#",
+        "https://airsolutionsnj.com/",
+        "https://airsolutionsnj.com/ac-repair/",
+        "https://airsolutionsnj.com/ac-installation/",
+        "https://airsolutionsnj.com/ac-maintenance/",
+        "https://airsolutionsnj.com/coil-cleaning-services/",
+        "https://airsolutionsnj.com/heating-repair/",
+        "https://airsolutionsnj.com/areas-served/",
+        "https://airsolutionsnj.com/contact-us/",
+        "https://airsolutionsnj.com/contact-us/#",
+        "https://airsolutionsnj.com/contact-us/#",
+        "https://airsolutionsnj.com/blogs/",
+        "https://airsolutionsnj.com/contact-us/#",
+        "https://airsolutionsnj.com/contact-us/#",
+        "https://airsolutionsnj.com/contact-us/#",
+        "https://airsolutionsnj.com/contact-us/#",
+        "https://airsolutionsnj.com/contact-us/#"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 16,
+    "at": "2026-11-03T23:09:52.403Z",
+    "statusCounts": {
+      "200": 15,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://airsolutionsnj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/air-solutions-llc-heating-hvac-air-conditioning/desktop-home.png",
+    "desktop_full": "evidence/screenshots/air-solutions-llc-heating-hvac-air-conditioning/desktop-home-full.png",
+    "desktop_booking": "evidence/screenshots/air-solutions-llc-heating-hvac-air-conditioning/desktop-booking.png",
+    "mobile_asis": "evidence/screenshots/air-solutions-llc-heating-hvac-air-conditioning/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00381700"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": true,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "emails": [
+      "airsolutionsllc1@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Facebook -> https://web.facebook.com/AirSolutionsllc",
+      "Request a service appointment -> https://airsolutionsnj.com/contact-us/",
+      "Facebook -> https://web.facebook.com/AirSolutionsllc"
+    ]
+  }
+}

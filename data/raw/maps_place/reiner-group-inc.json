@@ -1,0 +1,25 @@
+{
+  "id": "reiner-group-inc",
+  "placeUrl": "https://www.google.com/maps/place/Reiner+Group,+Inc./data=!4m7!3m6!1s0x89c2fba1dde19507:0x3b4c66aba67edb3e!8m2!3d40.9305099!4d-74.1313605!16s%2Fg%2F1thgcd29!19sChIJB5Xh3aH7wokRPtt-pqtmTDs",
+  "retrievedAt": "2026-11-03T22:57:41.147Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Reiner Group, Inc.",
+  "category": "HVAC contractor",
+  "address": "11-07 River Rd, Fair Lawn, NJ 07410, United States ",
+  "phone": "+1 201-371-7980 ",
+  "website": "https://www.reinerac.com/?utm_source=GBPlisting&utm_medium=organic",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–4:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Reiner+Group,+Inc./data=!4m7!3m6!1s0x89c2fba1dde19507:0x3b4c66aba67edb3e!8m2!3d40.9305099!4d-74.1313605!16s%2Fg%2F1thgcd29!19sChIJB5Xh3aH7wokRPtt-pqtmTDs?hl=en",
+  "screenshot": "evidence/screenshots/reiner-group-inc/google-maps-listing.png"
+}

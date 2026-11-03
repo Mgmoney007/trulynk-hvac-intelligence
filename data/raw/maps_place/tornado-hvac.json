@@ -1,0 +1,25 @@
+{
+  "id": "tornado-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Tornado+HVAC/data=!4m7!3m6!1s0x84430f118a04f673:0x94df8910fb8f4c3b!8m2!3d40.8818526!4d-74.1366667!16s%2Fg%2F11xn962qbm!19sChIJc_YEihEPQ4QRO0yP-xCJ35Q",
+  "retrievedAt": "2026-11-03T23:02:18.431Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Tornado HVAC",
+  "category": "Air conditioning repair service",
+  "address": "59 Piaget Ave, Clifton, NJ 07011, United States ",
+  "phone": "+1 551-444-1736 ",
+  "website": "https://tornadohvacnj.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–12 AM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Tornado+HVAC/data=!4m7!3m6!1s0x84430f118a04f673:0x94df8910fb8f4c3b!8m2!3d40.8818526!4d-74.1366667!16s%2Fg%2F11xn962qbm!19sChIJc_YEihEPQ4QRO0yP-xCJ35Q?hl=en",
+  "screenshot": "evidence/screenshots/tornado-hvac/google-maps-listing.png"
+}

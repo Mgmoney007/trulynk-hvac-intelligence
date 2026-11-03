@@ -1,0 +1,1233 @@
+{
+  "firecrawl": [],
+  "id": "residential-air-systems-inc",
+  "name": "residential-air-systems-inc",
+  "website": "http://www.comfortnj.com/",
+  "auditedAt": "2026-11-03T23:41:27.542Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://www.comfortnj.com/",
+      "at": "2026-11-03T23:41:31.451Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://comfortnj.com/",
+      "title": "Residential Air Systems, Inc – Trustworthy Heating and Cooling Services",
+      "ms": 3868,
+      "error": null,
+      "linkCount": 59
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://comfortnj.com/contact/",
+      "at": "2026-11-03T23:41:39.957Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://comfortnj.com/contact/",
+      "title": "Contact – Residential Air Systems, Inc",
+      "ms": 7211,
+      "error": null,
+      "linkCount": 61
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://comfortnj.com/about-us/",
+      "at": "2026-11-03T23:41:43.104Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://comfortnj.com/about-us/",
+      "title": "About us – Residential Air Systems, Inc",
+      "ms": 2516,
+      "error": null,
+      "linkCount": 57
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://www.comfortnj.com/",
+      "at": "2026-11-03T23:42:26.567Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://comfortnj.com/",
+      "title": "Residential Air Systems, Inc – Trustworthy Heating and Cooling Services",
+      "ms": 3017,
+      "error": null,
+      "linkCount": 59
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://comfortnj.com/",
+    "title": "Residential Air Systems, Inc – Trustworthy Heating and Cooling Services",
+    "lang": "en-US",
+    "metaDescription": null,
+    "h1": [
+      "YOUR COMFORT IS OUR #1 PRIORITY",
+      "24/7 SERVICE, INSTALLATION, & REPAIR",
+      "REQUEST A CALL BACK"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 3149,
+    "bodyText": "ESSEX COUNTY, NJ\nNEWARK & \nSURROUNDING AREAS\n1-855-654-5411\n24/7 EMERGENCY\nSERVICE AVAILABLE\nWHY CHOOSE US\nHEATING\nCOOLING\nINDOOR AIR QUALITY\nENERGY\nCONTACT US\nSCHEDULE A QUOTE TODAY\n\nEstablished in 1987\n\nYOUR COMFORT IS OUR #1 PRIORITY\n\nWe provide residential and commercial HVAC solutions at competitive rates.\n\nFinancing Available\nSchedule An Appointment\n  \nOur Current Promotion:\nNEW CUSTOMER DISCOUNT: $50 OFF*\nYOUR LOCAL HEATING & COOLING EXPERTS\nAC \nFURNACE \nINDOOR AIR QUALITY \nCOMMERCIAL COOLING \n24/7 SERVICE, INSTALLATION, & REPAIR\n\nOur service technicians are ready to respond to your service call 24/7, no matter your location. Our friendly technicians regularly attend training programs, upgrade their skills, and learn about new products in order to provide you with the highest quality workmanship.\n\nMORE ABOUT US \n\n\nREQUEST A CALL BACK\n\nWhether you are looking to repair, install, upgrade, or service your plumbing or HVAC systems, we are here to help. We offer industry leading products with industry leading warranties and expert staff to identify your needs.\n\nSEND MESSAGE\nESSEX COUNTY, NJ\nNEWARK & \nSURROUNDING AREAS\n1-855-654-5411\n24/7 EMERGENCY\nSERVICE AVAILABLE\nAbout Us\n|\nHeating\n|\nCooling\n|\nIndoor Air quality\n|\nFinancing\n|\nPromotions\n|\nFurnace FAQ\n|\nAC FAQ\n|\nContact Us\n\nCopyright © 2026 Residential Air Systems, Inc. All Rights Reserved. Privacy Policy",
+    "links": [
+      {
+        "href": "https://comfortnj.com/",
+        "abs": "https://comfortnj.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 280,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:1-855-654-5411",
+        "abs": "tel:1-855-654-5411",
+        "text": "1-855-654-5411",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 116,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/contact/",
+        "abs": "https://comfortnj.com/contact/",
+        "text": "24/7 EMERGENCY SERVICE AVAILABLE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 190,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://comfortnj.com/#",
+        "text": "WHY CHOOSE US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 179,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/about-us/",
+        "abs": "https://comfortnj.com/about-us/",
+        "text": "About us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/promotions/",
+        "abs": "https://comfortnj.com/promotions/",
+        "text": "Promotions",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/financing/",
+        "abs": "https://comfortnj.com/financing/",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/reviews/",
+        "abs": "https://comfortnj.com/reviews/",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/mitsubishi-electric-mini-splits/",
+        "abs": "https://comfortnj.com/mitsubishi-electric-mini-splits/",
+        "text": "Mitsubishi Electric Mini Splits",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://comfortnj.com/#",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 117,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/heat-pumps/",
+        "abs": "https://comfortnj.com/services/heat-pumps/",
+        "text": "Heat Pumps",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/furnace-repair/",
+        "abs": "https://comfortnj.com/services/furnace-repair/",
+        "text": "FURNACE REPAIR",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/furnace-installation/",
+        "abs": "https://comfortnj.com/services/furnace-installation/",
+        "text": "FURNACE INSTALLATION",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/commercial-heating/",
+        "abs": "https://comfortnj.com/services/commercial-heating/",
+        "text": "Commercial Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/replacements/",
+        "abs": "https://comfortnj.com/services/replacements/",
+        "text": "Replacements",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/oil-to-gas-conversion/",
+        "abs": "https://comfortnj.com/services/oil-to-gas-conversion/",
+        "text": "Oil to Gas Conversion",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/gas-furnaces/",
+        "abs": "https://comfortnj.com/services/gas-furnaces/",
+        "text": "Gas Furnaces",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/gas-boilers/",
+        "abs": "https://comfortnj.com/services/gas-boilers/",
+        "text": "Gas Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://comfortnj.com/#",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 121,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/ac-installation/",
+        "abs": "https://comfortnj.com/services/ac-installation/",
+        "text": "AC Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/ac-repair/",
+        "abs": "https://comfortnj.com/services/ac-repair/",
+        "text": "AC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/commercial-cooling/",
+        "abs": "https://comfortnj.com/services/commercial-cooling/",
+        "text": "Commercial Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/mini-splits/",
+        "abs": "https://comfortnj.com/services/mini-splits/",
+        "text": "Mini-Splits",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/ductwork-installation/",
+        "abs": "https://comfortnj.com/services/ductwork-installation/",
+        "text": "Ductwork Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://comfortnj.com/#",
+        "text": "INDOOR AIR QUALITY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 217,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/indoor-air-quality/",
+        "abs": "https://comfortnj.com/services/indoor-air-quality/",
+        "text": "Indoor Air Quality",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/humidifiers/",
+        "abs": "https://comfortnj.com/services/humidifiers/",
+        "text": "Humidifiers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/dehumidifiers/",
+        "abs": "https://comfortnj.com/services/dehumidifiers/",
+        "text": "DeHumidifiers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/aprilaire-air-cleaner/",
+        "abs": "https://comfortnj.com/services/aprilaire-air-cleaner/",
+        "text": "Aprilaire Air Cleaner",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/iwave-air-purifier/",
+        "abs": "https://comfortnj.com/services/iwave-air-purifier/",
+        "text": "iWave Air Purifier",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/reme-halo/",
+        "abs": "https://comfortnj.com/services/reme-halo/",
+        "text": "Reme Halo",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://comfortnj.com/#",
+        "text": "ENERGY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 109,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/thermostats/",
+        "abs": "https://comfortnj.com/services/thermostats/",
+        "text": "Thermostats",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/nexia/",
+        "abs": "https://comfortnj.com/services/nexia/",
+        "text": "Nexia",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/contact/",
+        "abs": "https://comfortnj.com/contact/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 135,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/contact/",
+        "abs": "https://comfortnj.com/contact/",
+        "text": "SCHEDULE A QUOTE TODAY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 216,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://comfortnj.com/financing/",
+        "text": "Financing Available",
+        "visible": true,
+        "aboveFold": true,
+        "h": 48,
+        "w": 300,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/contact/#contact-form-spot",
+        "abs": "https://comfortnj.com/contact/#contact-form-spot",
+        "text": "Schedule An Appointment",
+        "visible": true,
+        "aboveFold": true,
+        "h": 48,
+        "w": 300,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/promotions/",
+        "abs": "https://comfortnj.com/promotions/",
+        "text": "Our Current Promotion: NEW CUSTOMER DISCOUNT: $50 OFF*",
+        "visible": true,
+        "aboveFold": true,
+        "h": 113,
+        "w": 1130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/ac-installation/",
+        "abs": "https://comfortnj.com/services/ac-installation/",
+        "text": "AC",
+        "visible": true,
+        "aboveFold": false,
+        "h": 399,
+        "w": 278,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/furnace-installation/",
+        "abs": "https://comfortnj.com/services/furnace-installation/",
+        "text": "FURNACE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 399,
+        "w": 278,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/indoor-air-quality/",
+        "abs": "https://comfortnj.com/services/indoor-air-quality/",
+        "text": "INDOOR AIR QUALITY",
+        "visible": true,
+        "aboveFold": false,
+        "h": 399,
+        "w": 278,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/services/commercial-cooling/",
+        "abs": "https://comfortnj.com/services/commercial-cooling/",
+        "text": "COMMERCIAL COOLING",
+        "visible": true,
+        "aboveFold": false,
+        "h": 399,
+        "w": 278,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/about-us/",
+        "abs": "https://comfortnj.com/about-us/",
+        "text": "MORE ABOUT US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 173,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://comfortnj.com/",
+        "abs": "https://comfortnj.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 280,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:1-855-654-5411",
+        "abs": "tel:1-855-654-5411",
+        "text": "1-855-654-5411",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 116,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://comfortnj.com/contact/",
+        "abs": "https://comfortnj.com/contact/",
+        "text": "24/7 EMERGENCY SERVICE AVAILABLE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 190,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:1-855-654-5411",
+        "abs": "tel:1-855-654-5411",
+        "text": "Call us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://comfortnj.com/contact/#contact-form-spot",
+        "abs": "https://comfortnj.com/contact/#contact-form-spot",
+        "text": "Email Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/about-us/",
+        "abs": "https://comfortnj.com/about-us/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 87,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/furnace-installation/",
+        "abs": "https://comfortnj.com/furnace-installation/",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 78,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-installation/",
+        "abs": "https://comfortnj.com/ac-installation/",
+        "text": "Cooling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 77,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/indoor-air-quality/",
+        "abs": "https://comfortnj.com/indoor-air-quality/",
+        "text": "Indoor Air quality",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 135,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://comfortnj.com/financing/",
+        "text": "Financing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 89,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/promotions/",
+        "abs": "https://comfortnj.com/promotions/",
+        "text": "Promotions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 102,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/furnace-faq/",
+        "abs": "https://comfortnj.com/furnace-faq/",
+        "text": "Furnace FAQ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 108,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-faq/",
+        "abs": "https://comfortnj.com/ac-faq/",
+        "text": "AC FAQ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 76,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://comfortnj.com/contact/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 97,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://comfortnj.com/privacy-policy/",
+        "abs": "https://comfortnj.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 18,
+        "w": 80,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "MENU",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "SEND MESSAGE",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "/#wpcf7-f27-o1",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 7,
+        "fieldNames": [
+          "your-name",
+          "your-email",
+          "your-phone-number",
+          "honeypot-validation",
+          "your-zip-code",
+          "your-message",
+          "_wpcf7_ak_hp_textarea"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/destination?id=AW-788432684&cx=c&gtm=4e6b21",
+      "https://380651.tctm.co/t.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-TXZWF8H40G&cx=c&gtm=4e6b21",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-P9HNNP2",
+      "https://www.clickcease.com/monitor/stat.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/788432684/?random=1793749290163&cv=11&fst=1793749290163&bg=ffffff&guid=ON&async=1&gtm=45be6b21v9210556113z8863679579za20gzb863679579zd863679579xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370~123814944&u_w=1366&u_h=900&url=https%3A%2F%2Fcomfortnj.com%2F&rcb=19&frm=0&tiba=Residential%20Air%20Systems%2C%20Inc%20%E2%80%93%20Trustworthy%20Heating%20and%20Cooling%20Services&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1053087994.1793749290&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=4",
+      "https://connect.podium.com/widget.js#API_TOKEN=f215a1d7-1ed3-4068-aada-b2d5e36179ce",
+      "https://comfortnj.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "https://comfortnj.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "https://comfortnj.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=1793308273",
+      "https://comfortnj.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1793308273",
+      "https://comfortnj.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://comfortnj.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://comfortnj.com/wp-content/cache/min/1/wp-content/themes/sk-theme-one/dist/scripts/main_5d2b7822.js?ver=1793308273",
+      "https://comfortnj.com/wp-content/cache/min/1/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1793308273",
+      "https://comfortnj.com/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js",
+      "https://cdn.searchkings.ca/galaxy/galaxy.min.js"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 13,
+    "timing": {
+      "dcl": 1796,
+      "load": 2879,
+      "ttfb": 933
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://comfortnj.com/",
+    "navMs": 3868,
+    "tel": [
+      {
+        "href": "tel:1-855-654-5411",
+        "text": "1-855-654-5411",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18556545411"
+      },
+      {
+        "href": "tel:1-855-654-5411",
+        "text": "1-855-654-5411",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18556545411"
+      },
+      {
+        "href": "tel:1-855-654-5411",
+        "text": "Call us",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18556545411"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "CallTrackingMetrics",
+        "kind": "call_tracking"
+      },
+      {
+        "name": "Podium",
+        "kind": "messaging"
+      },
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://comfortnj.com/",
+    "navMs": 3017,
+    "timing": {
+      "dcl": 1357,
+      "load": 2313,
+      "ttfb": 681
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 405,
+    "horizontalOverflow": true,
+    "tel": [
+      {
+        "href": "tel:1-855-654-5411",
+        "text": "1-855-654-5411",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18556545411"
+      },
+      {
+        "href": "tel:1-855-654-5411",
+        "text": "1-855-654-5411",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18556545411"
+      },
+      {
+        "href": "tel:1-855-654-5411",
+        "text": "CALL US",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18556545411"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "CALL US"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "bottom_bar",
+        "cover": 0.081,
+        "sig": " mobile-cta d-block d-sm-none ",
+        "text": " call us\n email us"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 0,
+    "brokenImages": [],
+    "textChars": 1203
+  },
+  "pages": {
+    "contact": {
+      "url": "https://comfortnj.com/contact/",
+      "finalUrl": "https://comfortnj.com/contact/",
+      "status": 200,
+      "title": "Contact – Residential Air Systems, Inc",
+      "forms": [
+        {
+          "action": "/contact/#wpcf7-f27-p15-o1",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init",
+          "fieldCount": 7,
+          "fieldNames": [
+            "your-name",
+            "your-email",
+            "your-phone-number",
+            "honeypot-validation",
+            "your-zip-code",
+            "your-message",
+            "_wpcf7_ak_hp_textarea"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:1-855-654-5411",
+          "text": "1-855-654-5411",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18556545411"
+        },
+        {
+          "href": "tel:1-855-654-5411",
+          "text": "Tel 1-855-654-5411",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18556545411"
+        },
+        {
+          "href": "tel:1-855-654-5411",
+          "text": "1-855-654-5411",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18556545411"
+        },
+        {
+          "href": "tel:1-855-654-5411",
+          "text": "Call us",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18556545411"
+        }
+      ],
+      "owners": [],
+      "bodyText": "ESSEX COUNTY, NJ\nNEWARK & \nSURROUNDING AREAS\n1-855-654-5411\n24/7 EMERGENCY\nSERVICE AVAILABLE\nWHY CHOOSE US\nHEATING\nCOOLING\nINDOOR AIR QUALITY\nENERGY\nCONTACT US\nSCHEDULE A QUOTE TODAY\nSCHEDULE AN APPOINTMENT TODAY!\n\nWe would love to hear from you! If you have any questions or concerns, let us know, and we will get back to you right away.\n\nSEND MESSAGE\nOFFICE ADDRESS\n59 Village Park Road, Cedar Grove, NJ 07009\nPHONE NUMBER\nTel 1-855-654-5411\nFAX\n 973-227-0995\nSTANDARD WORK SCHEDULE\nMONDAY THRU FRIDAY\n 7:30 AM - 4 PM\nSATURDAY\n 8 AM - 12 PM\nSUNDAY\n CLOSED\nKeyboard shortcuts\nMap data ©2026 Google\nTerms\nReport a map error\nYOUR LOCAL HEATING & COOLING EXPERTS\nAC \nFURNACE \nINDOOR AIR QUALITY \nCOMMERCIAL COOLING \n24/7 SERVICE, INSTALLATION, & REPAIR\n\nOur service technicians are ready to respond to your service call 24/7, no matter your location. Our friendly technicians regularly attend training programs, upgrade their skills, and learn about new products in order to provide you with the highest quality workmanship.\n\nMORE ABOUT US \n\n\nESSEX COUNTY, NJ\nNEWARK & \nSURROUNDING AREAS\n1-855-654-5411\n24/7 EMERGENCY\nSERVICE AVAILABLE\nAbout Us\n|\nHeating\n|\nCooling\n|\nIndoor Air quality\n|\nFinancing\n|\nPromotions\n|\nFurnace FAQ\n|\nAC FAQ\n|\nContact Us\n\nCopyright © 2026 Residential Air Systems, Inc. All Rights Reserved. Privacy Policy",
+      "vendors": [
+        {
+          "name": "CallTrackingMetrics",
+          "kind": "call_tracking"
+        },
+        {
+          "name": "Podium",
+          "kind": "messaging"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://comfortnj.com/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/contact/#",
+        "https://comfortnj.com/about-us/",
+        "https://comfortnj.com/promotions/",
+        "https://comfortnj.com/financing/",
+        "https://comfortnj.com/reviews/",
+        "https://comfortnj.com/mitsubishi-electric-mini-splits/",
+        "https://comfortnj.com/contact/#",
+        "https://comfortnj.com/services/heat-pumps/",
+        "https://comfortnj.com/services/furnace-repair/",
+        "https://comfortnj.com/services/furnace-installation/",
+        "https://comfortnj.com/services/commercial-heating/",
+        "https://comfortnj.com/services/replacements/",
+        "https://comfortnj.com/services/oil-to-gas-conversion/",
+        "https://comfortnj.com/services/gas-furnaces/",
+        "https://comfortnj.com/services/gas-boilers/",
+        "https://comfortnj.com/contact/#",
+        "https://comfortnj.com/services/ac-installation/",
+        "https://comfortnj.com/services/ac-repair/",
+        "https://comfortnj.com/services/commercial-cooling/",
+        "https://comfortnj.com/services/mini-splits/",
+        "https://comfortnj.com/services/ductwork-installation/",
+        "https://comfortnj.com/contact/#",
+        "https://comfortnj.com/services/indoor-air-quality/",
+        "https://comfortnj.com/services/humidifiers/",
+        "https://comfortnj.com/services/dehumidifiers/",
+        "https://comfortnj.com/services/aprilaire-air-cleaner/",
+        "https://comfortnj.com/services/iwave-air-purifier/",
+        "https://comfortnj.com/services/reme-halo/",
+        "https://comfortnj.com/contact/#",
+        "https://comfortnj.com/services/thermostats/",
+        "https://comfortnj.com/services/nexia/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/services/ac-installation/",
+        "https://comfortnj.com/services/furnace-installation/",
+        "https://comfortnj.com/services/indoor-air-quality/",
+        "https://comfortnj.com/services/commercial-cooling/",
+        "https://comfortnj.com/about-us/",
+        "https://comfortnj.com/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/contact/#contact-form-spot",
+        "https://comfortnj.com/about-us/",
+        "https://comfortnj.com/furnace-installation/",
+        "https://comfortnj.com/ac-installation/",
+        "https://comfortnj.com/indoor-air-quality/",
+        "https://comfortnj.com/financing/",
+        "https://comfortnj.com/promotions/",
+        "https://comfortnj.com/furnace-faq/",
+        "https://comfortnj.com/ac-faq/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/privacy-policy/"
+      ]
+    },
+    "about": {
+      "url": "https://comfortnj.com/about-us/",
+      "finalUrl": "https://comfortnj.com/about-us/",
+      "status": 200,
+      "title": "About us – Residential Air Systems, Inc",
+      "forms": [
+        {
+          "action": "/about-us/#wpcf7-f27-p740-o1",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init",
+          "fieldCount": 7,
+          "fieldNames": [
+            "your-name",
+            "your-email",
+            "your-phone-number",
+            "honeypot-validation",
+            "your-zip-code",
+            "your-message",
+            "_wpcf7_ak_hp_textarea"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:1-855-654-5411",
+          "text": "1-855-654-5411",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18556545411"
+        },
+        {
+          "href": "tel:1-855-654-5411",
+          "text": "1-855-654-5411",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18556545411"
+        },
+        {
+          "href": "tel:1-855-654-5411",
+          "text": "Call us",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18556545411"
+        }
+      ],
+      "owners": [],
+      "bodyText": "ESSEX COUNTY, NJ\nNEWARK & \nSURROUNDING AREAS\n1-855-654-5411\n24/7 EMERGENCY\nSERVICE AVAILABLE\nWHY CHOOSE US\nHEATING\nCOOLING\nINDOOR AIR QUALITY\nENERGY\nCONTACT US\nSCHEDULE A QUOTE TODAY\nABOUT US\n\nResidential Air Systems has been serving customers in Northern New Jersey and beyond for over 30 years. We’re looking forward to helping you with your heating and air conditioning needs today and in the future.\n\nYour comfort and the comfort of those around you are our number one priority. Call us today to have all of your questions answered. From a quick quote to filter questions, from noise in your unit to questions on why your heating bill seems so high, we are here to help!\n\nWE ARE PROUD TO PROVIDE OUR CUSTOMERS WITH:\nResidential and commercial services\n24/7 emergency services\nOver three decades of experience\nLicensed and certified technicians\nFinancing available\nService for all makes and models\nFleet of fully stocked trucks\nOur Current Promotion:\nNEW CUSTOMER DISCOUNT: $50 OFF*\nGET A FREE QUOTE TODAY!\n\nSEND MESSAGE\nYOUR LOCAL HEATING & COOLING EXPERTS\nAC \nFURNACE \nINDOOR AIR QUALITY \nCOMMERCIAL COOLING \n24/7 SERVICE, INSTALLATION, & REPAIR\n\nOur service technicians are ready to respond to your service call 24/7, no matter your location. Our friendly technicians regularly attend training programs, upgrade their skills, and learn about new products in order to provide you with the highest quality workmanship.\n\nMORE ABOUT US \n\n\nESSEX COUNTY, NJ\nNEWARK & \nSURROUNDING AREAS\n1-855-654-5411\n24/7 EMERGENCY\nSERVICE AVAILABLE\nAbout Us\n|\nHeating\n|\nCooling\n|\nIndoor Air quality\n|\nFinancing\n|\nPromotions\n|\nFurnace FAQ\n|\nAC FAQ\n|\nContact Us\n\nCopyright © 2026 Residential Air Systems, Inc. All Rights Reserved. Privacy Policy",
+      "vendors": [
+        {
+          "name": "CallTrackingMetrics",
+          "kind": "call_tracking"
+        },
+        {
+          "name": "Podium",
+          "kind": "messaging"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://comfortnj.com/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/about-us/#",
+        "https://comfortnj.com/about-us/",
+        "https://comfortnj.com/promotions/",
+        "https://comfortnj.com/financing/",
+        "https://comfortnj.com/reviews/",
+        "https://comfortnj.com/mitsubishi-electric-mini-splits/",
+        "https://comfortnj.com/about-us/#",
+        "https://comfortnj.com/services/heat-pumps/",
+        "https://comfortnj.com/services/furnace-repair/",
+        "https://comfortnj.com/services/furnace-installation/",
+        "https://comfortnj.com/services/commercial-heating/",
+        "https://comfortnj.com/services/replacements/",
+        "https://comfortnj.com/services/oil-to-gas-conversion/",
+        "https://comfortnj.com/services/gas-furnaces/",
+        "https://comfortnj.com/services/gas-boilers/",
+        "https://comfortnj.com/about-us/#",
+        "https://comfortnj.com/services/ac-installation/",
+        "https://comfortnj.com/services/ac-repair/",
+        "https://comfortnj.com/services/commercial-cooling/",
+        "https://comfortnj.com/services/mini-splits/",
+        "https://comfortnj.com/services/ductwork-installation/",
+        "https://comfortnj.com/about-us/#",
+        "https://comfortnj.com/services/indoor-air-quality/",
+        "https://comfortnj.com/services/humidifiers/",
+        "https://comfortnj.com/services/dehumidifiers/",
+        "https://comfortnj.com/services/aprilaire-air-cleaner/",
+        "https://comfortnj.com/services/iwave-air-purifier/",
+        "https://comfortnj.com/services/reme-halo/",
+        "https://comfortnj.com/about-us/#",
+        "https://comfortnj.com/services/thermostats/",
+        "https://comfortnj.com/services/nexia/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/promotions/",
+        "https://comfortnj.com/services/ac-installation/",
+        "https://comfortnj.com/services/furnace-installation/",
+        "https://comfortnj.com/services/indoor-air-quality/",
+        "https://comfortnj.com/services/commercial-cooling/",
+        "https://comfortnj.com/about-us/",
+        "https://comfortnj.com/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/contact/#contact-form-spot",
+        "https://comfortnj.com/about-us/",
+        "https://comfortnj.com/furnace-installation/",
+        "https://comfortnj.com/ac-installation/",
+        "https://comfortnj.com/indoor-air-quality/",
+        "https://comfortnj.com/financing/",
+        "https://comfortnj.com/promotions/",
+        "https://comfortnj.com/furnace-faq/",
+        "https://comfortnj.com/ac-faq/",
+        "https://comfortnj.com/contact/",
+        "https://comfortnj.com/privacy-policy/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 34,
+    "at": "2026-11-03T23:42:23.503Z",
+    "statusCounts": {
+      "200": 34
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://comfortnj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/residential-air-systems-inc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/residential-air-systems-inc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/residential-air-systems-inc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/residential-air-systems-inc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/residential-air-systems-inc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": true
+    },
+    "copyrightYear": 2026,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": [
+      "SCHEDULE A QUOTE TODAY -> https://comfortnj.com/contact/",
+      "Schedule An Appointment -> https://comfortnj.com/contact/#contact-form-spot"
+    ]
+  },
+  "ctaClickTests": []
+}

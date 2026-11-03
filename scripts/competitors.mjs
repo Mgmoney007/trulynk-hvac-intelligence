@@ -40,17 +40,24 @@ async function features(id) {
   const vendors = [...(d?.vendors || []), ...Object.values(a.pages || {}).flatMap(p => p.vendors || [])];
   const servicePaths = new Set((d?.links || []).filter(l => l.abs && /^https?:/.test(l.abs)).map(l => { try { return new URL(l.abs).pathname.replace(/\/$/, ''); } catch { return ''; } }).filter(p => p.length > 1 && SERVICE_PATH_RX.test(p)));
   const pos = qpos.get(c.placeId) || [];
+  // Unknown stays unknown: without a browser audit, site features are null unless the site is verifiably down/empty.
+  const siteDown = (a.retrieval || []).some(r => r.step === 'desktop_home' && r.access === 'http_error' && r.status >= 500) && !(a.firecrawl || []).some(x => x.statusCode < 400)
+    || !!manual[id]?.extraFindings?.some(f => f.code === 'A-EMPTY-WEBSITE') || /future home of something quite cool/i.test(d?.bodyText || '');
+  const known = !!d || siteDown;
+  const fcTel = (a.firecrawl || []).some(x => (x.tel || []).length);
+  const k = v => (known ? v : null);
   const county = countyForCity(parseAddress(pl?.address).city) || manual[id]?.county || null;
   return {
     id, name: pl?.name || c.name, website: c.website, county, latLng: c.latLng, audited: !!d,
-    tel_links: [...(d?.tel || []), ...(m?.tel || [])].length > 0, tel_malformed: [...(d?.tel || []), ...(m?.tel || [])].some(t => t.problem),
+    site_status: d ? 'audited' : siteDown ? 'down/empty (verified)' : (a.firecrawl || []).length ? 'browser blocked; Firecrawl only' : 'not retrievable',
+    tel_links: d ? [...(d?.tel || []), ...(m?.tel || [])].length > 0 : siteDown ? false : fcTel ? true : null, tel_malformed: k([...(d?.tel || []), ...(m?.tel || [])].some(t => t.problem)),
     mobile_call_above_fold: m ? !!m.telAboveFold : null, mobile_cta_above_fold: m ? (m.telAboveFold || (m.ctaAboveFold || []).length > 0) : null,
-    email_published: (s.emails || []).length > 0, web_form: forms > 0, online_booking: vendors.some(v => ['field_service', 'scheduling'].includes(v.kind)),
-    booking_cta_text: (s.bookingLinkTexts || []).length > 0, chat_or_text: vendors.some(v => ['chat', 'messaging', 'reviews_messaging'].includes(v.kind)),
+    email_published: k((s.emails || []).length > 0), web_form: k(forms > 0), online_booking: k( vendors.some(v => ['field_service', 'scheduling'].includes(v.kind))),
+    booking_cta_text: k((s.bookingLinkTexts || []).length > 0), chat_or_text: k(vendors.some(v => ['chat', 'messaging', 'reviews_messaging'].includes(v.kind))),
     mobile_layout_ok: m ? (!!m.viewportMeta && !m.horizontalOverflow) : null, mobile_blocking_overlay: m ? m.maxBlockingCover > 0.3 : null,
-    service_page_links: servicePaths.size, financing: !!s.financing, license_shown: (s.njLicenses || []).length > 0, testimonials: !!s.testimonials,
-    tenure: s.sinceYear ? `since ${s.sinceYear}` : s.yearsClaim ? `${s.yearsClaim}+ yrs` : null, maintenance_plan: !!s.maintenancePlan,
-    broken_links: (a.linkCheck?.broken || []).filter(x => x.reproduced).length,
+    service_page_links: k(servicePaths.size), financing: k(!!s.financing), license_shown: k((s.njLicenses || []).length > 0), testimonials: k(!!s.testimonials),
+    tenure: s.sinceYear ? `since ${s.sinceYear}` : s.yearsClaim ? `${s.yearsClaim}+ yrs` : null, maintenance_plan: k(!!s.maintenancePlan),
+    broken_links: d ? (a.linkCheck?.broken || []).filter(x => x.reproduced).length : null,
     google_rating: pl?.rating ?? null, bbb_rating: b?.match?.rating || null,
     maps_query_hits: pos.length, maps_queries_in_county: queriesByCounty[county] || null, maps_best_position: pos.length ? Math.min(...pos.map(p => p.position)) : null,
   };

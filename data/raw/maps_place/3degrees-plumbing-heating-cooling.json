@@ -1,0 +1,25 @@
+{
+  "id": "3degrees-plumbing-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/3Degrees+Plumbing+Heating+Cooling/data=!4m7!3m6!1s0x89c2fed28e83ab29:0xc3a7b1ddcfd6245a!8m2!3d40.8630554!4d-74.1261696!16s%2Fg%2F11f9xjmt8f!19sChIJKauDjtL-wokRWiTWz92xp8M",
+  "retrievedAt": "2026-11-03T23:03:24.123Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "3Degrees Plumbing Heating Cooling",
+  "category": "HVAC contractor",
+  "address": "209 Madison St, Passaic, NJ 07055, United States ",
+  "phone": "+1 201-822-9432 ",
+  "website": "http://call3degrees.com/?utm_campaign=gmb",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/3Degrees+Plumbing+Heating+Cooling/data=!4m7!3m6!1s0x89c2fed28e83ab29:0xc3a7b1ddcfd6245a!8m2!3d40.8630554!4d-74.1261696!16s%2Fg%2F11f9xjmt8f!19sChIJKauDjtL-wokRWiTWz92xp8M?hl=en",
+  "screenshot": "evidence/screenshots/3degrees-plumbing-heating-cooling/google-maps-listing.png"
+}

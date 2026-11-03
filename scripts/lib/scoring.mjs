@@ -1,6 +1,7 @@
 // Opportunity Score and Evidence Confidence. Deterministic, independent, and transparent:
 // every sub-criterion reports { max, points, assessed, basis }. Unassessed criteria are never scored as zero.
 
+const SITE_DOWN_CODES = ['A-LISTING-WEBSITE-ERROR', 'A-EMPTY-WEBSITE'];
 export const OPP_WEIGHTS = { fixable: 30, economic: 25, conversion: 20, automation: 10, accessibility: 10, reputation: 5 };
 const SEV_RANK = { high: 3, medium: 2, low: 1, none: 0 };
 
@@ -12,24 +13,26 @@ export function opportunityScore(co, audit, findings) {
   const desktopOk = !!audit?.desktop;
   const mobileOk = !!audit?.mobile;
   const fcOk = (audit?.firecrawl || []).some(x => x.statusCode && x.statusCode < 400);
+  // A verified non-working website (server error / empty page) is itself the assessment: customers cannot use it.
+  const siteDown = findings.some(f => SITE_DOWN_CODES.includes(f.code) && f.status === 'Verified');
   const S = {};
 
   // A. Fixable customer-facing problems (30)
   {
     const defects = findings.filter(f => f.criterion === 'fixable' && f.kind === 'defect')
       .sort((a, b) => (SEV_RANK[b.severity] - SEV_RANK[a.severity]) || (Number(b.conversionPath) - Number(a.conversionPath)));
-    let pts = 0, firstHighUsed = false;
+    let pts = 0, firstHighUsed = false, lowPts = 0;
     const basis = [];
     for (const f of defects) {
       const mult = f.status === 'Verified' ? 1 : 0.5;
       let p;
       if (f.severity === 'high') { p = !firstHighUsed ? 24 : 6; firstHighUsed = true; }
       else if (f.severity === 'medium') p = 10;
-      else p = 3;
+      else { p = Math.max(0, Math.min(3, 6 - lowPts)); lowPts += p; } // low-severity items: 3 each, at most 6 in total
       pts += p * mult;
       basis.push(`${f.code}(${f.severity}${mult < 1 ? ',half:' + f.status : ''})=${p * mult}`);
     }
-    if (desktopOk) S.fixable = sub(30, pts, true, basis.join('; ') || 'No fixable defects found on audited pages');
+    if (desktopOk || siteDown) S.fixable = sub(30, pts, true, basis.join('; ') || 'No fixable defects found on audited pages');
     else if (fcOk) { S.fixable = sub(15, pts, true, (basis.join('; ') || 'none found') + ' [Firecrawl-only partial audit]'); S.fixable_unassessed = sub(15, 0, false, 'Browser audit blocked'); }
     else S.fixable = sub(30, 0, false, 'Site could not be audited');
   }
@@ -68,8 +71,12 @@ export function opportunityScore(co, audit, findings) {
       if (mobileCodes.has(f.code)) mp += p; else dp += p;
       basis.push(`${f.code}=${p}`);
     }
-    S.conv_desktop = sub(12, dp, desktopOk, desktopOk ? basis.filter(b => !/MOBILE|OVERLAY/.test(b)).join('; ') || 'No desktop friction found' : 'Desktop not audited');
-    S.conv_mobile = sub(8, mp, mobileOk, mobileOk ? basis.filter(b => /MOBILE|OVERLAY/.test(b)).join('; ') || 'No mobile friction found' : 'Mobile view blocked/not audited');
+    if (!desktopOk && siteDown) {
+      S.conv_desktop = sub(12, 12, true, 'Website unusable (verified site-down/empty page): maximum desktop friction');
+      const mobileFailedToo = (audit?.accessFailures || []).some(a => a.step === 'mobile_home') || !audit?.mobile;
+      S.conv_mobile = sub(8, mobileFailedToo ? 8 : mp, true, mobileFailedToo ? 'Website unusable on mobile as well: maximum mobile friction' : 'Mobile view audited');
+    } else S.conv_desktop = sub(12, dp, desktopOk, desktopOk ? basis.filter(b => !/MOBILE|OVERLAY/.test(b)).join('; ') || 'No desktop friction found' : 'Desktop not audited');
+    if (!(!desktopOk && siteDown)) S.conv_mobile = sub(8, mp, mobileOk, mobileOk ? basis.filter(b => /MOBILE|OVERLAY/.test(b)).join('; ') || 'No mobile friction found' : 'Mobile view blocked/not audited');
   }
 
   // D. Operational automation potential (10) — signals only; all Requires Client Verification.
@@ -93,7 +100,9 @@ export function opportunityScore(co, audit, findings) {
     const r = co.gbpRating, n = co.gbpReviews;
     S.rep_rating = sub(2, r != null && n >= 10 && r < 4.5 ? 2 : r != null && n >= 10 && r < 4.7 ? 1 : 0, r != null && n != null, r != null ? `${r} stars / ${n} reviews` : 'Rating not retrieved');
     S.rep_volume = sub(1, n != null && n < 50 ? 1 : 0, n != null, n != null ? `${n} reviews` : 'Review count not retrieved');
-    S.rep_gbp_claim = sub(2, co.gbpClaimPrompt ? 2 : 0, co.gbpPlaceRetrieved === true, co.gbpPlaceRetrieved ? (co.gbpClaimPrompt ? '"Claim this business" prompt shown on public listing' : 'Listing appears claimed') : 'Listing page not retrieved');
+    // Google's logged-out "limited view" hides the claim prompt, so its absence proves nothing.
+    const claimAssessable = co.gbpPlaceRetrieved === true && !co.gbpLimitedView;
+    S.rep_gbp_claim = sub(2, co.gbpClaimPrompt ? 2 : 0, claimAssessable || !!co.gbpClaimPrompt, co.gbpClaimPrompt ? '"Claim this business" prompt shown on public listing' : claimAssessable ? 'Listing appears claimed' : 'Claim status not visible in Google limited view');
   }
 
   const parts = Object.values(S);
@@ -173,22 +182,34 @@ const round1 = x => Math.round(x * 10) / 10;
 export function assignPriority(co, opp, conf, findings) {
   if (co.excluded) return { tier: 'D', reason: `Excluded: ${co.excludeReason}` };
   const verifiedFixable = findings.filter(f => f.criterion === 'fixable' && f.kind === 'defect' && f.status === 'Verified' && SEV_RANK[f.severity] >= 2);
+  // Capacity gate: at least half of the economic points that could be assessed. (Originally an absolute 12/25; normalised
+  // after the first run because Google review counts, worth 10 of the 25, are not retrievable in this environment.)
   const econ = opp.byCriterion.economic.points;
+  const econRatio = opp.byCriterion.economic.assessedMax ? econ / opp.byCriterion.economic.assessedMax : 0;
   const route = !!co.gbpPhone && (!!co.decisionMaker?.name || opp.subcriteria.access_channels.points >= 3);
   const score = opp.provisional;
-  const capacityConcern = co.gbpReviews != null && co.gbpReviews < 10 && !(opp.subcriteria.econ_tenure.assessed && opp.subcriteria.econ_tenure.points >= 4);
+  // Capacity: Google review counts are not retrievable here, so require at least one observable operating-capacity signal.
+  const capacitySignals = [
+    opp.subcriteria.econ_tenure.assessed && opp.subcriteria.econ_tenure.points >= 2,
+    opp.subcriteria.econ_scale.points > 0,
+    co.gbpReviews != null && co.gbpReviews >= 20,
+    !!co.bbb?.matched,
+  ].filter(Boolean).length;
+  const capacityConcern = opp.provisional != null && capacitySignals === 0;
   if (score == null) return { tier: 'C', reason: `Evidence coverage ${Math.round(opp.coverage * 100)}% is too low for a provisional score` };
-  if (capacityConcern) return { tier: 'D', reason: `Insufficient evidence of operating capacity (${co.gbpReviews} reviews, no tenure evidence)` };
-  if (score >= 75 && opp.coverage >= 0.85 && conf.total >= 75 && verifiedFixable.length && econ >= 12 && route)
+  if (capacityConcern) return { tier: 'D', reason: 'Insufficient evidence of operating capacity (no tenure >= 5 yrs, scale signal, review volume, or BBB record found)' };
+  const identityConflict = (co.conflicts || []).some(x => /^IDENTITY:/.test(x));
+  if (score >= 75 && opp.coverage >= 0.8 && !identityConflict && conf.total >= 75 && verifiedFixable.length && econRatio >= 0.5 && route)
     return { tier: 'A', reason: `Opp ${score}, confidence ${conf.total}, verified fixable: ${verifiedFixable[0].code}` };
   if (score >= 55 && conf.total >= 60) {
     const missing = [];
     if (score < 75) missing.push(`opportunity ${score} < 75`);
     if (conf.total < 75) missing.push(`confidence ${conf.total} < 75`);
     if (!verifiedFixable.length) missing.push('no verified medium/high fixable defect');
-    if (econ < 12) missing.push(`economic evidence ${econ} < 12`);
+    if (econRatio < 0.5) missing.push(`economic evidence ${econ}/${opp.byCriterion.economic.assessedMax} assessed < 50%`);
     if (!route) missing.push('no clear route to decision-maker');
-    if (opp.coverage < 0.85) missing.push(`coverage ${Math.round(opp.coverage * 100)}% < 85%`);
+    if (identityConflict) missing.push('unresolved identity/market conflict');
+    if (opp.coverage < 0.8) missing.push(`coverage ${Math.round(opp.coverage * 100)}% < 80%`);
     return { tier: 'B', reason: `Not A because: ${missing.join('; ')}` };
   }
   if (score >= 55) return { tier: 'C', reason: `Opportunity ${score} but confidence ${conf.total} < 60` };

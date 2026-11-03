@@ -1,0 +1,25 @@
+{
+  "id": "all-clear-plumbing-2",
+  "placeUrl": "https://www.google.com/maps/place/All+Clear+Plumbing/data=!4m7!3m6!1s0x89c25581a926d19f:0xd56b3d560dc56a21!8m2!3d40.817152!4d-74.1477337!16s%2Fg%2F12626kkcy!19sChIJn9EmqYFVwokRIWrFDVY9a9U",
+  "retrievedAt": "2026-11-03T23:12:59.995Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "All Clear Plumbing",
+  "category": "Plumber",
+  "address": "11 Nairn Pl, Nutley, NJ 07110, United States ",
+  "phone": "+1 973-315-5514 ",
+  "website": "https://www.allclearnj.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-profile-nutley",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday6:30 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/All+Clear+Plumbing/data=!4m7!3m6!1s0x89c25581a926d19f:0xd56b3d560dc56a21!8m2!3d40.817152!4d-74.1477337!16s%2Fg%2F12626kkcy!19sChIJn9EmqYFVwokRIWrFDVY9a9U?hl=en",
+  "screenshot": "evidence/screenshots/all-clear-plumbing-2/google-maps-listing.png"
+}

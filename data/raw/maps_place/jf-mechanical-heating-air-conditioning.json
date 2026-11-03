@@ -1,0 +1,25 @@
+{
+  "id": "jf-mechanical-heating-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/JF+Mechanical+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f95b1426c5b1:0x1c949e559e6940c9!8m2!3d40.8615326!4d-74.114017!16s%2Fg%2F11qb3mp2m_!19sChIJscUmFFv5wokRyUBpnlWelBw",
+  "retrievedAt": "2026-11-03T23:03:13.553Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "JF Mechanical Heating & Air Conditioning",
+  "category": "HVAC contractor",
+  "address": "10 4th St, Passaic, NJ 07055, United States ",
+  "phone": null,
+  "website": "https://prosite.prophone.com/m/vC/Jf-mechanical-heating-air-conditioning/index",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday6 AM–10 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/JF+Mechanical+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f95b1426c5b1:0x1c949e559e6940c9!8m2!3d40.8615326!4d-74.114017!16s%2Fg%2F11qb3mp2m_!19sChIJscUmFFv5wokRyUBpnlWelBw?hl=en",
+  "screenshot": "evidence/screenshots/jf-mechanical-heating-air-conditioning/google-maps-listing.png"
+}

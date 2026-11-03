@@ -1,0 +1,65 @@
+{
+  "id": "superior-home-services",
+  "query": "Superior Home Services",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Superior%20Home%20Services&find_loc=Paterson%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:24:51.540Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Superior Home Inspection Services, Inc.",
+      "rating": null,
+      "phone": "(800) 977-0036",
+      "address": "150 L Greeves Lane Suite 234, Staten Island, NY 10308-2171",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/staten-island/profile/home-inspection/superior-home-inspection-services-inc-0121-149434"
+    },
+    {
+      "ad": false,
+      "name": "Superior Home Services, Inc.",
+      "rating": null,
+      "phone": "(203) 359-3861",
+      "address": "31 Parker Ave, Stamford, CT 06906-1731",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/stamford/profile/commercial-cleaning-services/superior-home-services-inc-0111-87088785"
+    },
+    {
+      "ad": false,
+      "name": "Superior Home Improvement Services LLC",
+      "rating": "A+",
+      "phone": "(609) 695-5252",
+      "address": "705 Pear St, Lawrence Twp, NJ 08648-4639",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/lawrence-twp/profile/home-improvement/superior-home-improvement-services-llc-0221-90129228"
+    },
+    {
+      "ad": false,
+      "name": "Superior Home Services LLC",
+      "rating": "A",
+      "phone": "(860) 726-5287",
+      "address": "15 Hatchet Hill Rd, East Granby, CT 06026-9526",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/east-granby/profile/plumber/superior-home-services-llc-0111-110094210"
+    },
+    {
+      "ad": false,
+      "name": "Klearly Superior Home Services",
+      "rating": "A+",
+      "phone": "(860) 933-3994",
+      "address": "Norwich, CT 06360-1716",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/norwich/profile/home-improvement/klearly-superior-home-services-0111-87122064"
+    },
+    {
+      "ad": false,
+      "name": "Superior Home Services",
+      "rating": "A+",
+      "phone": "(302) 292-1111",
+      "address": "15 Myers Rd, Newark, DE 19713-2316",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/de/newark/profile/home-improvement/superior-home-services-0251-92007184"
+    }
+  ],
+  "error": null
+}

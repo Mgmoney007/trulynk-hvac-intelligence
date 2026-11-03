@@ -1,0 +1,1942 @@
+{
+  "firecrawl": [],
+  "id": "arctic-plumbing-hvac-llc",
+  "name": "Arctic Plumbing & HVAC LLC",
+  "website": "http://arcticplumbinghvac.com/",
+  "auditedAt": "2026-11-03T22:55:56.885Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://arcticplumbinghvac.com/",
+      "at": "2026-11-03T22:56:02.086Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.arcticplumbinghvac.com/",
+      "title": "Emergency HVAC & Plumbing | Arctic Plumbing | Paramus, NJ",
+      "ms": 5130,
+      "error": null,
+      "linkCount": 104
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.arcticplumbinghvac.com/contact-us",
+      "at": "2026-11-03T22:56:12.918Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.arcticplumbinghvac.com/contact-us",
+      "title": "Contact Arctic Plumbing & HVAC | Arctic | Paramus, NJ",
+      "ms": 9588,
+      "error": null,
+      "linkCount": 91
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.arcticplumbinghvac.com/about-us",
+      "at": "2026-11-03T22:56:16.574Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.arcticplumbinghvac.com/about-us",
+      "title": "About Plumbing & HVAC | Arctic Plumbing | Paramus, NJ",
+      "ms": 2891,
+      "error": null,
+      "linkCount": 90
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://arcticplumbinghvac.com/",
+      "at": "2026-11-03T22:56:26.364Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.arcticplumbinghvac.com/",
+      "title": "Emergency HVAC & Plumbing | Arctic Plumbing | Paramus, NJ",
+      "ms": 3718,
+      "error": null,
+      "linkCount": 104
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.arcticplumbinghvac.com/",
+    "title": "Emergency HVAC & Plumbing | Arctic Plumbing | Paramus, NJ",
+    "lang": "en",
+    "metaDescription": "Get 24/7 emergency HVAC & plumbing services. Trust our experts for quick repairs & maintenance. Contact us today!",
+    "h1": [
+      "Trusted Emergency HVAC & Plumbing Company in Paramus, NJ"
+    ],
+    "viewportMeta": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5488,
+    "bodyText": "Home\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\n(973) 557-6742\n\nBook Online\n\n \n\nGet in touch\n\nArcticservicesnj@gmail.com\n\nBook Online\n\n \n(973) 557-6742\nCustomer Login \nHome\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\nTrusted Emergency HVAC & Plumbing Company in Paramus, NJ\n\n\nFrom emergency plumbing repairs to HVAC maintenance tune-ups and system upgrades, Arctic Plumbing & HVAC delivers fast, dependable air conditioning repair and furnace maintenance across Bergen, Passaic, Essex, Hudson, and Morris counties. Our local HVAC contractors are ready 24/7—no extra fees, just emergency AC services and plumbing solutions you can trust. Call now for same-day comfort!\n\nBook Online \n(973) 557-6742\nFull-Service HVAC and Plumbing Solutions in North Jersey\n\n\nAt Arctic Plumbing & HVAC, we understand that heating, cooling, and plumbing issues can’t wait—especially during extreme weather or sudden emergencies. That’s why we provide dependable HVAC service and maintenance, emergency AC services, and same-day plumbing solutions throughout Paramus, NJ, and nearby areas like Woodcliff Lake, Oradell, Westwood, and Alpine. Whether it’s a mid-summer AC breakdown, a sudden leak, or an outdated furnace on a freezing morning, you need expert help that arrives fast and gets it right the first time.﻿\n\nPlumbing Repair & Installation\n\nLeaky faucet or new pipes? We handle plumbing repair with speed and care.\n\n\nAir Conditioning Installation\n\nExpert air conditioning installation for reliable comfort and peak performance﻿\n\nAir Conditioning Repair\n\nBeat the heat with our expert air conditioning\n\nrepair﻿\n\nAir Conditioning Maintenance\n\nKeep your system running smoothly with expert air conditioning maintenance you can trust.\n\nHeating Maintenance & Furnace Repair\n\nStay toasty with our heating maintenance and fast furnace repair solutions.\n\nBoiler Replacement & Tune-Ups\n\nUpgrade your warmth with seamless boiler replacement from our pros.\n\nEmergency Services\n\nFast Response When You Need It Most.\n\n\nWe proudly provide professional plumbing and HVAC services to residential and commercial properties throughout Northern New Jersey. Our fleet is fully stocked and ready to serve your neighborhood today.\n\nBergen County\n\nAllendale, NJ, Alpine, NJ, Bergenfield, NJ, Cedar Grove, NJ, Cliffside Park, NJ, Clifton, NJ, Closter, NJ, Denville, NJ, Dumont, NJ, Edgewater, NJ, Fair Lawn, NJ, Franklin Lakes, NJ, Garfield, NJ, Glen Rock, NJ, Haledon, NJ, Hasbrouck Heights, NJ, Ho-Ho-Kus, NJ, Hoboken, NJ, Jersey City, NJ, Leonia, NJ, Mahwah, NJ, Oradell, NJ, Paramus, NJ, Ramsey, NJ, Ridgewood, NJ, Riverdale, NJ, Roseland, NJ, Rutherford, NJ, Saddle Brook, NJ, Secaucus, NJ, Totowa, NJ, Township of Washington, NJ, Upper Saddle River, NJ, Verona, NJ, Wallington, NJ, Washington Township, NJ, Wayne, NJ, West Orange, NJ, Woodland Park, NJ, Wyckoff, NJ\n\nPassaic County\n\nBloomingdale, NJ, Clifton, NJ, Haledon, NJ, Hawthorne, NJ, Little Falls, NJ, North Haledon, NJ, Passaic, NJ, Paterson, NJ, Pompton Lakes, NJ, Prospect Park, NJ, Ringwood, NJ, Totowa, NJ, Wanaque, NJ, Wayne, NJ, West Milford, NJ, Woodland Park, NJ\n\nEssex County\n\nBelleville, NJ, Bloomfield, NJ, Caldwell, NJ, Cedar Grove, NJ, East Orange, NJ, Essex Fells, NJ, Fairfield, NJ, Glen Ridge, NJ, Irvington, NJ, Livingston, NJ, Maplewood, NJ, Millburn, NJ, Montclair, NJ, Newark, NJ, North Caldwell, NJ, Nutley, NJ, Orange, NJ, Roseland, NJ, South Orange, NJ, Verona, NJ, West Caldwell, NJ, West Orange, NJ\n\nMorris County\n\nBoonton, NJ, Lake Hiawatha, NJ, Montville, NJ, Mountain Lakes, NJ, Parsippany, NJ, Pine Brook, NJ, Towaco, NJ, Riverdale, NJ, Dover, NJ, Mount Freedom, NJ, Succasunna, NJ, Budd Lake, NJ, Denville, NJ, Flanders, NJ, Ironia, NJ, Kenvil, NJ, Lake Hopatcong, NJ, Landing, NJ, Ledgewood, NJ, Mine Hill, NJ, Mount Arlington, NJ, Netcong, NJ, Rockaway, NJ, Randolph, NJ, Stockholm, NJ, Wharton, NJ, Brookside, NJ, Cedar Knolls, NJ, Morristown, NJ, Convent Station, NJ, Morris Plains, NJ, Green Village, NJ, New Vernon, NJ, Madison, NJ, Florham Park, NJ, East Hanover, NJ, Gillette, NJ, Millington, NJ, Stirling, NJ, Chatham, NJ, Mendham, NJ, Whippany, NJ, Mount Tabor, NJ, Basking Ridge, NJ\n\nHudson County\n\nBayonne, NJ, Hoboken, NJ, Kearny, NJ, Weehawken, NJ, Union City, NJ, West New York, NJ, Jersey City, NJ\n\nArctic Plumbing & HVAC\n\nWe Are Open 24/7\n\nAddress\n\nParamus, New Jersey\n\nContact\n\nArcticservicesnj@gmail.com\n\n(973) 557-6742\n\nQuick Links\nHome\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\n© 2026 All Rights Reserved\nArctic Plumbing & HVAC\nPowered by",
+    "links": [
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 120,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 79,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.arcticplumbinghvac.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 117,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#PlumbingRepairandInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "text": "Plumbing Repair and Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 374,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "text": "Air Conditioning Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 374,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "text": "Air Conditioning Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 374,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningMaintenance",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "text": "Air Conditioning Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 374,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#HeatingMaintenanceandFurnaceRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "text": "Heating Maintenance and Furnace Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 374,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#BoilerReplacementandTune-Ups",
+        "abs": "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "text": "Boiler Replacement and Tune-Ups",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 374,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#EmergencyServices",
+        "abs": "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "text": "Emergency Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 374,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.arcticplumbinghvac.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 104,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faqs",
+        "abs": "https://www.arcticplumbinghvac.com/faqs",
+        "text": "FAQS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 74,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.arcticplumbinghvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 118,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "abs": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 175,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.arcticplumbinghvac.com/services",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#PlumbingRepairandInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "text": "Plumbing Repair and Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "text": "Air Conditioning Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "text": "Air Conditioning Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningMaintenance",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "text": "Air Conditioning Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#HeatingMaintenanceandFurnaceRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "text": "Heating Maintenance and Furnace Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#BoilerReplacementandTune-Ups",
+        "abs": "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "text": "Boiler Replacement and Tune-Ups",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#EmergencyServices",
+        "abs": "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "text": "Emergency Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.arcticplumbinghvac.com/about-us",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faqs",
+        "abs": "https://www.arcticplumbinghvac.com/faqs",
+        "text": "FAQS",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.arcticplumbinghvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.arcticplumbinghvac.com/services",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#PlumbingRepairandInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "text": "Plumbing Repair and Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "text": "Air Conditioning Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "text": "Air Conditioning Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningMaintenance",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "text": "Air Conditioning Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#HeatingMaintenanceandFurnaceRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "text": "Heating Maintenance and Furnace Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#BoilerReplacementandTune-Ups",
+        "abs": "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "text": "Boiler Replacement and Tune-Ups",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#EmergencyServices",
+        "abs": "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "text": "Emergency Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.arcticplumbinghvac.com/about-us",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faqs",
+        "abs": "https://www.arcticplumbinghvac.com/faqs",
+        "text": "FAQS",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.arcticplumbinghvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "abs": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.arcticplumbinghvac.com/services",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#PlumbingRepairandInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "text": "Plumbing Repair and Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "text": "Air Conditioning Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "text": "Air Conditioning Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningMaintenance",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "text": "Air Conditioning Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#HeatingMaintenanceandFurnaceRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "text": "Heating Maintenance and Furnace Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#BoilerReplacementandTune-Ups",
+        "abs": "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "text": "Boiler Replacement and Tune-Ups",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#EmergencyServices",
+        "abs": "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "text": "Emergency Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.arcticplumbinghvac.com/about-us",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faqs",
+        "abs": "https://www.arcticplumbinghvac.com/faqs",
+        "text": "FAQS",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.arcticplumbinghvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9735576742",
+        "abs": "tel:9735576742",
+        "text": "(973) 557-6742",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:Arcticservicesnj@gmail.com",
+        "abs": "mailto:Arcticservicesnj@gmail.com",
+        "text": "Arcticservicesnj@gmail.com",
+        "visible": true,
+        "aboveFold": true,
+        "h": 60,
+        "w": 187,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "abs": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 250,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.arcticplumbinghvac.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#PlumbingRepairandInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "text": "Plumbing Repair and Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "text": "Air Conditioning Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "text": "Air Conditioning Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningMaintenance",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "text": "Air Conditioning Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#HeatingMaintenanceandFurnaceRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "text": "Heating Maintenance and Furnace Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#BoilerReplacementandTune-Ups",
+        "abs": "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "text": "Boiler Replacement and Tune-Ups",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#EmergencyServices",
+        "abs": "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "text": "Emergency Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.arcticplumbinghvac.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faqs",
+        "abs": "https://www.arcticplumbinghvac.com/faqs",
+        "text": "FAQS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.arcticplumbinghvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 378,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "abs": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 250,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#PlumbingRepairandInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "text": "Black faucet icon with a dripping pipe and side handles",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#PlumbingRepairandInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "text": "Plumbing Repair & Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 231,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "text": "Black rectangular icon with a white asterisk above two horizontal lines",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "text": "Air Conditioning Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 203,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "text": "Black face icon above a white wrench icon on a light background",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "text": "Air Conditioning Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 203,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningMaintenance",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "text": "Black-and-white air conditioner icon with a snowflake, indicating cooling mode",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningMaintenance",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "text": "Air Conditioning Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 203,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#HeatingMaintenanceandFurnaceRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "text": "Steaming mug icon with two horizontal black bars and a handle",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#HeatingMaintenanceandFurnaceRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "text": "Heating Maintenance & Furnace Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 294,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#BoilerReplacementandTune-Ups",
+        "abs": "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "text": "Black fire safety icon with a flame inside a box on a small stand",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#BoilerReplacementandTune-Ups",
+        "abs": "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "text": "Boiler Replacement & Tune-Ups",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 269,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#EmergencyServices",
+        "abs": "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "text": "Black emergency siren icon with flashing lights",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services#EmergencyServices",
+        "abs": "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "text": "Emergency Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 68,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "abs": "tel:(973) 557-6742",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 52,
+        "w": 250,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 296,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:Arcticservicesnj@gmail.com",
+        "abs": "mailto:Arcticservicesnj@gmail.com",
+        "text": "Arcticservicesnj@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 232,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9735576742",
+        "abs": "tel:9735576742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/people/Arctic-Plumbing-HVAC/61559215869728/",
+        "abs": "https://www.facebook.com/people/Arctic-Plumbing-HVAC/61559215869728/",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 24,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/arcticplumbinghvac/",
+        "abs": "https://www.instagram.com/arcticplumbinghvac/",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 24,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/place/Arctic+Plumbing+%26+HVAC/@40.9226155,-74.3917234,10z/data=!3m1!4b1!4m6!3m5!1s0x89c2e51e9322fc27:0xac94d1bada48ba72!8m2!3d40.9226154!4d-74.3917234!16s%2Fg%2F11t5tb58dj?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+        "abs": "https://www.google.com/maps/place/Arctic+Plumbing+%26+HVAC/@40.9226155,-74.3917234,10z/data=!3m1!4b1!4m6!3m5!1s0x89c2e51e9322fc27:0xac94d1bada48ba72!8m2!3d40.9226154!4d-74.3917234!16s%2Fg%2F11t5tb58dj?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+        "text": "google_my_business",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 24,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.arcticplumbinghvac.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 32,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://www.arcticplumbinghvac.com/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 32,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#PlumbingRepairandInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "text": "Plumbing Repair and Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningInstallation",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "text": "Air Conditioning Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "text": "Air Conditioning Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#AirConditioningMaintenance",
+        "abs": "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "text": "Air Conditioning Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#HeatingMaintenanceandFurnaceRepair",
+        "abs": "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "text": "Heating Maintenance and Furnace Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#BoilerReplacementandTune-Ups",
+        "abs": "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "text": "Boiler Replacement and Tune-Ups",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services#EmergencyServices",
+        "abs": "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "text": "Emergency Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 34,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.arcticplumbinghvac.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 32,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faqs",
+        "abs": "https://www.arcticplumbinghvac.com/faqs",
+        "text": "FAQS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 32,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.arcticplumbinghvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 32,
+        "w": 300,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.housecallpro.com/",
+        "abs": "https://www.housecallpro.com/",
+        "text": "Housecall Pro",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 133,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close menu",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://book.housecallpro.com/book/Arctic-Plumbing-HVAC/226f02727d7b45ed8d9bb58ccf5e7400?v2=true"
+    ],
+    "scripts": [
+      "https://d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-HLBPJ9DTBE",
+      "https://static.cdn-website.com/mnlt/production/6902/_dm/s/rt/dist/scripts/d-js-runtime-flex-package.min.js",
+      "https://ms-cdn.multiscreensite.com/runtime-react/4308/res/js/runtime-react.js",
+      "https://online-booking.housecallpro.com/script.js?token=226f02727d7b45ed8d9bb58ccf5e7400&orgName=Arctic-Plumbing-HVAC"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Arctic Plumbing & HVAC",
+        "url": "https://www.arcticplumbinghvac.com/"
+      },
+      {
+        "@context": {
+          "@vocab": "http://schema.org/"
+        },
+        "@type": "HVACBusiness",
+        "name": "Arctic Plumbing & HVAC",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Paramus, NJ",
+          "addressLocality": "Paramus, NJ",
+          "addressRegion": "NJ",
+          "postalCode": "07652",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "40.95702",
+          "longitude": "-74.07011"
+        },
+        "url": "https://www.arcticplumbinghvac.com",
+        "telephone": "9735576742",
+        "email": "Arcticservicesnj@gmail.com",
+        "logo": "https://housecall-attachments-production.s3.us-west-1.amazonaws.com/organizations/logos/000/297/689/original/image_1778868806.png",
+        "image": [
+          "https://irp.cdn-website.com/0a2af0c1/dms3rep/multi/articplumbinghvac.jpeg"
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Friday",
+              "Monday",
+              "Saturday",
+              "Thursday",
+              "Tuesday",
+              "Wednesday"
+            ],
+            "opens": "00:00",
+            "closes": "23:30"
+          }
+        ],
+        "@id": "https://www.arcticplumbinghvac.com"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 5,
+    "timing": {
+      "dcl": 1255,
+      "load": 2533,
+      "ttfb": 488
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Caught the following error in CustomWidget custom script",
+      "TypeError: Cannot read properties of undefined (reading 'match')\n    at window.customWidgetsFunctions.ce0a7fde7b194ec5a8496e8ea982f685~24 (https://www.arcticplumbinghvac.com/:1984:38)\n    at c (https:"
+    ],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.124,
+        "sig": "flex-header  ",
+        "text": "home\nservices\nplumbing repair and installation\nair conditioning installation\nair conditioning repair\nair conditioning ma"
+      },
+      {
+        "kind": "header",
+        "cover": 1,
+        "sig": "flex-sticky  ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.arcticplumbinghvac.com/",
+    "navMs": 5130,
+    "tel": [
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:9735576742",
+        "text": "(973) 557-6742",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:9735576742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Duda",
+        "kind": "cms"
+      },
+      {
+        "name": "Housecall Pro",
+        "kind": "field_service"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.arcticplumbinghvac.com/",
+    "navMs": 3718,
+    "timing": {
+      "dcl": 1214,
+      "load": 1547,
+      "ttfb": 364
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:9735576742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:(973) 557-6742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      },
+      {
+        "href": "tel:9735576742",
+        "text": "(973) 557-6742",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735576742"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact Us"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.196,
+        "sig": "flex-header  ",
+        "text": "(973) 557-6742\nbook online "
+      },
+      {
+        "kind": "header",
+        "cover": 1,
+        "sig": "flex-sticky  ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 24,
+    "brokenImages": [],
+    "textChars": 5805
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.arcticplumbinghvac.com/contact-us",
+      "finalUrl": "https://www.arcticplumbinghvac.com/contact-us",
+      "status": 200,
+      "title": "Contact Arctic Plumbing & HVAC | Arctic | Paramus, NJ",
+      "forms": [],
+      "iframes": [
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d385879.89421560743!2d-74.39172344999999!3d40.92261545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2e51e9322fc27%3A0xac94d1bada48ba72!2sArctic%20Plumbing%20%26%20HVAC!5e0!3m2!1sen!2sph!4v1778524756543!5m2!1sen!2sph",
+        "https://book.housecallpro.com/lead-form/Arctic-Plumbing--HVAC/3ad821241b5949ca9525ea2187019254?buttonColor=rgba%280%2C+65%2C+144%2C+1%29&buttonTextColor=rgba%28255%2C+255%2C+255%2C+1%29",
+        "https://book.housecallpro.com/book/Arctic-Plumbing-HVAC/226f02727d7b45ed8d9bb58ccf5e7400?v2=true"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "arcticservicesnj@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(973) 557-6742",
+          "text": "(973) 557-6742",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:(973) 557-6742",
+          "text": "(973) 557-6742",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:9735576742",
+          "text": "(973) 557-6742",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:(973) 557-6742",
+          "text": "(973) 557-6742",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:9735576742",
+          "text": "(973) 557-6742",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:(973) 557-6742",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:9735576742",
+          "text": "(973) 557-6742",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\n(973) 557-6742\n\nBook Online\n\n \n\nGet in touch\n\nArcticservicesnj@gmail.com\n\nBook Online\n\n \n(973) 557-6742\nCustomer Login \nHome\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\nContact Arctic Plumbing & HVAC\nGet In Touch With Arctic\nCall or Text\n\n(973) 557-6742\n\nEmail\n\nArcticservicesnj@gmail.com\n\nAddress\n\nParamus, New Jersey\n\nArctic Plumbing & HVAC\n\nWe Are Open 24/7\n\nAddress\n\nParamus, New Jersey\n\nContact\n\nArcticservicesnj@gmail.com\n\n(973) 557-6742\n\nQuick Links\nHome\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\n© 2026 All Rights Reserved\nArctic Plumbing & HVAC\nPowered by",
+      "vendors": [
+        {
+          "name": "Housecall Pro",
+          "kind": "field_service"
+        }
+      ],
+      "links": [
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us"
+      ]
+    },
+    "about": {
+      "url": "https://www.arcticplumbinghvac.com/about-us",
+      "finalUrl": "https://www.arcticplumbinghvac.com/about-us",
+      "status": 200,
+      "title": "About Plumbing & HVAC | Arctic Plumbing | Paramus, NJ",
+      "forms": [],
+      "iframes": [
+        "https://book.housecallpro.com/book/Arctic-Plumbing-HVAC/226f02727d7b45ed8d9bb58ccf5e7400?v2=true"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "arcticservicesnj@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(973) 557-6742",
+          "text": "(973) 557-6742",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:(973) 557-6742",
+          "text": "(973) 557-6742",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:9735576742",
+          "text": "(973) 557-6742",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:(973) 557-6742",
+          "text": "(973) 557-6742",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:(973) 557-6742",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19735576742"
+        },
+        {
+          "href": "tel:9735576742",
+          "text": "(973) 557-6742",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19735576742"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\n(973) 557-6742\n\nBook Online\n\n \n\nGet in touch\n\nArcticservicesnj@gmail.com\n\nBook Online\n\n \n(973) 557-6742\nCustomer Login \nHome\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\nMeet Arctic Plumbing & HVAC\nOur Story\n\nArctic Plumbing & HVAC began with a simple mission: to provide the residents of Northern New Jersey with honest and reliable mechanical services. We understood that homeowners needed a contractor they could trust in their homes—someone who would treat their property with respect and provide solutions that lasted. Through years of hard work and a commitment to customer satisfaction, we have grown into a leading provider of HVAC and plumbing solutions. Our team consists of local experts who take pride in their craft and their community. We continue to invest in training and technology to ensure that the Arctic name remains synonymous with quality.\n\nContact Us\nWhy Trust Us for Heating Maintenance & More?\n\n\nWhen it comes to plumbing repair or AC installation, Arctic Plumbing & HVAC is the easy choice for North Jersey homeowners. Our 24/7 emergency plumbing service means no extra fees for late-night leaks, and our same-day service gets your air conditioning repair or heating maintenance done fast. With over 150 years of combined experience, our crew knows how to handle everything from furnace repair to tricky boiler replacement jobs with care and skill.\n\n\n\n\nBased in North Jersey, we’re not just fixing pipes and systems—we’re building trust. Serving Bergen, Passaic, Essex, Hudson, and Morris counties, Arctic Plumbing & HVAC brings peace of mind with every visit. You’ll love our friendly team, quick fixes, and the way we go the extra mile to keep your home running smoothly all year long.﻿\n\nVISION\n\nWe dream of a North Jersey where every home enjoys flawless HVAC service and plumbing repair. Arctic Plumbing & HVAC aims to lead the way with fast, affordable AC installation and heating maintenance for all!\n\nMISSION\n\nOur mission is simple: deliver unbeatable same-day service and emergency plumbing help whenever you call. Arctic Plumbing & HVAC is here to make furnace repair and boiler replacement hassle-free for every customer.\n\n\nArctic Plumbing & HVAC\n\nWe Are Open 24/7\n\nAddress\n\nParamus, New Jersey\n\nContact\n\nArcticservicesnj@gmail.com\n\n(973) 557-6742\n\nQuick Links\nHome\nServices\nPlumbing Repair and Installation\nAir Conditioning Installation\nAir Conditioning Repair\nAir Conditioning Maintenance\nHeating Maintenance and Furnace Repair\nBoiler Replacement and Tune-Ups\nEmergency Services\nAbout Us\nFAQS\nContact Us\n© 2026 All Rights Reserved\nArctic Plumbing & HVAC\nPowered by",
+      "vendors": [
+        {
+          "name": "Housecall Pro",
+          "kind": "field_service"
+        }
+      ],
+      "links": [
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/contact-us",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/",
+        "https://www.arcticplumbinghvac.com/services",
+        "https://www.arcticplumbinghvac.com/services#PlumbingRepairandInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningInstallation",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningRepair",
+        "https://www.arcticplumbinghvac.com/services#AirConditioningMaintenance",
+        "https://www.arcticplumbinghvac.com/services#HeatingMaintenanceandFurnaceRepair",
+        "https://www.arcticplumbinghvac.com/services#BoilerReplacementandTune-Ups",
+        "https://www.arcticplumbinghvac.com/services#EmergencyServices",
+        "https://www.arcticplumbinghvac.com/about-us",
+        "https://www.arcticplumbinghvac.com/faqs",
+        "https://www.arcticplumbinghvac.com/contact-us"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 7,
+    "at": "2026-11-03T22:56:22.567Z",
+    "statusCounts": {
+      "200": 6,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.arcticplumbinghvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/arctic-plumbing-hvac-llc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/arctic-plumbing-hvac-llc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/arctic-plumbing-hvac-llc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/arctic-plumbing-hvac-llc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/arctic-plumbing-hvac-llc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": true
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "arcticservicesnj@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "facebook -> https://www.facebook.com/people/Arctic-Plumbing-HVAC/61559215869728/"
+    ]
+  }
+}

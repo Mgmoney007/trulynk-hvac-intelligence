@@ -1,0 +1,25 @@
+{
+  "id": "marcketta-heating-and-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Marcketta+Heating+and+Cooling/data=!4m7!3m6!1s0x89c3aed7bc05458d:0x7bf0f33d976c0f6d!8m2!3d40.7596103!4d-74.3568662!16s%2Fg%2F11hbn1yl6y!19sChIJjUUFvNeuw4kRbQ9slz3z8Hs",
+  "retrievedAt": "2026-11-03T23:11:24.304Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Marcketta Heating and Cooling",
+  "category": "HVAC contractor",
+  "address": "214 Passaic Ave, Livingston, NJ 07039, United States ",
+  "phone": "+1 973-376-0508 ",
+  "website": "https://woolleyfuel.com/marcketta-heating-and-cooling/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-marcketta",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–4:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Marcketta+Heating+and+Cooling/data=!4m7!3m6!1s0x89c3aed7bc05458d:0x7bf0f33d976c0f6d!8m2!3d40.7596103!4d-74.3568662!16s%2Fg%2F11hbn1yl6y!19sChIJjUUFvNeuw4kRbQ9slz3z8Hs?hl=en",
+  "screenshot": "evidence/screenshots/marcketta-heating-and-cooling/google-maps-listing.png"
+}

@@ -1,0 +1,4077 @@
+{
+  "firecrawl": [
+    {
+      "at": "2026-11-03T23:29:35.964Z",
+      "method": "firecrawl_scrape_mobile",
+      "url": "https://www.adriaticaire.com/",
+      "purpose": "fallback: mobile Cloudflare challenge in research environment",
+      "statusCode": 200,
+      "title": "Heating & HVAC Contractor in Essex County, NJ | Adriatic Aire",
+      "tel": [
+        {
+          "href": "tel:973-249-8066",
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "e164": "+19732498066"
+        }
+      ],
+      "mailto": [
+        "ross@adriaticaire.com"
+      ],
+      "linkCount": 6,
+      "vendors": [],
+      "screenshot": "evidence/screenshots/adriatic-aire/firecrawl-mobile.png",
+      "scrapeId": "01a1a3bd-2457-717d-a10d-6f1e5823e133",
+      "creditsUsed": 1,
+      "proxyUsed": "basic"
+    }
+  ],
+  "id": "adriatic-aire",
+  "name": "adriatic-aire",
+  "website": "https://www.adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+  "auditedAt": "2026-11-03T23:43:13.636Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+      "at": "2026-11-03T23:43:15.216Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+      "title": "Heating & HVAC Contractor in Essex County, NJ | Adriatic Aire",
+      "ms": 1540,
+      "error": null,
+      "linkCount": 212
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://adriaticaire.com/contact/",
+      "at": "2026-11-03T23:43:17.852Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://adriaticaire.com/contact/",
+      "title": "Contact Our HVAC Company Essex County, NJ",
+      "ms": 1252,
+      "error": null,
+      "linkCount": 184
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://adriaticaire.com/about/",
+      "at": "2026-11-03T23:43:19.888Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://adriaticaire.com/about/",
+      "title": "About Our HVAC Company in Essex County, NJ",
+      "ms": 1426,
+      "error": null,
+      "linkCount": 209
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+      "at": "2026-11-03T23:44:52.619Z",
+      "access": "challenge",
+      "status": 403,
+      "finalUrl": "https://www.adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+      "title": "Checking your browser...",
+      "ms": 8699,
+      "error": null,
+      "linkCount": 0
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "mobile_home",
+      "access": "challenge",
+      "status": 403,
+      "error": null,
+      "url": "https://www.adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo"
+    }
+  ],
+  "desktop": {
+    "url": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+    "title": "Heating & HVAC Contractor in Essex County, NJ | Adriatic Aire",
+    "lang": "en-US",
+    "metaDescription": "Adriatic Aire is a heating and cooling company in Essex County, NJ. Boiler, furnace and AC repair and installs from our Montclair office. Call now!",
+    "h1": [
+      "Industry-Leading In HVAC Services For Essex County, NJ And Surrounding Areas"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5985,
+    "bodyText": "Skip to content\n (973) 249-8066\n AVAILABLE 24 HOURS A DAY, 7 DAYS A WEEK - LICENSE NO. 19HC00022600\nHEATING\nCOOLING\nHVAC\nHOME SOLUTIONS\nSERVICE AREAS\nCOMPANY\n SCHEDULE SERVICE\nIndustry-Leading In HVAC Services For Essex County, NJ And Surrounding Areas\n (973) 249-8066\n SCHEDULE SERVICE\n\nWHO WE ARE\n\nYour Trusted HVAC Company In Essex County, NJ, And The Surrounding Areas\n\nHeating and cooling systems are often taken for granted, at least until something goes wrong or catches your attention. Adriatic Aire is the company to call on when you need HVAC services that are affordable and easily accessible. Our team is here for you when your cooling or heating system needs to be repaired, maintained, or installed. Rest assured we'll get the job done right the first time every time.\n\n (973) 249-8066\n SCHEDULE SERVICE\n\nOUR SERVICES\n\nComplete HVAC Services To Meet Your Comfort Needs\n\nWe take pride in offering a full suite of solutions designed to meet specific needs. Our team specializes in:\n\nHVAC Services\n\nOur range of HVAC services addresses a wide range of needs, from routine maintenance and new installations to emergency repairs and full system replacements. We are dedicated to maintaining the health of your heating and cooling systems to prevent unexpected breakdowns and make sure of the best performance.\n\nAir Conditioning Services\n\nStay cool when it matters most with our Air Conditioning Services, which cover everything from routine maintenance to new installations and system replacements. Our skilled technicians work on all types of cooling systems, offering transparent pricing and expert advice to guarantee your comfort and minimize repair costs.\n\nHeating Services\n\nOur comprehensive heating services cover everything from routine cleanings and new installations to emergency repairs and full system replacements. We're dedicated to maintaining your system's health to prevent unexpected breakdowns and ensure optimal performance year-round.\n\nCONTACT US\n\nWhy We Are Your Best Bet For All HVAC Concerns\n\nFamily-owned and operated, we've been doing what we do best since 1973. We make a point of staying on top of HVAC trends. We also take the time to explain available options and discuss the nature of the problem. You'll also appreciate our fair, reasonable, honest rates along with our prompt arrivals and professionalism when it comes to how we respect your home and do the work. Whether your system is made by Trane, Lennox, Weil-McLain, Utica, or any other brand, we can service it. We are also the HVAC contractor in Essex County, NJ.\n\nFree estimates provided\nA family-owned and -operated business\nProviding HVAC services\nAreas We Serve\nEssex County, NJ\nClifton, NJ\nGlen Ridge, NJ\nLittle Falls, NJ\nTotowa, NJ\nCedar Grove, NJ\nWest Caldwell, NJ\nBloomfield, NJ\nNutley, NJ\nWayne, NJ\nFairfield, NJ\nWoodland Park, NJ\nHawthorne, NJ\nFranklin Lakes, NJ\nVerona, NJ\nVIEW AREAS \n\nCLIENT REVIEWS\n\nRead What Our Customers Have To Say\n\nCONTACT US\n\nCall Today And We'll Be On The Way\n\nAdriatic Aire is ready when you are when it comes to HVAC issues. Give us a call today and we'll discuss your available options. We look forward to being your trusted and reliable HVAC company now and in the future.\n\nBy checking this box, I consent to receive conversational text messages from Adriatic Aire. Reply STOP to opt-out; Reply HELP for support; Message and data rates apply; Messaging frequency may vary. See our privacy policy and terms and conditions for details.\n\nNeed An HVAC Expert? Give Our Team A Call!\n\nTrust only Adriatic Aire for HVAC services in Essex County, NJ, and nearby areas. We make sure homeowners address their concerns with their heating or cooling systems right away by delivering top-notch solutions at all times. We also meet the needs of local commercial clients, so whenever your furnace acts up or a new air conditioning system needs to be installed, count on our team.\n\n (973) 249-8066\n SCHEDULE SERVICE\n\nEnglish \n\nAccessibility Adjustments\n\nPowered by OneTap\n\nHide Toolbar\nContent Modules\nFont Size\n\nDefault\n\nReadable Font\nLine Height\n\nDefault\n\nCursor\nLetter Spacing\nAlign Text\nFont Weight\nColor Modules\nLight Contrast\nHigh Contrast\nMonochrome\nOrientation Modules\nReading Line\nReading Mask\nHide Images\nHighlight Content\nStop Animations\nHighlight Links\nSkip To Content\nChoose...\nMain Content\nNavigation\nFooter\nReset Settings",
+    "links": [
+      {
+        "href": "#fl-main-content",
+        "abs": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo#fl-main-content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-249-8066",
+        "abs": "tel:973-249-8066",
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 167,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "",
+        "abs": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+        "text": "AVAILABLE 24 HOURS A DAY, 7 DAYS A WEEK - LICENSE NO. 19HC00022600",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 701,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/adriaticaire",
+        "abs": "https://www.facebook.com/adriaticaire",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 40,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.yelp.com/biz/adriatic-aire-clifton-4",
+        "abs": "https://www.yelp.com/biz/adriatic-aire-clifton-4",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 40,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/place/Adriatic+Aire/@40.8302367,-74.2059638,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2ff481c94d2cd:0xb596b5df5e928bdc!8m2!3d40.8302367!4d-74.2059638!16s%2Fg%2F1hm4zqj12!5m1!1e1?entry=tts&g_ep=EgoyMDI1MDYxNS4wIPu8ASoASAFQAw%3D%3D&skid=0c221ff3-d00a-47f5-a7b2-b8140f680d9f",
+        "abs": "https://www.google.com/maps/place/Adriatic+Aire/@40.8302367,-74.2059638,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2ff481c94d2cd:0xb596b5df5e928bdc!8m2!3d40.8302367!4d-74.2059638!16s%2Fg%2F1hm4zqj12!5m1!1e1?entry=tts&g_ep=EgoyMDI1MDYxNS4wIPu8ASoASAFQAw%3D%3D&skid=0c221ff3-d00a-47f5-a7b2-b8140f680d9f",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 40,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.tiktok.com/@adriatic.aire",
+        "abs": "https://www.tiktok.com/@adriatic.aire",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 40,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/adriatic_aire/",
+        "abs": "https://www.instagram.com/adriatic_aire/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 40,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/",
+        "abs": "https://adriaticaire.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 95,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/",
+        "abs": "https://adriaticaire.com/heating/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 94,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/water-heater-repair/",
+        "abs": "https://adriaticaire.com/heating/water-heater-repair/",
+        "text": "Hot Water Heater Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/emergency-heating-repair/",
+        "abs": "https://adriaticaire.com/heating/emergency-heating-repair/",
+        "text": "Emergency Heating Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/heating-repair/",
+        "abs": "https://adriaticaire.com/heating/heating-repair/",
+        "text": "Heating Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/heating-installation/",
+        "abs": "https://adriaticaire.com/heating/heating-installation/",
+        "text": "Heating Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating-replacement/",
+        "abs": "https://adriaticaire.com/heating-replacement/",
+        "text": "Heating Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/furnace-repair/",
+        "abs": "https://adriaticaire.com/heating/furnace-repair/",
+        "text": "Furnace Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/furnace-installation/",
+        "abs": "https://adriaticaire.com/heating/furnace-installation/",
+        "text": "Furnace Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/furnace-replacement/",
+        "abs": "https://adriaticaire.com/furnace-replacement/",
+        "text": "Furnace Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/boiler-installation/",
+        "abs": "https://adriaticaire.com/boiler-installation/",
+        "text": "Boiler Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/steam-boilers/",
+        "abs": "https://adriaticaire.com/heating/steam-boilers/",
+        "text": "Steam Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/boiler-repair/",
+        "abs": "https://adriaticaire.com/heating/boiler-repair/",
+        "text": "Boiler Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/boiler-installation/",
+        "abs": "https://adriaticaire.com/boiler-installation/",
+        "text": "Boiler Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/boiler-replacement/",
+        "abs": "https://adriaticaire.com/boiler-replacement/",
+        "text": "Boiler Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/tankless-water-heater-installers/",
+        "abs": "https://adriaticaire.com/tankless-water-heater-installers/",
+        "text": "Tankless Water Heater Installers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/",
+        "abs": "https://adriaticaire.com/cooling/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 95,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-repair/",
+        "abs": "https://adriaticaire.com/cooling/ac-repair/",
+        "text": "AC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-maintenance/",
+        "abs": "https://adriaticaire.com/cooling/ac-maintenance/",
+        "text": "AC Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/ac-replacement/",
+        "abs": "https://adriaticaire.com/ac-replacement/",
+        "text": "Ac Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-installation/",
+        "abs": "https://adriaticaire.com/cooling/ac-installation/",
+        "text": "AC Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/air-conditioning-contractor/",
+        "abs": "https://adriaticaire.com/air-conditioning-contractor/",
+        "text": "Air Conditioning Contractor",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac/",
+        "abs": "https://adriaticaire.com/hvac/",
+        "text": "HVAC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 63,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac-repair/",
+        "abs": "https://adriaticaire.com/hvac-repair/",
+        "text": "HVAC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac/commercial-hvac/",
+        "abs": "https://adriaticaire.com/hvac/commercial-hvac/",
+        "text": "Commercial HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac/emergency-hvac/",
+        "abs": "https://adriaticaire.com/hvac/emergency-hvac/",
+        "text": "Emergency HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac/maintenance-agreement/",
+        "abs": "https://adriaticaire.com/hvac/maintenance-agreement/",
+        "text": "Maintenance Agreement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo#",
+        "text": "HOME SOLUTIONS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 180,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/home-comfort-membership-plan/",
+        "abs": "https://adriaticaire.com/home-comfort-membership-plan/",
+        "text": "Home Comfort Membership Plan",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/",
+        "abs": "https://adriaticaire.com/service-areas/",
+        "text": "SERVICE AREAS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 158,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/montclair-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/montclair-nj/heating/",
+        "text": "Heating Services Montclair, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo#",
+        "text": "COMPANY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 105,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/about/",
+        "abs": "https://adriaticaire.com/about/",
+        "text": "About",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/contact/",
+        "abs": "https://adriaticaire.com/contact/",
+        "text": "Contact",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/blog/",
+        "abs": "https://adriaticaire.com/blog/",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/special-offers/",
+        "abs": "https://adriaticaire.com/special-offers/",
+        "text": "Special Offers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://beta.apptracker.ftlfinance.com/C214972",
+        "abs": "https://beta.apptracker.ftlfinance.com/C214972",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/contact/",
+        "abs": "https://adriaticaire.com/contact/",
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 58,
+        "w": 280,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/search?q=adriatic+aire&oq=Adriatic+Aire&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMgoIBBAAGIAEGKIEMgYIBRBFGD0yBggGEEUYPTIGCAcQRRg90gEHNTA5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x89c2ff481c94d2cd:0xb596b5df5e928bdc,3,,,,",
+        "abs": "https://www.google.com/search?q=adriatic+aire&oq=Adriatic+Aire&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMgoIBBAAGIAEGKIEMgYIBRBFGD0yBggGEEUYPTIGCAcQRRg90gEHNTA5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x89c2ff481c94d2cd:0xb596b5df5e928bdc,3,,,,",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.homeadvisor.com/rated.AdriaticAireLLC.47834168.html",
+        "abs": "https://www.homeadvisor.com/rated.AdriaticAireLLC.47834168.html",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 81,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://nextdoor.com/pages/adriatic-aire-clifton-nj-2/",
+        "abs": "https://nextdoor.com/pages/adriatic-aire-clifton-nj-2/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 209,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9732498066",
+        "abs": "tel:9732498066",
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": true,
+        "h": 75,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/contact/",
+        "abs": "https://adriaticaire.com/contact/",
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 75,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac/",
+        "abs": "https://adriaticaire.com/hvac/",
+        "text": "HVAC services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 126,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9732498066",
+        "abs": "tel:9732498066",
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": false,
+        "h": 75,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/contact/",
+        "abs": "https://adriaticaire.com/contact/",
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 75,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac/",
+        "abs": "https://adriaticaire.com/hvac/",
+        "text": "HVAC Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 39,
+        "w": 223,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac/emergency-hvac/",
+        "abs": "https://adriaticaire.com/hvac/emergency-hvac/",
+        "text": "HVAC services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 126,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/",
+        "abs": "https://adriaticaire.com/cooling/",
+        "text": "Air Conditioning Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 79,
+        "w": 240,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-maintenance/",
+        "abs": "https://adriaticaire.com/cooling/ac-maintenance/",
+        "text": "Air Conditioning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 136,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/",
+        "abs": "https://adriaticaire.com/heating/",
+        "text": "Heating Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 39,
+        "w": 252,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/heating-repair/",
+        "abs": "https://adriaticaire.com/heating/heating-repair/",
+        "text": "heating services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/montclair-nj/",
+        "abs": "https://adriaticaire.com/service-areas/montclair-nj/",
+        "text": "Essex County, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 150,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/",
+        "text": "Clifton, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 89,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "abs": "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "text": "Glen Ridge, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 127,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/little-falls-nj/",
+        "abs": "https://adriaticaire.com/service-areas/little-falls-nj/",
+        "text": "Little Falls, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 119,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/totowa-nj/",
+        "abs": "https://adriaticaire.com/service-areas/totowa-nj/",
+        "text": "Totowa, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 96,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "abs": "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "text": "Cedar Grove, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 141,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "abs": "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "text": "West Caldwell, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 154,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/bloomfield-nj/",
+        "abs": "https://adriaticaire.com/service-areas/bloomfield-nj/",
+        "text": "Bloomfield, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/nutley-nj/",
+        "abs": "https://adriaticaire.com/service-areas/nutley-nj/",
+        "text": "Nutley, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 88,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/wayne-nj/",
+        "abs": "https://adriaticaire.com/service-areas/wayne-nj/",
+        "text": "Wayne, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 92,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "abs": "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "text": "Fairfield, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 103,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/woodland-park-nj/",
+        "abs": "https://adriaticaire.com/service-areas/woodland-park-nj/",
+        "text": "Woodland Park, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 163,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/hawthorne-nj/",
+        "abs": "https://adriaticaire.com/service-areas/hawthorne-nj/",
+        "text": "Hawthorne, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 128,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "abs": "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "text": "Franklin Lakes, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 156,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/verona-nj/",
+        "abs": "https://adriaticaire.com/service-areas/verona-nj/",
+        "text": "Verona, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 94,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/",
+        "abs": "https://adriaticaire.com/service-areas/",
+        "text": "VIEW AREAS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 71,
+        "w": 265,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/heating/heating-repair/",
+        "abs": "https://adriaticaire.com/heating/heating-repair/",
+        "text": "heating repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:973-249-8066",
+        "abs": "tel:973-249-8066",
+        "text": "Give us a call today",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 609,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/hvac/",
+        "abs": "https://adriaticaire.com/hvac/",
+        "text": "HVAC company",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 133,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/privacy-policy",
+        "abs": "https://adriaticaire.com/privacy-policy",
+        "text": "privacy policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 123,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/terms",
+        "abs": "https://adriaticaire.com/terms",
+        "text": "terms and conditions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 186,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9732498066",
+        "abs": "tel:9732498066",
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": false,
+        "h": 75,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/contact/",
+        "abs": "https://adriaticaire.com/contact/",
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 75,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://adriaticaire.com/",
+        "abs": "https://adriaticaire.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 268,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/adriaticaire",
+        "abs": "https://www.facebook.com/adriaticaire",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.yelp.com/biz/adriatic-aire-clifton-4",
+        "abs": "https://www.yelp.com/biz/adriatic-aire-clifton-4",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.google.com/maps/place/Adriatic+Aire/@40.8302367,-74.2059638,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2ff481c94d2cd:0xb596b5df5e928bdc!8m2!3d40.8302367!4d-74.2059638!16s%2Fg%2F1hm4zqj12!5m1!1e1?entry=tts&g_ep=EgoyMDI1MDYxNS4wIPu8ASoASAFQAw%3D%3D&skid=0c221ff3-d00a-47f5-a7b2-b8140f680d9f",
+        "abs": "https://www.google.com/maps/place/Adriatic+Aire/@40.8302367,-74.2059638,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2ff481c94d2cd:0xb596b5df5e928bdc!8m2!3d40.8302367!4d-74.2059638!16s%2Fg%2F1hm4zqj12!5m1!1e1?entry=tts&g_ep=EgoyMDI1MDYxNS4wIPu8ASoASAFQAw%3D%3D&skid=0c221ff3-d00a-47f5-a7b2-b8140f680d9f",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.tiktok.com/@adriatic.aire",
+        "abs": "https://www.tiktok.com/@adriatic.aire",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/adriatic_aire/",
+        "abs": "https://www.instagram.com/adriatic_aire/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.google.com/maps/place/Adriatic+Aire/data=!4m2!3m1!1s0x0:0xb596b5df5e928bdc?sa=X&ved=1t:2428&ictx=111",
+        "abs": "https://www.google.com/maps/place/Adriatic+Aire/data=!4m2!3m1!1s0x0:0xb596b5df5e928bdc?sa=X&ved=1t:2428&ictx=111",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 303,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:9732498066",
+        "abs": "tel:9732498066",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:9732498066",
+        "abs": "tel:9732498066",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:9732498066",
+        "abs": "tel:9732498066",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 21,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:973-249-8066",
+        "abs": "tel:973-249-8066",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 137,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:ross@adriaticaire.com",
+        "abs": "mailto:ross@adriaticaire.com",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:ross@adriaticaire.com",
+        "abs": "mailto:ross@adriaticaire.com",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 190,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/heating-repair/",
+        "abs": "https://adriaticaire.com/heating/heating-repair/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/heating-installation/",
+        "abs": "https://adriaticaire.com/heating/heating-installation/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/furnace-repair/",
+        "abs": "https://adriaticaire.com/heating/furnace-repair/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/furnace-installation/",
+        "abs": "https://adriaticaire.com/heating/furnace-installation/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/boiler-installation/",
+        "abs": "https://adriaticaire.com/boiler-installation/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-repair/",
+        "abs": "https://adriaticaire.com/cooling/ac-repair/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-maintenance/",
+        "abs": "https://adriaticaire.com/cooling/ac-maintenance/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-installation/",
+        "abs": "https://adriaticaire.com/cooling/ac-installation/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/caldwell-nj/",
+        "abs": "https://adriaticaire.com/service-areas/caldwell-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 417,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "abs": "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 417,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 417,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "abs": "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 417,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "abs": "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 417,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "abs": "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 417,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/hoboken-nj/",
+        "abs": "https://adriaticaire.com/service-areas/hoboken-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 417,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/jersey-city-nj/",
+        "abs": "https://adriaticaire.com/service-areas/jersey-city-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 417,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/montclair-nj/",
+        "abs": "https://adriaticaire.com/service-areas/montclair-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 338,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/north-caldwell-nj/",
+        "abs": "https://adriaticaire.com/service-areas/north-caldwell-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 338,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/nutley-nj/",
+        "abs": "https://adriaticaire.com/service-areas/nutley-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 338,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/verona-nj/",
+        "abs": "https://adriaticaire.com/service-areas/verona-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 338,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/wayne-nj/",
+        "abs": "https://adriaticaire.com/service-areas/wayne-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 338,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "abs": "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 338,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/west-orange-nj/",
+        "abs": "https://adriaticaire.com/service-areas/west-orange-nj/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 338,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/",
+        "abs": "https://adriaticaire.com/cooling/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/",
+        "abs": "https://adriaticaire.com/heating/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/about/",
+        "abs": "https://adriaticaire.com/about/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/contact/",
+        "abs": "https://adriaticaire.com/contact/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/sitemap/",
+        "abs": "https://adriaticaire.com/sitemap/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 46,
+        "w": 358,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/privacy-policy/",
+        "abs": "https://adriaticaire.com/privacy-policy/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 106,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/terms/",
+        "abs": "https://adriaticaire.com/terms/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 129,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/contact/",
+        "abs": "https://adriaticaire.com/contact/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:9732498066",
+        "abs": "tel:9732498066",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "javascript:void(0)",
+        "abs": "javascript:void(0)",
+        "text": "Close the menu",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/hvac-repair/",
+        "abs": "https://adriaticaire.com/hvac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/tankless-water-heater-installers/",
+        "abs": "https://adriaticaire.com/tankless-water-heater-installers/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/boiler-replacement/",
+        "abs": "https://adriaticaire.com/boiler-replacement/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/boiler-installation/",
+        "abs": "https://adriaticaire.com/boiler-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/ac-replacement/",
+        "abs": "https://adriaticaire.com/ac-replacement/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating-replacement/",
+        "abs": "https://adriaticaire.com/heating-replacement/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/furnace-replacement/",
+        "abs": "https://adriaticaire.com/furnace-replacement/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/",
+        "abs": "https://adriaticaire.com/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/heating-repair/",
+        "abs": "https://adriaticaire.com/heating/heating-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/heating-installation/",
+        "abs": "https://adriaticaire.com/heating/heating-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/furnace-repair/",
+        "abs": "https://adriaticaire.com/heating/furnace-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/furnace-installation/",
+        "abs": "https://adriaticaire.com/heating/furnace-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/boiler-installation/",
+        "abs": "https://adriaticaire.com/boiler-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/heating/boiler-repair/",
+        "abs": "https://adriaticaire.com/heating/boiler-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/",
+        "abs": "https://adriaticaire.com/cooling/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-repair/",
+        "abs": "https://adriaticaire.com/cooling/ac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-maintenance/",
+        "abs": "https://adriaticaire.com/cooling/ac-maintenance/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/cooling/ac-installation/",
+        "abs": "https://adriaticaire.com/cooling/ac-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/home-comfort-membership-plan/",
+        "abs": "https://adriaticaire.com/home-comfort-membership-plan/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/",
+        "abs": "https://adriaticaire.com/service-areas/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/bloomfield-nj/",
+        "abs": "https://adriaticaire.com/service-areas/bloomfield-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/ac-repair/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/ac-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/ac-maintenance/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/ac-maintenance/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/ac-installation/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/ac-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/heating-repair/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/heating-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/heating-installation/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/heating-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/furnace-repair/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/furnace-repair/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/furnace-installation/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/furnace-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/boiler-installation/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/boiler-installation/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/steam-boilers/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/steam-boilers/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/hvac/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/hvac/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/commercial-hvac/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/commercial-hvac/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/clifton-nj/emergency-hvac/",
+        "abs": "https://adriaticaire.com/service-areas/clifton-nj/emergency-hvac/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/caldwell-nj/",
+        "abs": "https://adriaticaire.com/service-areas/caldwell-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/caldwell-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/caldwell-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/caldwell-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/caldwell-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "abs": "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/cedar-grove-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/cedar-grove-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/cedar-grove-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/cedar-grove-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "abs": "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/fairfield-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/fairfield-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/fairfield-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/fairfield-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "abs": "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/franklin-lakes-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/franklin-lakes-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "abs": "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/glen-ridge-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/glen-ridge-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/glen-ridge-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/glen-ridge-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/hawthorne-nj/",
+        "abs": "https://adriaticaire.com/service-areas/hawthorne-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/hoboken-nj/",
+        "abs": "https://adriaticaire.com/service-areas/hoboken-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/hoboken-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/hoboken-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/jersey-city-nj/",
+        "abs": "https://adriaticaire.com/service-areas/jersey-city-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/jersey-city-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/jersey-city-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/little-falls-nj/",
+        "abs": "https://adriaticaire.com/service-areas/little-falls-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/montclair-nj/",
+        "abs": "https://adriaticaire.com/service-areas/montclair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/north-caldwell-nj/",
+        "abs": "https://adriaticaire.com/service-areas/north-caldwell-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/north-caldwell-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/north-caldwell-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/north-caldwell-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/north-caldwell-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/nutley-nj/",
+        "abs": "https://adriaticaire.com/service-areas/nutley-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/nutley-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/nutley-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/totowa-nj/",
+        "abs": "https://adriaticaire.com/service-areas/totowa-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/verona-nj/",
+        "abs": "https://adriaticaire.com/service-areas/verona-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/verona-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/verona-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/verona-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/verona-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/wayne-nj/",
+        "abs": "https://adriaticaire.com/service-areas/wayne-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/wayne-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/wayne-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "abs": "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/west-caldwell-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/west-caldwell-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/west-caldwell-nj/heating/",
+        "abs": "https://adriaticaire.com/service-areas/west-caldwell-nj/heating/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/west-orange-nj/",
+        "abs": "https://adriaticaire.com/service-areas/west-orange-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/west-orange-nj/air-conditioning/",
+        "abs": "https://adriaticaire.com/service-areas/west-orange-nj/air-conditioning/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/service-areas/woodland-park-nj/",
+        "abs": "https://adriaticaire.com/service-areas/woodland-park-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/about/",
+        "abs": "https://adriaticaire.com/about/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/contact/",
+        "abs": "https://adriaticaire.com/contact/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/blog/",
+        "abs": "https://adriaticaire.com/blog/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://adriaticaire.com/special-offers/",
+        "abs": "https://adriaticaire.com/special-offers/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://beta.apptracker.ftlfinance.com/C214972",
+        "abs": "https://beta.apptracker.ftlfinance.com/C214972",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar",
+        "abs": "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar",
+        "text": "OneTap",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 62,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo#",
+        "text": "Scroll To Top",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "AVAILABLE 24 HOURS A DAY, 7 DAYS A WEEK - LICENSE NO. 19HC00",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Heating",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Cooling",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for HVAC",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Home Solutions",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Service Areas",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Company",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "VIEW AREAS",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Submit",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close the menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Heating",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Cooling",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Home Solutions",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Service Areas",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Clifton, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Air Conditioning",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Heating",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for HVAC",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Caldwell, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Cedar Grove, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Fairfield, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Franklin Lakes, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Glen Ridge, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Hoboken, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Jersey City, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for North Caldwell, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Nutley, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Verona, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Wayne, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for West Caldwell, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for West Orange, NJ",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle submenu for Company",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "<img class=\"design-size1 design-border1\" src=\"https://adriat",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "English",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "English",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Deutsch",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Español",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Français",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Italiano",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Polski",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Svenska",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Suomi",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Português",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Română",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Slovenščina",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Slovenčina",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Nederlands",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Dansk",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Ελληνικά",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Čeština",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Magyar",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Lietuvių",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Latviešu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Eesti",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Hrvatski",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Gaeilge",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Български",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Norsk",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Türkçe",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Bahasa Indonesia",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Português (Brasil)",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "日本語",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "한국어",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "简体中文",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "العربية",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Русский",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "हिन्दी",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Українська",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Srpski",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "English (UK)",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "فارسی",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "עברית",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Македонски",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "ไทย",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Tiếng Việt",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "বাংলা",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Filipino",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "اردو",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close toolbar",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Hide Toolbar",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Back",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Not Now",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Hide Toolbar",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Increase Font Size",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Decrease Font Size",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Readable Font",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Increase Line Height",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Decrease Line Height",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Cursor",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Letter Spacing",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Align Text",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Font Weight",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Light Contrast",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "High Contrast",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Monochrome",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Reading Line",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Reading Mask",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Hide Images",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Highlight Content",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Stop Animations",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Highlight Links",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Reset Settings",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Scroll To Top",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "/?utm_source=google&utm_medium=gmb&utm_campaign=seo#wpcf7-f1909-p2911-o1",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 5,
+        "fieldNames": [
+          "your-name",
+          "your-phone",
+          "your-email",
+          "your-message",
+          "sms-consent"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": null,
+        "method": "get",
+        "id": "",
+        "cls": "",
+        "fieldCount": 3,
+        "fieldNames": [
+          "hide_toolbar_duration",
+          "hide_toolbar_duration",
+          "hide_toolbar_duration"
+        ],
+        "visible": false,
+        "hasSubmit": false,
+        "submitDisabled": null,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://adriaticaire.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://adriaticaire.com/",
+            "url": "https://adriaticaire.com/",
+            "name": "Heating & HVAC Contractor in Essex County, NJ | Adriatic Aire",
+            "isPartOf": {
+              "@id": "https://adriaticaire.com/#website"
+            },
+            "about": {
+              "@id": "https://adriaticaire.com/#organization"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://adriaticaire.com/#primaryimage"
+            },
+            "image": {
+              "@id": "https://adriaticaire.com/#primaryimage"
+            },
+            "thumbnailUrl": "https://adriaticaire.com/wp-content/uploads/2023/01/logo.png",
+            "datePublished": "2025-07-11T19:34:24+00:00",
+            "dateModified": "2026-04-29T13:28:43+00:00",
+            "description": "Adriatic Aire is a heating and cooling company in Essex County, NJ. Boiler, furnace and AC repair and installs from our Montclair office. Call now!",
+            "breadcrumb": {
+              "@id": "https://adriaticaire.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://adriaticaire.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://adriaticaire.com/#primaryimage",
+            "url": "https://adriaticaire.com/wp-content/uploads/2023/01/logo.png",
+            "contentUrl": "https://adriaticaire.com/wp-content/uploads/2023/01/logo.png",
+            "width": 268,
+            "height": 69,
+            "caption": "Logo for Adriatic Aire L.L.C. featuring \"Adriatic\" in blue script and \"Aire\" in red print, underlined by a blue-to-red swoosh—perfect for an HVAC Contractor Essex County, NJ looking to stand out."
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://adriaticaire.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://adriaticaire.com/#website",
+            "url": "https://adriaticaire.com/",
+            "name": "Adriatic Aire LLC",
+            "description": "",
+            "publisher": {
+              "@id": "https://adriaticaire.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://adriaticaire.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://adriaticaire.com/#organization",
+            "name": "Adriatic Aire LLC",
+            "url": "https://adriaticaire.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://adriaticaire.com/#/schema/logo/image/",
+              "url": "https://adriaticaire.com/wp-content/uploads/2023/09/favicon.png",
+              "contentUrl": "https://adriaticaire.com/wp-content/uploads/2023/09/favicon.png",
+              "width": 200,
+              "height": 200,
+              "caption": "Adriatic Aire LLC"
+            },
+            "image": {
+              "@id": "https://adriaticaire.com/#/schema/logo/image/"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org/",
+        "@type": "HVACBusiness",
+        "name": "Adriatic Aire LLC",
+        "url": "https://adriaticaire.com/",
+        "image": [
+          "https://adriaticaire.com/wp-content/uploads/2025/08/Group-78.webp",
+          "https://adriaticaire.com/wp-content/uploads/2025/08/Rectangle-17.webp",
+          "https://adriaticaire.com/wp-content/uploads/2025/07/Rectangle-17-1.png",
+          "https://adriaticaire.com/wp-content/uploads/2025/07/Rectangle-17-3.png"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "07042",
+          "streetAddress": "41 Watchung Plaza #353",
+          "addressCountry": "US",
+          "addressRegion": "NJ",
+          "addressLocality": "Montclair"
+        },
+        "description": "Heating and cooling systems are often taken for granted, at least until something goes wrong or catches your attention. Adriatic Aire is the company to call on when you need HVAC services in Essex County, NJ, and beyond that are affordable and easily accessible. Our team is here for you when your cooling or heating system needs to be repaired, maintained, or installed. Rest assured we'll get the job done right the first time every time.",
+        "telephone": "973-249-8066",
+        "priceRange": "$$$$",
+        "hasMap": "https://maps.app.goo.gl/fmUBvanwyXgdrsrY6",
+        "logo": "https://adriaticaire.com/wp-content/uploads/2023/01/adriatic-aire-llc-logo.webp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "58"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "40.83032974012106",
+          "longitude": "-74.20593172259701"
+        },
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Montclair",
+            "@id": "https://en.wikipedia.org/wiki/Montclair,_New_Jersey"
+          },
+          {
+            "@type": "State",
+            "name": "NJ",
+            "@id": "https://en.wikipedia.org/wiki/New_Jersey"
+          }
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "opens": "08:30",
+            "closes": "17:30",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ]
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "opens": "00:00",
+            "closes": "00:00",
+            "dayOfWeek": "Sunday"
+          }
+        ],
+        "keywords": [
+          "HVAC company",
+          "HVAC contractor",
+          "AC repair",
+          "AC Maintenance",
+          "AC Installation",
+          "Heating Repair",
+          "Heating Installation",
+          "Furnace Repair",
+          "Furnace Installation",
+          "Boiler Installation",
+          "Steam Boilers",
+          "Boiler Repair",
+          "Commercial HVAC",
+          "Emergency HVAC",
+          "HVAC Repair New Jersey"
+        ],
+        "sameAs": [
+          "https://www.facebook.com/adriaticaire",
+          "https://www.yelp.com/biz/adriatic-aire-clifton-4",
+          "https://www.tiktok.com/@adriatic.aire",
+          "https://www.instagram.com/adriatic_aire/",
+          "https://www.mapquest.com/us/new-jersey/adriatic-aire-llc-549536612",
+          "https://www.lennox.com/residential/locate/dealer/nj/clifton/adriatic-aire-llc",
+          "https://www.guildquality.com/profile/adriatic-aire-llc",
+          "https://nextdoor.com/pages/adriatic-aire-clifton-nj-2/",
+          "https://www.homeadvisor.com/rated.AdriaticAireLLC.47834168.html",
+          "https://montclairlocal.news/2024/08/councilor-questions-24k-payout-to-improve-a-grove-street-home/",
+          "https://www.bbb.org/us/nj/clifton/profile/heating-and-air-conditioning/adriatic-aire-llc-0221-11006624/addressId/70297",
+          "https://www.linkedin.com/in/rosario-pucci-5831a616"
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 108,
+    "timing": {
+      "dcl": 424,
+      "load": 891,
+      "ttfb": 343
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://adriaticaire.com/?utm_source=google&utm_medium=gmb&utm_campaign=seo",
+    "navMs": 1540,
+    "tel": [
+      {
+        "href": "tel:973-249-8066",
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:9732498066",
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:9732498066",
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:973-249-8066",
+        "text": "Give us a call today",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:9732498066",
+        "text": "(973) 249-8066",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:9732498066",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:9732498066",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:9732498066",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:973-249-8066",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732498066"
+      },
+      {
+        "href": "tel:9732498066",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732498066"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": null,
+  "pages": {
+    "contact": {
+      "url": "https://adriaticaire.com/contact/",
+      "finalUrl": "https://adriaticaire.com/contact/",
+      "status": 200,
+      "title": "Contact Our HVAC Company Essex County, NJ",
+      "forms": [
+        {
+          "action": "/contact/#wpcf7-f1909-p69-o1",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init",
+          "fieldCount": 5,
+          "fieldNames": [
+            "your-name",
+            "your-phone",
+            "your-email",
+            "your-message",
+            "sms-consent"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": null,
+          "method": "get",
+          "id": "",
+          "cls": "",
+          "fieldCount": 3,
+          "fieldNames": [
+            "hide_toolbar_duration",
+            "hide_toolbar_duration",
+            "hide_toolbar_duration"
+          ],
+          "visible": false,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "ross@adriaticaire.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:973-249-8066",
+          "text": "(973) 249-8066",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "(973) 249-8066",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:973-249-8066",
+          "text": "(973) 249-8066",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "Call us",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n (973) 249-8066\n AVAILABLE 24 HOURS A DAY, 7 DAYS A WEEK - LICENSE NO. 19HC00022600\nHEATING\nCOOLING\nHVAC\nHOME SOLUTIONS\nSERVICE AREAS\nCOMPANY\n SCHEDULE SERVICE\nContact\n\nHome / Contact\n\nNeed An HVAC Expert? Give Our Team A Call!\n\nTrust only Adriatic Aire for HVAC services in Essex County, NJ, and nearby areas. We make sure homeowners address their concerns with their heating or cooling systems right away by delivering top-notch solutions at all times. We also meet the needs of local commercial clients, so whenever your furnace acts up or a new air conditioning system needs to be installed, count on our team. Call us or fill out the form below to schedule an appointment with our team!\n\nAdriatic Aire LLC\n\n41 Watchung Plaza #353\nEssex County, NJ 07042, United States\n\n(973) 249-8066\n\nross@adriaticaire.com\n\nSchedule Service\n\nBy checking this box, I consent to receive conversational text messages from Adriatic Aire. Reply STOP to opt-out; Reply HELP for support; Message and data rates apply; Messaging frequency may vary. See our privacy policy and terms and conditions for details.\n\nFOLLOW US\n\nAdriatic Aire LLC\n\t\n\n41 Watchung Plaza #353, Montclair, NJ 07042\n\n\t\n\n(973) 249-8066\n\n\t\n\nross@adriaticaire.com\n\n\t\n\nAvailable 24 Hours a Day, 7 Days a Week\n\nServices\nHeating Repair\nHeating Installation\nFurnace Repair\nFurnace Installation\nBoiler Installation\nAC Repair\nAC Maintenance\nAC Installation\nService Areas\nCaldwell, NJ\nCedar Grove, NJ\nClifton, NJ\nFairfield, NJ\nFranklin Lakes, NJ\nGlen Ridge, NJ\nHoboken, NJ\nJersey City, NJ\nMontclair, NJ\nNorth Caldwell, NJ\nNutley, NJ\nVerona, NJ\nWayne, NJ\nWest Caldwell, NJ\nWest Orange, NJ\nQuick Links\nCooling\nHeating\nAbout\nContact\nSitemap\n\nCopyright © 2026 Adriatic Aire LLC. All Rights Reserved | Privacy Policy | Terms of Service\n\nEnglish \n\nAccessibility Adjustments\n\nPowered by OneTap\n\nHide Toolbar\nContent Modules\nFont Size\n\nDefault\n\nReadable Font\nLine Height\n\nDefault\n\nCursor\nLetter Spacing\nAlign Text\nFont Weight\nColor Modules\nLight Contrast\nHigh Contrast\nMonochrome\nOrientation Modules\nReading Line\nReading Mask\nHide Images\nHighlight Content\nStop Animations\nHighlight Links\nSkip To Content\nChoose...\nMain Content\nNavigation\nFooter\nReset Settings",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://adriaticaire.com/contact/#fl-main-content",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/",
+        "https://adriaticaire.com/heating/",
+        "https://adriaticaire.com/heating/water-heater-repair/",
+        "https://adriaticaire.com/heating/emergency-heating-repair/",
+        "https://adriaticaire.com/heating/heating-repair/",
+        "https://adriaticaire.com/heating/heating-installation/",
+        "https://adriaticaire.com/heating-replacement/",
+        "https://adriaticaire.com/heating/furnace-repair/",
+        "https://adriaticaire.com/heating/furnace-installation/",
+        "https://adriaticaire.com/furnace-replacement/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/heating/steam-boilers/",
+        "https://adriaticaire.com/heating/boiler-repair/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/boiler-replacement/",
+        "https://adriaticaire.com/tankless-water-heater-installers/",
+        "https://adriaticaire.com/cooling/",
+        "https://adriaticaire.com/cooling/ac-repair/",
+        "https://adriaticaire.com/cooling/ac-maintenance/",
+        "https://adriaticaire.com/ac-replacement/",
+        "https://adriaticaire.com/cooling/ac-installation/",
+        "https://adriaticaire.com/air-conditioning-contractor/",
+        "https://adriaticaire.com/hvac/",
+        "https://adriaticaire.com/hvac-repair/",
+        "https://adriaticaire.com/hvac/commercial-hvac/",
+        "https://adriaticaire.com/hvac/emergency-hvac/",
+        "https://adriaticaire.com/hvac/maintenance-agreement/",
+        "https://adriaticaire.com/contact/#",
+        "https://adriaticaire.com/home-comfort-membership-plan/",
+        "https://adriaticaire.com/service-areas/",
+        "https://adriaticaire.com/service-areas/montclair-nj/heating/",
+        "https://adriaticaire.com/contact/#",
+        "https://adriaticaire.com/about/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/blog/",
+        "https://adriaticaire.com/special-offers/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/",
+        "https://adriaticaire.com/privacy-policy",
+        "https://adriaticaire.com/terms",
+        "https://adriaticaire.com/",
+        "https://adriaticaire.com/heating/heating-repair/",
+        "https://adriaticaire.com/heating/heating-installation/",
+        "https://adriaticaire.com/heating/furnace-repair/",
+        "https://adriaticaire.com/heating/furnace-installation/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/cooling/ac-repair/",
+        "https://adriaticaire.com/cooling/ac-maintenance/",
+        "https://adriaticaire.com/cooling/ac-installation/",
+        "https://adriaticaire.com/service-areas/caldwell-nj/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "https://adriaticaire.com/service-areas/clifton-nj/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "https://adriaticaire.com/service-areas/hoboken-nj/",
+        "https://adriaticaire.com/service-areas/jersey-city-nj/",
+        "https://adriaticaire.com/service-areas/montclair-nj/",
+        "https://adriaticaire.com/service-areas/north-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/nutley-nj/",
+        "https://adriaticaire.com/service-areas/verona-nj/",
+        "https://adriaticaire.com/service-areas/wayne-nj/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/west-orange-nj/",
+        "https://adriaticaire.com/cooling/",
+        "https://adriaticaire.com/heating/",
+        "https://adriaticaire.com/about/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/sitemap/",
+        "https://adriaticaire.com/privacy-policy/",
+        "https://adriaticaire.com/terms/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/tankless-water-heater-installers/",
+        "https://adriaticaire.com/boiler-replacement/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/ac-replacement/",
+        "https://adriaticaire.com/heating-replacement/",
+        "https://adriaticaire.com/furnace-replacement/",
+        "https://adriaticaire.com/heating/",
+        "https://adriaticaire.com/heating/heating-repair/",
+        "https://adriaticaire.com/heating/heating-installation/",
+        "https://adriaticaire.com/heating/furnace-repair/",
+        "https://adriaticaire.com/heating/furnace-installation/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/heating/boiler-repair/",
+        "https://adriaticaire.com/hvac-repair/",
+        "https://adriaticaire.com/cooling/",
+        "https://adriaticaire.com/cooling/ac-repair/",
+        "https://adriaticaire.com/cooling/ac-maintenance/",
+        "https://adriaticaire.com/cooling/ac-installation/",
+        "https://adriaticaire.com/contact/#",
+        "https://adriaticaire.com/home-comfort-membership-plan/",
+        "https://adriaticaire.com/service-areas/",
+        "https://adriaticaire.com/service-areas/bloomfield-nj/",
+        "https://adriaticaire.com/service-areas/clifton-nj/",
+        "https://adriaticaire.com/service-areas/clifton-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/clifton-nj/ac-repair/",
+        "https://adriaticaire.com/service-areas/clifton-nj/ac-maintenance/",
+        "https://adriaticaire.com/service-areas/clifton-nj/ac-installation/",
+        "https://adriaticaire.com/service-areas/clifton-nj/heating/",
+        "https://adriaticaire.com/service-areas/clifton-nj/heating-repair/",
+        "https://adriaticaire.com/service-areas/clifton-nj/heating-installation/",
+        "https://adriaticaire.com/service-areas/clifton-nj/furnace-repair/",
+        "https://adriaticaire.com/service-areas/clifton-nj/furnace-installation/",
+        "https://adriaticaire.com/service-areas/clifton-nj/boiler-installation/",
+        "https://adriaticaire.com/service-areas/clifton-nj/steam-boilers/",
+        "https://adriaticaire.com/service-areas/clifton-nj/hvac/",
+        "https://adriaticaire.com/service-areas/clifton-nj/commercial-hvac/",
+        "https://adriaticaire.com/service-areas/clifton-nj/emergency-hvac/",
+        "https://adriaticaire.com/service-areas/caldwell-nj/",
+        "https://adriaticaire.com/service-areas/caldwell-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/caldwell-nj/heating/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/heating/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/heating/",
+        "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "https://adriaticaire.com/service-areas/franklin-lakes-nj/heating/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/heating/",
+        "https://adriaticaire.com/service-areas/hawthorne-nj/",
+        "https://adriaticaire.com/service-areas/hoboken-nj/",
+        "https://adriaticaire.com/service-areas/hoboken-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/jersey-city-nj/",
+        "https://adriaticaire.com/service-areas/jersey-city-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/little-falls-nj/",
+        "https://adriaticaire.com/service-areas/montclair-nj/",
+        "https://adriaticaire.com/service-areas/north-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/north-caldwell-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/north-caldwell-nj/heating/",
+        "https://adriaticaire.com/service-areas/nutley-nj/",
+        "https://adriaticaire.com/service-areas/nutley-nj/heating/",
+        "https://adriaticaire.com/service-areas/totowa-nj/",
+        "https://adriaticaire.com/service-areas/verona-nj/",
+        "https://adriaticaire.com/service-areas/verona-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/verona-nj/heating/",
+        "https://adriaticaire.com/service-areas/wayne-nj/",
+        "https://adriaticaire.com/service-areas/wayne-nj/heating/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/heating/",
+        "https://adriaticaire.com/service-areas/west-orange-nj/",
+        "https://adriaticaire.com/service-areas/west-orange-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/woodland-park-nj/",
+        "https://adriaticaire.com/contact/#",
+        "https://adriaticaire.com/about/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/blog/",
+        "https://adriaticaire.com/special-offers/",
+        "https://adriaticaire.com/contact/#"
+      ]
+    },
+    "about": {
+      "url": "https://adriaticaire.com/about/",
+      "finalUrl": "https://adriaticaire.com/about/",
+      "status": 200,
+      "title": "About Our HVAC Company in Essex County, NJ",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "",
+          "cls": "",
+          "fieldCount": 3,
+          "fieldNames": [
+            "hide_toolbar_duration",
+            "hide_toolbar_duration",
+            "hide_toolbar_duration"
+          ],
+          "visible": false,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "ross@adriaticaire.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:973-249-8066",
+          "text": "(973) 249-8066",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "973-249-8066",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "(973) 249-8066",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "(973) 249-8066",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "(973) 249-8066",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:973-249-8066",
+          "text": "",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        },
+        {
+          "href": "tel:9732498066",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732498066"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n (973) 249-8066\n AVAILABLE 24 HOURS A DAY, 7 DAYS A WEEK - LICENSE NO. 19HC00022600\nHEATING\nCOOLING\nHVAC\nHOME SOLUTIONS\nSERVICE AREAS\nCOMPANY\n SCHEDULE SERVICE\nAbout\n 973-249-8066\n SCHEDULE SERVICE\n\nHome / About\n\nTrust Our Local Heating And Air Professionals\n\nIf you own a home or business, you're sure to eventually need the help of a skilled HVAC contractor in Essex County, NJ, or any of the surrounding area. You want technicians who can keep your climate control systems in good working order. The team here at Adriatic Aire brings decades of collective work experience to every job we undertake, and we look forward to earning your business and your confidence by providing quality workmanship and attentive customer care on every project, large or small.\n\nA locally owned and operated business, we have been in the industry since May 15, 1973. We have made sure that we are transparent to our clients and offer total honesty in every work we do. We are never forceful in any of our interactions, so you can be sure that we care for your needs. On top of that, we provide a workmanship guarantee.\n\n (973) 249-8066\n SCHEDULE SERVICE\n\nOUR SERVICES\n\nThe Various Tasks We're Prepared To Handle\n\nYou can count on an HVAC contractor from our team for excellent workmanship regardless of which of the following services we're providing:\n\nHVAC SERVICES\n\nWhether your HVAC system was manufactured by Trane, Lennox, Weil-McLain, Utica, or another product maker, you can count on us to furnish all the services that it needs to remain in top condition. We can also size and install an all-new or replacement unit if that's what your property requires.\n\nAIR CONDITIONING SERVICES\n\nIf you're like most local residents, you don't want to be without the use of your home or commercial cooling system for even a minute during the New Jersey summer heat. Our technicians are qualified to provide maintenance and repair work to keep your system operational and to completely replace old, outdated units as needed. Our expert services also include comprehensive installation work for new construction.\n\nHEATER SERVICES\n\nWhen you need an all-new heating system, minor repair work, or total furnace replacement, we're the team to call. We're prepared to draw upon our considerable expertise to help you select the right furnace or heat pump for your property and follow up with professional installation and routine maintenance services aimed at extending the life of the system you choose.\n\nReady For Top-Quality HVAC Service?\n\nContact us now to schedule an appointment and let our trusted technicians take care of your home's comfort.\n\n (973) 249-8066\n SCHEDULE SERVICE\nAreas We Serve\nEssex County, NJ\nClifton, NJ\nGlen Ridge, NJ\nLittle Falls, NJ\nTotowa, NJ\nCedar Grove, NJ\nWest Caldwell, NJ\nBloomfield, NJ\nNutley, NJ\nWayne, NJ\nFairfield, NJ\nWoodland Park, NJ\nHawthorne, NJ\nFranklin Lakes, NJ\nVerona, NJ\nVIEW AREAS \nThe Many Advantages Of Working With Us\n\nOur business was founded as a locally based, family-run HVAC company in 1973, and we've worked at hundreds of homes and corporate entities around the Montclair region during our time in operation. Over the years, we've garnered a loyal following among local property owners thanks to our flexible appointment options, punctual service, strict attention to detail, and speedy project turnaround.\n\nGive Our Team A Call For All Comfort-Related Needs\n\nNeed HVAC services right away? Look no further than Adriatic Aire to make the most of your investment in your comfort. Call us or fill out the form to schedule an appointment.\n\n (973) 249-8066\n SCHEDULE SERVICE\n\nEnglish \n\nAccessibility Adjustments\n\nPowered by OneTap\n\nHide Toolbar\nContent Modules\nFont Size\n\nDefault\n\nReadable Font\nLine Height\n\nDefault\n\nCursor\nLetter Spacing\nAlign Text\nFont Weight\nColor Modules\nLight Contrast\nHigh Contrast\nMonochrome\nOrientation Modules\nReading Line\nReading Mask\nHide Images\nHighlight Content\nStop Animations\nHighlight Links\nSkip To Content\nChoose...\nMain Content\nNavigation\nFooter\nReset Settings",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://adriaticaire.com/about/#fl-main-content",
+        "https://adriaticaire.com/about/",
+        "https://adriaticaire.com/",
+        "https://adriaticaire.com/heating/",
+        "https://adriaticaire.com/heating/water-heater-repair/",
+        "https://adriaticaire.com/heating/emergency-heating-repair/",
+        "https://adriaticaire.com/heating/heating-repair/",
+        "https://adriaticaire.com/heating/heating-installation/",
+        "https://adriaticaire.com/heating-replacement/",
+        "https://adriaticaire.com/heating/furnace-repair/",
+        "https://adriaticaire.com/heating/furnace-installation/",
+        "https://adriaticaire.com/furnace-replacement/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/heating/steam-boilers/",
+        "https://adriaticaire.com/heating/boiler-repair/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/boiler-replacement/",
+        "https://adriaticaire.com/tankless-water-heater-installers/",
+        "https://adriaticaire.com/cooling/",
+        "https://adriaticaire.com/cooling/ac-repair/",
+        "https://adriaticaire.com/cooling/ac-maintenance/",
+        "https://adriaticaire.com/ac-replacement/",
+        "https://adriaticaire.com/cooling/ac-installation/",
+        "https://adriaticaire.com/air-conditioning-contractor/",
+        "https://adriaticaire.com/hvac/",
+        "https://adriaticaire.com/hvac-repair/",
+        "https://adriaticaire.com/hvac/commercial-hvac/",
+        "https://adriaticaire.com/hvac/emergency-hvac/",
+        "https://adriaticaire.com/hvac/maintenance-agreement/",
+        "https://adriaticaire.com/about/#",
+        "https://adriaticaire.com/home-comfort-membership-plan/",
+        "https://adriaticaire.com/service-areas/",
+        "https://adriaticaire.com/service-areas/montclair-nj/heating/",
+        "https://adriaticaire.com/about/#",
+        "https://adriaticaire.com/about/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/blog/",
+        "https://adriaticaire.com/special-offers/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/",
+        "https://adriaticaire.com/hvac/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/hvac/",
+        "https://adriaticaire.com/hvac/",
+        "https://adriaticaire.com/cooling/",
+        "https://adriaticaire.com/heating/",
+        "https://adriaticaire.com/heating/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/service-areas/montclair-nj/",
+        "https://adriaticaire.com/service-areas/clifton-nj/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "https://adriaticaire.com/service-areas/little-falls-nj/",
+        "https://adriaticaire.com/service-areas/totowa-nj/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/bloomfield-nj/",
+        "https://adriaticaire.com/service-areas/nutley-nj/",
+        "https://adriaticaire.com/service-areas/wayne-nj/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "https://adriaticaire.com/service-areas/woodland-park-nj/",
+        "https://adriaticaire.com/service-areas/hawthorne-nj/",
+        "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "https://adriaticaire.com/service-areas/verona-nj/",
+        "https://adriaticaire.com/service-areas/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/",
+        "https://adriaticaire.com/heating/heating-repair/",
+        "https://adriaticaire.com/heating/heating-installation/",
+        "https://adriaticaire.com/heating/furnace-repair/",
+        "https://adriaticaire.com/heating/furnace-installation/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/cooling/ac-repair/",
+        "https://adriaticaire.com/cooling/ac-maintenance/",
+        "https://adriaticaire.com/cooling/ac-installation/",
+        "https://adriaticaire.com/service-areas/caldwell-nj/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "https://adriaticaire.com/service-areas/clifton-nj/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "https://adriaticaire.com/service-areas/hoboken-nj/",
+        "https://adriaticaire.com/service-areas/jersey-city-nj/",
+        "https://adriaticaire.com/service-areas/montclair-nj/",
+        "https://adriaticaire.com/service-areas/north-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/nutley-nj/",
+        "https://adriaticaire.com/service-areas/verona-nj/",
+        "https://adriaticaire.com/service-areas/wayne-nj/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/west-orange-nj/",
+        "https://adriaticaire.com/cooling/",
+        "https://adriaticaire.com/heating/",
+        "https://adriaticaire.com/about/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/sitemap/",
+        "https://adriaticaire.com/privacy-policy/",
+        "https://adriaticaire.com/terms/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/hvac-repair/",
+        "https://adriaticaire.com/tankless-water-heater-installers/",
+        "https://adriaticaire.com/boiler-replacement/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/ac-replacement/",
+        "https://adriaticaire.com/heating-replacement/",
+        "https://adriaticaire.com/furnace-replacement/",
+        "https://adriaticaire.com/heating/",
+        "https://adriaticaire.com/heating/heating-repair/",
+        "https://adriaticaire.com/heating/heating-installation/",
+        "https://adriaticaire.com/heating/furnace-repair/",
+        "https://adriaticaire.com/heating/furnace-installation/",
+        "https://adriaticaire.com/boiler-installation/",
+        "https://adriaticaire.com/heating/boiler-repair/",
+        "https://adriaticaire.com/cooling/",
+        "https://adriaticaire.com/cooling/ac-repair/",
+        "https://adriaticaire.com/cooling/ac-maintenance/",
+        "https://adriaticaire.com/cooling/ac-installation/",
+        "https://adriaticaire.com/about/#",
+        "https://adriaticaire.com/home-comfort-membership-plan/",
+        "https://adriaticaire.com/service-areas/",
+        "https://adriaticaire.com/service-areas/bloomfield-nj/",
+        "https://adriaticaire.com/service-areas/clifton-nj/",
+        "https://adriaticaire.com/service-areas/clifton-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/clifton-nj/ac-repair/",
+        "https://adriaticaire.com/service-areas/clifton-nj/ac-maintenance/",
+        "https://adriaticaire.com/service-areas/clifton-nj/ac-installation/",
+        "https://adriaticaire.com/service-areas/clifton-nj/heating/",
+        "https://adriaticaire.com/service-areas/clifton-nj/heating-repair/",
+        "https://adriaticaire.com/service-areas/clifton-nj/heating-installation/",
+        "https://adriaticaire.com/service-areas/clifton-nj/furnace-repair/",
+        "https://adriaticaire.com/service-areas/clifton-nj/furnace-installation/",
+        "https://adriaticaire.com/service-areas/clifton-nj/boiler-installation/",
+        "https://adriaticaire.com/service-areas/clifton-nj/steam-boilers/",
+        "https://adriaticaire.com/service-areas/clifton-nj/hvac/",
+        "https://adriaticaire.com/service-areas/clifton-nj/commercial-hvac/",
+        "https://adriaticaire.com/service-areas/clifton-nj/emergency-hvac/",
+        "https://adriaticaire.com/service-areas/caldwell-nj/",
+        "https://adriaticaire.com/service-areas/caldwell-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/caldwell-nj/heating/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/cedar-grove-nj/heating/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/fairfield-nj/heating/",
+        "https://adriaticaire.com/service-areas/franklin-lakes-nj/",
+        "https://adriaticaire.com/service-areas/franklin-lakes-nj/heating/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/glen-ridge-nj/heating/",
+        "https://adriaticaire.com/service-areas/hawthorne-nj/",
+        "https://adriaticaire.com/service-areas/hoboken-nj/",
+        "https://adriaticaire.com/service-areas/hoboken-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/jersey-city-nj/",
+        "https://adriaticaire.com/service-areas/jersey-city-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/little-falls-nj/",
+        "https://adriaticaire.com/service-areas/montclair-nj/",
+        "https://adriaticaire.com/service-areas/north-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/north-caldwell-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/north-caldwell-nj/heating/",
+        "https://adriaticaire.com/service-areas/nutley-nj/",
+        "https://adriaticaire.com/service-areas/nutley-nj/heating/",
+        "https://adriaticaire.com/service-areas/totowa-nj/",
+        "https://adriaticaire.com/service-areas/verona-nj/",
+        "https://adriaticaire.com/service-areas/verona-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/verona-nj/heating/",
+        "https://adriaticaire.com/service-areas/wayne-nj/",
+        "https://adriaticaire.com/service-areas/wayne-nj/heating/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/west-caldwell-nj/heating/",
+        "https://adriaticaire.com/service-areas/west-orange-nj/",
+        "https://adriaticaire.com/service-areas/west-orange-nj/air-conditioning/",
+        "https://adriaticaire.com/service-areas/woodland-park-nj/",
+        "https://adriaticaire.com/about/#",
+        "https://adriaticaire.com/about/",
+        "https://adriaticaire.com/contact/",
+        "https://adriaticaire.com/blog/",
+        "https://adriaticaire.com/special-offers/",
+        "https://adriaticaire.com/about/#"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 60,
+    "at": "2026-11-03T23:44:31.572Z",
+    "statusCounts": {
+      "200": 60
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://adriaticaire.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/adriatic-aire/desktop-home.png",
+    "desktop_full": "evidence/screenshots/adriatic-aire/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/adriatic-aire/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/adriatic-aire/desktop-about.png",
+    "mobile_failure": "evidence/screenshots/adriatic-aire/mobile-home-access-failure.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00022600"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 1973,
+    "copyrightYear": 2026,
+    "emails": [
+      "ross@adriaticaire.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "SCHEDULE SERVICE -> https://adriaticaire.com/contact/",
+      "SCHEDULE SERVICE -> https://adriaticaire.com/contact/",
+      "SCHEDULE SERVICE -> https://adriaticaire.com/contact/",
+      "SCHEDULE SERVICE -> https://adriaticaire.com/contact/"
+    ]
+  },
+  "ctaClickTests": []
+}

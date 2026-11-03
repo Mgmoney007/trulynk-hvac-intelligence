@@ -1,0 +1,25 @@
+{
+  "id": "deaire-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/DeAire+Heating+%26+Cooling/data=!4m7!3m6!1s0xad5f9f7ecc49bc6d:0x12751450786cffd8!8m2!3d40.7970363!4d-74.0182381!16s%2Fg%2F11src97v93!19sChIJbbxJzH6fX60R2P9seFAUdRI",
+  "retrievedAt": "2026-11-03T22:50:14.290Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "DeAire Heating & Cooling",
+  "category": "HVAC contractor",
+  "address": "1214 67th St, North Bergen, NJ 07047, United States ",
+  "phone": "+1 786-234-6498 ",
+  "website": "http://deaireheatingandcooling.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/DeAire+Heating+%26+Cooling/data=!4m7!3m6!1s0xad5f9f7ecc49bc6d:0x12751450786cffd8!8m2!3d40.7970363!4d-74.0182381!16s%2Fg%2F11src97v93!19sChIJbbxJzH6fX60R2P9seFAUdRI?hl=en",
+  "screenshot": "evidence/screenshots/deaire-heating-cooling/google-maps-listing.png"
+}

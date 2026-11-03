@@ -1,0 +1,896 @@
+{
+  "firecrawl": [],
+  "id": "fix-hvac",
+  "name": "Fix Hvac",
+  "website": "https://fix-hvac.com/",
+  "auditedAt": "2026-11-03T22:50:54.758Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://fix-hvac.com/",
+      "at": "2026-11-03T22:51:13.717Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://fix-hvac.com/",
+      "title": "Fix HVAC – HVAC Services NY, NJ & Connecticut",
+      "ms": 18756,
+      "error": null,
+      "linkCount": 18
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://fix-hvac.com/",
+      "at": "2026-11-03T22:51:27.220Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://fix-hvac.com/",
+      "title": "Fix HVAC – HVAC Services NY, NJ & Connecticut",
+      "ms": 6203,
+      "error": null,
+      "linkCount": 18
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://fix-hvac.com/",
+    "title": "Fix HVAC – HVAC Services NY, NJ & Connecticut",
+    "lang": "en-US",
+    "metaDescription": "Professional HVAC services across New York, New Jersey & Connecticut. Expert AC/furnace repair, installation & maintenance. Licensed, insured. Call today!",
+    "h1": [
+      "AIR CONDITIONING\nREPAIR, MAINTENANCE &\nINSTALLATION SERVICES",
+      "Is Your AC System Showing These Warning Signs?"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 7441,
+    "bodyText": "Skip to content\nNew Jersey\n\nNew York\nConnecticut\n\n+1 (908) 639-2079\n+1 (888) 695-0757\nBook now\nAC\nWater Heater\nHeating System\nAIR CONDITIONING\nREPAIR, MAINTENANCE &\nINSTALLATION SERVICES\nService Call $99\nSame-Day Emergency Service\nLicensed & Insured\nFlexible Financing Options\nEstimate order\nOur HVAC Services\nAC Repair\n\nFast, expert repair for all AC systems in NJ, NY, and CT. We diagnose and fix issues quickly using quality parts.\n\nAC Maintenance\n\nKeep your AC running smoothly. Our thorough maintenance prevents breakdowns and extends your system’s lifespan.\n\nAC Installation\n\nProfessional installation of all major brands, from central air to ductless mini-splits. Sized right for your space.\n\nIs Your AC System Showing These Warning Signs?\nNot cooling properly\nSystem won't turn on\nStrange noises or vibrations\nExcessive shaking\nOverheating components\nVisible damage\nAccumulated dirt and debris\nWater leakage\nEmergency AC Repair: Technician at Your Door Today\n\n90% of Service Calls Completed Within 24 Hours – Your Comfort Won’t Wait\n\nСall now\nWhy Locals Trust Fix HVAC\nExperienced Technicians\n\nCertified HVAC professionals.\n\nComprehensive Service\n\nComplete heating & cooling solutions.\n\nTransparent Pricing\n\nUpfront estimates, no hidden fees.\n\nCommercial & Residential Expertise\n\nServing homes and businesses.\n\nCall today, cool down same day\nNO GIMMICKS. NO COUPONS.\nJUST QUALITY REPAIRS AT FAIR PRICES WHEN YOU NEED THEM.\nBook now\nWhat others are saying\nEXCELLENT\nBased on 373 reviews\nDaniella G.\nVito the technician was great, professional, great work ethics. I have an old oil boiler and he knew what he was doing and fixed it with no problems, at this moment I am completely satisfied and very happy my boiler is working. Thank you Vito , Sam the boss I highly recommend FIX HVAC\nShaun R.\nExcellent service. Quick response. Skilled Technician. The service tech was very respectfully and highly qualified to handle the job. I had a broken thermostat replaced and he diagnosed the issue and had a new one on his truck so no delay with the replacement. Highly recommended. Thank you.\nAl F.\nFast service and replaced broken part same day.\nMark R.\nRe-hired for fall maintenance heating. Quick, professional maintenance for the winter to come.thank you for the help.\nEpefania P.\nVery Honest and can be trusted. Vito is Highly Recommended, thank you so much!!!\nJuliana S.\nVery professional and responsive\nUsama M.\nGreat experience\nMichael F.\nThese guys were great! Stan came in, diagnosed the issues (there were multiple), came up with solutions that saved me money. Very technical. Totally fixed my boiler wiring issues. Pleasant to deal with. Very happy. Thank you!\nAnton B.\nVery professional and reliable. They provide great service!\nKevin L.\nGreat experience, they helped me solve my problem at my residence and even helped me out with another issue at one of my units 30 mins away. Great price too\nVerified by Trustindex \nEXCELLENT\nBased on 70 reviews\nBridget canady\nWonderful tech thanks so mich\nAnzor M\nStan was great. Came and fixed the issue quickly.\nXiangwei\nThey came to replace my thermostat. Very quick and very professional!\nRash Gil\nA pleasure to work with their team on multiple occasions. Sam, Stan, Vito, and their entire team are all very knowledgeable. I first contacted them to descale a combo boiler, and I’ve since replaced a central air unit and installed a mini split system on two separate occasions. Professional team and very reliable!\nMercy Munoz\nVito was amazing! He came to our apt and was so patient and understanding when we were unable to answer certain questions since we are renting. He looked through the building/ apt in order to figure out what was needed to fix the thermostat many times. He made sure to explain things to me before leaving and even offered to come back if there was an issue again. I recommend this company - and vito! \nMikey Colon\nHonest service and don't hesitate to give them a shot.\ndaniella gonzalez\nVito Technician was great, professional, great work ethics,. I have an old oil boiler and he knew what he was doing, he fix it with no problem. I am very happy my boiler is working, and the price was reasonable. Thank you Vito and boss man Sam and the whole team from FIx HVAC. I highly recommend them \nManoj Kattel\nVery professional guys, recommend\nAlex Rallis\nVito did a great job even though he’s a Russian guy. He’s a good guy. He did a good job. Very thorough. Very happy with Profix in general. Good offer. Good guys.\nVerified by Trustindex \nFeatured Projects\nDon't suffer through another uncomfortable day​\n\nOur experts are ready to solve your cooling problems with same-day service\n\nСall now\nBrands We Service & Install\n\nWe’re certified to repair and install all major air conditioning\nbrands including:\n\nOur Trusted HVAC Suppliers\n\nReliable equipment from proven suppliers ensures top-notch\nquality and allows for quick replacement when needed.\n\nOur Operators Are Real People\n\nYour calls are answered by live operators who are ready to assist you quickly and professionally with any inquiries.\n\nSchedule Online\nFIX HVAC\nHVAC CONTRACTOR\nNEW JERSEY & NEW YORK\nCONNECTICUT\n\n2160 N CENTRAL RD SUITE 304 FORT LEE, NEW JERSEY 07024\n\nCall Now\n\n+1 (908) 639-2079\n\n+1 (888) 695-0757\n\nOur Service Area\n\nNew Jersey, New York & Connecticut\n\nBergen County\nHudson County\nEssex County\nStaten Island\nRockland County\nUnion County\nPassaic County\nWestchester County\nMorris County\nMiddlesex County\nSomerset County\nFairfield County\nSussex County\nOrange County\nFIX HVAC – 2025 All Rights Reserved\n\nPowered by umarketing.us",
+    "links": [
+      {
+        "href": "#content",
+        "abs": "https://fix-hvac.com/#content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://fix-hvac.com/",
+        "abs": "https://fix-hvac.com/",
+        "text": "Fix HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+1 (908) 639-2079",
+        "abs": "tel:+1 (908) 639-2079",
+        "text": "+1 (908) 639-2079",
+        "visible": true,
+        "aboveFold": true,
+        "h": 29,
+        "w": 216,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+1 (888) 695-0757",
+        "abs": "tel:+1 (888) 695-0757",
+        "text": "+1 (888) 695-0757",
+        "visible": true,
+        "aboveFold": true,
+        "h": 29,
+        "w": 215,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://fix-hvac.com/#",
+        "abs": "https://fix-hvac.com/#",
+        "text": "AC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 48,
+        "w": 92,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://fix-hvac.com/water-heater-repair/",
+        "abs": "https://fix-hvac.com/water-heater-repair/",
+        "text": "Water Heater",
+        "visible": true,
+        "aboveFold": true,
+        "h": 48,
+        "w": 251,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://fix-hvac.com/heating-system/",
+        "abs": "https://fix-hvac.com/heating-system/",
+        "text": "Heating System",
+        "visible": true,
+        "aboveFold": true,
+        "h": 48,
+        "w": 287,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+1%20(201)%20558-8123",
+        "abs": "tel:+1%20(201)%20558-8123",
+        "text": "Сall now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 54,
+        "w": 184,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.thumbtack.com/nj/fort-lee/central-air-conditioning-installation/fix-hvac-repair-services-llc/service/517685111903617051",
+        "abs": "https://www.thumbtack.com/nj/fort-lee/central-air-conditioning-installation/fix-hvac-repair-services-llc/service/517685111903617051",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 38,
+        "w": 244,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.trustindex.io/?a=sys&c=wp-verified-badge&url=/review-platform-verification/",
+        "abs": "https://www.trustindex.io/?a=sys&c=wp-verified-badge&url=/review-platform-verification/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 18,
+        "w": 81,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO5jDk4LjDwURCFQ5wlIxEF4",
+        "abs": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO5jDk4LjDwURCFQ5wlIxEF4",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 18,
+        "w": 59,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.trustindex.io/?a=sys&c=wp-verified-badge&url=/review-platform-verification/",
+        "abs": "https://www.trustindex.io/?a=sys&c=wp-verified-badge&url=/review-platform-verification/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 18,
+        "w": 81,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+1%20(201)%20558-8123",
+        "abs": "tel:+1%20(201)%20558-8123",
+        "text": "Сall now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 54,
+        "w": 184,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "http://+1%20(908)%20639-2079",
+        "abs": "http://+1%20(908)%20639-2079/",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 50,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "http://+1%20(908)%20639-2079",
+        "abs": "http://+1%20(908)%20639-2079/",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 107,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+1 (908) 639-2079:",
+        "abs": "tel:+1 (908) 639-2079:",
+        "text": "+1 (908) 639-2079",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 216,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+1 (888) 695-0757:",
+        "abs": "tel:+1 (888) 695-0757:",
+        "text": "+1 (888) 695-0757",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 215,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://umarketing.us/",
+        "abs": "https://umarketing.us/",
+        "text": "umarketing.us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 15,
+        "w": 89,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Book now",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Estimate order",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Book now",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Book now",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Book now",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Book now",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Next review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous review",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous slide",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next slide",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Schedule Online",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "/#wpcf7-f73-o1",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 4,
+        "fieldNames": [
+          "your-name",
+          "your-tel",
+          "your-email",
+          "your-message"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f73-p8-o2",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 4,
+        "fieldNames": [
+          "your-name",
+          "your-tel",
+          "your-email",
+          "your-message"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f73-p8-o3",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 4,
+        "fieldNames": [
+          "your-name",
+          "your-tel",
+          "your-email",
+          "your-message"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f73-p8-o4",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 4,
+        "fieldNames": [
+          "your-name",
+          "your-tel",
+          "your-email",
+          "your-message"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f73-p8-o5",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 4,
+        "fieldNames": [
+          "your-name",
+          "your-tel",
+          "your-email",
+          "your-message"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f73-p8-o6",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 4,
+        "fieldNames": [
+          "your-name",
+          "your-tel",
+          "your-email",
+          "your-message"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f73-p8-o7",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 4,
+        "fieldNames": [
+          "your-name",
+          "your-tel",
+          "your-email",
+          "your-message"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://maps.google.com/maps?q=2160%20N%20CENTRAL%20RD%20SUITE%20304%20FORT%20LEE%2C%20NEW%20JERSEY%2007024&t=m&z=10&output=embed&iwloc=near"
+    ],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=AW-18043761668&cx=c&gtm=4e6b21",
+      "https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/jquery.min.js",
+      "https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://www.googletagmanager.com/gtag/js?id=GT-5D4THWCH",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18043761668/?random=1793746263245&cv=11&fst=1793746263245&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21v9250083099za208zb9241949285zd9241949285xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120420414~120469145~120469153~121246026~121246034~123691370&u_w=1366&u_h=900&url=https%3A%2F%2Ffix-hvac.com%2F&rcb=4&frm=0&tiba=Fix%20HVAC%20%E2%80%93%20HVAC%20Services%20NY%2C%20NJ%20%26%20Connecticut&did=dZTNiMT&gdid=dZTNiMT&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1107587142.1793746263&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://fix-hvac.com/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.6",
+      "https://fix-hvac.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.6",
+      "https://fix-hvac.com/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.3.6",
+      "https://fix-hvac.com/wp-content/plugins/elementor/assets/js/chunks/image-carousel.min.js?ver=4.3.6",
+      "https://fix-hvac.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://fix-hvac.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.14.2",
+      "https://c0.wp.com/c/7.1.4/wp-includes/js/dist/hooks.min.js",
+      "https://c0.wp.com/c/7.1.4/wp-includes/js/dist/i18n.min.js",
+      "https://fix-hvac.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.2.4.1",
+      "https://fix-hvac.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.2.4.1",
+      "https://fix-hvac.com/wp-content/uploads/premium-addons-elementor/pafe-8.js?ver=1780595937",
+      "https://fix-hvac.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.6",
+      "https://fix-hvac.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.6",
+      "https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/ui/core.min.js",
+      "https://fix-hvac.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.6",
+      "https://fix-hvac.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/modal.min.js?ver=4.11.117",
+      "https://fix-hvac.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "https://fix-hvac.com/wp-content/uploads/premium-addons-elementor/pafe-33.js?ver=1780595937",
+      "https://fix-hvac.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-3ac287af84a753cfbaa5.js",
+      "https://fix-hvac.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-90bacb156ab34fa090db.js",
+      "https://fix-hvac.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js?ver=4.11.117",
+      "https://stats.wp.com/e-202645.js",
+      "https://fix-hvac.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-wrap-link.min.js?ver=4.11.117",
+      "https://cdn.trustindex.io/loader.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Place",
+            "@id": "https://fix-hvac.com/#place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2160 N Central Rd Suite 304",
+              "addressLocality": "Fort Lee",
+              "addressRegion": "New Jersey",
+              "postalCode": "07024",
+              "addressCountry": "US"
+            }
+          },
+          {
+            "@type": [
+              "HVACBusiness",
+              "Organization"
+            ],
+            "@id": "https://fix-hvac.com/#organization",
+            "name": "Fix HVAC",
+            "url": "https://fix-hvac.com",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2160 N Central Rd Suite 304",
+              "addressLocality": "Fort Lee",
+              "addressRegion": "New Jersey",
+              "postalCode": "07024",
+              "addressCountry": "US"
+            },
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://fix-hvac.com/#logo",
+              "url": "https://fix-hvac.com/wp-content/uploads/2026/01/cropped-IMG_6016.jpg",
+              "contentUrl": "https://fix-hvac.com/wp-content/uploads/2026/01/cropped-IMG_6016.jpg",
+              "caption": "Fix HVAC",
+              "inLanguage": "en-US",
+              "width": "512",
+              "height": "512"
+            },
+            "description": "Professional HVAC services across New York, New Jersey &amp; Connecticut. Expert AC/furnace repair, installation &amp; maintenance. Licensed, insured. Call today!\n",
+            "legalName": "FixHVAC",
+            "location": {
+              "@id": "https://fix-hvac.com/#place"
+            },
+            "image": {
+              "@id": "https://fix-hvac.com/#logo"
+            },
+            "telephone": "+1 (201) 558-8123"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://fix-hvac.com/#website",
+            "url": "https://fix-hvac.com",
+            "name": "Fix HVAC",
+            "alternateName": "Fix HVAC NJ",
+            "publisher": {
+              "@id": "https://fix-hvac.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://fix-hvac.com/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://fix-hvac.com/wp-content/uploads/2025/04/imag-1.png",
+            "url": "https://fix-hvac.com/wp-content/uploads/2025/04/imag-1.png",
+            "width": "200",
+            "height": "200",
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://fix-hvac.com/#webpage",
+            "url": "https://fix-hvac.com/",
+            "name": "Fix HVAC – HVAC Services NY, NJ &amp; Connecticut",
+            "datePublished": "2025-04-16T22:45:20+00:00",
+            "dateModified": "2026-06-04T17:58:57+00:00",
+            "about": {
+              "@id": "https://fix-hvac.com/#organization"
+            },
+            "isPartOf": {
+              "@id": "https://fix-hvac.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://fix-hvac.com/wp-content/uploads/2025/04/imag-1.png"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://fix-hvac.com/author/fixhvac/",
+            "name": "FixHVAC",
+            "url": "https://fix-hvac.com/author/fixhvac/",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://secure.gravatar.com/avatar/76d403833194909f2dca50456db9370774a09a263ded530d668d17f532b66214?s=96&amp;d=mm&amp;r=g",
+              "url": "https://secure.gravatar.com/avatar/76d403833194909f2dca50456db9370774a09a263ded530d668d17f532b66214?s=96&amp;d=mm&amp;r=g",
+              "caption": "FixHVAC",
+              "inLanguage": "en-US"
+            },
+            "sameAs": [
+              "https://fix-hvac.com"
+            ],
+            "worksFor": {
+              "@id": "https://fix-hvac.com/#organization"
+            }
+          },
+          {
+            "@type": "Article",
+            "headline": "Fix HVAC – HVAC Services NY, NJ &amp; Connecticut",
+            "keywords": "hvac services new york new jersey connecticut,HVAC services New York,HVAC services New Jersey,HVAC services Connecticut,AC repair New York New Jersey Connecticut",
+            "datePublished": "2025-04-16T22:45:20+00:00",
+            "dateModified": "2026-06-04T17:58:57+00:00",
+            "author": {
+              "@id": "https://fix-hvac.com/author/fixhvac/",
+              "name": "FixHVAC"
+            },
+            "publisher": {
+              "@id": "https://fix-hvac.com/#organization"
+            },
+            "description": "Professional HVAC services across New York, New Jersey &amp; Connecticut. Expert AC/furnace repair, installation &amp; maintenance. Licensed, insured. Call today!",
+            "name": "Fix HVAC – HVAC Services NY, NJ &amp; Connecticut",
+            "@id": "https://fix-hvac.com/#richSnippet",
+            "isPartOf": {
+              "@id": "https://fix-hvac.com/#webpage"
+            },
+            "image": {
+              "@id": "https://fix-hvac.com/wp-content/uploads/2025/04/imag-1.png"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://fix-hvac.com/#webpage"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 188,
+    "timing": {
+      "dcl": 8613,
+      "load": 10232,
+      "ttfb": 3134
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 503 (Service Unavailable)"
+    ],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://fix-hvac.com/",
+    "navMs": 18756,
+    "tel": [
+      {
+        "href": "tel:+1 (908) 639-2079",
+        "text": "+1 (908) 639-2079",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19086392079"
+      },
+      {
+        "href": "tel:+1 (888) 695-0757",
+        "text": "+1 (888) 695-0757",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18886950757"
+      },
+      {
+        "href": "tel:+1%20(201)%20558-8123",
+        "text": "Сall now",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12015588123"
+      },
+      {
+        "href": "tel:+1%20(201)%20558-8123",
+        "text": "Сall now",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12015588123"
+      },
+      {
+        "href": "tel:+1 (908) 639-2079:",
+        "text": "+1 (908) 639-2079",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19086392079"
+      },
+      {
+        "href": "tel:+1 (888) 695-0757:",
+        "text": "+1 (888) 695-0757",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18886950757"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://fix-hvac.com/",
+    "navMs": 6203,
+    "timing": {
+      "dcl": 4682,
+      "load": 5665,
+      "ttfb": 1228
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 405,
+    "scrollWidth": 405,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+1 (908) 639-2079",
+        "text": "+1 (908) 639-2079",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19086392079"
+      },
+      {
+        "href": "tel:+1 (888) 695-0757",
+        "text": "+1 (888) 695-0757",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18886950757"
+      },
+      {
+        "href": "tel:+1%20(201)%20558-8123",
+        "text": "Сall now",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12015588123"
+      },
+      {
+        "href": "tel:+1%20(201)%20558-8123",
+        "text": "Сall now",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12015588123"
+      },
+      {
+        "href": "tel:+1 (908) 639-2079:",
+        "text": "+1 (908) 639-2079",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19086392079"
+      },
+      {
+        "href": "tel:+1 (888) 695-0757:",
+        "text": "+1 (888) 695-0757",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18886950757"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Book now"
+    ],
+    "menuToggle": false,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 2,
+    "visibleNavLinks": 5,
+    "brokenImages": [],
+    "textChars": 5577
+  },
+  "pages": {},
+  "linkCheck": {
+    "checked": 3,
+    "at": "2026-11-03T22:51:20.798Z",
+    "statusCounts": {
+      "200": 3
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://fix-hvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/fix-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/fix-hvac/desktop-home-full.png",
+    "mobile_asis": "evidence/screenshots/fix-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": false,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  },
+  "ctaClickTests": []
+}

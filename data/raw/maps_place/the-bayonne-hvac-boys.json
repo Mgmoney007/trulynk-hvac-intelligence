@@ -1,0 +1,25 @@
+{
+  "id": "the-bayonne-hvac-boys",
+  "placeUrl": "https://www.google.com/maps/place/The+Bayonne+HVAC+Boys/data=!4m7!3m6!1s0x8030c3d66181f58b:0xae829e49b9df284d!8m2!3d40.671531!4d-74.105533!16s%2Fg%2F11z1ddq4v_!19sChIJi_WBYdbDMIARTSjfuUmegq4",
+  "retrievedAt": "2026-11-03T22:52:43.182Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "The Bayonne HVAC Boys",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 551-367-9896 ",
+  "website": "https://hvacbayonnenj.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/The+Bayonne+HVAC+Boys/data=!4m7!3m6!1s0x8030c3d66181f58b:0xae829e49b9df284d!8m2!3d40.671531!4d-74.105533!16s%2Fg%2F11z1ddq4v_!19sChIJi_WBYdbDMIARTSjfuUmegq4?hl=en",
+  "screenshot": "evidence/screenshots/the-bayonne-hvac-boys/google-maps-listing.png"
+}

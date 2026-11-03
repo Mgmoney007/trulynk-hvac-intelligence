@@ -1,0 +1,25 @@
+{
+  "id": "intact-plumbing-heating",
+  "placeUrl": "https://www.google.com/maps/place/Intact+Plumbing+%26+Heating/data=!4m7!3m6!1s0x89c2fba121fff8c5:0x48cf000f062b70dc!8m2!3d40.9226159!4d-74.1108282!16s%2Fg%2F11ckvsrq0n!19sChIJxfj_IaH7wokR3HArBg8Az0g",
+  "retrievedAt": "2026-11-03T23:00:43.448Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Intact Plumbing & Heating",
+  "category": "Plumber",
+  "address": "24-06 Broadway, Fair Lawn, NJ 07410, United States ",
+  "phone": "+1 201-977-1450 ",
+  "website": "http://intactplumbing.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Intact+Plumbing+%26+Heating/data=!4m7!3m6!1s0x89c2fba121fff8c5:0x48cf000f062b70dc!8m2!3d40.9226159!4d-74.1108282!16s%2Fg%2F11ckvsrq0n!19sChIJxfj_IaH7wokR3HArBg8Az0g?hl=en",
+  "screenshot": "evidence/screenshots/intact-plumbing-heating/google-maps-listing.png"
+}

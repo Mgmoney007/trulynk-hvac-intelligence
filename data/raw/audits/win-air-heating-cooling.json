@@ -1,0 +1,562 @@
+{
+  "firecrawl": [],
+  "id": "win-air-heating-cooling",
+  "name": "Win Air Heating & Cooling",
+  "website": "https://winair.jobbersites.com/",
+  "auditedAt": "2026-11-03T22:53:46.725Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://winair.jobbersites.com/",
+      "at": "2026-11-03T22:53:51.416Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://winair.jobbersites.com/",
+      "title": "Win Air Heating And Cooling : Fairview HVAC heating and cooling experts",
+      "ms": 4557,
+      "error": null,
+      "linkCount": 21
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://winair.jobbersites.com/",
+      "at": "2026-11-03T22:54:05.991Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://winair.jobbersites.com/",
+      "title": "Win Air Heating And Cooling : Fairview HVAC heating and cooling experts",
+      "ms": 5966,
+      "error": null,
+      "linkCount": 27
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://winair.jobbersites.com/",
+    "title": "Win Air Heating And Cooling : Fairview HVAC heating and cooling experts",
+    "lang": "en",
+    "metaDescription": "Win Air Heating And Cooling offers expert HVAC services in Fairview, NJ, including air conditioning installation, heating system repair, and ductwork relocation. Serving residential and commercial clients with customized solutions and exceptional customer service.",
+    "h1": [
+      "Need a New HVAC System? Get Started with $0 Down"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 6136,
+    "bodyText": "Home\nServices\n(201) 923-1704\nClient Login\nGet Free Installation Estimate\n\n4.8\n\nNeed a New HVAC System? Get Started with $0 Down\n$0 Down Financing • 0% Interest Options • Same Week Installation • 10-Year Warranty\nCheck If You Qualify\nWhy Us\nWhy Homeowners Choose Win Air Heating & Cooling\nTrusted HVAC Services in Bergen & Hudson County, NJ\n\nAt Win Air Heating & Cooling, we provide reliable heating and air conditioning installation, repair, and maintenance services for homeowners and businesses throughout Cliffside Park , Fairview, and surrounding areas in Bergen and Hudson County, New Jersey. Our licensed technicians focus on delivering efficient, long-lasting comfort solutions tailored to your property.\n\nCustomized Heating & Cooling Solutions\n\nEvery home is different. We design custom HVAC systems and comfort solutions based on your home’s layout, insulation, and heating and cooling needs. Whether you need central air installation, ductless mini split systems, furnace replacement, or heat pump upgrades, we ensure maximum efficiency and comfort.\n\nExperienced Local HVAC Company\n\nWith over a decade of industry experience, Win Air Heating & Cooling has become a trusted HVAC contractor serving Ridgefield and nearby Bergen County communities. Our team handles residential and light commercial HVAC projects, delivering reliable solutions built to last.\n\nModern Energy-Efficient HVAC Technology\n\nWe install and service high-efficiency heating and cooling systems designed to reduce energy consumption and improve indoor comfort. Our team works with modern HVAC equipment and advanced technologies to help homeowners lower their energy costs.\n\nServices\nExplore our HVAC services\n\nProfessional installation of high-efficiency heating and air conditioning systems.\n\nHVAC Installation\n\nRepair services for furnaces, boilers, Hot water and heating systems.\n\nHeating Repair?\n\nFast and reliable repair for central AC systems, heat pumps, and mini-splits.\n\nAC Repair\nWhat our Fairview clients say\n\nOn Sunday morning our HVAC system stopped. I communicated him on Sunday and he responded me and came to my condo unit to diagnose the issue. Once all explained thoroughly and issue was diagnosed, I agreed his suggestion to replace my almost 20 years of HVAC system. Daniel and his team Joseth, Esteba...\n\nSee more\n\nSercan Atalay\n\n9 months ago\n\nI highly recommend Daniel for any HVAC needs. I initially hired him for routine maintenance in the fall, and he was able to fit me in the very next day. He even took the time to show me how to operate my ventless fireplace at no extra charge. A week ago, when the heating on my second floor failed, ...\n\nSee more\n\nZemin Yu\n\n9 months ago\n\nHad a great experience with Daniel and his team. Very knowledgeable, super fast and reliable. When I had heater problem, Daniel showed up within an hour from the time I called. Very impressive customer service and price point. Daniel has also set up my drinking water filter in the kitchen, had my pl...\n\nSee more\n\nAnya Skryabina\n\n10 months ago\n\nStay comfortable year-round with Win Air LLC\nSchedule your HVAC service today for reliable heating and cooling solutions\nGet an Estimate\nService areas\nServing Elmwood Park and surrounding New Jersey communities\nFairview\nCliffside Park\nRidgefield\nLeonia\nEdgewater\nFort Lee\nEnglewood\nTeaneck\nGet an Estimate\nOur promise\nThe Win Air Comfort Promise\n\nAt Win Air Heating & Cooling, we are committed to providing homeowners in Cliffside Park, New Jersey with reliable heating and air conditioning services built on honesty, quality workmanship, and long-lasting comfort. Our team delivers professional HVAC installation, repair, and maintenance using energy-efficient equipment and proven solutions you can trust year-round., Win Air LLC is your leading choice for HVAC services in Bergen County and nearby areas.\n\nFAQs\nFrequently asked HVAC questions\nHelpful answers about our heating and cooling services\nQuestion\nHow often should I schedule HVAC maintenance?\nQuestion\nWhat signs indicate I need heating system repair?\nQuestion\nDo you offer emergency HVAC repair services?\nContact Us\nGet an Estimate\nWin Air LLC\nContact\n\n(201) 923-1704\n\nDaniel@winair.online\n\n21 3rd Street\nElmwood Park, New Jersey 07407\nClient Login\nQuick Links\n\nHome\n\nHeating System Services\n\nDuctwork and Ventilation Services\n\nAir Conditioning and Cooling\n\nHVAC Repair and Maintenance\n\nCommercial and Residential HVAC Installation and Maintenance\n\nPowered by",
+    "links": [
+      {
+        "href": "/",
+        "abs": "https://winair.jobbersites.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 78,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12019231704",
+        "abs": "tel:+12019231704",
+        "text": "(201) 923-1704",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 169,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://clienthub.getjobber.com/client_hubs/d92b0087-68b3-44c1-ab9f-4e1f08928df8/login/new?source=share_login",
+        "abs": "https://clienthub.getjobber.com/client_hubs/d92b0087-68b3-44c1-ab9f-4e1f08928df8/login/new?source=share_login",
+        "text": "Client Login",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 125,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/air-conditioning-and-cooling",
+        "abs": "https://winair.jobbersites.com/services/air-conditioning-and-cooling",
+        "text": "Professional installation of high-efficiency heating and air conditioning system",
+        "visible": true,
+        "aboveFold": false,
+        "h": 386,
+        "w": 386,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/heating-system-services",
+        "abs": "https://winair.jobbersites.com/services/heating-system-services",
+        "text": "Repair services for furnaces, boilers, Hot water and heating systems. Heating Re",
+        "visible": true,
+        "aboveFold": false,
+        "h": 386,
+        "w": 386,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-repair-and-maintenance",
+        "abs": "https://winair.jobbersites.com/services/hvac-repair-and-maintenance",
+        "text": "Fast and reliable repair for central AC systems, heat pumps, and mini-splits. AC",
+        "visible": true,
+        "aboveFold": false,
+        "h": 386,
+        "w": 386,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "//g.co/kgs/dnEBLWC",
+        "abs": "https://g.co/kgs/dnEBLWC",
+        "text": "google",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 24,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "//www.facebook.com/WinHeatCool",
+        "abs": "https://www.facebook.com/WinHeatCool",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 24,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "//www.instagram.com/winairheatcool/",
+        "abs": "https://www.instagram.com/winairheatcool/",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 24,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "//x.com/Winheatcool",
+        "abs": "https://x.com/Winheatcool",
+        "text": "twitter",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 24,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "//www.yelp.com/biz/win-heat-and-cool-fairview-2?utm_cam",
+        "abs": "https://www.yelp.com/biz/win-heat-and-cool-fairview-2?utm_cam",
+        "text": "yelp",
+        "visible": true,
+        "aboveFold": false,
+        "h": 22,
+        "w": 24,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+12019231704",
+        "abs": "tel:+12019231704",
+        "text": "(201) 923-1704",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 190,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:Daniel@winair.online",
+        "abs": "mailto:Daniel@winair.online",
+        "text": "Daniel@winair.online",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 190,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://clienthub.getjobber.com/client_hubs/d92b0087-68b3-44c1-ab9f-4e1f08928df8/login/new?source=share_login",
+        "abs": "https://clienthub.getjobber.com/client_hubs/d92b0087-68b3-44c1-ab9f-4e1f08928df8/login/new?source=share_login",
+        "text": "Client Login",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 125,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/",
+        "abs": "https://winair.jobbersites.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 45,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/heating-system-services",
+        "abs": "https://winair.jobbersites.com/services/heating-system-services",
+        "text": "Heating System Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 151,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/ductwork-and-ventilation-services",
+        "abs": "https://winair.jobbersites.com/services/ductwork-and-ventilation-services",
+        "text": "Ductwork and Ventilation Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 151,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/air-conditioning-and-cooling",
+        "abs": "https://winair.jobbersites.com/services/air-conditioning-and-cooling",
+        "text": "Air Conditioning and Cooling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 151,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/hvac-repair-and-maintenance",
+        "abs": "https://winair.jobbersites.com/services/hvac-repair-and-maintenance",
+        "text": "HVAC Repair and Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 151,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/services/commercial-and-residential-hvac-installation-and-maintenance",
+        "abs": "https://winair.jobbersites.com/services/commercial-and-residential-hvac-installation-and-maintenance",
+        "text": "Commercial and Residential HVAC Installation and Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 96,
+        "w": 151,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://jobber.com",
+        "abs": "https://jobber.com/",
+        "text": "Powered by",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 174,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Get Free Installation Estimate",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Check If You Qualify",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "See more",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "See more",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "See more",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Get an Estimate",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Get an Estimate",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Open chat",
+        "visible": true,
+        "aboveFold": true
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://clienthub.getjobber.com/hubs/d92b0087-68b3-44c1-ab9f-4e1f08928df8/public/requests/1450911/embedded_new?source=sp_website&instance_id=_R_9j5_"
+    ],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=G-09TX0SNZKC",
+      "https://cdn.jobber.com/yr/js/@datadog/browser-rum/6.32.0/bundle/datadog-rum.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Win Air LLC"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "<p>We recommend scheduling professional HVAC maintenance at least Twice a year to keep your system running efficiently and prevent costly repairs.</p>"
+            },
+            "name": "How often should I schedule HVAC maintenance?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Common signs include uneven heating, strange noises, increased energy bills, or your system failing to turn on."
+            },
+            "name": "What signs indicate I need heating system repair?"
+          },
+          {
+            "@type": "Question",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, Win Air LLC provides emergency repair services to address urgent heating and cooling issues promptly."
+            },
+            "name": "Do you offer emergency HVAC repair services?"
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 15,
+    "timing": {
+      "dcl": 3235,
+      "load": 3324,
+      "ttfb": 1757
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 403 ()",
+      "Refused to display 'https://clienthub.getjobber.com/' in a frame because it set 'X-Frame-Options' to 'sameorigin'."
+    ],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.108,
+        "sig": " sticky top-0 z-menu border-b border-border text-textonlight shadow-base bg-white ",
+        "text": "home\nservices\n(201) 923-1704\nclient login\nget free installation estimate"
+      },
+      {
+        "kind": "header",
+        "cover": 0.055,
+        "sig": " aspect-square max-w-[525px] overflow-hidden lg:sticky lg:top-[95px] lg:col-span-5 ",
+        "text": ""
+      },
+      {
+        "kind": "chat",
+        "cover": 0.003,
+        "sig": " _chatbutton_1djwy_1 open chat",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://winair.jobbersites.com/",
+    "navMs": 4557,
+    "tel": [
+      {
+        "href": "tel:+12019231704",
+        "text": "(201) 923-1704",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019231704"
+      },
+      {
+        "href": "tel:+12019231704",
+        "text": "(201) 923-1704",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019231704"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Jobber",
+        "kind": "field_service"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://winair.jobbersites.com/",
+    "navMs": 5966,
+    "timing": {
+      "dcl": 1631,
+      "load": 2347,
+      "ttfb": 193
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+12019231704",
+        "text": "(201) 923-1704",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019231704"
+      },
+      {
+        "href": "tel:+12019231704",
+        "text": "(201) 923-1704",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12019231704"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.146,
+        "sig": " sticky top-0 z-menu border-b border-border text-textonlight shadow-base bg-white ",
+        "text": ""
+      },
+      {
+        "kind": "chat",
+        "cover": 0.016,
+        "sig": " _chatbutton_1djwy_1 open chat",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0.016,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 0,
+    "brokenImages": [],
+    "textChars": 4379
+  },
+  "pages": {},
+  "linkCheck": {
+    "checked": 8,
+    "at": "2026-11-03T22:53:59.359Z",
+    "statusCounts": {
+      "200": 6,
+      "400": 1,
+      "403": 1
+    },
+    "accessIssues": [
+      {
+        "url": "https://clienthub.getjobber.com/client_hubs/d92b0087-68b3-44c1-ab9f-4e1f08928df8/login/new?source=share_login",
+        "status": 403,
+        "error": null
+      }
+    ],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://winair.jobbersites.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/win-air-heating-cooling/desktop-home.png",
+    "desktop_clean": "evidence/screenshots/win-air-heating-cooling/desktop-home-overlays-hidden.png",
+    "desktop_full": "evidence/screenshots/win-air-heating-cooling/desktop-home-full.png",
+    "mobile_asis": "evidence/screenshots/win-air-heating-cooling/mobile-home.png",
+    "mobile_clean": "evidence/screenshots/win-air-heating-cooling/mobile-home-overlays-hidden.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "emails": [
+      "daniel@winair.online"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "facebook -> https://www.facebook.com/WinHeatCool"
+    ]
+  }
+}

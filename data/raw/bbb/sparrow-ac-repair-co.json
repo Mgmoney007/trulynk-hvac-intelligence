@@ -1,0 +1,10 @@
+{
+  "id": "sparrow-ac-repair-co",
+  "query": "Sparrow AC Repair Co",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Sparrow%20AC%20Repair%20Co&find_loc=Ramsey%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:23:05.334Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [],
+  "error": null
+}

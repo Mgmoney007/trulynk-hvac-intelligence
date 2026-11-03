@@ -1,0 +1,991 @@
+{
+  "firecrawl": [],
+  "id": "price-beat-hvac",
+  "name": "Price Beat HVAC",
+  "website": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+  "auditedAt": "2026-11-03T22:58:07.747Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+      "at": "2026-11-03T22:58:15.859Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+      "title": "HVAC Repair & Installation in Bergen County & Manhattan | Price Beat HVAC",
+      "ms": 7910,
+      "error": null,
+      "linkCount": 36
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.lovepricebeat.com/contact",
+      "at": "2026-11-03T22:58:25.796Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.lovepricebeat.com/contact",
+      "title": "Contact | Price Beat HVAC",
+      "ms": 9477,
+      "error": null,
+      "linkCount": 27
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+      "at": "2026-11-03T22:58:53.658Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+      "title": "HVAC Repair & Installation in Bergen County & Manhattan | Price Beat HVAC",
+      "ms": 9464,
+      "error": null,
+      "linkCount": 36
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+    "title": "HVAC Repair & Installation in Bergen County & Manhattan | Price Beat HVAC",
+    "lang": "en",
+    "metaDescription": "Licensed & insured HVAC repair and installation in Bergen County & Manhattan. Fast response, honest pricing, and we beat written estimates whenever possible. Call or text today.",
+    "h1": [],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 4795,
+    "bodyText": "Skip to Main Content\nCall us! 888-888-8512\n\nHow It Works\n\nCredits & Rebates\n\nContact\n\nServices\n\nYou either have a price, or you’re looking for prices. We developed a system in which both sides of the coin can win: You tell us your price, and within reason, we beat it. Sounds crazy, but it makes sense for us. We offer the lowest prices because we’re confident you'll tell many people you know about us and your experience. So, in addition to being the most affordable, we also provide you with the greatest service. It’s a simple strategy that’s never been executed because service providers are notorious for trying to squeeze the most money they can out of every customer, not realizing that once you figure out how much you overpaid, you’re never calling back. Not here. Our mission is for you to feel pleased and content so you tell all your friends. That is the way we grow. And that is how you have money for that family trip to Italy. \n\n \n\nSo, tell us what your budget is, and we’ll get started.\n\n \n\n                        Love,\n\n​\n\n                        Price Beat ❤️\n\nHow It Works\nBeat a Price!\nServing North Jersey & NYC for 30 Years\nCall Now\nBeat my Quote\nGet a Fast Price Review\nRedeem Your $150\n\nNeed a complete unit replacement? You're eligible to get $150 back as either a discount on your equipment and installation, or loaded onto a prepaid Visa, MasterCard, or American Express debit gift card.\n\nLet us know which you prefer\nContact Us\nContact\n888-888-8512\nhatemyacguy@lovepricebeat.com\nHours\nPM Eastern\ndays a week\nAM through\n7\n7\n7\nService Areas\nNew Jersey\nNew York\nMetro Area\nNYC\nLocation\nSend us a message\nFirst Name*\nLast Name*\nEmail*\nPhone*\nMessage*\nSubmit\n\nLicensed & Insured HVAC Contractor\n\nPrimary Service Area: Northern NJ & NYC\n\nResponse Time: We respond as fast as possible — often same day\n\nPrice Beat HVAC\nLicensed & Insured\nServing Northern NJ and NYC for 30 years\n\nCall: 888-888-8512\n\n© 2026 Price Beat HVAC",
+    "links": [
+      {
+        "href": "tel:888-888-8512",
+        "abs": "tel:888-888-8512",
+        "text": "Call us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com",
+        "abs": "https://www.lovepricebeat.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 82,
+        "w": 248,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+1-888-888-8512",
+        "abs": "tel:+1-888-888-8512",
+        "text": "Call us! 888-888-8512",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+1-888-888-8512",
+        "abs": "tel:+1-888-888-8512",
+        "text": "Call us! 888-888-8512",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 178,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "http://lovepricebeat.com/?anc=how-it-works",
+        "abs": "http://lovepricebeat.com/?anc=how-it-works",
+        "text": "How It Works",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 196,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/beat-a-price",
+        "abs": "https://www.lovepricebeat.com/beat-a-price",
+        "text": "Beat a Price!",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "http://lovepricebeat.com/?anc=pick-your-system",
+        "abs": "http://lovepricebeat.com/?anc=pick-your-system",
+        "text": "Pick Your System",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/redeem-your-150",
+        "abs": "https://www.lovepricebeat.com/redeem-your-150",
+        "text": "Redeem Your $150",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/tax-credit",
+        "abs": "https://www.lovepricebeat.com/tax-credit",
+        "text": "Credits & Rebates",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 228,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/tax-credit",
+        "abs": "https://www.lovepricebeat.com/tax-credit",
+        "text": "Tax Credit",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/pseg-instant-rebate",
+        "abs": "https://www.lovepricebeat.com/pseg-instant-rebate",
+        "text": "PSE&G Instant Rebate",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/what-is-high-efficiency",
+        "abs": "https://www.lovepricebeat.com/what-is-high-efficiency",
+        "text": "Energy Efficiency",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/contact",
+        "abs": "https://www.lovepricebeat.com/contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 153,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/contact?anc=looking-for-job",
+        "abs": "https://www.lovepricebeat.com/contact?anc=looking-for-job",
+        "text": "Looking for a Job?",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/why-us",
+        "abs": "https://www.lovepricebeat.com/why-us",
+        "text": "Why Us?",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/ac-repair",
+        "abs": "https://www.lovepricebeat.com/ac-repair",
+        "text": "AC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/ac-installation",
+        "abs": "https://www.lovepricebeat.com/ac-installation",
+        "text": "AC Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/heating-repair",
+        "abs": "https://www.lovepricebeat.com/heating-repair",
+        "text": "Heating Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/heating-installation",
+        "abs": "https://www.lovepricebeat.com/heating-installation",
+        "text": "Heating Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/beat-a-price",
+        "abs": "https://www.lovepricebeat.com/beat-a-price",
+        "text": "Beat a Price!",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 205,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:888-888-8512",
+        "abs": "tel:888-888-8512",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": true,
+        "h": 29,
+        "w": 131,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/contact",
+        "abs": "https://www.lovepricebeat.com/contact",
+        "text": "Beat my Quote",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 257,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:hatemyacguy@lovepricebeat.com?subject=Get%20a%20Fast%20Price%20Review",
+        "abs": "mailto:hatemyacguy@lovepricebeat.com?subject=Get%20a%20Fast%20Price%20Review",
+        "text": "Get a Fast Price Review",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 257,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:888-888-8512",
+        "abs": "tel:888-888-8512",
+        "text": "Call Now",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/contact",
+        "abs": "https://www.lovepricebeat.com/contact",
+        "text": "Beat my Quote",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com",
+        "abs": "https://www.lovepricebeat.com/",
+        "text": "Send Your Estimate",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:hatemyacguy@lovepricebeat.com?subject=Get%20a%20Fast%20Price%20Review",
+        "abs": "mailto:hatemyacguy@lovepricebeat.com?subject=Get%20a%20Fast%20Price%20Review",
+        "text": "Get a Fast Price Review",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/redeem-your-150",
+        "abs": "https://www.lovepricebeat.com/redeem-your-150",
+        "text": "Let us know which you prefer",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 273,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+1-888-8888512",
+        "abs": "tel:+1-888-8888512",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 33,
+        "w": 33,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+1-888-8888512",
+        "abs": "tel:+1-888-8888512",
+        "text": "888-888-8512",
+        "visible": true,
+        "aboveFold": false,
+        "h": 33,
+        "w": 289,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:hatemyacguy@lovepricebeat.com",
+        "abs": "mailto:hatemyacguy@lovepricebeat.com",
+        "text": "hatemyacguy@lovepricebeat.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 33,
+        "w": 289,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:888-888-8512",
+        "abs": "tel:888-888-8512",
+        "text": "888-888-8512",
+        "visible": true,
+        "aboveFold": false,
+        "h": 15,
+        "w": 102,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.lovepricebeat.com/hvac-savings",
+        "abs": "https://www.lovepricebeat.com/hvac-savings",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/hvac-savings",
+        "abs": "https://www.lovepricebeat.com/hvac-savings",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/hvac-savings",
+        "abs": "https://www.lovepricebeat.com/hvac-savings",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.lovepricebeat.com/hvac-savings",
+        "abs": "https://www.lovepricebeat.com/hvac-savings",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 45,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Skip to Main Content",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "More How It Works pages",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "More Credits & Rebates pages",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "More Contact pages",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "More Services pages",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Phone. Phone. Select a country code",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Submit",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": null,
+        "method": "get",
+        "id": "form-546ac636-5c8d-45d6-b48c-ad4b100df3fc",
+        "cls": "",
+        "fieldCount": 5,
+        "fieldNames": [
+          "form-field-input-cd374c67-1d99-4575-172d-448a07e87852-comp-mdrxcyb4-",
+          "form-field-input-21faccce-787e-44c8-a59c-7946fc212c60-comp-mdrxcyb4-",
+          "form-field-input-ae59f7d7-805b-46e9-c373-fc31540e1d09-comp-mdrxcyb4-",
+          "form-field-input-9a303beb-2106-49bd-0e86-102be04cd807-comp-mdrxcyb4-",
+          "form-field-input-0f5daace-6da6-4749-0b75-47f69ac048e2-comp-mdrxcyb4-"
+        ],
+        "visible": true,
+        "hasSubmit": false,
+        "submitDisabled": null,
+        "isSearch": false
+      }
+    ],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=AW-17943038525&cx=c&gtm=4e6b21",
+      "https://www.googletagmanager.com/gtag/js?id=G-W0RS8WM1L0&cx=c&gtm=4e6b21",
+      "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-WZZR6WBP",
+      "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+      "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/4660.chunk.min.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/8509.chunk.min.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/8174.chunk.min.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/5995.chunk.min.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/3931.chunk.min.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/8787.chunk.min.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/7757.chunk.min.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/form-app-contacts-phone.chunk.min.js",
+      "https://static.parastorage.com/services/form-app/1.3279.0/client-viewer/form-app-text-area.chunk.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.76f53d0c.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-responsive.1bfc1371.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[RefComponent].33152207.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[PageSections].66f3b3d5.bundle.min.js",
+      "https://mkp-prod.nyc3.cdn.digitaloceanspaces.com/google-reviews/google-reviews-script.js?instance_id=520cd9d1-be82-4587-9562-e84027633235",
+      "blob:https://www.lovepricebeat.com/c995421e-1994-4a6f-9445-0a15d31d53a2",
+      "https://cf06bdf3-5bab-4f20-b165-97fb723dac6a.wixappcloud.com/browser/assets/3f1cd43a-87ec-4b1f-b07f-8a443a683fbd.ch.Cl_S_FY0.js",
+      "blob:https://www.lovepricebeat.com/b87cecae-5b78-45b7-8034-92cb2a846baa",
+      "blob:https://www.lovepricebeat.com/1d610a7d-6c9c-49d0-83e1-01c4694dfabc",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HeaderSection].f13d21d9.bundle.min.js",
+      "https://bundler-velo.parastorage.com/v_metaSiteId_247e1812-d791-40f2-b52a-57fa00d2bee3/gridAppId_17092487-8454-4bd8-98cb-6b86946cbd67/filePath_public_delimiter_custom-elements_delimiter_scroll-custom-behavior.js/fileType_js/compression_gzip/depToken_/bundlerRuntimeExperiments_bundlerTrafficToAws-typescriptListExportedFunctions/additionalOptions_noUMD-true?no-umd=true&init-platform-api-provider=true&get-app-def-id-from-package-name=false&disable-yarn-pnp-mode=false",
+      "https://mkp-prod.nyc3.cdn.digitaloceanspaces.com/google-reviews/vue_widget/app.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17943038525/?random=1793746692426&cv=11&fst=1793746692426&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21z8f_AW-17943038525za20ozb9242838343zd9242838343xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.lovepricebeat.com%2F%3Futm_source%3DAG%26utm_medium%3Dgmb&rcb=14&frm=0&tiba=HVAC%20Repair%20%26%20Installation%20in%20Bergen%20County%20%26%20Manhattan%20%7C%20Price%20Beat%20HVAC&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=406760532.1793746692&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[VectorImage_VectorButton].9ca56ab4.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StylableButton_Default].773a433c.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ImageX].65541ada.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[CustomElementComponent_Default].a78c5b1b.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Section].8a9c12f1.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].2cf87571.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[Container_ResponsiveBox].55b37fe0.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_mobile.f72bc21f.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SiteButton_WrappingButton].46e316e6.bundle.min.js",
+      "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+      "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+      "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "https://static.parastorage.com/unpkg/lodash@4.18.1/lodash.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.71739e5e.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/main.9cf3538e.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.b325a058.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+      "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js",
+      "https://cdn.callrail.com/companies/522811201/6178561aeebb873bb587/12/swap.js",
+      "https://js.callrail.com/companies/522811201/external_forms.js?t=1793746689242&",
+      "https://js.callrail.com/group/0/6178561aeebb873bb587/12/icap.js?t=1793746689573&uuid=dba01e2f-a71a-44ea-b5f4-0d83eaceacce&ids%5B%5D=522811201"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "Price Beat HVAC",
+        "url": "https://www.lovepricebeat.com"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 13,
+    "timing": {
+      "dcl": 1312,
+      "load": 2421,
+      "ttfb": 572
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 429 (Too Many Requests)"
+    ],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.182,
+        "sig": "comp-midpdlyi comp-midpdlyi s829f_ comp-midpdlyi-container ",
+        "text": "call us! 888-888-8512\n\nhow it works\n\ncredits & rebates\n\ncontact\n\nservices"
+      },
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": "comp-mdrw08ni1-pinned-layer comp-mdrw08ni1-pinned-layer qed8q1 ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+    "navMs": 7910,
+    "tel": [
+      {
+        "href": "tel:888-888-8512",
+        "text": "Call us",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:+1-888-888-8512",
+        "text": "Call us! 888-888-8512",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:+1-888-888-8512",
+        "text": "Call us! 888-888-8512",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:888-888-8512",
+        "text": "Call Now",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:888-888-8512",
+        "text": "Call Now",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:+1-888-8888512",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:+1-888-8888512",
+        "text": "888-888-8512",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:888-888-8512",
+        "text": "888-888-8512",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18888888512"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Wix",
+        "kind": "cms"
+      },
+      {
+        "name": "CallRail",
+        "kind": "call_tracking"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+    "navMs": 9464,
+    "timing": {
+      "dcl": 3340,
+      "load": 6683,
+      "ttfb": 2326
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 404,
+    "scrollWidth": 404,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:888-888-8512",
+        "text": "Call us",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:+1-888-888-8512",
+        "text": "Call us! 888-888-8512",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:+1-888-888-8512",
+        "text": "Call us! 888-888-8512",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:888-888-8512",
+        "text": "Call Now",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:888-888-8512",
+        "text": "Call Now",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:+1-888-8888512",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:+1-888-8888512",
+        "text": "888-888-8512",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18888888512"
+      },
+      {
+        "href": "tel:888-888-8512",
+        "text": "888-888-8512",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18888888512"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Call us",
+      "Beat my Quote"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.112,
+        "sig": "comp-midpdlyi comp-midpdlyi s829f_ comp-midpdlyi-container ",
+        "text": "call us"
+      },
+      {
+        "kind": "other",
+        "cover": 0.967,
+        "sig": "comp-mdrw08ni1-pinned-layer comp-mdrw08ni1-pinned-layer qed8q1 ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 1870
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.lovepricebeat.com/contact",
+      "finalUrl": "https://www.lovepricebeat.com/contact",
+      "status": 200,
+      "title": "Contact | Price Beat HVAC",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "form-546ac636-5c8d-45d6-b48c-ad4b100df3fc",
+          "cls": "",
+          "fieldCount": 5,
+          "fieldNames": [
+            "form-field-input-cd374c67-1d99-4575-172d-448a07e87852-comp-lox6j8f9-",
+            "form-field-input-21faccce-787e-44c8-a59c-7946fc212c60-comp-lox6j8f9-",
+            "form-field-input-ae59f7d7-805b-46e9-c373-fc31540e1d09-comp-lox6j8f9-",
+            "form-field-input-9a303beb-2106-49bd-0e86-102be04cd807-comp-lox6j8f9-",
+            "form-field-input-0f5daace-6da6-4749-0b75-47f69ac048e2-comp-lox6j8f9-"
+          ],
+          "visible": true,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/googleMap.f3347ff6.html?defaultLocation=0&showZoom=true&language=en&region=US&id=dataItem-lox6j8eq&googleMapsScriptPath=%2Fservices%2Feditor-elements-library%2Fdist%2Fthunderbolt%2Fmedia%2Fgoogle-map.min.9a2bea98.js&origin=https%3A%2F%2Fwww.lovepricebeat.com&hasFocus=true"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "hatemyacguy@lovepricebeat.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:888-888-8512",
+          "text": "Call us",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18888888512"
+        },
+        {
+          "href": "tel:+1-888-888-8512",
+          "text": "Call us! 888-888-8512",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18888888512"
+        },
+        {
+          "href": "tel:+1-888-888-8512",
+          "text": "Call us! 888-888-8512",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18888888512"
+        },
+        {
+          "href": "tel:+1-888-8888512",
+          "text": "",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+18888888512"
+        },
+        {
+          "href": "tel:+1-888-8888512",
+          "text": "888-888-8512",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18888888512"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to Main Content\nCall us! 888-888-8512\n\nHow It Works\n\nCredits & Rebates\n\nContact\n\nServices\n\nContact Us\nContact\n888-888-8512\nhatemyacguy@lovepricebeat.com\nHours\nPM Eastern\ndays a week\nAM through\n7\n7\n7\nService Areas\nNew Jersey\nNew York\nMetro Area\nNYC\nLocation\nSend us a message\nFirst Name*\nLast Name*\nEmail*\nPhone*\nMessage*\nSubmit\nLOOKING\nFOR A JOB?\nCollaborate with us!\n\nAdvance your career as a valued, respected member of Price Beat HVAC. Complete the online application to get the process started. Call 888-888-8512 with any questions or simply to introduce yourself! We'll be in touch with you soon.\n\nApply now!\n\n© 2023 Price Beat HVAC",
+      "vendors": [
+        {
+          "name": "Wix",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://www.lovepricebeat.com/",
+        "http://lovepricebeat.com/?anc=how-it-works",
+        "https://www.lovepricebeat.com/beat-a-price",
+        "http://lovepricebeat.com/?anc=pick-your-system",
+        "https://www.lovepricebeat.com/redeem-your-150",
+        "https://www.lovepricebeat.com/tax-credit",
+        "https://www.lovepricebeat.com/tax-credit",
+        "https://www.lovepricebeat.com/pseg-instant-rebate",
+        "https://www.lovepricebeat.com/what-is-high-efficiency",
+        "https://www.lovepricebeat.com/contact",
+        "https://www.lovepricebeat.com/contact?anc=looking-for-job",
+        "https://www.lovepricebeat.com/why-us",
+        "https://www.lovepricebeat.com/ac-repair",
+        "https://www.lovepricebeat.com/ac-installation",
+        "https://www.lovepricebeat.com/heating-repair",
+        "https://www.lovepricebeat.com/heating-installation",
+        "https://www.lovepricebeat.com/job-application",
+        "https://www.lovepricebeat.com/hvac-savings",
+        "https://www.lovepricebeat.com/hvac-savings",
+        "https://www.lovepricebeat.com/hvac-savings",
+        "https://www.lovepricebeat.com/hvac-savings"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 17,
+    "at": "2026-11-03T22:58:43.125Z",
+    "statusCounts": {
+      "200": 17
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.lovepricebeat.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/price-beat-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/price-beat-hvac/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/price-beat-hvac/desktop-contact.png",
+    "mobile_asis": "evidence/screenshots/price-beat-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "hatemyacguy@lovepricebeat.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  },
+  "ctaClickTests": []
+}

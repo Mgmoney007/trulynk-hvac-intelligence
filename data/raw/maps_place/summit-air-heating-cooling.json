@@ -1,0 +1,25 @@
+{
+  "id": "summit-air-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Summit+Air+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2536a5780a47b:0x7a6ad1050fff60a1!8m2!3d40.7277689!4d-74.1606497!16s%2Fg%2F11nvy6pt63!19sChIJe6SAV2pTwokRoWD_DwXRano",
+  "retrievedAt": "2026-11-03T23:12:27.254Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Summit Air Heating & Cooling",
+  "category": "HVAC contractor",
+  "address": "135 Monroe St #105, Newark, NJ 07105, United States ",
+  "phone": "+1 877-566-6609 ",
+  "website": "https://www.summitaircomfort.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday9 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Summit+Air+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2536a5780a47b:0x7a6ad1050fff60a1!8m2!3d40.7277689!4d-74.1606497!16s%2Fg%2F11nvy6pt63!19sChIJe6SAV2pTwokRoWD_DwXRano?hl=en",
+  "screenshot": "evidence/screenshots/summit-air-heating-cooling/google-maps-listing.png"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "air-don-hvac",
+  "query": "Air Don Hvac",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Air%20Don%20Hvac&find_loc=North%20Arlington%2C%20NJ",
+  "retrievedAt": "2026-11-03T22:58:05.995Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [],
+  "error": null
+}

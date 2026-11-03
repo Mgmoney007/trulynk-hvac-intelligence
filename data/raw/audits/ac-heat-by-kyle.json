@@ -1,0 +1,1958 @@
+{
+  "firecrawl": [],
+  "id": "ac-heat-by-kyle",
+  "name": "ac-heat-by-kyle",
+  "website": "https://www.acandheatbykyle.com/",
+  "auditedAt": "2026-11-03T23:41:23.134Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.acandheatbykyle.com/",
+      "at": "2026-11-03T23:41:28.734Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.acandheatbykyle.com/",
+      "title": "AC & Heat by Kyle | HVAC Contractor | East Orange, NJ",
+      "ms": 5564,
+      "error": null,
+      "linkCount": 97
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.acandheatbykyle.com/contact/",
+      "at": "2026-11-03T23:41:33.833Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.acandheatbykyle.com/contact/",
+      "title": "Contact Us | AC & Heat by Kyle | Request an HVAC Quote | East Orange, NJ",
+      "ms": 4423,
+      "error": null,
+      "linkCount": 77
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.acandheatbykyle.com/about/",
+      "at": "2026-11-03T23:41:37.674Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.acandheatbykyle.com/about/",
+      "title": "About Us | AC & Heat by Kyle | Local HVAC Company | East Orange, NJ",
+      "ms": 3468,
+      "error": null,
+      "linkCount": 72
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.acandheatbykyle.com/",
+      "at": "2026-11-03T23:41:58.756Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.acandheatbykyle.com/",
+      "title": "AC & Heat by Kyle | HVAC Contractor | East Orange, NJ",
+      "ms": 3579,
+      "error": null,
+      "linkCount": 97
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.acandheatbykyle.com/",
+    "title": "AC & Heat by Kyle | HVAC Contractor | East Orange, NJ",
+    "lang": "en-US",
+    "metaDescription": "For trusted HVAC services, turn to AC & Heat by Kyle. As an HVAC contractor, we provide HVAC solutions that ensure your home stays comfortable and efficient.",
+    "h1": [
+      "Trusted Residential Heating and Cooling Services in East Orange, New Jersey"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5987,
+    "bodyText": "Skip to primary navigation\nSkip to main content\n315 S Harrison St #713, East Orange, NJ 07018\n \ninfo@acandheatbykyle.com\n \n \n \n \n \n \n \nCALL US NOW!\n(908) 350-9025\nREQUEST AN ESTIMATE\nHOME\n \nABOUT\n \nSERVICES\n \nAREAS WE SERVE\n \nGALLERY\n \nREVIEWS\n \nSHOP\n \nCONTACT\nAC & Heat by Kyle: Comfort You Can Count On, All Year Round!\nStay Cool and Comfortable with Expert HVAC Installation\n\nUpgrade your home with top-notch HVAC installation services from AC & Heat by Kyle. Our technicians ensure every system is installed efficiently, providing optimal performance and long-lasting comfort from day one.\n\nLEARN MORE CONTACT US\nPrevent Problems Before They Start with Proactive HVAC Maintenance\n\nAt AC & Heat by Kyle, we offer maintenance services to keep your system running smoothly year-round. With regular checkups, you prevent costly breakdowns and maximize efficiency, so your indoor climate stays perfect.\n\nLEARN MORE CONTACT US\nFast, Reliable HVAC Repair When You Need It Most\n\nDon’t let a malfunction disrupt your comfort. As a professional HVAC contractor, AC & Heat by Kyle quickly diagnoses and fixes issues, restoring your system’s performance and giving you peace of mind.\n\nLEARN MORE CONTACT US\nSCHEDULE AN HVAC INSPECTION\n\nInterested In:\nHVAC Repair\nHVAC Service\nHVAC Installations\nHVAC Maintenance\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nBy clicking this box you provide express written consent indicating a willingness for us to call you. We will never share your information. Privacy Policy\nBy clicking this box, you also consent to receive SMS messages from us no more than 2–4 times per month. Standard messaging and data rates may apply. Text STOP to opt out at any time. Privacy Policy\nSend Request \nAREAS WE SERVE\nServing New Jersey with reliable HVAC solutions all year-round.\nLEARN MORE\nREVIEWS\nHear from our satisfied customers about our HVAC service and dependable solutions.\nLEARN MORE\nCONTACT US\nGet in touch today for fast, friendly, and professional HVAC support.\nLEARN MORE\nTrusted Residential Heating and Cooling Services in East Orange, New Jersey\nYour Reliable Local HVAC Partner With Decades of Experience\n\nAC & Heat by Kyle stands out as the trusted name for residential heating and cooling services in East Orange, New Jersey. Bringing more than 30 years of hands-on industry experience, our team understands that every home’s comfort needs are unique. We pride ourselves on delivering personalized service, reliable workmanship, and proven systems that ensure year-round comfort, efficiency, and peace of mind for local homeowners. Your satisfaction is our highest priority, and we always go the extra mile to deliver results you can count on.\n\nOur approach to home comfort is based on a commitment to honest, stress-free HVAC solutions tailored specifically to your residence. Whether you require system installations, detailed diagnostics, or expert system upgrades, AC & Heat by Kyle delivers transparency and guidance at every step, so you never have to face unnecessary stress or guesswork. Our customers know they can trust our advice and expertise when it comes to heating and cooling solutions designed for East Orange homes.\n\nREAD MORE\nWHAT WE OFFER\nOur HVAC Solutions\nFor all your HVAC needs, look no further than AC & Heat by Kyle!\nHVAC REPAIR\nUnexpected breakdowns can disrupt comfort and productivity. With our expert HVAC repairs, we can help you restore your system quickly and ensure reliable heating and cooling.\nREAD MORE\nHVAC SERVICE\nRegular service keeps systems running efficiently and prevents costly issues before they arise. That’s why we provide thorough inspections to maximize performance and energy savings year-round.\nREAD MORE\nHVAC INSTALLATIONS\nProfessional installation ensures lasting performance and a perfect fit for any home or business. Let us help you ensure your system is installed correctly and perfectly meets the specific needs of your property.\nREAD MORE\nHVAC MAINTENANCE\nRoutine maintenance extends the life of heating and cooling systems while improving energy efficiency. Keep your home comfortable in every season by scheduling regular preventative HVAC maintenance with our team.\nREAD MORE\nBADGES\nPartners in Success\nHere are just some of the high-quality manufacturers that we are partnered with:\n \n \n \n \n \n \n \n \nWHAT PEOPLE ARE SAYING\nOur Customer Reviews\nReliable service, happy clients, and indoor comfort that speaks for itself.\nKyle was incredible! He was super friendly, thorough in his explanations of repairs, very accommodating, and funny. We’re happy to find our go to guy...\nChristian Gehman\nKyle is easy to work with. Communicates well, priced fairly. I’ve had him do multiple services and repairs on AC, heating, and Water heater.\nJoshua Stenseth\nAbout two months ago i contacted Kyle regarding an issue with my HVAC unit not shutting off after the AC reached its temperature. Kyle arrived...\nPeter Rodriguez\nKyle was extremely professional and took his time with the work. He clearly explained the issue, walked me through what needed to be done, and...\nShawn Scoggins\nKyle was incredibly professional, responsive, and thorough. Both of my AC units were in bad shape and hadn’t been working for a while. With a...\nWeeks Mensah\nREAD MORE REVIEWS\nCONTACT US\nRequest an Estimate\nOr Call (908) 759-9170\n\nInterested In:\nHVAC Repair\nHVAC Service\nHVAC Installations\nHVAC Maintenance\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nBy clicking this box you provide express written consent indicating a willingness for us to call you. We will never share your information. Privacy Policy\nBy clicking this box, you also consent to receive SMS messages from us no more than 2–4 times per month. Standard messaging and data rates may apply. Text STOP to opt out at any time. Privacy Policy\nSend Request \n\nExperience the HVAC difference with AC & Heat by Kyle! Serving homes in New Jersey, our team delivers reliable service for all your HVAC needs, including efficient repairs, new installations, and routine maintenance. Call us today!\n\nCompany Information\nAC & Heat by Kyle\n315 S Harrison St #713,\nEast Orange, NJ 07018\n(908) 350-9025\ninfo@acandheatbykyle.com\nMon - Sat: 8 AM - 8 PM\nSun: Closed\nQuick Links\nHome\nAbout\nServices\nAreas We Serve\nGallery\nReviews\nContact\nSitemap\nPrivacy Policy\nFollow Us\n \n \n \n \n \n \n \nAC & Heat by Kyle  All Rights Reserved - 2026\nX",
+    "links": [
+      {
+        "href": "#genesis-nav-primary",
+        "abs": "https://www.acandheatbykyle.com/#genesis-nav-primary",
+        "text": "Skip to primary navigation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#genesis-content",
+        "abs": "https://www.acandheatbykyle.com/#genesis-content",
+        "text": "Skip to main content",
+        "visible": true,
+        "aboveFold": true,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:info@acandheatbykyle.com",
+        "abs": "mailto:info@acandheatbykyle.com",
+        "text": "info@acandheatbykyle.com",
+        "visible": true,
+        "aboveFold": true,
+        "h": 23,
+        "w": 229,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://maps.app.goo.gl/MRwRxiySWL8AdnUx7",
+        "abs": "https://maps.app.goo.gl/MRwRxiySWL8AdnUx7",
+        "text": "Google Business Profile",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/acandheatbykyle/",
+        "abs": "https://www.facebook.com/acandheatbykyle/",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/acandheatbykyle/",
+        "abs": "https://www.instagram.com/acandheatbykyle/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.youtube.com/@acheatbykyle",
+        "abs": "https://www.youtube.com/@acheatbykyle",
+        "text": "Youtube",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.linkedin.com/in/acandheatbykyle/",
+        "abs": "https://www.linkedin.com/in/acandheatbykyle/",
+        "text": "LinkedIn",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.pinterest.com/acandheatbykyle/",
+        "abs": "https://www.pinterest.com/acandheatbykyle/",
+        "text": "Pinterest",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://x.com/KyleHWilli98060",
+        "abs": "https://x.com/KyleHWilli98060",
+        "text": "X",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://tiktok.com/@acandheatbykyle",
+        "abs": "https://tiktok.com/@acandheatbykyle",
+        "text": "Tiktok",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 32,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com",
+        "abs": "https://www.acandheatbykyle.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 23,
+        "w": 350,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9087599170",
+        "abs": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 209,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "REQUEST AN ESTIMATE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 206,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/",
+        "abs": "https://www.acandheatbykyle.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 76,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/about/",
+        "abs": "https://www.acandheatbykyle.com/about/",
+        "text": "ABOUT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 84,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/services/",
+        "abs": "https://www.acandheatbykyle.com/services/",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 118,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "text": "HVAC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/services/hvac/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac/",
+        "text": "HVAC Service",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "text": "HVAC Installations",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/services/hvac-maintenance/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-maintenance/",
+        "text": "HVAC Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/areas-we-serve/",
+        "abs": "https://www.acandheatbykyle.com/areas-we-serve/",
+        "text": "AREAS WE SERVE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 161,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/gallery/",
+        "abs": "https://www.acandheatbykyle.com/gallery/",
+        "text": "GALLERY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 96,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/reviews/",
+        "abs": "https://www.acandheatbykyle.com/reviews/",
+        "text": "REVIEWS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 98,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/shop/",
+        "abs": "https://www.acandheatbykyle.com/shop/",
+        "text": "SHOP",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 73,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "CONTACT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 108,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:info@acandheatbykyle.com",
+        "abs": "mailto:info@acandheatbykyle.com",
+        "text": "info@acandheatbykyle.com",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9087599170",
+        "abs": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://maps.app.goo.gl/MRwRxiySWL8AdnUx7",
+        "abs": "https://maps.app.goo.gl/MRwRxiySWL8AdnUx7",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/acandheatbykyle/",
+        "abs": "https://www.facebook.com/acandheatbykyle/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/acandheatbykyle/",
+        "abs": "https://www.instagram.com/acandheatbykyle/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.youtube.com/@acheatbykyle",
+        "abs": "https://www.youtube.com/@acheatbykyle",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.linkedin.com/in/acandheatbykyle/",
+        "abs": "https://www.linkedin.com/in/acandheatbykyle/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.pinterest.com/acandheatbykyle/",
+        "abs": "https://www.pinterest.com/acandheatbykyle/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://x.com/KyleHWilli98060",
+        "abs": "https://x.com/KyleHWilli98060",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://tiktok.com/@acandheatbykyle",
+        "abs": "https://tiktok.com/@acandheatbykyle",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "AC & Heat by Kyle: Comfort You Can Count On, All Year Round!",
+        "visible": true,
+        "aboveFold": true,
+        "h": 25,
+        "w": 564,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-installations/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 135,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-maintenance/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-maintenance/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 135,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-repair/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 135,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://policies.google.com/privacy",
+        "abs": "https://policies.google.com/privacy",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://policies.google.com/terms",
+        "abs": "https://policies.google.com/terms",
+        "text": "Terms of Service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/privacy-policy/",
+        "abs": "https://www.acandheatbykyle.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/privacy-policy/",
+        "abs": "https://www.acandheatbykyle.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/areas-we-serve/",
+        "abs": "https://www.acandheatbykyle.com/areas-we-serve/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews/",
+        "abs": "https://www.acandheatbykyle.com/reviews/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "LEARN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 130,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac/",
+        "text": "HVAC services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-installations/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "text": "professional AC installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-repair/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "text": "repair services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-maintenance/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-maintenance/",
+        "text": "follow-up maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about/",
+        "abs": "https://www.acandheatbykyle.com/about/",
+        "text": "Our team",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac/",
+        "text": "residential HVAC solutions",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9087599170",
+        "abs": "tel:9087599170",
+        "text": "(908) 759-9170",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "online form",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/",
+        "abs": "https://www.acandheatbykyle.com/services/",
+        "text": "heating, cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-repair/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 315,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-repair/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "text": "READ MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 122,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 315,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac/",
+        "text": "READ MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 122,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-installations/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 315,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-installations/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "text": "READ MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 122,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-maintenance/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-maintenance/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 315,
+        "w": 275,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/hvac-maintenance/",
+        "abs": "https://www.acandheatbykyle.com/services/hvac-maintenance/",
+        "text": "READ MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 122,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews/",
+        "abs": "https://www.acandheatbykyle.com/reviews/",
+        "text": "READ MORE REVIEWS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 194,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9087599170",
+        "abs": "tel:9087599170",
+        "text": "(908) 759-9170",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://policies.google.com/privacy",
+        "abs": "https://policies.google.com/privacy",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://policies.google.com/terms",
+        "abs": "https://policies.google.com/terms",
+        "text": "Terms of Service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/privacy-policy/",
+        "abs": "https://www.acandheatbykyle.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/privacy-policy/",
+        "abs": "https://www.acandheatbykyle.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.acandheatbykyle.com",
+        "abs": "https://www.acandheatbykyle.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 178,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:9087599170",
+        "abs": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 105,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@acandheatbykyle.com",
+        "abs": "mailto:info@acandheatbykyle.com",
+        "text": "info@acandheatbykyle.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 186,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/",
+        "abs": "https://www.acandheatbykyle.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/about/",
+        "abs": "https://www.acandheatbykyle.com/about/",
+        "text": "About",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/services/",
+        "abs": "https://www.acandheatbykyle.com/services/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/areas-we-serve/",
+        "abs": "https://www.acandheatbykyle.com/areas-we-serve/",
+        "text": "Areas We Serve",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/gallery/",
+        "abs": "https://www.acandheatbykyle.com/gallery/",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/reviews/",
+        "abs": "https://www.acandheatbykyle.com/reviews/",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/contact/",
+        "abs": "https://www.acandheatbykyle.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/sitemap/",
+        "abs": "https://www.acandheatbykyle.com/sitemap/",
+        "text": "Sitemap",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.acandheatbykyle.com/privacy-policy/",
+        "abs": "https://www.acandheatbykyle.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 275,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://maps.app.goo.gl/MRwRxiySWL8AdnUx7",
+        "abs": "https://maps.app.goo.gl/MRwRxiySWL8AdnUx7",
+        "text": "Google Business Profile",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/acandheatbykyle/",
+        "abs": "https://www.facebook.com/acandheatbykyle/",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/acandheatbykyle/",
+        "abs": "https://www.instagram.com/acandheatbykyle/",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.youtube.com/@acheatbykyle",
+        "abs": "https://www.youtube.com/@acheatbykyle",
+        "text": "Youtube",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.linkedin.com/in/acandheatbykyle/",
+        "abs": "https://www.linkedin.com/in/acandheatbykyle/",
+        "text": "LinkedIn",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.pinterest.com/acandheatbykyle/",
+        "abs": "https://www.pinterest.com/acandheatbykyle/",
+        "text": "Pinterest",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://x.com/KyleHWilli98060",
+        "abs": "https://x.com/KyleHWilli98060",
+        "text": "X",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 36,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://tiktok.com/@acandheatbykyle",
+        "abs": "https://tiktok.com/@acandheatbykyle",
+        "text": "Tiktok",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 32,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://policies.google.com/privacy",
+        "abs": "https://policies.google.com/privacy",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 17,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://policies.google.com/terms",
+        "abs": "https://policies.google.com/terms",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 17,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/privacy-policy/",
+        "abs": "https://www.acandheatbykyle.com/privacy-policy/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 17,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/privacy-policy/",
+        "abs": "https://www.acandheatbykyle.com/privacy-policy/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 31,
+        "w": 221,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Send Request",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Send Request",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "X",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "/#wpcf7-f32-o1",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init use-floating-validation-tip",
+        "fieldCount": 7,
+        "fieldNames": [
+          "fname",
+          "phone",
+          "email",
+          "interest",
+          "message",
+          "acceptance-1",
+          "acceptance-1"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f32-o2",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init use-floating-validation-tip",
+        "fieldCount": 7,
+        "fieldNames": [
+          "fname",
+          "phone",
+          "email",
+          "interest",
+          "message",
+          "acceptance-1",
+          "acceptance-1"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f32-o3",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init use-floating-validation-tip",
+        "fieldCount": 7,
+        "fieldNames": [
+          "fname",
+          "phone",
+          "email",
+          "interest",
+          "message",
+          "acceptance-1",
+          "acceptance-1"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le2LVosAAAAAGaiciHoas9KBeqY-Ui1OM5RKzAX&co=aHR0cHM6Ly93d3cuYWNhbmRoZWF0YnlreWxlLmNvbTo0NDM.&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&anchor-ms=20000&execute-ms=30000&cb=bzcbgsrrb0rx"
+    ],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=G-K7E373CN8D&cx=c&gtm=4e6b21",
+      "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__en.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-NV59FS89",
+      "https://code.jquery.com/jquery-3.4.1.min.js",
+      "https://static.addtoany.com/menu/modules/core.iho16r34.js",
+      "https://www.acandheatbykyle.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://knowledgetags.yextapis.com/embed?key=zVfcwPjf2M9GTEV0qhthtxNWNcBwnUtLQFyXv9xvmv6ePENmUIw-V8_XZ0olflZq&account_id=me&entity_id=13675_CsiGT&locale=en&v=20210504",
+      "https://static.addtoany.com/menu/page.js",
+      "https://www.acandheatbykyle.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.2.4.1",
+      "https://www.acandheatbykyle.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.6.1",
+      "https://www.acandheatbykyle.com/wp-content/themes/slmp-genesis-child/dist/js/lazyload.js?ver=2.0.0",
+      "https://www.google.com/recaptcha/api.js?render=6Le2LVosAAAAAGaiciHoas9KBeqY-Ui1OM5RKzAX&ver=3.0",
+      "https://libs.sfs.io/public/lead-script-sf-wdoc-cf7.js?v=08.17.20",
+      "https://www.acandheatbykyle.com/wp-content/plugins/debloat/inc/delay-load/js/delay-load.min.js?ver=1.4.0"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.acandheatbykyle.com/",
+            "url": "https://www.acandheatbykyle.com/",
+            "name": "AC & Heat by Kyle | HVAC Contractor | East Orange, NJ",
+            "isPartOf": {
+              "@id": "https://www.acandheatbykyle.com/#website"
+            },
+            "datePublished": "2023-08-28T16:01:42+00:00",
+            "dateModified": "2026-08-06T14:36:56+00:00",
+            "description": "For trusted HVAC services, turn to AC & Heat by Kyle. As an HVAC contractor, we provide HVAC solutions that ensure your home stays comfortable and efficient.",
+            "breadcrumb": {
+              "@id": "https://www.acandheatbykyle.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.acandheatbykyle.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.acandheatbykyle.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.acandheatbykyle.com/#website",
+            "url": "https://www.acandheatbykyle.com/",
+            "name": "AC &amp; Heat by Kyle",
+            "description": "",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.acandheatbykyle.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@id": "13675_CsiGT",
+        "@type": [
+          "HomeAndConstructionBusiness",
+          "Service"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "East Orange",
+          "addressRegion": "NJ",
+          "postalCode": "07018"
+        },
+        "areaServed": [
+          "Irvington, NJ 07111, USA",
+          "Union, NJ, USA",
+          "Edison, NJ, USA",
+          "Passaic, NJ, USA",
+          "Hillside, NJ, USA",
+          "Millburn, NJ, USA",
+          "Maplewood, NJ, USA",
+          "Montclair, NJ, USA",
+          "Westfield, NJ, USA",
+          "Bloomfield, NJ, USA",
+          "City of Orange, NJ, USA",
+          "Middlesex, NJ 08846, USA",
+          "Piscataway, NJ 08854, USA",
+          "West Orange, NJ 07052, USA",
+          "South Orange Village, NJ 07079, USA",
+          "Newark, NJ, USA",
+          "East Orange, NJ, USA"
+        ],
+        "description": "AC & Heat by Kyle: Your trusted HVAC partner in East Orange, New Jersey. With over 30 years of industry expertise, we provide comprehensive heating and cooling solutions for residential properties. Our Services: * AC Installation & Repair: Expert installation and efficient repair of all major AC brands including Carrier and Bosch. * Heating System Services: Furnace repair, boiler maintenance, and heating system upgrades. * Indoor Air Quality: Improve your air quality with our air purifier installations and Measure Quick testing. * Thermostat Upgrades: Install smart thermostats for enhanced comfort and energy efficiency. Contact us today for a free consultation and let us help you create a comfortable and healthy indoor environment.",
+        "email": "info@acandheatbykyle.com",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 40.7590353,
+          "longitude": -74.2297961
+        },
+        "image": "https://a.mktgcdn.com/p/ft8Uf66-GbTi9fdcN2dpNlL5w_zfid2wr9-a1LI4mgs/1000x1000.jpg",
+        "logo": "https://a.mktgcdn.com/p/ft8Uf66-GbTi9fdcN2dpNlL5w_zfid2wr9-a1LI4mgs/1000x1000.jpg",
+        "name": "AC & Heat by Kyle",
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "closes": "20:00",
+            "dayOfWeek": "Friday",
+            "opens": "08:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "closes": "20:00",
+            "dayOfWeek": "Monday",
+            "opens": "08:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "closes": "20:00",
+            "dayOfWeek": "Saturday",
+            "opens": "08:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Sunday"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "closes": "20:00",
+            "dayOfWeek": "Thursday",
+            "opens": "08:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "closes": "20:00",
+            "dayOfWeek": "Tuesday",
+            "opens": "08:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "closes": "20:00",
+            "dayOfWeek": "Wednesday",
+            "opens": "08:00"
+          }
+        ],
+        "paymentAccepted": [
+          "AFTERPAY",
+          "AMERICANEXPRESS",
+          "ANDROIDPAY",
+          "APPLEPAY",
+          "CASH",
+          "CHECK",
+          "CONTACTLESSPAYME",
+          "DINERSCLUB",
+          "DISCOVER",
+          "FINANCING",
+          "INVOICE",
+          "KLARNA",
+          "MASTERCARD",
+          "PAYPAL",
+          "SAMSUNGPAY",
+          "VISA",
+          "ZELLE"
+        ],
+        "sameAs": "https://location.com/categories/contractors/us/nj/east-orange/ac-heat-by-kyle-1714576359",
+        "telephone": "+19087599170",
+        "url": "https://www.acandheatbykyle.com/"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 16,
+    "timing": {
+      "dcl": 3260,
+      "load": 4271,
+      "ttfb": 348
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "requestStorageAccess: Permission denied.",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)",
+      "Failed to load resource: the server responded with a status of 403 (Forbidden)"
+    ],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.369,
+        "sig": " site-header ",
+        "text": "315 s harrison st #713, east orange, nj 07018\n \ninfo@acandheatbykyle.com\n \n \n \n \n \n \n \ncall us now!\n(908) 350-9025\nreque"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.acandheatbykyle.com/",
+    "navMs": 5564,
+    "tel": [
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19087599170"
+      },
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19087599170"
+      },
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 759-9170",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19087599170"
+      },
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 759-9170",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19087599170"
+      },
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19087599170"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Google reCAPTCHA",
+        "kind": "captcha"
+      },
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.acandheatbykyle.com/",
+    "navMs": 3579,
+    "timing": {
+      "dcl": 1179,
+      "load": 2297,
+      "ttfb": 110
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19087599170"
+      },
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19087599170"
+      },
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 759-9170",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19087599170"
+      },
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 759-9170",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19087599170"
+      },
+      {
+        "href": "tel:9087599170",
+        "text": "(908) 350-9025",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19087599170"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "CONTACT",
+      "CONTACT US"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.293,
+        "sig": " site-header ",
+        "text": "call us now!\n(908) 350-9025\nhome\nabout\nservices\nareas we serve\ngallery\nreviews\nshop\ncontact\nac & heat by kyle: comfort y"
+      },
+      {
+        "kind": "bottom_bar",
+        "cover": 0.072,
+        "sig": " floating-cta hide-cta medium show-item-mobile ",
+        "text": "request an estimate"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 1,
+    "visibleNavLinks": 11,
+    "brokenImages": [],
+    "textChars": 5773
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.acandheatbykyle.com/contact/",
+      "finalUrl": "https://www.acandheatbykyle.com/contact/",
+      "status": 200,
+      "title": "Contact Us | AC & Heat by Kyle | Request an HVAC Quote | East Orange, NJ",
+      "forms": [
+        {
+          "action": "/contact/#wpcf7-f286-p24-o1",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init use-floating-validation-tip",
+          "fieldCount": 7,
+          "fieldNames": [
+            "fname",
+            "phone",
+            "email",
+            "interest",
+            "message",
+            "acceptance-1",
+            "acceptance-1"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": "/contact/#wpcf7-f32-o2",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init use-floating-validation-tip",
+          "fieldCount": 7,
+          "fieldNames": [
+            "fname",
+            "phone",
+            "email",
+            "interest",
+            "message",
+            "acceptance-1",
+            "acceptance-1"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1357308951283!2d-74.23237102286365!3d40.75903933473266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2552a907e696d%3A0x94c188c67f714e81!2sAC%20%26%20Heat%20by%20Kyle!5e0!3m2!1sen!2sus!4v1769546329453!5m2!1sen!2sus",
+        "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le2LVosAAAAAGaiciHoas9KBeqY-Ui1OM5RKzAX&co=aHR0cHM6Ly93d3cuYWNhbmRoZWF0YnlreWxlLmNvbTo0NDM.&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&anchor-ms=20000&execute-ms=30000&cb=hme9a4ki3avf"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@acandheatbykyle.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 350-9025",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+19087599170"
+        },
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 350-9025",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+19087599170"
+        },
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 759-9170",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19087599170"
+        },
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 350-9025",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+19087599170"
+        },
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 350-9025",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+19087599170"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to primary navigation\nSkip to main content\n315 S Harrison St #713, East Orange, NJ 07018\n \ninfo@acandheatbykyle.com\n \n \n \n \n \n \n \nCALL US NOW!\n(908) 350-9025\nREQUEST AN ESTIMATE\nHOME\n \nABOUT\n \nSERVICES\n \nAREAS WE SERVE\n \nGALLERY\n \nREVIEWS\n \nSHOP\n \nCONTACT\nContact\n | Contact\nContact AC & Heat by Kyle\nGet in Touch With Our Team\n\nFor questions, service requests, or to schedule a free consultation, the team at AC & Heat by Kyle is ready to assist you. We value clear communication and prompt responses to ensure your comfort and satisfaction. Whether you are a homeowner needing urgent repairs or a business interested in ongoing maintenance, our experts are available to provide solutions tailored to your needs.\n\nOur priority is to make every interaction convenient and helpful, guiding you through available options and next steps. Please reach out to us using the contact information below, or send an email, and our staff will reply as soon as possible.\n\nContact Information\nPhone: (908) 759-9170\nEmail: info@acandheatbykyle.com\nAddress: 315 S Harrison St #713, East Orange, NJ 07018\nServing East Orange and Surrounding Communities\n\nAC & Heat by Kyle proudly serves East Orange, Newark, Hillside, and the surrounding areas with reliable HVAC solutions. Every call is an opportunity to provide quality service and build lasting relationships with our customers. Contact us today to learn more about how we can help improve comfort and efficiency in your home or business.\n\nAC & HEAT BY KYLE\nOUR LOCATION\n315 S Harrison St #713,\nEast Orange, NJ 07018\nEMAIL\ninfo@acandheatbykyle.com\nPHONE NUMBER\n(908) 350-9025\nHOURS OF OPERATION\nMon - Sat: 8 AM - 8 PM\nSun: Closed\nFOLLOW US\n \n \n \n \n \n \n \nCONTACT US\n\nInterested In:\nHVAC Repair\nHVAC Service\nHVAC Installations\nHVAC Maintenance\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nBy clicking this box you provide express written consent indicating a willingness for us to call you. We will never share your information. Privacy Policy\nBy clicking this box, you also consent to receive SMS messages from us no more than 2–4 times per month. Standard messaging and data rates may apply. Text STOP to opt out at any time. Privacy Policy\nSend Request \n\nExperience the HVAC difference with AC & Heat by Kyle! Serving homes in New Jersey, our team delivers reliable service for all your HVAC needs, including efficient repairs, new installations, and routine maintenance. Call us today!\n\nCompany Information\nAC & Heat by Kyle\n315 S Harrison St #713,\nEast Orange, NJ 07018\n(908) 350-9025\ninfo@acandheatbykyle.com\nMon - Sat: 8 AM - 8 PM\nSun: Closed\nQuick Links\nHome\nAbout\nServices\nAreas We Serve\nGallery\nReviews\nContact\nSitemap\nPrivacy Policy\nFollow Us\n \n \n \n \n \n \n \nAC & Heat by Kyle  All Rights Reserved - 2026",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.acandheatbykyle.com/contact/#genesis-nav-primary",
+        "https://www.acandheatbykyle.com/contact/#genesis-content",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/contact/",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/about/",
+        "https://www.acandheatbykyle.com/services/",
+        "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "https://www.acandheatbykyle.com/services/hvac/",
+        "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "https://www.acandheatbykyle.com/services/hvac-maintenance/",
+        "https://www.acandheatbykyle.com/areas-we-serve/",
+        "https://www.acandheatbykyle.com/gallery/",
+        "https://www.acandheatbykyle.com/reviews/",
+        "https://www.acandheatbykyle.com/shop/",
+        "https://www.acandheatbykyle.com/contact/",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/privacy-policy/",
+        "https://www.acandheatbykyle.com/privacy-policy/",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/about/",
+        "https://www.acandheatbykyle.com/services/",
+        "https://www.acandheatbykyle.com/areas-we-serve/",
+        "https://www.acandheatbykyle.com/gallery/",
+        "https://www.acandheatbykyle.com/reviews/",
+        "https://www.acandheatbykyle.com/contact/",
+        "https://www.acandheatbykyle.com/sitemap/",
+        "https://www.acandheatbykyle.com/privacy-policy/",
+        "https://www.acandheatbykyle.com/privacy-policy/",
+        "https://www.acandheatbykyle.com/privacy-policy/"
+      ]
+    },
+    "about": {
+      "url": "https://www.acandheatbykyle.com/about/",
+      "finalUrl": "https://www.acandheatbykyle.com/about/",
+      "status": 200,
+      "title": "About Us | AC & Heat by Kyle | Local HVAC Company | East Orange, NJ",
+      "forms": [
+        {
+          "action": "/about/#wpcf7-f32-o1",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init use-floating-validation-tip",
+          "fieldCount": 7,
+          "fieldNames": [
+            "fname",
+            "phone",
+            "email",
+            "interest",
+            "message",
+            "acceptance-1",
+            "acceptance-1"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": "/about/#wpcf7-f32-o2",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init use-floating-validation-tip",
+          "fieldCount": 7,
+          "fieldNames": [
+            "fname",
+            "phone",
+            "email",
+            "interest",
+            "message",
+            "acceptance-1",
+            "acceptance-1"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://static.addtoany.com/menu/sm.25.html#type=core&event=load",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le2LVosAAAAAGaiciHoas9KBeqY-Ui1OM5RKzAX&co=aHR0cHM6Ly93d3cuYWNhbmRoZWF0YnlreWxlLmNvbTo0NDM.&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&anchor-ms=20000&execute-ms=30000&cb=8jpmeht1yp7w"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@acandheatbykyle.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 350-9025",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+19087599170"
+        },
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 350-9025",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+19087599170"
+        },
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 759-9170",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19087599170"
+        },
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 759-9170",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19087599170"
+        },
+        {
+          "href": "tel:9087599170",
+          "text": "(908) 350-9025",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "mismatch",
+          "problem": null,
+          "e164": "+19087599170"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to primary navigation\nSkip to main content\n315 S Harrison St #713, East Orange, NJ 07018\n \ninfo@acandheatbykyle.com\n \n \n \n \n \n \n \nCALL US NOW!\n(908) 350-9025\nREQUEST AN ESTIMATE\nHOME\n \nABOUT\n \nSERVICES\n \nAREAS WE SERVE\n \nGALLERY\n \nREVIEWS\n \nSHOP\n \nCONTACT\nAbout\n | About\nDedicated HVAC Expertise and Integrity for East Orange Homeowners\nExperienced, Honest HVAC Service You Can Trust in East Orange, New Jersey\n\nAC & Heat by Kyle is a locally focused residential HVAC company with a strong presence in East Orange, New Jersey. For over 30 years, our team has earned the trust of homeowners by consistently delivering dependable service, hands-on technical expertise, and an unwavering commitment to enhancing home comfort. We understand that reliable heating and cooling is essential for everyday living, and our goal remains straightforward: provide solutions that last, while building long-term relationships with the homeowners we serve.\n\nOur reputation is built on honesty, transparency, and results. When you invite AC & Heat by Kyle into your home, you can expect straightforward recommendations from professionals who genuinely care about your satisfaction. Every member of our team shares our commitment to upholding the highest standards in residential HVAC—the foundation for comfortable, efficient, and safe homes throughout the East Orange community.\n\nBuilding on Decades of HVAC Experience and Technical Knowledge\n\nWith more than three decades of experience in the HVAC industry, AC & Heat by Kyle brings practical knowledge and refined skills to every project we undertake. Our background allows us to thoroughly diagnose issues, address complex challenges, and recommend solutions that are both effective and energy-efficient. We have worked extensively with traditional heating systems, such as furnaces and boilers, while also staying on the cutting edge of modern air conditioning technology and smart thermostat integration.\n\nEvery installation, repair, or upgrade we perform is completed according to stringent industry standards, ensuring long-term performance and optimal efficiency. We continue to invest in ongoing training and education, so our team is always prepared to implement new methods and solutions that benefit our customers. This dedication to professional growth reinforces our ability to serve as a true HVAC partner for local homeowners.\n\nA Residential HVAC Company Tailored to Homeowners’ Needs\n\nUnlike companies that divide their attention between residential and commercial work, AC & Heat by Kyle focuses exclusively on serving the needs of homeowners. We recognize that each home—and each family—has unique comfort needs, energy concerns, and system requirements. Our approach is personal and consultative: we take time to listen, assess your existing systems, and understand your goals before presenting customized recommendations.\n\nWhether you need urgent repairs, efficiency upgrades, or solutions that address indoor air quality, we remain thoughtful and detail-oriented throughout every phase of your project. Our exclusive residential focus allows us to deliver a higher level of specialized care and expertise—an important distinction for East Orange-area homeowners seeking lasting comfort.\n\nCommitment to Quality Workmanship and Clear Communication\n\nAt AC & Heat by Kyle, we believe that quality HVAC service is rooted in both technical skill and open, honest communication. Each project begins with a thorough evaluation and a clear explanation of your available options. We pride ourselves on direct answers to your questions, guidance you can trust, and the assurance that you will never be pressured into unnecessary services or upgrades.\n\nOur process is transparent from start to finish, ensuring you remain informed and confident at every stage. We dedicate ourselves to professional service, a clean work environment, and results that prioritize your home’s safety, energy efficiency, and long-term comfort. This commitment to quality workmanship has become a core part of our identity as an HVAC company in East Orange, New Jersey.\n\nEnhancing Indoor Air Quality and Home Wellness\n\nBeyond standard heating and cooling services, AC & Heat by Kyle is dedicated to helping families enjoy cleaner, healthier air indoors. We offer specialized indoor air quality solutions, including expert air purifier installations and precision system testing using advanced technologies such as Measure Quick. These services enable us to identify airflow challenges, eliminate contaminants, and create more comfortable indoor environments.\n\nOur focus on air quality underscores our holistic approach to home comfort. By addressing hidden issues that impact health and well-being, we help customers go beyond temperature control and experience the full value of true HVAC expertise.\n\nProudly Serving the East Orange Community With Dependable HVAC Solutions\n\nAs a trusted HVAC provider in East Orange, New Jersey, we take pride in serving our neighbors and contributing to the well-being of our local community. Every customer interaction is guided by respect for your time, property, and comfort. Whether we are undertaking a major system installation or a quick repair, our standards for professionalism and lasting performance remain unwavering.\n\nWe view every project, no matter the size, as an opportunity to provide value and peace of mind for East Orange homeowners. Attention to detail, responsiveness, and a customer-first attitude define our approach, making us the go-to residential HVAC company for those who seek reliability and integrity.\n\nYour Long-Term HVAC Partner for Every Season\n\nWhen you choose AC & Heat by Kyle, you are partnering with a company that stands behind its work and values your comfort above all else. From heating system service and air conditioning repair to state-of-the-art upgrades, we deliver a full range of solutions designed to keep you comfortable, regardless of the season. Our team is always ready to answer your questions, provide honest recommendations, and support your needs for years to come.\n\nContact AC & Heat by Kyle today at (908) 759-9170 or you can also fill out our online form to discover more about our services or to schedule your complimentary consultation. Experience the difference that experienced, honest HVAC service can make for your East Orange home.\n\nCONTACT US\nRequest an Estimate\nOr Call (908) 759-9170\n\nInterested In:\nHVAC Repair\nHVAC Service\nHVAC Installations\nHVAC Maintenance\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nBy clicking this box you provide express written consent indicating a willingness for us to call you. We will never share your information. Privacy Policy\nBy clicking this box, you also consent to receive SMS messages from us no more than 2–4 times per month. Standard messaging and data rates may apply. Text STOP to opt out at any time. Privacy Policy\nSend Request \n\nExperience the HVAC difference with AC & Heat by Kyle! Serving homes in New Jersey, our team delivers reliable service for all your HVAC needs, including efficient repairs, new installations, and routine maintenance. Call us today!\n\nCompany Information\nAC & Heat by Kyle\n315 S Harrison St #713,\nEast Orange, NJ 07018\n(908) 350-9025\ninfo@acandheatbykyle.com\nMon - Sat: 8 AM - 8 PM\nSun: Closed\nQuick Links\nHome\nAbout\nServices\nAreas We Serve\nGallery\nReviews\nContact\nSitemap\nPrivacy Policy\nFollow Us\n \n \n \n \n \n \n \nAC & Heat by Kyle  All Rights Reserved - 2026",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://www.acandheatbykyle.com/about/#genesis-nav-primary",
+        "https://www.acandheatbykyle.com/about/#genesis-content",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/contact/",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/about/",
+        "https://www.acandheatbykyle.com/services/",
+        "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "https://www.acandheatbykyle.com/services/hvac/",
+        "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "https://www.acandheatbykyle.com/services/hvac-maintenance/",
+        "https://www.acandheatbykyle.com/areas-we-serve/",
+        "https://www.acandheatbykyle.com/gallery/",
+        "https://www.acandheatbykyle.com/reviews/",
+        "https://www.acandheatbykyle.com/shop/",
+        "https://www.acandheatbykyle.com/contact/",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/services/hvac-installations/",
+        "https://www.acandheatbykyle.com/services/hvac-repair/",
+        "https://www.acandheatbykyle.com/services/",
+        "https://www.acandheatbykyle.com/contact/",
+        "https://www.acandheatbykyle.com/services/hvac/",
+        "https://www.acandheatbykyle.com/privacy-policy/",
+        "https://www.acandheatbykyle.com/privacy-policy/",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/",
+        "https://www.acandheatbykyle.com/about/",
+        "https://www.acandheatbykyle.com/services/",
+        "https://www.acandheatbykyle.com/areas-we-serve/",
+        "https://www.acandheatbykyle.com/gallery/",
+        "https://www.acandheatbykyle.com/reviews/",
+        "https://www.acandheatbykyle.com/contact/",
+        "https://www.acandheatbykyle.com/sitemap/",
+        "https://www.acandheatbykyle.com/privacy-policy/",
+        "https://www.acandheatbykyle.com/privacy-policy/",
+        "https://www.acandheatbykyle.com/privacy-policy/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 15,
+    "at": "2026-11-03T23:41:55.094Z",
+    "statusCounts": {
+      "200": 14,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.acandheatbykyle.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/ac-heat-by-kyle/desktop-home.png",
+    "desktop_full": "evidence/screenshots/ac-heat-by-kyle/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/ac-heat-by-kyle/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/ac-heat-by-kyle/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/ac-heat-by-kyle/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "emails": [
+      "info@acandheatbykyle.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Facebook -> https://www.facebook.com/acandheatbykyle/",
+      "REQUEST AN ESTIMATE -> https://www.acandheatbykyle.com/contact/",
+      "Facebook -> https://www.facebook.com/acandheatbykyle/"
+    ]
+  },
+  "ctaClickTests": []
+}

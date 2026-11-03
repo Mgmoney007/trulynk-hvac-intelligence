@@ -1,0 +1,1055 @@
+{
+  "firecrawl": [],
+  "id": "rentanac-nyc",
+  "name": "RentAnAC NYC",
+  "website": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+  "auditedAt": "2026-11-03T22:54:52.065Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+      "at": "2026-11-03T22:54:56.719Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+      "title": "AC Sales, Rentals, & Installation | Boston & NYC | RentAnAC.com",
+      "ms": 4605,
+      "error": null,
+      "linkCount": 51
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.rentanac.com/contact-us/",
+      "at": "2026-11-03T22:55:00.854Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.rentanac.com/contact-us/",
+      "title": "Contact Rent An AC | RentAnAC.com",
+      "ms": 3018,
+      "error": null,
+      "linkCount": 43
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.rentanac.com/about-us/",
+      "at": "2026-11-03T22:55:05.411Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.rentanac.com/about-us/",
+      "title": "About Rent An AC | RentAnAC.com",
+      "ms": 3722,
+      "error": null,
+      "linkCount": 43
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+      "at": "2026-11-03T22:55:56.080Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+      "title": "AC Sales, Rentals, & Installation | Boston & NYC | RentAnAC.com",
+      "ms": 4503,
+      "error": null,
+      "linkCount": 51
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+    "title": "AC Sales, Rentals, & Installation | Boston & NYC | RentAnAC.com",
+    "lang": "en",
+    "metaDescription": null,
+    "h1": [
+      "Window AC Delivery &\nInstallation"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1, maximum-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5467,
+    "bodyText": "Home Services\nCommercial Services\nAbout Us\nResources\nGet Started\nDelivery to :\n\n-----\n0\nEnter Zip Code Here\nWindow AC Delivery &\nInstallation\n\nThe easiest way to stay cool all summer long.\nWindow air conditioner rentals and sales with delivery, installation, and pick up!\n\nGet Started\nBoston, Providence and New York!\nOver 30,000 ACs Installed!\n4.9/5 rating\nChill Out With 3 Simple Options\nRent An AC\nPremium portable and window AC rentals with delivery, installation and removal included\nBuy An AC\nWe sell a variety of window ACs at competitive prices, with optional assembly, delivery and installation\nInstallation Services\nIf you already own window ACs, this is the fastest way to have them installed each year\nWe Make It Easy\n\nChoosing the right room air conditioner(s) can be a tricky process. Luckily, with over a decade of experience, we’ve become pretty good and helping you determine the right size. We built our check-out process to help you choose correctly, but we’re also only a phone call away if you have trouble.\n\nGet Started\nStay Cool. Feel Good.\nRentAnAC Helps Save Time, And Your Back.\nNo Lifting\nACs are awkward and can weigh up to 100 lbs! Let us do the heavy lifting for you and save your back.\nInstalled Right\nOur team is trained to install your AC safely. No more damage, drafts, leaks, or falling units.\nGone In The Fall\nIt’s no fun to store a dusty, rusty AC in your closet. We make it vanish until next season.\nPeace Of Mind\nOur ACs are professionally cleaned, and are guaranteed all summer.\nEvery Order\nPlants A Tree\n\nPlanting trees not only promotes carbon sequestration, but also helps to restore forests and reduce poverty through job creation. We’ve partnered with National Forest Foundation to help us with planting, keeping local communities busy and planting the right trees in the right places to give the trees the best chance of growth.\n\nCustomer Satisfaction\nIs Our Ultimate Goal\nSee what our customers say about us\nThis is the most amazing service for people who live in small city space! They were professional and right on time for my delivery. Highly recommended!\nMichael B.\nWonderful experience from start to finish. They did a great job, cleaned up and finished on time. The AC unit works great!\nAnne R.\nUsed RentAnAC this summer after a great experience last summer. They installed our ACs on schedule and were very efficient.\nBrit K.\nThis is the most amazing service for people who live in small city space! They were professional and right on time for my delivery. Highly recommended!\nMichael R.\nStay Cool. No Sweat.\n\nThe easiest way to stay cool all summer long.\nAir Conditioner sales & rentals with delivery, installation and pick up!\nNow Serving Boston, Providence and New York!\n\nGet Started\nQUICK LINKS\nAbout Us\nPrivacy Policy\nReturn Policy & Guarantees\nCommercial Services\nHEAP Info\nNews & Press\nPartner Program\nFAQ\nSupport\nContact Us\nYour Privacy Choices\nLOCATIONS\nBoston\nProvidence\nNew York City\nUpper West Side\nUpper East Side\nLower East Side\nWest Village\nOther Locations\nCONTACT US\n\nPhone: (888) 762-6651\n\nEmail: info@RentAnAC.com\n\nFOLLOW US\n\nRentAnAC has been providing window air conditioner rental\nservices to thousands of happy customers since 2006\n\n© Copyright 2026 RentAnAC.com",
+    "links": [
+      {
+        "href": "/order-now/services",
+        "abs": "https://www.rentanac.com/order-now/services",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 44,
+        "w": 193,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.rentanac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 28,
+        "w": 110,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/home-services",
+        "abs": "https://www.rentanac.com/home-services",
+        "text": "Home Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 26,
+        "w": 104,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now?goTo=rentals",
+        "abs": "https://www.rentanac.com/order-now?goTo=rentals",
+        "text": "Rent An AC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now/sales",
+        "abs": "https://www.rentanac.com/order-now/sales",
+        "text": "Buy An AC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now?goTo=install",
+        "abs": "https://www.rentanac.com/order-now?goTo=install",
+        "text": "Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now/sales?filter=preowned",
+        "abs": "https://www.rentanac.com/order-now/sales?filter=preowned",
+        "text": "Pre-Owned",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-services",
+        "abs": "https://www.rentanac.com/commercial-services",
+        "text": "Commercial Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 26,
+        "w": 146,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-services/colleges-universities",
+        "abs": "https://www.rentanac.com/commercial-services/colleges-universities",
+        "text": "Colleges and Universities",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-services/temporary-central-hvac",
+        "abs": "https://www.rentanac.com/commercial-services/temporary-central-hvac",
+        "text": "Temporary Central HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-services/wall-through-ac",
+        "abs": "https://www.rentanac.com/commercial-services/wall-through-ac",
+        "text": "Wall-through Air Conditioner",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-services/window-heat-pumps",
+        "abs": "https://www.rentanac.com/commercial-services/window-heat-pumps",
+        "text": "Window Heat Pumps",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us/",
+        "abs": "https://www.rentanac.com/about-us/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 26,
+        "w": 65,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-resources/",
+        "abs": "https://www.rentanac.com/ac-resources/",
+        "text": "Resources",
+        "visible": true,
+        "aboveFold": true,
+        "h": 26,
+        "w": 73,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now",
+        "abs": "https://www.rentanac.com/order-now",
+        "text": "Get Started",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 124,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/account",
+        "abs": "https://www.rentanac.com/account",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 32,
+        "w": 32,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC#",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now",
+        "abs": "https://www.rentanac.com/order-now",
+        "text": "Get Started",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 125,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-installation-service-boston/",
+        "abs": "https://www.rentanac.com/ac-installation-service-boston/",
+        "text": "Boston",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 64,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-installation-service-providence/",
+        "abs": "https://www.rentanac.com/ac-installation-service-providence/",
+        "text": "Providence",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 102,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-installation-service-nyc/",
+        "abs": "https://www.rentanac.com/ac-installation-service-nyc/",
+        "text": "New York",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 88,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now/rentals",
+        "abs": "https://www.rentanac.com/order-now/rentals",
+        "text": "Rent An AC Premium portable and window AC rentals with delivery, installation an",
+        "visible": true,
+        "aboveFold": false,
+        "h": 247,
+        "w": 362,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now/sales",
+        "abs": "https://www.rentanac.com/order-now/sales",
+        "text": "Buy An AC We sell a variety of window ACs at competitive prices, with optional a",
+        "visible": true,
+        "aboveFold": false,
+        "h": 247,
+        "w": 362,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now/install",
+        "abs": "https://www.rentanac.com/order-now/install",
+        "text": "Installation Services If you already own window ACs, this is the fastest way to ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 247,
+        "w": 362,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now",
+        "abs": "https://www.rentanac.com/order-now",
+        "text": "Get Started",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/order-now",
+        "abs": "https://www.rentanac.com/order-now",
+        "text": "Get Started",
+        "visible": true,
+        "aboveFold": false,
+        "h": 44,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us/",
+        "abs": "https://www.rentanac.com/about-us/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/privacy-policy",
+        "abs": "https://www.rentanac.com/privacy-policy",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/return-policy",
+        "abs": "https://www.rentanac.com/return-policy",
+        "text": "Return Policy & Guarantees",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/commercial-services/",
+        "abs": "https://www.rentanac.com/commercial-services/",
+        "text": "Commercial Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/heap-info",
+        "abs": "https://www.rentanac.com/heap-info",
+        "text": "HEAP Info",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/news-press/",
+        "abs": "https://www.rentanac.com/news-press/",
+        "text": "News & Press",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://partners.rentanac.com/",
+        "abs": "https://partners.rentanac.com/",
+        "text": "Partner Program",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/faqs/",
+        "abs": "https://www.rentanac.com/faqs/",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/help-center",
+        "abs": "https://www.rentanac.com/help-center",
+        "text": "Support",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.rentanac.com/contact-us/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/data-sharing-opt-out",
+        "abs": "https://www.rentanac.com/data-sharing-opt-out",
+        "text": "Your Privacy Choices",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-installation-service-boston/",
+        "abs": "https://www.rentanac.com/ac-installation-service-boston/",
+        "text": "Boston",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-installation-service-providence/",
+        "abs": "https://www.rentanac.com/ac-installation-service-providence/",
+        "text": "Providence",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-installation-service-nyc/",
+        "abs": "https://www.rentanac.com/ac-installation-service-nyc/",
+        "text": "New York City",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-installation-service-upper-west-side-nyc",
+        "abs": "https://www.rentanac.com/ac-installation-service-upper-west-side-nyc",
+        "text": "Upper West Side",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-installation-service-upper-east-side-nyc",
+        "abs": "https://www.rentanac.com/ac-installation-service-upper-east-side-nyc",
+        "text": "Upper East Side",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-installation-service-lower-east-side-nyc",
+        "abs": "https://www.rentanac.com/ac-installation-service-lower-east-side-nyc",
+        "text": "Lower East Side",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/ac-installation-service-west-village-nyc",
+        "abs": "https://www.rentanac.com/ac-installation-service-west-village-nyc",
+        "text": "West Village",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "/rentanac-is-expanding/",
+        "abs": "https://www.rentanac.com/rentanac-is-expanding/",
+        "text": "Other Locations",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 203,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "tel:(888)762-6651",
+        "abs": "tel:(888)762-6651",
+        "text": "(888) 762-6651",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 111,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@RentAnAC.com",
+        "abs": "mailto:info@RentAnAC.com",
+        "text": "info@RentAnAC.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 148,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/rentanacfast/",
+        "abs": "https://www.instagram.com/rentanacfast/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 43,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/rentanacfast",
+        "abs": "https://www.facebook.com/rentanacfast",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 47,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://twitter.com/getrentanac?lang=en",
+        "abs": "https://twitter.com/getrentanac?lang=en",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 39,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.yelp.com/biz/rentanac-malden-4",
+        "abs": "https://www.yelp.com/biz/rentanac-malden-4",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 47,
+        "inNav": true,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Previous slide",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next slide",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 1",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 2",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 3",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 4",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous slide",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Next slide",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 1",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 2",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 3",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 4",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://www.googletagmanager.com/ns.html?id=GTM-MMN5T9V"
+    ],
+    "scripts": [
+      "https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache=yvrzuk",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/853594650/?random=1793746494415&cv=11&fst=1793746494415&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21v9180496871z8841262715za200zb888224333zd888224333xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120469145~120469153~121246026~121246034~123691370&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.rentanac.com%2F%3Futm_source%3DGMB%26utm_medium%3DNYC%26utm_campaign%3DGMB%2BNYC%26utm_id%3DGMB%2BNYC&rcb=7&frm=0&tiba=AC%20Sales%2C%20Rentals%2C%20%26%20Installation%20%7C%20Boston%20%26%20NYC%20%7C%20RentAnAC.com&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1823882554.1793746494&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/853594650/?random=1793746494465&cv=11&fst=1793746494465&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21v9180496871za200zb888224333zd888224333xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120412528~120469145~120469153~121246026~121246034~123691370&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.rentanac.com%2F%3Futm_source%3DGMB%26utm_medium%3DNYC%26utm_campaign%3DGMB%2BNYC%26utm_id%3DGMB%2BNYC&rcb=7&frm=0&tiba=AC%20Sales%2C%20Rentals%2C%20%26%20Installation%20%7C%20Boston%20%26%20NYC%20%7C%20RentAnAC.com&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1823882554.1793746494&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://aapi.rentanac.com/static/exception-autocapture.js?v=1.372.10",
+      "https://aapi.rentanac.com/static/web-vitals.js?v=1.372.10",
+      "https://aapi.rentanac.com/static/dead-clicks-autocapture.js?v=1.372.10",
+      "https://aapi.rentanac.com/static/surveys.js?v=1.372.10",
+      "https://aapi.rentanac.com/static/posthog-recorder.js?v=1.372.10",
+      "https://connect.facebook.net/signals/config/441371950309611?v=2.9.435&r=stable&domain=www.rentanac.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-853594650&cx=c&gtm=4e6b21",
+      "https://aapi.rentanac.com/array/phc_fTfp3Fv1nooPiI7WYQbzFG19jXxnTDUCe1WQddjlcFP/config.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-MMN5T9V",
+      "https://www.googletagmanager.com/gtag/js?id=G-YR0K66TTB1",
+      "https://cdn.shopify.com/s/files/1/0611/4816/8292/files/bgtracker_qne1yx_29509a1c-374c-41fa-a358-3aaa7f5df3db.js?v=1772785351",
+      "https://cdn.shopify.com/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js",
+      "https://config.gorgias.chat/bundle-loader/01JJ51M9SR82S42XYMHGHBJ423",
+      "https://config.gorgias.chat/gorgias-chat-bundle.js?rev=db430c8f&appKey=01JJ51M9SR82S42XYMHGHBJ423"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 11,
+    "timing": {
+      "dcl": 1002,
+      "load": 1531,
+      "ttfb": 664
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep",
+      "Failed to load resource: the server responded with a status of 400 (Bad Request)"
+    ],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.09,
+        "sig": " site-header no-banner ",
+        "text": "home services\ncommercial services\nabout us\nresources\nget started\ndelivery to :\n\n-----\n0\nenter zip code here"
+      },
+      {
+        "kind": "chat",
+        "cover": 0.005,
+        "sig": "chat-button gorgias-chat-key-1vly0ou ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+    "navMs": 4605,
+    "tel": [
+      {
+        "href": "tel:(888)762-6651",
+        "text": "(888) 762-6651",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18887626651"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+    "navMs": 4503,
+    "timing": {
+      "dcl": 559,
+      "load": 1339,
+      "ttfb": 347
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, maximum-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(888)762-6651",
+        "text": "(888) 762-6651",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18887626651"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.105,
+        "sig": " site-header no-banner ",
+        "text": "delivery to :\n\n-----\n0\nenter zip code here"
+      },
+      {
+        "kind": "chat",
+        "cover": 0.017,
+        "sig": "chat-button gorgias-chat-key-1vly0ou ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0.017,
+    "smallTapTargets": 4,
+    "visibleNavLinks": 27,
+    "brokenImages": [],
+    "textChars": 3175
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.rentanac.com/contact-us/",
+      "finalUrl": "https://www.rentanac.com/contact-us/",
+      "status": 200,
+      "title": "Contact Rent An AC | RentAnAC.com",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "",
+          "cls": "custom-form",
+          "fieldCount": 9,
+          "fieldNames": [
+            "hp_company",
+            "email",
+            "firstName",
+            "lastName",
+            "companyName",
+            "phoneNumber",
+            "region",
+            "message",
+            "file"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.googletagmanager.com/ns.html?id=GTM-MMN5T9V"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@rentanac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(888)762-6651",
+          "text": "(888) 762-6651",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18887626651"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home Services\nCommercial Services\nAbout Us\nResources\nGet Started\nDelivery to :\n\n-----\n0\nEnter Zip Code Here\nContact Us\nSay hello (we’re really nice).\nCompany\nEmail*\nFirst name*\nLast name*\nCompany name\nPhone number\nState/Region*\nMessage\nAttachments\nStay Cool. No Sweat.\n\nThe easiest way to stay cool all summer long.\nAir Conditioner sales & rentals with delivery, installation and pick up!\nNow Serving Boston, Providence and New York!\n\nGet Started\nQUICK LINKS\nAbout Us\nPrivacy Policy\nReturn Policy & Guarantees\nCommercial Services\nHEAP Info\nNews & Press\nPartner Program\nFAQ\nSupport\nContact Us\nYour Privacy Choices\nLOCATIONS\nBoston\nProvidence\nNew York City\nUpper West Side\nUpper East Side\nLower East Side\nWest Village\nOther Locations\nCONTACT US\n\nPhone: (888) 762-6651\n\nEmail: info@RentAnAC.com\n\nFOLLOW US\n\nRentAnAC has been providing window air conditioner rental\nservices to thousands of happy customers since 2006\n\n© Copyright 2026 RentAnAC.com",
+      "vendors": [],
+      "links": [
+        "https://www.rentanac.com/order-now/services",
+        "https://www.rentanac.com/",
+        "https://www.rentanac.com/home-services",
+        "https://www.rentanac.com/order-now?goTo=rentals",
+        "https://www.rentanac.com/order-now/sales",
+        "https://www.rentanac.com/order-now?goTo=install",
+        "https://www.rentanac.com/order-now/sales?filter=preowned",
+        "https://www.rentanac.com/commercial-services",
+        "https://www.rentanac.com/commercial-services/colleges-universities",
+        "https://www.rentanac.com/commercial-services/temporary-central-hvac",
+        "https://www.rentanac.com/commercial-services/wall-through-ac",
+        "https://www.rentanac.com/commercial-services/window-heat-pumps",
+        "https://www.rentanac.com/about-us/",
+        "https://www.rentanac.com/ac-resources/",
+        "https://www.rentanac.com/order-now",
+        "https://www.rentanac.com/account",
+        "https://www.rentanac.com/contact-us/#",
+        "https://www.rentanac.com/order-now",
+        "https://www.rentanac.com/about-us/",
+        "https://www.rentanac.com/privacy-policy",
+        "https://www.rentanac.com/return-policy",
+        "https://www.rentanac.com/commercial-services/",
+        "https://www.rentanac.com/heap-info",
+        "https://www.rentanac.com/news-press/",
+        "https://www.rentanac.com/faqs/",
+        "https://www.rentanac.com/help-center",
+        "https://www.rentanac.com/contact-us/",
+        "https://www.rentanac.com/data-sharing-opt-out",
+        "https://www.rentanac.com/ac-installation-service-boston/",
+        "https://www.rentanac.com/ac-installation-service-providence/",
+        "https://www.rentanac.com/ac-installation-service-nyc/",
+        "https://www.rentanac.com/ac-installation-service-upper-west-side-nyc",
+        "https://www.rentanac.com/ac-installation-service-upper-east-side-nyc",
+        "https://www.rentanac.com/ac-installation-service-lower-east-side-nyc",
+        "https://www.rentanac.com/ac-installation-service-west-village-nyc",
+        "https://www.rentanac.com/rentanac-is-expanding/"
+      ]
+    },
+    "about": {
+      "url": "https://www.rentanac.com/about-us/",
+      "finalUrl": "https://www.rentanac.com/about-us/",
+      "status": 200,
+      "title": "About Rent An AC | RentAnAC.com",
+      "forms": [],
+      "iframes": [
+        "https://www.googletagmanager.com/ns.html?id=GTM-MMN5T9V"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@rentanac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(888)762-6651",
+          "text": "(888) 762-6651",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18887626651"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home Services\nCommercial Services\nAbout Us\nResources\nGet Started\nDelivery to :\n\n-----\n0\nEnter Zip Code Here\nAbout Us\nA Friendly Team That Rents, Sells & Installs Window AC's\n\nRentAnAC began in 2006 with the idea that for many, battling hot summers can be a bit overwhelming. Much of our real estate doesn’t offer central air, making a temporary cooling solution in the summer heat a must.\n\nAC units are heavy, annoying to store, and no fun to maintain. Starting with just a handful of air conditioners, an old van, and a bit of sweat we created a convenient service that promises to be a simple, start-to-finish cooling solution for anyone to enjoy.\n\nWe Want To Make You Happy\n\nWe strive to create convenience and offer a great service to our customers in every way we can. We’re passionate about keeping you cool are grateful for everyone’s loyalty and support. If there is anything we can do to make our service better for you, please don’t hesitate to send us a note.\n\nStay Cool. No Sweat.\n\nThe easiest way to stay cool all summer long.\nAir Conditioner sales & rentals with delivery, installation and pick up!\nNow Serving Boston, Providence and New York!\n\nGet Started\nQUICK LINKS\nAbout Us\nPrivacy Policy\nReturn Policy & Guarantees\nCommercial Services\nHEAP Info\nNews & Press\nPartner Program\nFAQ\nSupport\nContact Us\nYour Privacy Choices\nLOCATIONS\nBoston\nProvidence\nNew York City\nUpper West Side\nUpper East Side\nLower East Side\nWest Village\nOther Locations\nCONTACT US\n\nPhone: (888) 762-6651\n\nEmail: info@RentAnAC.com\n\nFOLLOW US\n\nRentAnAC has been providing window air conditioner rental\nservices to thousands of happy customers since 2006\n\n© Copyright 2026 RentAnAC.com",
+      "vendors": [],
+      "links": [
+        "https://www.rentanac.com/order-now/services",
+        "https://www.rentanac.com/",
+        "https://www.rentanac.com/home-services",
+        "https://www.rentanac.com/order-now?goTo=rentals",
+        "https://www.rentanac.com/order-now/sales",
+        "https://www.rentanac.com/order-now?goTo=install",
+        "https://www.rentanac.com/order-now/sales?filter=preowned",
+        "https://www.rentanac.com/commercial-services",
+        "https://www.rentanac.com/commercial-services/colleges-universities",
+        "https://www.rentanac.com/commercial-services/temporary-central-hvac",
+        "https://www.rentanac.com/commercial-services/wall-through-ac",
+        "https://www.rentanac.com/commercial-services/window-heat-pumps",
+        "https://www.rentanac.com/about-us/",
+        "https://www.rentanac.com/ac-resources/",
+        "https://www.rentanac.com/order-now",
+        "https://www.rentanac.com/account",
+        "https://www.rentanac.com/about-us/#",
+        "https://www.rentanac.com/order-now",
+        "https://www.rentanac.com/about-us/",
+        "https://www.rentanac.com/privacy-policy",
+        "https://www.rentanac.com/return-policy",
+        "https://www.rentanac.com/commercial-services/",
+        "https://www.rentanac.com/heap-info",
+        "https://www.rentanac.com/news-press/",
+        "https://www.rentanac.com/faqs/",
+        "https://www.rentanac.com/help-center",
+        "https://www.rentanac.com/contact-us/",
+        "https://www.rentanac.com/data-sharing-opt-out",
+        "https://www.rentanac.com/ac-installation-service-boston/",
+        "https://www.rentanac.com/ac-installation-service-providence/",
+        "https://www.rentanac.com/ac-installation-service-nyc/",
+        "https://www.rentanac.com/ac-installation-service-upper-west-side-nyc",
+        "https://www.rentanac.com/ac-installation-service-upper-east-side-nyc",
+        "https://www.rentanac.com/ac-installation-service-lower-east-side-nyc",
+        "https://www.rentanac.com/ac-installation-service-west-village-nyc",
+        "https://www.rentanac.com/rentanac-is-expanding/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 36,
+    "at": "2026-11-03T22:55:51.522Z",
+    "statusCounts": {
+      "200": 35,
+      "404": 1
+    },
+    "accessIssues": [],
+    "broken": [
+      {
+        "url": "https://www.rentanac.com/account",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/rentanac-nyc/broken-1.png",
+        "linkedFrom": [
+          {
+            "text": "",
+            "inNav": true,
+            "inFooter": false,
+            "onPage": "home"
+          },
+          {
+            "onPage": "contact"
+          },
+          {
+            "onPage": "about"
+          }
+        ],
+        "external": false
+      }
+    ]
+  },
+  "https": {
+    "httpFinal": "https://www.rentanac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/rentanac-nyc/desktop-home.png",
+    "desktop_clean": "evidence/screenshots/rentanac-nyc/desktop-home-overlays-hidden.png",
+    "desktop_full": "evidence/screenshots/rentanac-nyc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/rentanac-nyc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/rentanac-nyc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/rentanac-nyc/mobile-home.png",
+    "mobile_clean": "evidence/screenshots/rentanac-nyc/mobile-home-overlays-hidden.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 2006,
+    "copyrightYear": 2026,
+    "emails": [
+      "info@rentanac.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "smart-hvac-solutions",
+  "placeUrl": "https://www.google.com/maps/place/Smart+HVAC+Solutions/data=!4m7!3m6!1s0x89c2f912b972bbcb:0x2d420e285d1a684b!8m2!3d40.8350215!4d-74.102996!16s%2Fg%2F11x18v565c!19sChIJy7tyuRL5wokRS2gaXSgOQi0",
+  "retrievedAt": "2026-11-03T22:59:49.867Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Smart HVAC Solutions",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-741-4494 ",
+  "website": "https://smarthvacsolutions.net/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Smart+HVAC+Solutions/data=!4m7!3m6!1s0x89c2f912b972bbcb:0x2d420e285d1a684b!8m2!3d40.8350215!4d-74.102996!16s%2Fg%2F11x18v565c!19sChIJy7tyuRL5wokRS2gaXSgOQi0?hl=en",
+  "screenshot": "evidence/screenshots/smart-hvac-solutions/google-maps-listing.png"
+}

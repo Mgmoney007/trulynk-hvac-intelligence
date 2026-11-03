@@ -1,0 +1,25 @@
+{
+  "id": "lightning-mechanical-llc-commercial-hvac-services",
+  "placeUrl": "https://www.google.com/maps/place/Lightning+Mechanical+LLC:+Commercial+HVAC+Services/data=!4m7!3m6!1s0x89c3acfe603b6369:0x7cb363adfdab0e50!8m2!3d40.7174269!4d-74.2602729!16s%2Fg%2F1264k4n4p!19sChIJaWM7YP6sw4kRUA6r_a1js3w",
+  "retrievedAt": "2026-11-03T23:10:09.730Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Lightning Mechanical LLC: Commercial HVAC Services",
+  "category": "HVAC contractor",
+  "address": "65 Newark Way, Maplewood, NJ 07040, United States ",
+  "phone": "+1 973-763-0300 ",
+  "website": "https://lightningmechanicalservice.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Lightning+Mechanical+LLC:+Commercial+HVAC+Services/data=!4m7!3m6!1s0x89c3acfe603b6369:0x7cb363adfdab0e50!8m2!3d40.7174269!4d-74.2602729!16s%2Fg%2F1264k4n4p!19sChIJaWM7YP6sw4kRUA6r_a1js3w?hl=en",
+  "screenshot": "evidence/screenshots/lightning-mechanical-llc-commercial-hvac-services/google-maps-listing.png"
+}

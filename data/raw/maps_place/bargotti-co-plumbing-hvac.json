@@ -1,0 +1,25 @@
+{
+  "id": "bargotti-co-plumbing-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Bargotti+Co.+Plumbing+%26+Hvac/data=!4m7!3m6!1s0x89c2572dd0895555:0x903e743841e9548a!8m2!3d40.7320282!4d-74.0675333!16s%2Fg%2F11rf72zz9h!19sChIJVVWJ0C1XwokRilTpQTh0PpA",
+  "retrievedAt": "2026-11-03T22:50:35.305Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Bargotti Co. Plumbing & Hvac",
+  "category": "Plumber",
+  "address": "41 Tonnelle Ave, Jersey City, NJ 07306, United States ",
+  "phone": "+1 201-301-4121 ",
+  "website": "https://bargottihvac.com/contact-bargotti-hvac/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Bargotti+Co.+Plumbing+%26+Hvac/data=!4m7!3m6!1s0x89c2572dd0895555:0x903e743841e9548a!8m2!3d40.7320282!4d-74.0675333!16s%2Fg%2F11rf72zz9h!19sChIJVVWJ0C1XwokRilTpQTh0PpA?hl=en",
+  "screenshot": "evidence/screenshots/bargotti-co-plumbing-hvac/google-maps-listing.png"
+}

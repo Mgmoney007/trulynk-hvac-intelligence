@@ -1,0 +1,25 @@
+{
+  "id": "jackson-s-contracting-and-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Jackson%27s+Contracting+and+HVAC/data=!4m7!3m6!1s0x89c3ad2bec14d749:0x808140f8b6485c6b!8m2!3d40.7211386!4d-74.354272!16s%2Fg%2F11gpnfgvyv!19sChIJSdcU7Cutw4kRa1xItvhAgYA",
+  "retrievedAt": "2026-11-03T23:12:49.501Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Jackson's Contracting and HVAC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 844-426-4822 ",
+  "website": "http://jacksonscontractinghvac.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Jackson%27s+Contracting+and+HVAC/data=!4m7!3m6!1s0x89c3ad2bec14d749:0x808140f8b6485c6b!8m2!3d40.7211386!4d-74.354272!16s%2Fg%2F11gpnfgvyv!19sChIJSdcU7Cutw4kRa1xItvhAgYA?hl=en",
+  "screenshot": "evidence/screenshots/jackson-s-contracting-and-hvac/google-maps-listing.png"
+}

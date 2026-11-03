@@ -1,0 +1,25 @@
+{
+  "id": "lincoln-mechanical-corporation",
+  "placeUrl": "https://www.google.com/maps/place/Lincoln+Mechanical+Corporation/data=!4m7!3m6!1s0x89c3abd2bd526169:0xa62ff00d588502fb!8m2!3d40.8161619!4d-74.2196255!16s%2Fg%2F11jtdqdmtm!19sChIJaWFSvdKrw4kR-wKFWA3wL6Y",
+  "retrievedAt": "2026-11-03T23:08:00.343Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Lincoln Mechanical Corporation",
+  "category": "Air conditioning contractor",
+  "address": "9 Midland Ave Suite B, Montclair, NJ 07042, United States ",
+  "phone": "+1 973-988-2019 ",
+  "website": "http://www.lincolnmec.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Lincoln+Mechanical+Corporation/data=!4m7!3m6!1s0x89c3abd2bd526169:0xa62ff00d588502fb!8m2!3d40.8161619!4d-74.2196255!16s%2Fg%2F11jtdqdmtm!19sChIJaWFSvdKrw4kR-wKFWA3wL6Y?hl=en",
+  "screenshot": "evidence/screenshots/lincoln-mechanical-corporation/google-maps-listing.png"
+}

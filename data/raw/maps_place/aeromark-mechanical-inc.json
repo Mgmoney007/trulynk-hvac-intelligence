@@ -1,0 +1,25 @@
+{
+  "id": "aeromark-mechanical-inc",
+  "placeUrl": "https://www.google.com/maps/place/Aeromark+Mechanical+Inc/data=!4m7!3m6!1s0x89c251cd5a46c2e5:0x43b173713b79715c!8m2!3d40.7198334!4d-74.0399705!16s%2Fg%2F11rv6hqp6g!19sChIJ5cJGWs1RwokRXHF5O3FzsUM",
+  "retrievedAt": "2026-11-03T22:51:07.196Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Aeromark Mechanical Inc",
+  "category": "HVAC contractor",
+  "address": "153 Morgan St, Jersey City, NJ 07302, United States ",
+  "phone": "+1 973-381-7653 ",
+  "website": "https://aeromarknj.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–4:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Aeromark+Mechanical+Inc/data=!4m7!3m6!1s0x89c251cd5a46c2e5:0x43b173713b79715c!8m2!3d40.7198334!4d-74.0399705!16s%2Fg%2F11rv6hqp6g!19sChIJ5cJGWs1RwokRXHF5O3FzsUM?hl=en",
+  "screenshot": "evidence/screenshots/aeromark-mechanical-inc/google-maps-listing.png"
+}

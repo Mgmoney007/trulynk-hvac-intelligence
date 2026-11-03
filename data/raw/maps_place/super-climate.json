@@ -1,0 +1,25 @@
+{
+  "id": "super-climate",
+  "placeUrl": "https://www.google.com/maps/place/Super+Climate/data=!4m7!3m6!1s0x89c25385bdb2de45:0x90e93fdc5f23cd95!8m2!3d40.7213259!4d-74.1638178!16s%2Fg%2F11yz6n8_cw!19sChIJRd6yvYVTwokRlc0jX9w_6ZA",
+  "retrievedAt": "2026-11-03T23:11:55.669Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Super Climate",
+  "category": "HVAC contractor",
+  "address": "100 Delancy St, Newark, NJ 07105, United States ",
+  "phone": "+1 973-275-8652 ",
+  "website": "https://superclimate.co/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Super+Climate/data=!4m7!3m6!1s0x89c25385bdb2de45:0x90e93fdc5f23cd95!8m2!3d40.7213259!4d-74.1638178!16s%2Fg%2F11yz6n8_cw!19sChIJRd6yvYVTwokRlc0jX9w_6ZA?hl=en",
+  "screenshot": "evidence/screenshots/super-climate/google-maps-listing.png"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "total-comfort-services-llc",
+  "query": "Total Comfort Services LLC",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Total%20Comfort%20Services%20LLC&find_loc=Westwood%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:16:13.543Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [],
+  "error": null
+}

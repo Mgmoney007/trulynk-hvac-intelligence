@@ -1,0 +1,325 @@
+{
+  "firecrawl": [],
+  "id": "air-plus-hvac",
+  "name": "Air Plus hvac",
+  "website": "https://airplusnj.com/",
+  "auditedAt": "2026-11-03T23:11:24.904Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://airplusnj.com/",
+      "at": "2026-11-03T23:11:27.181Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://airplusnj.com/",
+      "title": "AC Repair New Jersey, Furnace Repair, Drain Cleaning, HVAC Installation & Plumbing | All New Jersey Counties | AIR PLUS HVAC & Plumbing",
+      "ms": 2238,
+      "error": null,
+      "linkCount": 9
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://airplusnj.com/",
+      "at": "2026-11-03T23:11:30.859Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://airplusnj.com/",
+      "title": "AC Repair New Jersey, Furnace Repair, Drain Cleaning, HVAC Installation & Plumbing | All New Jersey Counties | AIR PLUS HVAC & Plumbing",
+      "ms": 1928,
+      "error": null,
+      "linkCount": 9
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://airplusnj.com/",
+    "title": "AC Repair New Jersey, Furnace Repair, Drain Cleaning, HVAC Installation & Plumbing | All New Jersey Counties | AIR PLUS HVAC & Plumbing",
+    "lang": "en",
+    "metaDescription": "AC Repair New Jersey, Furnace Repair, Drain Cleaning, HVAC Installation & Plumbing | All New Jersey Counties | AIR PLUS HVAC & Plumbing",
+    "h1": [
+      "Heating, Air Conditioning & Plumbing Solutions"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 3684,
+    "bodyText": "AIR PLUS\n(973)\n521-5028\nGET A QUOTE\nSERVICES\nHEATING\nCOOLING\nPLUMBING\nSERVICE AREAS\nHeating, Air Conditioning & Plumbing Solutions\n\nExpert HVAC & Plumbing services with care and precision. 24/7 emergency response across all of New Jersey.\n\nCALL (973) 521-5028\nComprehensive Home Comfort Solutions\nAt AIR PLUS, we deliver expert plumbing, heating, cooling, and emergency services across every county in New Jersey. Licensed & Insured technicians. 24/7 emergency service when you need it most.\nOur Services\nAir Conditioning Services for Year-Round Comfort\n\nAC repair New Jersey, AC installation, maintenance and same-day service for AC breakdowns across all New Jersey counties.\n\nHeating and Comfort Solutions\n\nFurnace repair New Jersey, boiler service, heat pump installation and 24/7 emergency heat across every county.\n\nPlumbing Services You Can Trust\n\nDrain cleaning Passaic County NJ, water heater replacement, leaks, sewer line repair and full emergency plumbing statewide.\n\nCommercial HVAC\n\nRooftop units, VRF systems and maintenance plans for businesses across New Jersey.\n\nRecent Work\nServing All New Jersey Counties\n\nAC repair Bergen County • Furnace repair Essex County • Drain cleaning Passaic County • 24/7 HVAC & Plumbing statewide\n\nBergen\nEssex\nPassaic\nHudson\nUnion\nMorris\nMiddlesex\nMonmouth\nOcean\nAtlantic\nCamden\nGloucester\nBurlington\nMercer\nSomerset\nHunterdon\nSussex\nWarren\nCape May\nCumberland\nSalem\nWhat New Jersey Says About AIR PLUS\n\"Fixed our furnace at 2am in the middle of a blizzard. Professional and honest. Best HVAC company in NJ.\" — Michael R., Bergen County\n\"Same-day AC replacement in Passaic County. Saved us hundreds on energy bills. Highly recommend.\" — Sarah T., Clifton\n\"24/7 plumbing emergency handled perfectly. Fair pricing and clean work.\" — James K., Newark\nReady for reliable comfort?\nCALL NOW (973) 521-5028\n\nnj.airplus@gmail.com • airplusnj.com • Licensed & Insured NJ Contractor\n\nAIR PLUS\n\n© AIR PLUS • 24/7 HVAC & Plumbing • All New Jersey Counties • All Rights Reserved",
+    "links": [
+      {
+        "href": "tel:9735215028",
+        "abs": "tel:9735215028",
+        "text": "(973) 521-5028",
+        "visible": true,
+        "aboveFold": true,
+        "h": 28,
+        "w": 181,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:nj.airplus@gmail.com",
+        "abs": "mailto:nj.airplus@gmail.com",
+        "text": "GET A QUOTE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 185,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airplusnj.com/#",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 68,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airplusnj.com/#",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 62,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airplusnj.com/#",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 65,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airplusnj.com/#",
+        "text": "PLUMBING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 74,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://airplusnj.com/#",
+        "text": "SERVICE AREAS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 109,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9736522424",
+        "abs": "tel:9736522424",
+        "text": "CALL (973) 521-5028",
+        "visible": true,
+        "aboveFold": true,
+        "h": 92,
+        "w": 484,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9736522424",
+        "abs": "tel:9736522424",
+        "text": "CALL NOW (973) 521-5028",
+        "visible": true,
+        "aboveFold": false,
+        "h": 92,
+        "w": 521,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://cdn.tailwindcss.com/"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 7,
+    "timing": {
+      "dcl": 1033,
+      "load": 1719,
+      "ttfb": 490
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.121,
+        "sig": " bg-white border-b sticky top-0 z-50 ",
+        "text": "air plus\n(973)\n521-5028\nget a quote\nservices\nheating\ncooling\nplumbing\nservice areas"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://airplusnj.com/",
+    "navMs": 2238,
+    "tel": [
+      {
+        "href": "tel:9735215028",
+        "text": "(973) 521-5028",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19735215028"
+      },
+      {
+        "href": "tel:9736522424",
+        "text": "CALL (973) 521-5028",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19736522424"
+      },
+      {
+        "href": "tel:9736522424",
+        "text": "CALL NOW (973) 521-5028",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19736522424"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://airplusnj.com/",
+    "navMs": 1928,
+    "timing": {
+      "dcl": 992,
+      "load": 1409,
+      "ttfb": 464
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 404,
+    "scrollWidth": 404,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:9735215028",
+        "text": "521-5028",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19735215028"
+      },
+      {
+        "href": "tel:9736522424",
+        "text": "CALL (973) 521-5028",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19736522424"
+      },
+      {
+        "href": "tel:9736522424",
+        "text": "CALL NOW (973) 521-5028",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "mismatch",
+        "problem": null,
+        "e164": "+19736522424"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "GET A QUOTE"
+    ],
+    "menuToggle": false,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.385,
+        "sig": " bg-white border-b sticky top-0 z-50 ",
+        "text": "air plus\n521-5028\nget a quote\nservices\nheating\ncooling\nplumbing\nservice areas"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 5,
+    "visibleNavLinks": 7,
+    "brokenImages": [],
+    "textChars": 2007
+  },
+  "pages": {},
+  "linkCheck": {
+    "checked": 1,
+    "at": "2026-11-03T23:11:28.155Z",
+    "statusCounts": {
+      "200": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://airplusnj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/air-plus-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/air-plus-hvac/desktop-home-full.png",
+    "mobile_asis": "evidence/screenshots/air-plus-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": true
+    },
+    "emails": [
+      "nj.airplus@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "GET A QUOTE -> mailto:nj.airplus@gmail.com"
+    ]
+  },
+  "ctaClickTests": []
+}

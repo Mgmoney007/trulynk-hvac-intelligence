@@ -1,0 +1,25 @@
+{
+  "id": "overcool-llc",
+  "placeUrl": "https://www.google.com/maps/place/OverCool+LLC/data=!4m7!3m6!1s0x89c2ff67c6048bbd:0x9204ada5f3e9d186!8m2!3d40.8595311!4d-74.1399877!16s%2Fg%2F11lgf2fnsg!19sChIJvYsExmf_wokRhtHp86WtBJI",
+  "retrievedAt": "2026-11-03T23:09:05.887Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "OverCool LLC",
+  "category": "HVAC contractor",
+  "address": "423 Boulevard, Passaic, NJ 07055, United States ",
+  "phone": "+1 201-817-9808 ",
+  "website": "https://www.overcoolgroup.com/?utm_source=gmb&utm_medium=organic&utm_campaign=1seo_gmb",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/OverCool+LLC/data=!4m7!3m6!1s0x89c2ff67c6048bbd:0x9204ada5f3e9d186!8m2!3d40.8595311!4d-74.1399877!16s%2Fg%2F11lgf2fnsg!19sChIJvYsExmf_wokRhtHp86WtBJI?hl=en",
+  "screenshot": "evidence/screenshots/overcool-llc/google-maps-listing.png"
+}

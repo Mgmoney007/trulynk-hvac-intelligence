@@ -1,0 +1,25 @@
+{
+  "id": "new-jersey-ptac-services",
+  "placeUrl": "https://www.google.com/maps/place/New+Jersey+PTAC+Services./data=!4m7!3m6!1s0x89c2510086949a71:0xf48d44947afc2bc1!8m2!3d40.7160286!4d-74.0741294!16s%2Fg%2F11vl5bdhdr!19sChIJcZqUhgBRwokRwSv8epREjfQ",
+  "retrievedAt": "2026-11-03T22:51:18.248Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "New Jersey PTAC Services.",
+  "category": "HVAC contractor",
+  "address": "74 Maple St 2nd floor, Jersey City, NJ 07304, United States ",
+  "phone": "+1 201-877-1001 ",
+  "website": "http://www.newjerseyptac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday6 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/New+Jersey+PTAC+Services./data=!4m7!3m6!1s0x89c2510086949a71:0xf48d44947afc2bc1!8m2!3d40.7160286!4d-74.0741294!16s%2Fg%2F11vl5bdhdr!19sChIJcZqUhgBRwokRwSv8epREjfQ?hl=en",
+  "screenshot": "evidence/screenshots/new-jersey-ptac-services/google-maps-listing.png"
+}

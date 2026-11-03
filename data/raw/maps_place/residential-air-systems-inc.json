@@ -1,0 +1,25 @@
+{
+  "id": "residential-air-systems-inc",
+  "placeUrl": "https://www.google.com/maps/place/Residential+Air+Systems,+Inc./data=!4m7!3m6!1s0x89c30735548418c5:0xb4c47b9c9be43c3d!8m2!3d40.8664432!4d-74.2260474!16s%2Fg%2F1tf5fpl7!19sChIJxRiEVDUHw4kRPTzkm5x7xLQ",
+  "retrievedAt": "2026-11-03T23:07:39.316Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Residential Air Systems, Inc.",
+  "category": "HVAC contractor",
+  "address": "59 Village Park Rd, Cedar Grove, NJ 07009, United States ",
+  "phone": "+1 973-227-3343 ",
+  "website": "http://www.comfortnj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Residential+Air+Systems,+Inc./data=!4m7!3m6!1s0x89c30735548418c5:0xb4c47b9c9be43c3d!8m2!3d40.8664432!4d-74.2260474!16s%2Fg%2F1tf5fpl7!19sChIJxRiEVDUHw4kRPTzkm5x7xLQ?hl=en",
+  "screenshot": "evidence/screenshots/residential-air-systems-inc/google-maps-listing.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e-z-temp",
+  "placeUrl": "https://www.google.com/maps/place/E-Z+Temp/data=!4m7!3m6!1s0x89c2fa04ba3e4fe1:0x45617b9c9c94bee1!8m2!3d40.887521!4d-74.040854!16s%2Fg%2F1td2_d2j!19sChIJ4U8-ugT6wokR4b6UnJx7YUU",
+  "retrievedAt": "2026-11-03T22:56:05.112Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "E-Z Temp",
+  "category": "HVAC contractor",
+  "address": "292 Main St #18, Hackensack, NJ 07601, United States ",
+  "phone": "+1 201-457-9797 ",
+  "website": "http://www.eztemp.net/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/E-Z+Temp/data=!4m7!3m6!1s0x89c2fa04ba3e4fe1:0x45617b9c9c94bee1!8m2!3d40.887521!4d-74.040854!16s%2Fg%2F1td2_d2j!19sChIJ4U8-ugT6wokR4b6UnJx7YUU?hl=en",
+  "screenshot": "evidence/screenshots/e-z-temp/google-maps-listing.png"
+}

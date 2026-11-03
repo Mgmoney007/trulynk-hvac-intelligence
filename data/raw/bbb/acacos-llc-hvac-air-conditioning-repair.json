@@ -1,0 +1,10 @@
+{
+  "id": "acacos-llc-hvac-air-conditioning-repair",
+  "query": "Acacos LLC HVAC & Air Conditioning Repair",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Acacos%20LLC%20HVAC%20%26%20Air%20Conditioning%20Repair&find_loc=Clifton%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:21:27.006Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [],
+  "error": null
+}

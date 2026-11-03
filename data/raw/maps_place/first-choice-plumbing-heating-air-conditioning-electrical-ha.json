@@ -1,0 +1,25 @@
+{
+  "id": "first-choice-plumbing-heating-air-conditioning-electrical-ha",
+  "placeUrl": "https://www.google.com/maps/place/First+Choice+Plumbing,+Heating,+Air+Conditioning+%26+Electrical+%28Hackensack%29/data=!4m7!3m6!1s0x25b5e8803e49fdd1:0xa8f973985e3a52a7!8m2!3d40.8838554!4d-74.0452052!16s%2Fg%2F11yd0x4h_n!19sChIJ0f1JPoDotSURp1I6Xphz-ag",
+  "retrievedAt": "2026-11-03T22:54:50.400Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "First Choice Plumbing, Heating, Air Conditioning & Electrical (Hackensack)",
+  "category": "HVAC contractor",
+  "address": "165 State St, Hackensack, NJ 07601, United States ",
+  "phone": "+1 848-371-0217 ",
+  "website": "https://www.fccomfort.com/service-areas/hackensack-nj/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*626*first-choice-hackensack",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/First+Choice+Plumbing,+Heating,+Air+Conditioning+%26+Electrical+%28Hackensack%29/data=!4m7!3m6!1s0x25b5e8803e49fdd1:0xa8f973985e3a52a7!8m2!3d40.8838554!4d-74.0452052!16s%2Fg%2F11yd0x4h_n!19sChIJ0f1JPoDotSURp1I6Xphz-ag?hl=en",
+  "screenshot": "evidence/screenshots/first-choice-plumbing-heating-air-conditioning-electrical-ha/google-maps-listing.png"
+}

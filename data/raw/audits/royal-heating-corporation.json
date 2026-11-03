@@ -1,0 +1,1340 @@
+{
+  "firecrawl": [],
+  "id": "royal-heating-corporation",
+  "name": "royal-heating-corporation",
+  "website": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+  "auditedAt": "2026-11-03T23:37:53.218Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+      "at": "2026-11-03T23:37:57.386Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+      "title": "Home - Royal Heating & Cooling",
+      "ms": 3715,
+      "error": null,
+      "linkCount": 70
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.royalheatingandcooling.com/contact",
+      "at": "2026-11-03T23:38:03.228Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.royalheatingandcooling.com/contact-us/",
+      "title": "Contact Us - Royal Heating & Cooling",
+      "ms": 4158,
+      "error": null,
+      "linkCount": 66
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.royalheatingandcooling.com/about-us/",
+      "at": "2026-11-03T23:38:05.992Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.royalheatingandcooling.com/about-us/",
+      "title": "About Us | Royal Heating and Cooling",
+      "ms": 2101,
+      "error": null,
+      "linkCount": 65
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+      "at": "2026-11-03T23:38:22.429Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+      "title": "Home - Royal Heating & Cooling",
+      "ms": 2607,
+      "error": null,
+      "linkCount": 70
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+    "title": "Home - Royal Heating & Cooling",
+    "lang": "en-US",
+    "metaDescription": "Expert HVAC Service Offering your family dependable comfort since 1953",
+    "h1": [
+      "Expert HVAC Service Offering your family dependable comfort since 1953"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5730,
+    "bodyText": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link:\nPrivacy Policy\nSkip to content\n\nJust Dial HEATING • (201) 434-0315\n\nSERVICES\nOFFERS\nABOUT US\nCONTACT US\n\nExpert HVAC Service Offering your family dependable comfort since 1953\n\nServing Hudson County Since 1953\n\nEast Newark\n\nGuttenberg\n\nHarrison\n\nKearny\n\nNorth Bergen\n\nSecaucus\n\nUnion City\n\nWeehawken\n\nWest New York\n\nRoyal Heating & Cooling\n\n10 Martin Luther King Drive, Jersey City, NJ 07305 | (201) 434-0315 | chris@royalheatingandcooling.com\n\nLicense Number: Christopher D. Croft NJ Master Plumber: 36BI01066900 NJ Master HVAC-R: 19HC00014800 Donald A. Croft NJ Master Plumber: 36BI00765000 NJ Master HVAC-R: 19HC00015800 NJ Home Repair Contractor: 13VH00268800\n\nTerms of Use | Privacy Policy\n\n© Copyright 2026 Royal Heating & Cooling. All rights reserved.\n\nGo to Top",
+    "links": [
+      {
+        "href": "http://www.royalheatingandcooling.com/#privacy",
+        "abs": "http://www.royalheatingandcooling.com/#privacy",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 272,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#content",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 434-0315",
+        "abs": "tel:(201) 434-0315",
+        "text": "(201) 434-0315",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 149,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.royalheatingandcooling.com/",
+        "abs": "https://www.royalheatingandcooling.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 16,
+        "w": 380,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.royalheatingandcooling.com/services/",
+        "abs": "https://www.royalheatingandcooling.com/services/",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 71,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.royalheatingandcooling.com/offers/",
+        "abs": "https://www.royalheatingandcooling.com/offers/",
+        "text": "OFFERS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 57,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.royalheatingandcooling.com/about-us/",
+        "abs": "https://www.royalheatingandcooling.com/about-us/",
+        "text": "ABOUT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 79,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.royalheatingandcooling.com/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 64,
+        "w": 187,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.royalheatingandcooling.com/author/litesite/",
+        "abs": "https://www.royalheatingandcooling.com/author/litesite/",
+        "text": "litesite",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 434-0315",
+        "abs": "tel:(201) 434-0315",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 15,
+        "w": 119,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 50,
+        "w": 207,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/search?sca_esv=584594592&q=Royal+Heating+Corporation&ludocid=7001063152960626038&lsig=AB86z5VbnnvGs2cmeKmFjTRl7cWt&sa=X&ved=2ahUKEwjVzJGa7deCAxWCg4kEHWaMBcUQoAJ6BAgcEAc&biw=1440&bih=689&dpr=2#lrd=0x89c2510fd9f62749:0x6128c5d82a4b5d76,3,,,,",
+        "abs": "https://www.google.com/search?sca_esv=584594592&q=Royal+Heating+Corporation&ludocid=7001063152960626038&lsig=AB86z5VbnnvGs2cmeKmFjTRl7cWt&sa=X&ved=2ahUKEwjVzJGa7deCAxWCg4kEHWaMBcUQoAJ6BAgcEAc&biw=1440&bih=689&dpr=2#lrd=0x89c2510fd9f62749:0x6128c5d82a4b5d76,3,,,,",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 50,
+        "w": 232,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services/",
+        "abs": "https://www.royalheatingandcooling.com/services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 50,
+        "w": 244,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 50,
+        "w": 207,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#",
+        "text": "Terms of Use",
+        "visible": true,
+        "aboveFold": false,
+        "h": 15,
+        "w": 90,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 15,
+        "w": 91,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.bbb.org/us/nj/jersey-city/profile/heating-and-air-conditioning/royal-heating-cooling-0221-4004291/#sealclick",
+        "abs": "https://www.bbb.org/us/nj/jersey-city/profile/heating-and-air-conditioning/royal-heating-cooling-0221-4004291/#sealclick",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/royalheating/",
+        "abs": "https://www.instagram.com/royalheating/",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 26,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#",
+        "text": "Page load link",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#",
+        "text": "Go to Top",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/#privacy",
+        "abs": "https://www.royalheatingandcooling.com/#privacy",
+        "text": "here",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#california",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#california",
+        "text": "California",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#colorado",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#colorado",
+        "text": "Colorado, Connecticut, Delaware, Iowa, Maryland, Minnesota, Montana, Nebraska, N",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#nevada",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#nevada",
+        "text": "Nevada",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#privacychoices",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#privacychoices",
+        "text": "Your Privacy Choices",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#privacychoices",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#privacychoices",
+        "text": "Your Privacy Choices",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#privacychoices",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#privacychoices",
+        "text": "Your Privacy Choices",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#collection",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#collection",
+        "text": "Collection",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "contact",
+        "abs": "https://www.royalheatingandcooling.com/contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "contact",
+        "abs": "https://www.royalheatingandcooling.com/contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://tools.google.com/dlpage/gaoptout",
+        "abs": "https://tools.google.com/dlpage/gaoptout",
+        "text": "https://tools.google.com/dlpage/gaoptout",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.networkadvertising.org/choices/",
+        "abs": "https://www.networkadvertising.org/choices/",
+        "text": "https://www.networkadvertising.org/choices/",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://youradchoices.com/control",
+        "abs": "https://youradchoices.com/control",
+        "text": "https://youradchoices.com/control",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#california",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#california",
+        "text": "California",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#colorado",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#colorado",
+        "text": "Colorado, Connecticut, Delaware, Iowa, Maryland, Minnesota, Montana, Nebraska, N",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#nevada",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#nevada",
+        "text": "Nevada",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#collection",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#collection",
+        "text": "Collection",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#collectionuse",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#collectionuse",
+        "text": "Purposes for Collection and Use",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#collection",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#collection",
+        "text": "Collection",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://allaboutdnt.com/",
+        "abs": "https://allaboutdnt.com/",
+        "text": "Retention",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "here",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "here",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://globalprivacycontrol.org/",
+        "abs": "https://globalprivacycontrol.org/",
+        "text": "Global Privacy Control",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "here",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "here",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "here",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://globalprivacycontrol.org/",
+        "abs": "https://globalprivacycontrol.org/",
+        "text": "Global Privacy Control",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://www.royalheatingandcooling.com/contact-us/",
+        "text": "here",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://coag.gov/file-complaint/",
+        "abs": "https://coag.gov/file-complaint/",
+        "text": "https://coag.gov/file-complaint/",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.dir.ct.gov/ag/complaint/",
+        "abs": "https://www.dir.ct.gov/ag/complaint/",
+        "text": "https://www.dir.ct.gov/ag/complaint/",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://attorneygeneral.delaware.gov/fraud/cmu/complaint/",
+        "abs": "https://attorneygeneral.delaware.gov/fraud/cmu/complaint/",
+        "text": "https://attorneygeneral.delaware.gov/fraud/cmu/complaint/",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint/complaint-form",
+        "abs": "https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint/complaint-form",
+        "text": "https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint/comp",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.marylandattorneygeneral.gov/Pages/CPD/Complaint.aspx",
+        "abs": "https://www.marylandattorneygeneral.gov/Pages/CPD/Complaint.aspx",
+        "text": "https://www.marylandattorneygeneral.gov/Pages/CPD/Complaint.aspx",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.ag.state.mn.us/Office/Forms/ConsumerAssistanceRequestForm.pdf",
+        "abs": "https://www.ag.state.mn.us/Office/Forms/ConsumerAssistanceRequestForm.pdf",
+        "text": "https://www.ag.state.mn.us/Office/Forms/ConsumerAssistanceRequestForm.pdf",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://dojmt.gov/office-of-consumer-protection/consumer-complaints/",
+        "abs": "https://dojmt.gov/office-of-consumer-protection/consumer-complaints/",
+        "text": "https://dojmt.gov/office-of-consumer-protection/consumer-complaints/",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.nebraska.gov/apps-ago-complaints/",
+        "abs": "https://www.nebraska.gov/apps-ago-complaints/",
+        "text": "https://www.nebraska.gov/apps-ago-complaints/",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.doj.nh.gov/citizens/consumer-protection-antitrust-bureau/consumer-complaints",
+        "abs": "https://www.doj.nh.gov/citizens/consumer-protection-antitrust-bureau/consumer-complaints",
+        "text": "https://www.doj.nh.gov/citizens/consumer-protection-antitrust-bureau/consumer-co",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njconsumeraffairs.gov/Pages/Consumer-Complaints.aspx",
+        "abs": "https://www.njconsumeraffairs.gov/Pages/Consumer-Complaints.aspx",
+        "text": "https://www.njconsumeraffairs.gov/Pages/Consumer-Complaints.aspx",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://justice.oregon.gov/consumercomplaints/",
+        "abs": "https://justice.oregon.gov/consumercomplaints/",
+        "text": "https://justice.oregon.gov/consumercomplaints/",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/file-a-complaint.html",
+        "abs": "https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/file-a-complaint.html",
+        "text": "https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/file-a-complai",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://oag.my.salesforce-sites.com/CPDOnlineForm",
+        "abs": "https://oag.my.salesforce-sites.com/CPDOnlineForm",
+        "text": "https://oag.my.salesforce-sites.com/CPDOnlineForm",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://attorneygeneral.utah.gov/contact/complaint-form/",
+        "abs": "https://attorneygeneral.utah.gov/contact/complaint-form/",
+        "text": "https://attorneygeneral.utah.gov/contact/complaint-form/",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.oag.state.va.us/consumercomplaintform",
+        "abs": "https://www.oag.state.va.us/consumercomplaintform",
+        "text": "https://www.oag.state.va.us/consumercomplaintform",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile#contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Cookie Preferences",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Toggle Navigation",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "×",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=G-T37JQGS0P0&cx=c&gtm=4e6b21",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-5GB5B443",
+      "https://www.googletagmanager.com/gtag/js?id=AW-16534248296&cx=c&gtm=4e6b21h1",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-PH66QZH2",
+      "https://cmp.osano.com/U7VGsqcnUv/d5659521-57c6-4ceb-bbb0-2c2e917fce91/osano.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-M8BX4M7MRN",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16534248296/?random=1793749076057&cv=11&fst=1793749076057&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21h1v9183394476za20ozb9174490888zd9174490888xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~117776795~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370~123692836~123814183~123814944&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.royalheatingandcooling.com%2F%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgbp-profile&rcb=14&frm=0&tiba=Home%20-%20Royal%20Heating%20%26%20Cooling&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=159516866.1793749076&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gap.plf=5&ept=9&rfmt=3&fmt=4",
+      "https://www.royalheatingandcooling.com/wp-content/themes/sa_litesite/assets/dist/js/script.min.js?ver=1.0.0",
+      "https://www.royalheatingandcooling.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://www.royalheatingandcooling.com/wp-content/themes/sa_litesite/assets/dist/js/privacy-model-url-trigger.js?ver=1.0.0",
+      "https://www.royalheatingandcooling.com/wp-content/uploads/sites/27/fusion-scripts/90f5adf1bd535f44fd2e3b06e5d0c306.min.js?ver=3.16.1",
+      "https://cdn.callrail.com/companies/480802845/b93b123336848357dc06/12/swap.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "https://www.royalheatingandcooling.com/#organization",
+            "name": "LiteSite Demo",
+            "url": "https://www.royalheatingandcooling.com"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.royalheatingandcooling.com/#website",
+            "url": "https://www.royalheatingandcooling.com",
+            "name": "LiteSite Demo",
+            "publisher": {
+              "@id": "https://www.royalheatingandcooling.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.royalheatingandcooling.com/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.royalheatingandcooling.com/#webpage",
+            "url": "https://www.royalheatingandcooling.com/",
+            "name": "Home - Royal Heating &amp; Cooling",
+            "datePublished": "2019-12-13T08:17:33+00:00",
+            "dateModified": "2025-11-10T21:13:54+00:00",
+            "about": {
+              "@id": "https://www.royalheatingandcooling.com/#organization"
+            },
+            "isPartOf": {
+              "@id": "https://www.royalheatingandcooling.com/#website"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.royalheatingandcooling.com/author/litesite/",
+            "name": "litesite",
+            "url": "https://www.royalheatingandcooling.com/author/litesite/",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://secure.gravatar.com/avatar/607f3e8a6f5dd28f5800a107e9814874af57062f27d3d62080dcb20d40b08fb6?s=96&amp;d=mm&amp;r=g",
+              "url": "https://secure.gravatar.com/avatar/607f3e8a6f5dd28f5800a107e9814874af57062f27d3d62080dcb20d40b08fb6?s=96&amp;d=mm&amp;r=g",
+              "caption": "litesite",
+              "inLanguage": "en-US"
+            },
+            "sameAs": [
+              "https://source.litesitedemo.com"
+            ],
+            "worksFor": {
+              "@id": "https://www.royalheatingandcooling.com/#organization"
+            }
+          },
+          {
+            "@type": "Article",
+            "headline": "Home - Royal Heating &amp; Cooling",
+            "datePublished": "2019-12-13T08:17:33+00:00",
+            "dateModified": "2025-11-10T21:13:54+00:00",
+            "author": {
+              "@id": "https://www.royalheatingandcooling.com/author/litesite/",
+              "name": "litesite"
+            },
+            "publisher": {
+              "@id": "https://www.royalheatingandcooling.com/#organization"
+            },
+            "description": "Expert HVAC Service Offering your family dependable comfort since 1953",
+            "name": "Home - Royal Heating &amp; Cooling",
+            "@id": "https://www.royalheatingandcooling.com/#richSnippet",
+            "isPartOf": {
+              "@id": "https://www.royalheatingandcooling.com/#webpage"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://www.royalheatingandcooling.com/#webpage"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 10,
+    "timing": {
+      "dcl": 1643,
+      "load": 2859,
+      "ttfb": 574
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "cookie",
+        "cover": 0.055,
+        "sig": "360a53ee-5b0e-4d35-bd9c-317e10b1514a osano-cm-window__dialog osano-cm-dialog osano-cm-dialog--position_bottom-right osan",
+        "text": "this website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, per"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+    "navMs": 3715,
+    "tel": [
+      {
+        "href": "tel:(201) 434-0315",
+        "text": "(201) 434-0315",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014340315"
+      },
+      {
+        "href": "tel:(201) 434-0315",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014340315"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      },
+      {
+        "name": "CallRail",
+        "kind": "call_tracking"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+    "navMs": 2607,
+    "timing": {
+      "dcl": 1398,
+      "load": 2035,
+      "ttfb": 238
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(201) 434-0315",
+        "text": "(201) 434-0315",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014340315"
+      },
+      {
+        "href": "tel:(201) 434-0315",
+        "text": "(201) 434-0315",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014340315"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact Us"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "cookie",
+        "cover": 0.262,
+        "sig": "5afbd1b0-afe7-4e4e-b373-b74215aacb30 osano-cm-window__dialog osano-cm-dialog osano-cm-dialog--position_bottom-right osan",
+        "text": "this website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, per"
+      }
+    ],
+    "maxBlockingCover": 0.262,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 4,
+    "brokenImages": [],
+    "textChars": 2831
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.royalheatingandcooling.com/contact",
+      "finalUrl": "https://www.royalheatingandcooling.com/contact-us/",
+      "status": 200,
+      "title": "Contact Us - Royal Heating & Cooling",
+      "forms": [
+        {
+          "action": "https://www.royalheatingandcooling.com/contact-us/",
+          "method": "post",
+          "id": "",
+          "cls": "fusion-form fusion-form-3159",
+          "fieldCount": 6,
+          "fieldNames": [
+            "full_name",
+            "email",
+            "phone",
+            "zip",
+            "message",
+            "g-recaptcha-response"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeB9XopAAAAAFmLLYeFXjLO3I4RDFTClNOTAu6E&co=aHR0cHM6Ly93d3cucm95YWxoZWF0aW5nYW5kY29vbGluZy5jb206NDQz&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&badge=inline&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=bd3e89cu4g7j"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "chris@royalheatingandcooling.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(201) 434-0315",
+          "text": "(201) 434-0315",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014340315"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n\nJust Dial HEATING • (201) 434-0315\n\nSERVICES\nOFFERS\nABOUT US\nCONTACT US\nContact Royal Heating & Cooling Today\nGet in Touch\n\nWhether you need furnace repair or to replace your air conditioner, our family at Royal Heating & Cooling is here to help yours. Fill out the form below to schedule an appointment now. If you need emergency repairs, please call us at for the fastest service.\n\nServing Hudson County Since 1953\n\nEast Newark\n\nGuttenberg\n\nHarrison\n\nKearny\n\nNorth Bergen\n\nSecaucus\n\nUnion City\n\nWeehawken\n\nWest New York\n\nRoyal Heating & Cooling\n\n10 Martin Luther King Drive, Jersey City, NJ 07305 | (201) 434-0315 | chris@royalheatingandcooling.com\n\nLicense Number: Christopher D. Croft NJ Master Plumber: 36BI01066900 NJ Master HVAC-R: 19HC00014800 Donald A. Croft NJ Master Plumber: 36BI00765000 NJ Master HVAC-R: 19HC00015800 NJ Home Repair Contractor: 13VH00268800\n\nTerms of Use | Privacy Policy\n\n© Copyright 2026 Royal Heating & Cooling. All rights reserved.\n\nGo to Top",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "http://www.royalheatingandcooling.com/#privacy",
+        "https://www.royalheatingandcooling.com/contact-us/#content",
+        "https://www.royalheatingandcooling.com/",
+        "https://www.royalheatingandcooling.com/services/",
+        "https://www.royalheatingandcooling.com/offers/",
+        "https://www.royalheatingandcooling.com/about-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/author/litesite/",
+        "https://www.royalheatingandcooling.com/services/",
+        "https://www.royalheatingandcooling.com/contact-us/#",
+        "https://www.royalheatingandcooling.com/contact-us/#",
+        "https://www.royalheatingandcooling.com/contact-us/#",
+        "https://www.royalheatingandcooling.com/contact-us/#",
+        "https://www.royalheatingandcooling.com/#privacy",
+        "https://www.royalheatingandcooling.com/contact-us/#california",
+        "https://www.royalheatingandcooling.com/contact-us/#colorado",
+        "https://www.royalheatingandcooling.com/contact-us/#nevada",
+        "https://www.royalheatingandcooling.com/contact-us/#contact",
+        "https://www.royalheatingandcooling.com/contact-us/#privacychoices",
+        "https://www.royalheatingandcooling.com/contact-us/#privacychoices",
+        "https://www.royalheatingandcooling.com/contact-us/#privacychoices",
+        "https://www.royalheatingandcooling.com/contact-us/#collection",
+        "https://www.royalheatingandcooling.com/contact-us/#contact",
+        "https://www.royalheatingandcooling.com/contact-us/contact",
+        "https://www.royalheatingandcooling.com/contact-us/contact",
+        "https://www.royalheatingandcooling.com/contact-us/#california",
+        "https://www.royalheatingandcooling.com/contact-us/#colorado",
+        "https://www.royalheatingandcooling.com/contact-us/#nevada",
+        "https://www.royalheatingandcooling.com/contact-us/#contact",
+        "https://www.royalheatingandcooling.com/contact-us/#collection",
+        "https://www.royalheatingandcooling.com/contact-us/#collectionuse",
+        "https://www.royalheatingandcooling.com/contact-us/#collection",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/#contact",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/#contact",
+        "https://www.royalheatingandcooling.com/contact-us/#contact",
+        "https://www.royalheatingandcooling.com/contact-us/#contact"
+      ]
+    },
+    "about": {
+      "url": "https://www.royalheatingandcooling.com/about-us/",
+      "finalUrl": "https://www.royalheatingandcooling.com/about-us/",
+      "status": 200,
+      "title": "About Us | Royal Heating and Cooling",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "chris@royalheatingandcooling.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(201) 434-0315",
+          "text": "(201) 434-0315",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014340315"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n\nJust Dial HEATING • (201) 434-0315\n\nSERVICES\nOFFERS\nABOUT US\nCONTACT US\nAbout Royal Heating & Cooling\nServing Hudson County Since 1953\n\nEast Newark\n\nGuttenberg\n\nHarrison\n\nKearny\n\nNorth Bergen\n\nSecaucus\n\nUnion City\n\nWeehawken\n\nWest New York\n\nRoyal Heating & Cooling\n\n10 Martin Luther King Drive, Jersey City, NJ 07305 | (201) 434-0315 | chris@royalheatingandcooling.com\n\nLicense Number: Christopher D. Croft NJ Master Plumber: 36BI01066900 NJ Master HVAC-R: 19HC00014800 Donald A. Croft NJ Master Plumber: 36BI00765000 NJ Master HVAC-R: 19HC00015800 NJ Home Repair Contractor: 13VH00268800\n\nTerms of Use | Privacy Policy\n\n© Copyright 2026 Royal Heating & Cooling. All rights reserved.\n\nGo to Top",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "http://www.royalheatingandcooling.com/#privacy",
+        "https://www.royalheatingandcooling.com/about-us/#content",
+        "https://www.royalheatingandcooling.com/",
+        "https://www.royalheatingandcooling.com/services/",
+        "https://www.royalheatingandcooling.com/offers/",
+        "https://www.royalheatingandcooling.com/about-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/author/litesite/",
+        "https://www.royalheatingandcooling.com/about-us/#",
+        "https://www.royalheatingandcooling.com/about-us/#",
+        "https://www.royalheatingandcooling.com/about-us/#",
+        "https://www.royalheatingandcooling.com/about-us/#",
+        "https://www.royalheatingandcooling.com/#privacy",
+        "https://www.royalheatingandcooling.com/about-us/#california",
+        "https://www.royalheatingandcooling.com/about-us/#colorado",
+        "https://www.royalheatingandcooling.com/about-us/#nevada",
+        "https://www.royalheatingandcooling.com/about-us/#contact",
+        "https://www.royalheatingandcooling.com/about-us/#privacychoices",
+        "https://www.royalheatingandcooling.com/about-us/#privacychoices",
+        "https://www.royalheatingandcooling.com/about-us/#privacychoices",
+        "https://www.royalheatingandcooling.com/about-us/#collection",
+        "https://www.royalheatingandcooling.com/about-us/#contact",
+        "https://www.royalheatingandcooling.com/about-us/contact",
+        "https://www.royalheatingandcooling.com/about-us/contact",
+        "https://www.royalheatingandcooling.com/about-us/#california",
+        "https://www.royalheatingandcooling.com/about-us/#colorado",
+        "https://www.royalheatingandcooling.com/about-us/#nevada",
+        "https://www.royalheatingandcooling.com/about-us/#contact",
+        "https://www.royalheatingandcooling.com/about-us/#collection",
+        "https://www.royalheatingandcooling.com/about-us/#collectionuse",
+        "https://www.royalheatingandcooling.com/about-us/#collection",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/about-us/#contact",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/contact-us/",
+        "https://www.royalheatingandcooling.com/about-us/#contact",
+        "https://www.royalheatingandcooling.com/about-us/#contact",
+        "https://www.royalheatingandcooling.com/about-us/#contact"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 11,
+    "at": "2026-11-03T23:38:19.256Z",
+    "statusCounts": {
+      "200": 11
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.royalheatingandcooling.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/royal-heating-corporation/desktop-home.png",
+    "desktop_clean": "evidence/screenshots/royal-heating-corporation/desktop-home-overlays-hidden.png",
+    "desktop_full": "evidence/screenshots/royal-heating-corporation/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/royal-heating-corporation/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/royal-heating-corporation/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/royal-heating-corporation/mobile-home.png",
+    "mobile_clean": "evidence/screenshots/royal-heating-corporation/mobile-home-overlays-hidden.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00014800",
+      "19HC00015800"
+    ],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "sinceYear": 1953,
+    "copyrightYear": 2026,
+    "emails": [
+      "chris@royalheatingandcooling.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  },
+  "ctaClickTests": []
+}

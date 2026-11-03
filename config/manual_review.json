@@ -1,0 +1,266 @@
+{
+ "_note": "Human review decisions made on 2026-11-03 from official-site text, listing data and screenshots. Each entry cites its basis.",
+ "rentanac-nyc": {
+  "exclude": "AC unit rental/delivery business (site h1: 'Window AC Delivery & Installation'), not a residential HVAC repair/installation contractor"
+ },
+ "andes-refrigeration": {
+  "exclude": "Google category 'Refrigerator repair service'; no HVAC services found on site"
+ },
+ "hvac-metals-llc": {
+  "exclude": "Custom sheet-metal fabricator (site h1: 'CUSTOM SHEET METAL'), not a residential HVAC service company"
+ },
+ "new-jersey-ptac-services": {
+  "exclude": "Site positions the business as New York City's provider (h1: 'New York City's Premier Heating and Air Conditioning'); PTAC niche. Judgement call: see Cool Air New Jersey, kept because its business name, listing and phone are NJ"
+ },
+ "lightning-mechanical-llc-commercial-hvac-services": {
+  "exclude": "Commercial-only positioning (listing name and site h1: 'COMMERCIAL HVAC SERVICES NEW JERSEY')"
+ },
+ "iron-crest-plumbing-of-union-city": {
+  "exclude": "Plumbing brand with multi-location pages; no residential HVAC services found on crawled pages"
+ },
+ "first-choice-plumbing-heating-air-conditioning-electrical-ha": {
+  "exclude": "Multi-location company whose own site gives a Metuchen (Middlesex County) address; the Hackensack listing appears to be a service-area location page"
+ },
+ "e-z-temp": {
+  "decisionMaker": {
+   "name": "Mark Sakhat",
+   "title": "Owner",
+   "sourceUrl": "https://eztemp.net/about-ez-temp/",
+   "status": "Stated on official site"
+  }
+ },
+ "bloomfield-cooling-heating-electric-inc": {
+  "decisionMaker": {
+   "name": "Jack Lamb",
+   "title": "Owner (since Jan 2025; formerly general manager)",
+   "sourceUrl": "https://bloomfieldcooling.com/about-us/",
+   "status": "Stated on official site"
+  },
+  "notes": "Founder/president Michael DeJoseph retired per About page. Listing address Little Falls (Passaic) despite Bloomfield name."
+ },
+ "go-green-heating-air-conditioning": {
+  "decisionMaker": {
+   "name": "Frank Santoro",
+   "title": "Owner",
+   "sourceUrl": "https://www.gogreenhvacnj.com/",
+   "status": "Stated on official site"
+  }
+ },
+ "maverick-ambitions-hvac-newark-s-experts": {
+  "decisionMaker": {
+   "name": "John Brown",
+   "title": "Founder",
+   "sourceUrl": "https://www.mahvacnj.com/get-to-know-us",
+   "status": "Stated on official site"
+  },
+  "notes": "Site states it is 'not a franchise'. Listing shows no street address; site states 52 Cypress St, Newark."
+ },
+ "j-m-cooling-and-heating": {
+  "decisionMaker": {
+   "name": "Mike Lipesky and John Falco",
+   "title": "Co-founders (2006)",
+   "sourceUrl": "https://jmcoolingheating.com/about-us/",
+   "status": "Stated on official site"
+  },
+  "notes": "Site states the founders 'weren't trying to build a franchise'."
+ },
+ "aeromark-mechanical-inc": {
+  "conflicts": [
+   "IDENTITY: Google listing address Jersey City (Hudson); website address East Rutherford (Bergen)"
+  ],
+  "notes": "Site states it is family-run, not a national franchise."
+ },
+ "integrate-comfort-systems": {
+  "conflicts": [
+   "IDENTITY: Google listing address Belleville (Essex); website address Carlstadt (Bergen)"
+  ]
+ },
+ "551-hvac-repair": {
+  "conflicts": [
+   "IDENTITY: Google listing address Lodi (Bergen); website address Newark (Essex)"
+  ]
+ },
+ "win-air-heating-cooling": {
+  "conflicts": [
+   "IDENTITY: Google listing address Fairview (Bergen, apartment unit); website address Elmwood Park (Bergen)"
+  ]
+ },
+ "ez-flow-mechanical-heating-cooling": {
+  "conflicts": [
+   "IDENTITY: Google listing address Clifton (Passaic); website address Fairfield (Essex)"
+  ]
+ },
+ "deaire-heating-cooling": {
+  "extraFindings": [
+   {
+    "findingId": "deaire-heating-cooling--A-EMPTY-WEBSITE",
+    "code": "A-EMPTY-WEBSITE",
+    "kind": "defect",
+    "trulynkCategory": "A",
+    "criterion": "fixable",
+    "severity": "high",
+    "conversionPath": true,
+    "status": "Verified",
+    "reproduced": true,
+    "methods": [
+     "playwright_desktop",
+     "playwright_iphone13",
+     "firecrawl"
+    ],
+    "title": "Website linked from the Google listing is an empty Google Sites page (title banner only)",
+    "description": "Homepage shows only the heading 'De Aire Heating & Cooling'. No phone number, services, contact form or links (Firecrawl found 0 links; headless Chromium saw near-empty text on desktop and mobile).",
+    "sourceUrl": "http://deaireheatingandcooling.com/",
+    "evidencePath": "evidence/screenshots/deaire-heating-cooling/firecrawl-desktop.png",
+    "reproductionSteps": "Open http://deaireheatingandcooling.com/ (the website on the Google Business Profile).",
+    "unresolved": "Whether the business has another website.",
+    "confidence": 90
+   }
+  ],
+  "valueHypothesis": "The website on the Google listing is an empty Google Sites page showing only the business name. Anyone clicking 'Website' from Google finds no phone number, services or contact path. Whether the business is active and has capacity is not established.",
+  "recommendedSolution": "A small site on the existing domain (tap-to-call, service list, request form, service area), linked from the listing.",
+  "outreachAngle": "Not ready for outreach. Confirm the business is operating first.",
+  "researchNeeds": [
+   "Verify operating status (listing phone uses a 786 Miami area code; listing address 1214 67th St, North Bergen)",
+   "Find tenure, owner and capacity evidence"
+  ]
+ },
+ "total-comfort-services-llc": {
+  "extraFindings": [
+   {
+    "findingId": "total-comfort-services-llc--B-NOINDEX-SUSPECTED",
+    "code": "B-NOINDEX-SUSPECTED",
+    "kind": "defect",
+    "trulynkCategory": "B",
+    "criterion": "fixable",
+    "severity": "medium",
+    "conversionPath": false,
+    "status": "Suggestive",
+    "reproduced": false,
+    "methods": [
+     "firecrawl"
+    ],
+    "title": "Homepage returned meta robots 'noindex,nofollow' to Firecrawl's crawler",
+    "description": "Firecrawl metadata for https://www.totalcomfort.biz/ reported robots=noindex,nofollow. If served to search engines, the homepage would be excluded from search results.",
+    "sourceUrl": "https://www.totalcomfort.biz/",
+    "evidencePath": "evidence/screenshots/total-comfort-services-llc/firecrawl-desktop.png",
+    "reproductionSteps": "Fetch https://www.totalcomfort.biz/ and inspect <meta name=robots>.",
+    "unresolved": "May be served only to non-browser crawlers; the research browser could not pass the site's Cloudflare challenge to confirm. Check Google Search Console / site: search.",
+    "confidence": 45
+   }
+  ],
+  "valueHypothesis": "An established Bergen County HVAC/plumbing company on a marketing-agency site platform (Scorpion) with careers, financing, an online estimator and booking. The one notable signal, a 'noindex,nofollow' robots tag returned to Firecrawl, would keep the homepage out of search results if real, but could not be confirmed from a normal browser.",
+  "recommendedSolution": "If confirmed: remove noindex and verify indexing in Search Console. Otherwise the website opportunity looks limited, since booking, financing and estimator tools are already present.",
+  "outreachAngle": "Not ready for outreach.",
+  "researchNeeds": [
+   "Check 'site:totalcomfort.biz' / Search Console for indexing",
+   "Complete a browser audit from a network that passes Cloudflare"
+  ]
+ },
+ "cool-air-new-jersey": {
+  "conflicts": [
+   "IDENTITY: Business name, Google listing (Jersey City) and 201 phone are New Jersey, but site copy repeatedly targets New York City/Manhattan/Brooklyn; possibly template copy from an NYC site or an NYC company's NJ listing (cf. excluded New Jersey PTAC Services, also Jersey City PTAC with NYC copy)",
+   "Tenure claims conflict on the site: '10+ years' (home), 'over 15 years' (home), 'over 30 years' (about)"
+  ],
+  "extraFindings": [
+   {
+    "findingId": "cool-air-new-jersey--A-WRONG-MARKET-COPY",
+    "code": "A-WRONG-MARKET-COPY",
+    "kind": "defect",
+    "trulynkCategory": "A",
+    "criterion": "fixable",
+    "severity": "medium",
+    "conversionPath": false,
+    "status": "Verified",
+    "reproduced": true,
+    "methods": [
+     "playwright_desktop",
+     "playwright_iphone13"
+    ],
+    "title": "Website copy targets New York City/Manhattan/Brooklyn instead of the New Jersey service area",
+    "description": "Homepage: \"We Are New York's Leading PTAC Repair Providers... serving the residents of New York City\", \"Professional AC Installation in New York\", \"AC Emergency Services NYC and Surrounding Areas Manhattan Brooklyn\". About page claims 'Diamond Certified' and 'over 30 years' while the homepage says '10+ years' and 'over 15 years'.",
+    "sourceUrl": "http://coolairnewjersey.com/",
+    "evidencePath": "evidence/screenshots/cool-air-new-jersey/desktop-home-full.png",
+    "reproductionSteps": "Open http://coolairnewjersey.com/ and read the 'Reliable HVAC Services' block and service sections.",
+    "unresolved": "Whether the business serves NYC as well as Hudson County.",
+    "confidence": 90
+   }
+  ],
+  "notes": "Site content appears copied from a New York template; market fit must be confirmed before outreach.",
+  "valueHypothesis": "Every website route to a written inquiry is broken. The hero 'Contact Us', 'Appointment' and 'Get A Quote' buttons have empty links and do nothing when clicked, and the contact and appointment pages contain no form. Visitors who will not phone have no way to reach the business online. The 'Service', 'AC Repair & Installation' and 'Heating & Cooling' pages return 404. If Cool Air serves Hudson County homeowners, NYC-focused copy may also misdirect local visitors. Traffic, lead volume and revenue impact are unknown.",
+  "recommendedSolution": "Connect the hero buttons to a short service-request form that routes to email/SMS with an automatic acknowledgement. Restore or redirect the three 404 service pages. Add a sticky mobile call bar (no call button on the first mobile screen today). Rewrite location copy for the towns actually served. Force HTTPS.",
+  "outreachAngle": "Open with the dead 'Appointment' button and the 404 'Service' page (screenshots, reproducible in seconds). Ask which area they serve before raising the New York copy. Make no revenue claims.",
+  "researchNeeds": [
+   "Confirm whether the business serves NYC, Hudson County or both, and whether it is related to New Jersey PTAC Services (also Jersey City, PTAC-focused, NYC copy)",
+   "Identify the owner (the site names nobody); email info@coolairnewjersey.com is published"
+  ]
+ },
+ "air-plus-hvac": {
+  "valueHypothesis": "Three phone numbers are in circulation: the Google listing (973) 521-2708, the number printed on the site (973) 521-5028, and the number the 'CALL' buttons actually dial, (973) 652-2424, which appears nowhere else. If 652-2424 is not answered by the business, callers from the website are lost. The only other inquiry path is a mailto: link to a Gmail address. Impact is unverified until the business confirms which line is monitored.",
+  "recommendedSolution": "Use one tracked business number consistently across the Google listing, site text and every tel: link. Replace the mailto 'Get a Quote' with a request form routed to CRM/SMS. Build real service pages (the SERVICES/HEATING/COOLING/PLUMBING navigation items are '#' anchors).",
+  "outreachAngle": "Ask one factual question: which number should customers call? Show the button markup dialing 652-2424. Do not place test calls without the business's agreement.",
+  "researchNeeds": [
+   "Identify the owner (single-page site names nobody)",
+   "Find tenure and capacity evidence (none on site; no BBB match)"
+  ]
+ },
+ "all-week-mechanical-group-air-conditioning-2": {
+  "valueHypothesis": "The top-navigation 'Services', 'Residential' and 'Commercial' links, plus the local heating, boiler, furnace and oil-to-gas pages, all return 404. Visitors researching a specific service hit dead ends, while the request forms themselves load. Eight Google listings across Hudson, Bergen, Passaic and Essex link to this website, each with a different local phone number, so the dead pages are reached from many entry points. Traffic and lead impact are unknown.",
+  "recommendedSolution": "Restore or 301-redirect the 10 dead URLs. Add automated weekly link monitoring with alerts. Force HTTPS. Then confirm where the existing web-form leads go and add instant acknowledgement and CRM routing (current handling unknown).",
+  "outreachAngle": "Send the dead-URL list with screenshots. First identify a decision-maker: the site names nobody and publishes no email. Use the main office line.",
+  "researchNeeds": [
+   "Identify owner/decision-maker",
+   "Confirm the number of real locations behind the 8 Google listings and how calls to the 8 local numbers are routed"
+  ]
+ },
+ "arcticflow-hvac-repair-union-city": {
+  "valueHypothesis": "The website returns 'Site not available' (hosting project paused), confirmed from two networks. If the business is real and active, every website visit from Google currently fails.",
+  "recommendedSolution": "Restore hosting on a stable plan, add uptime monitoring.",
+  "outreachAngle": "Not ready for outreach. Entity not verified.",
+  "researchNeeds": [
+   "Verify the entity: keyword-style listing name, and an identical hosting failure to Precision HVAC Repair Caldwell suggests a shared operator or lead-generation network",
+   "Check NJ business registration and whether 508 39th St, Union City is a real business location"
+  ]
+ },
+ "master-ac-heating": {
+  "valueHypothesis": "The entire website shows a WordPress 'There has been a critical error' page (HTTP 500), confirmed by Playwright, curl and Firecrawl from two networks at different times. Every visitor from the Google listing sees an error page.",
+  "recommendedSolution": "Emergency WordPress repair (identify the failing plugin/theme, restore from backup), then uptime monitoring and managed updates.",
+  "outreachAngle": "Potentially time-sensitive. First confirm the business is active and who owns the site. The listing links a /kearny-nj/ location page, which suggests a multi-location site.",
+  "researchNeeds": [
+   "Confirm operating status and ownership",
+   "Check whether other locations or listings share masterhvacsolutions.com"
+  ]
+ },
+ "precision-hvac-repair-caldwell": {
+  "valueHypothesis": "The website returns 'Site not available' (hosting project paused), confirmed from two networks. If the business is real, every website visit from Google fails.",
+  "recommendedSolution": "Restore hosting, add uptime monitoring.",
+  "outreachAngle": "Not ready for outreach. Entity not verified.",
+  "researchNeeds": [
+   "Verify the entity: keyword-style name ('... Caldwell'), and the domain name differs from the listing name",
+   "Same hosting failure as ArcticFlow HVAC Repair Union City: check whether both belong to one operator"
+  ]
+ },
+ "master-group-heating-cooling-plumbing": {
+  "valueHypothesis": "A large, agency-built site (Scorpion) with service pages, maintenance plan, careers and county pages. No defects observable in the partial retrieval. Likely limited fixable website opportunity, and possibly above the 3-20 technician target.",
+  "recommendedSolution": "None identified yet.",
+  "outreachAngle": "Not ready for outreach.",
+  "researchNeeds": [
+   "Full browser audit from a network that passes Cloudflare",
+   "Size check (732 area-code phone suggests central-NJ origin or multiple locations)"
+  ]
+ },
+ "premier-hvac-services": {
+  "valueHypothesis": "A small operator on GoDaddy Website Builder with built-in booking (/m/bookings). Nothing defective in the Firecrawl retrieval. The research browser could not connect (TLS reset), so the site was not audited.",
+  "recommendedSolution": "Unknown until audited.",
+  "outreachAngle": "Not ready for outreach.",
+  "researchNeeds": [
+   "Full audit from another network",
+   "Check that the GoDaddy booking page completes"
+  ]
+ },
+ "a-c-quality-air": {
+  "researchNeeds": [
+   "Confirm the business is operating: the website on its Google listing is a GoDaddy 'Coming Soon' placeholder, and no tenure, scale signal or BBB record was found",
+   "If active, this is a clear website build opportunity (verified, high-severity, reproduced)"
+  ]
+ }
+}

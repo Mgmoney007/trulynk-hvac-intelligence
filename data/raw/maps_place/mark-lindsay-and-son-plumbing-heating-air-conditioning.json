@@ -1,0 +1,25 @@
+{
+  "id": "mark-lindsay-and-son-plumbing-heating-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/Mark+Lindsay+and+Son+Plumbing,+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c3105a04095a11:0x6919c5cede9e7fda!8m2!3d41.050397!4d-74.4397843!16s%2Fg%2F1264r31yv!19sChIJEVoJBFoQw4kR2n-e3s7FGWk",
+  "retrievedAt": "2026-11-03T23:05:31.737Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Mark Lindsay and Son Plumbing, Heating & Air Conditioning",
+  "category": "Plumber",
+  "address": "21 Union Valley Rd, Newfoundland, NJ 07435, United States ",
+  "phone": "+1 973-858-4658 ",
+  "website": "https://www.marklindsayplumbing.com/#utm_source=gmb&utm_medium=SEO&utm_campaign=ml",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Mark+Lindsay+and+Son+Plumbing,+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c3105a04095a11:0x6919c5cede9e7fda!8m2!3d41.050397!4d-74.4397843!16s%2Fg%2F1264r31yv!19sChIJEVoJBFoQw4kR2n-e3s7FGWk?hl=en",
+  "screenshot": "evidence/screenshots/mark-lindsay-and-son-plumbing-heating-air-conditioning/google-maps-listing.png"
+}

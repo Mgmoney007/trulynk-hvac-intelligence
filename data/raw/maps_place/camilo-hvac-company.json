@@ -1,0 +1,25 @@
+{
+  "id": "camilo-hvac-company",
+  "placeUrl": "https://www.google.com/maps/place/Camilo+HVAC+Company/data=!4m7!3m6!1s0x89c251f66ba21f4b:0xd8911aa5d5296181!8m2!3d40.805879!4d-74.1677711!16s%2Fg%2F11bc6z9qz8!19sChIJSx-ia_ZRwokRgWEp1aUakdg",
+  "retrievedAt": "2026-11-03T22:53:25.618Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Camilo HVAC Company",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-409-3256 ",
+  "website": "https://hvaccontractorbayonne-nj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Camilo+HVAC+Company/data=!4m7!3m6!1s0x89c251f66ba21f4b:0xd8911aa5d5296181!8m2!3d40.805879!4d-74.1677711!16s%2Fg%2F11bc6z9qz8!19sChIJSx-ia_ZRwokRgWEp1aUakdg?hl=en",
+  "screenshot": "evidence/screenshots/camilo-hvac-company/google-maps-listing.png"
+}

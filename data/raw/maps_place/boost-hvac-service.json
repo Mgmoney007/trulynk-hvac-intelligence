@@ -1,0 +1,25 @@
+{
+  "id": "boost-hvac-service",
+  "placeUrl": "https://www.google.com/maps/place/BOOST+HVAC+Service/data=!4m7!3m6!1s0xaa1d0978fa82089d:0x9aeff88305f51f0f!8m2!3d40.8628196!4d-74.1784594!16s%2Fg%2F11xrmsf571!19sChIJnQiC-ngJHaoRDx_1BYP475o",
+  "retrievedAt": "2026-11-03T22:49:42.572Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "BOOST HVAC Service",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 551-288-6494 ",
+  "website": "https://boosthvacservice.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/BOOST+HVAC+Service/data=!4m7!3m6!1s0xaa1d0978fa82089d:0x9aeff88305f51f0f!8m2!3d40.8628196!4d-74.1784594!16s%2Fg%2F11xrmsf571!19sChIJnQiC-ngJHaoRDx_1BYP475o?hl=en",
+  "screenshot": "evidence/screenshots/boost-hvac-service/google-maps-listing.png"
+}

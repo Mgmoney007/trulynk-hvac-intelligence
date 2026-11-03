@@ -1,0 +1,146 @@
+{
+  "id": "service-professionals",
+  "query": "Service Professionals",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Service%20Professionals&find_loc=Little%20Falls%20Township%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:20:26.380Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [
+    {
+      "ad": false,
+      "name": "A&Q Professional Service, Inc.",
+      "rating": "A+",
+      "phone": "(973) 942-7711",
+      "address": "24 John St, Haledon, NJ 07508-1446",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/haledon/profile/fire-water-damage-restoration/service-master-metropolitan-0221-90033305"
+    },
+    {
+      "ad": false,
+      "name": "Service Professionals Inc.",
+      "rating": "A+",
+      "phone": "(908) 481-9074",
+      "address": "923 Rahway Ave, Union, NJ 07083-6549",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/union/profile/heating-and-air-conditioning/service-professionals-inc-0221-4001984"
+    },
+    {
+      "ad": false,
+      "name": "Reese's Professional Cleaning Service, LLC",
+      "rating": "A+",
+      "phone": "(267) 257-0946",
+      "address": "201 York Rd # 1-523, Jenkintown, PA 19046-3200",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/jenkintown/profile/cleaning-services/reeses-professional-cleaning-service-llc-0241-236019668"
+    },
+    {
+      "ad": false,
+      "name": "Professional Operation Service",
+      "rating": "A+",
+      "phone": "(610) 348-0864",
+      "address": "PO Box 632, Paoli, PA 19301-0632",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/paoli/profile/backflow-testing/professional-backflow-solutions-llc-0241-236000650/addressId/303854"
+    },
+    {
+      "ad": false,
+      "name": "Professional Operation Service",
+      "rating": "A+",
+      "phone": "(610) 348-0864",
+      "address": "West Chester, PA 19380-6633",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/west-chester/profile/backflow-testing/professional-backflow-solutions-llc-0241-236000650"
+    },
+    {
+      "ad": false,
+      "name": "JJ's Professional Tree Service & Stump Grinding, Inc.",
+      "rating": "A+",
+      "phone": "(518) 495-4814",
+      "address": "130 Cordell Rd., Schenectady, NY 12304",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/schenectady/profile/tree-service/jjs-professional-tree-service-stump-grinding-inc-0041-235968057"
+    },
+    {
+      "ad": false,
+      "name": "Mike's Professional Painting Service",
+      "rating": null,
+      "phone": "(973) 256-3920",
+      "address": "1 Oak Tree Ln, Little Falls, NJ 07424-2314",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/little-falls/profile/painting-supplies/mikes-professional-painting-service-0221-90026208"
+    },
+    {
+      "ad": false,
+      "name": "SGI Professional Service Inc.",
+      "rating": "A+",
+      "phone": "(973) 510-2570",
+      "address": "570 Clifton Ave, Clifton, NJ 07011-3175",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/clifton/profile/tax-return-preparation/sgi-professional-service-inc-0221-90180416"
+    },
+    {
+      "ad": false,
+      "name": "Richter's Professional Tire & Auto Service",
+      "rating": null,
+      "phone": "(201) 652-4818",
+      "address": "209 South Maple Avenue, Ridgewood, NJ 07450",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/ridgewood/profile/tire-dealers/richters-professional-tire-auto-service-0221-10002154"
+    },
+    {
+      "ad": false,
+      "name": "Professional Garage Door Service",
+      "rating": "F",
+      "phone": "(201) 500-3804",
+      "address": "North Bergen, NJ 07047-5931",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/north-bergen/profile/garage-door-repair/professional-garage-door-service-0221-90208512"
+    },
+    {
+      "ad": false,
+      "name": "Tony's Professional Service",
+      "rating": null,
+      "phone": null,
+      "address": "Cliffside Park, NJ 07010",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/cliffside-park/profile/home-improvement/tonys-professional-service-0221-90155260"
+    },
+    {
+      "ad": false,
+      "name": "Elliott's Professional Tax Service",
+      "rating": "A+",
+      "phone": "(201) 333-7799",
+      "address": "233 Old Bergen Rd., Jersey City, NJ 07305",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/jersey-city/profile/tax-return-preparation/elliotts-professional-tax-service-0221-25000484"
+    },
+    {
+      "ad": false,
+      "name": "Professional Examination Service",
+      "rating": null,
+      "phone": "(212) 367-4200",
+      "address": "475 Riverside Drive-6th Fl., New York, NY 10115",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/new-york/profile/sat-prep-courses/professional-examination-service-0121-8231"
+    },
+    {
+      "ad": false,
+      "name": "Elliott's Professional Tax Service",
+      "rating": "A+",
+      "phone": "(201) 333-7799",
+      "address": "P.O. Box 3301, Jersey City, NJ 07303",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/jersey-city/profile/tax-return-preparation/elliotts-professional-tax-service-0221-25000484/addressId/26837"
+    },
+    {
+      "ad": false,
+      "name": "Russian & Slavic Language Service",
+      "rating": null,
+      "phone": "(212) 481-4870",
+      "address": "271 Madison Avenue, 3rd Fl., New York, NY 10016-1001",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/new-york/profile/translators/trustforte-corporation-0121-59770/addressId/105017"
+    }
+  ],
+  "error": null
+}

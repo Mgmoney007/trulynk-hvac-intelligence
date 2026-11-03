@@ -1,0 +1,25 @@
+{
+  "id": "celestial-air-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Celestial+Air+HVAC/data=!4m7!3m6!1s0x89c2fc19107cc18d:0xb0a678fca2ef266d!8m2!3d40.9226154!4d-74.3917234!16s%2Fg%2F11cspywzdf!19sChIJjcF8EBn8wokRbSbvovx4prA",
+  "retrievedAt": "2026-11-03T23:03:55.839Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Celestial Air HVAC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 973-627-4899 ",
+  "website": "https://celestialairhvac.com/",
+  "rating": 4.6,
+  "reviews": null,
+  "rateBoxText": "4.6",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Celestial+Air+HVAC/data=!4m7!3m6!1s0x89c2fc19107cc18d:0xb0a678fca2ef266d!8m2!3d40.9226154!4d-74.3917234!16s%2Fg%2F11cspywzdf!19sChIJjcF8EBn8wokRbSbvovx4prA?hl=en",
+  "screenshot": "evidence/screenshots/celestial-air-hvac/google-maps-listing.png"
+}

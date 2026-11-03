@@ -1,0 +1,25 @@
+{
+  "id": "master-group-heating-cooling-plumbing",
+  "placeUrl": "https://www.google.com/maps/place/Master+Group+Heating,+Cooling+%26+Plumbing/data=!4m7!3m6!1s0x65d792b62e82c8a7:0xf3408e51f392255d!8m2!3d40.8706484!4d-74.1690894!16s%2Fg%2F11q95g4bq0!19sChIJp8iCLraS12URXSWS81GOQPM",
+  "retrievedAt": "2026-11-03T23:01:36.130Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Master Group Heating, Cooling & Plumbing",
+  "category": "HVAC contractor",
+  "address": "730 Broad St, Clifton, NJ 07013, United States ",
+  "phone": "+1 732-334-3050 ",
+  "website": "https://www.mastergroupnj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday6 AM–10 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Master+Group+Heating,+Cooling+%26+Plumbing/data=!4m7!3m6!1s0x65d792b62e82c8a7:0xf3408e51f392255d!8m2!3d40.8706484!4d-74.1690894!16s%2Fg%2F11q95g4bq0!19sChIJp8iCLraS12URXSWS81GOQPM?hl=en",
+  "screenshot": "evidence/screenshots/master-group-heating-cooling-plumbing/google-maps-listing.png"
+}

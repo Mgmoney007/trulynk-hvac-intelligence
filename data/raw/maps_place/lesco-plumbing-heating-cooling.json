@@ -1,0 +1,25 @@
+{
+  "id": "lesco-plumbing-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Lesco+Plumbing,+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c3009a54eb298b:0x823c09350a73384a!8m2!3d40.8473679!4d-74.410215!16s%2Fg%2F11xs838vn!19sChIJiynrVJoAw4kRSjhzCjUJPII",
+  "retrievedAt": "2026-11-03T23:13:10.501Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Lesco Plumbing, Heating & Cooling",
+  "category": "Plumber",
+  "address": null,
+  "phone": "+1 973-506-2252 ",
+  "website": "http://www.lesco24-7.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday6 AM–4:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Lesco+Plumbing,+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c3009a54eb298b:0x823c09350a73384a!8m2!3d40.8473679!4d-74.410215!16s%2Fg%2F11xs838vn!19sChIJiynrVJoAw4kRSjhzCjUJPII?hl=en",
+  "screenshot": "evidence/screenshots/lesco-plumbing-heating-cooling/google-maps-listing.png"
+}

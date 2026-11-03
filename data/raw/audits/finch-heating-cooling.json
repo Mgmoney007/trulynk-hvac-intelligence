@@ -1,0 +1,445 @@
+{
+  "firecrawl": [],
+  "id": "finch-heating-cooling",
+  "name": "Finch Heating & Cooling",
+  "website": "https://finchheatingpalisadespark.com/",
+  "auditedAt": "2026-11-03T22:54:23.078Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://finchheatingpalisadespark.com/",
+      "at": "2026-11-03T22:54:25.254Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://finchheatingpalisadespark.com/",
+      "title": "Finch Heating & Cooling | Palisades Park, NJ HVAC Repair & Installation",
+      "ms": 2128,
+      "error": null,
+      "linkCount": 10
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://finchheatingpalisadespark.com/",
+      "at": "2026-11-03T22:54:28.130Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://finchheatingpalisadespark.com/",
+      "title": "Finch Heating & Cooling | Palisades Park, NJ HVAC Repair & Installation",
+      "ms": 1149,
+      "error": null,
+      "linkCount": 10
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://finchheatingpalisadespark.com/",
+    "title": "Finch Heating & Cooling | Palisades Park, NJ HVAC Repair & Installation",
+    "lang": "en",
+    "metaDescription": "Expert HVAC services in Palisades Park, NJ. Finch Heating & Cooling offers reliable heating and AC repair, installation, maintenance, and emergency services for residential and commercial comfort.",
+    "h1": [
+      "Expert Heating & Cooling Services in Palisades Park, NJ"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5373,
+    "bodyText": "24/7 Emergency Service:\n(551) 651-3982\nServing Palisades Park, NJ\nFinch HVAC\nHome\nServices\nAbout Us\nContact\nExpert Heating & Cooling Services in Palisades Park, NJ\n\nFinch Heating & Cooling is dedicated to providing superior HVAC solutions. From precise repairs to efficient new installations, we ensure your home or business enjoys perfect comfort year-round.\n\nSCHEDULE YOUR SERVICE NOW!\nOur Comprehensive HVAC Solutions\n❄️\nAir Conditioning Services\n\nExpert repair, maintenance, and new system installations to keep you cool during New Jersey's hottest months.\n\n🔥\nHeating System Services\n\nReliable furnace, boiler, and heat pump repair, installation, and preventative maintenance for cozy winters.\n\n🛠️\nHVAC System Repair\n\nFast and efficient diagnostics and repair for all major HVAC brands, resolving issues quickly and effectively.\n\n✅\nPreventative Maintenance\n\nScheduled tune-ups and inspections to extend system lifespan, improve efficiency, and prevent costly breakdowns.\n\n💨\nIndoor Air Quality\n\nSolutions including air purifiers, humidifiers, and ventilation systems to improve the health and comfort of your indoor environment.\n\n⏰\n24/7 Emergency HVAC\n\nOur team is available around the clock for urgent heating or cooling issues, ensuring your comfort is quickly restored.\n\nAbout Finch Heating & Cooling\n\nFinch Heating & Cooling has been a cornerstone of comfort in Palisades Park, NJ, providing reliable and efficient HVAC services to residential and commercial clients. Our commitment extends beyond simple repairs; we aim to build lasting relationships based on trust, quality, and exceptional service.\n\nOur team of NATE-certified technicians is continually trained on the latest technologies and best practices, ensuring that every service call, installation, or maintenance check is performed with precision and care. We understand the local climate challenges and offer tailored solutions to keep your indoor environment perfect, no matter the season.\n\nMEET OUR EXPERTS\nWhy Choose Finch Heating & Cooling?\n🏅\nCertified Professionals\n\nOur technicians are highly trained and industry-certified, guaranteeing expert service.\n\n⏱️\nPrompt & Reliable\n\nWe pride ourselves on quick response times and efficient, reliable service delivery.\n\n💰\nTransparent Pricing\n\nYou receive clear, upfront quotes with no hidden fees, ensuring peace of mind.\n\n❤️\nCustomer Satisfaction\n\nYour comfort and satisfaction are our top priorities, backed by a strong commitment to quality.\n\nNeed HVAC Service in Palisades Park?\n\nWhether it's an emergency repair or a new system installation, Finch Heating & Cooling is ready to provide the professional and efficient service you deserve.\n\nCALL US TODAY: (551) 651-3982\nSchedule Your HVAC Appointment\nYour Name\nYour Email\nPhone Number\nType of Service Needed\nDescribe Your Issue\nSEND REQUEST\nGet in Touch with Finch HVAC\n\nFor expert heating and cooling services in Palisades Park, NJ, and surrounding areas, contact our friendly team. We are dedicated to your indoor comfort.\n\nPhone: (551) 651-3982\n\nAddress: 111 Grand Ave, Suite 557, Palisades Park, NJ 07650\n\nFinch Heating & Cooling © 2025 All Rights Reserved.\n\n(551) 651-3982 | 111 Grand Ave, Palisades Park, NJ 07650",
+    "links": [
+      {
+        "href": "tel:+15516513982",
+        "abs": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 98,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#home",
+        "abs": "https://finchheatingpalisadespark.com/#home",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 45,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#services",
+        "abs": "https://finchheatingpalisadespark.com/#services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 64,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#about",
+        "abs": "https://finchheatingpalisadespark.com/#about",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 69,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#contact",
+        "abs": "https://finchheatingpalisadespark.com/#contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 59,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15516513982",
+        "abs": "tel:+15516513982",
+        "text": "SCHEDULE YOUR SERVICE NOW!",
+        "visible": true,
+        "aboveFold": true,
+        "h": 60,
+        "w": 356,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15516513982",
+        "abs": "tel:+15516513982",
+        "text": "MEET OUR EXPERTS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 250,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15516513982",
+        "abs": "tel:+15516513982",
+        "text": "CALL US TODAY: (551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "h": 78,
+        "w": 457,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15516513982",
+        "abs": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 125,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+15516513982",
+        "abs": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 98,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "SEND REQUEST",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "#",
+        "method": "post",
+        "id": "",
+        "cls": "",
+        "fieldCount": 5,
+        "fieldNames": [
+          "name",
+          "email",
+          "phone",
+          "service",
+          "message"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2932.74794218671!2d-72.60742182470719!3d42.20377227119047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6eb1a74d2091f%3A0xa117769e5d713c2c!2s850%20High%20St%2C%20Holyoke%2C%20MA%2001040%2C%20USA!5e0!3m2!1sen!2sus!4v1722055685536!5m2!1sen!2sus"
+    ],
+    "scripts": [],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Finch Heating & Cooling",
+        "url": "https://finchheatingpalisadespark.com",
+        "telephone": "+15516513982",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "111 Grand Ave, Suite 557",
+          "addressLocality": "Palisades Park",
+          "addressRegion": "NJ",
+          "postalCode": "07650",
+          "addressCountry": "US"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 0,
+    "timing": {
+      "dcl": 547,
+      "load": 1235,
+      "ttfb": 318
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.094,
+        "sig": "  ",
+        "text": "finch hvac\nhome\nservices\nabout us\ncontact"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://finchheatingpalisadespark.com/",
+    "navMs": 2128,
+    "tel": [
+      {
+        "href": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "SCHEDULE YOUR SERVICE NOW!",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "MEET OUR EXPERTS",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "CALL US TODAY: (551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+15516513982"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://finchheatingpalisadespark.com/",
+    "navMs": 1149,
+    "timing": {
+      "dcl": 510,
+      "load": 628,
+      "ttfb": 339
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "SCHEDULE YOUR SERVICE NOW!",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "MEET OUR EXPERTS",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "CALL US TODAY: (551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+15516513982"
+      },
+      {
+        "href": "tel:+15516513982",
+        "text": "(551) 651-3982",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+15516513982"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "SCHEDULE YOUR SERVICE NOW!"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.113,
+        "sig": "  ",
+        "text": "finch hvac"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 0,
+    "brokenImages": [],
+    "textChars": 3166
+  },
+  "pages": {},
+  "linkCheck": {
+    "checked": 1,
+    "at": "2026-11-03T22:54:26.389Z",
+    "statusCounts": {
+      "200": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://finchheatingpalisadespark.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/finch-heating-cooling/desktop-home.png",
+    "desktop_full": "evidence/screenshots/finch-heating-cooling/desktop-home-full.png",
+    "mobile_asis": "evidence/screenshots/finch-heating-cooling/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2025,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": [
+      "SCHEDULE YOUR SERVICE NOW! -> tel:+15516513982"
+    ]
+  }
+}

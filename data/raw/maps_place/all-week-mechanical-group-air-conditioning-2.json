@@ -1,0 +1,25 @@
+{
+  "id": "all-week-mechanical-group-air-conditioning-2",
+  "placeUrl": "https://www.google.com/maps/place/ALL+WEEK+MECHANICAL+GROUP+AIR+CONDITIONING/data=!4m7!3m6!1s0x89c2fec21ffc2af3:0xc0bdf448b6a9343f!8m2!3d40.8718979!4d-74.1460265!16s%2Fg%2F1s04wq1xk!19sChIJ8yr8H8L-wokRPzSptkj0vcA",
+  "retrievedAt": "2026-11-03T23:01:46.662Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "ALL WEEK MECHANICAL GROUP AIR CONDITIONING",
+  "category": "Air conditioning repair service",
+  "address": "184 Clinton Ave, Clifton, NJ 07011, United States ",
+  "phone": "+1 877-666-9335 ",
+  "website": "https://allweekairconditioning.com/ac-repairs-clifton-nj",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/ALL+WEEK+MECHANICAL+GROUP+AIR+CONDITIONING/data=!4m7!3m6!1s0x89c2fec21ffc2af3:0xc0bdf448b6a9343f!8m2!3d40.8718979!4d-74.1460265!16s%2Fg%2F1s04wq1xk!19sChIJ8yr8H8L-wokRPzSptkj0vcA?hl=en",
+  "screenshot": "evidence/screenshots/all-week-mechanical-group-air-conditioning-2/google-maps-listing.png"
+}

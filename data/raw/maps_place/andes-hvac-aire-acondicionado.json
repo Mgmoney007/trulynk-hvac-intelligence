@@ -1,0 +1,25 @@
+{
+  "id": "andes-hvac-aire-acondicionado",
+  "placeUrl": "https://www.google.com/maps/place/Andes+HVAC+Aire+Acondicionado/data=!4m7!3m6!1s0x89c2550a9623ad21:0x29a3cfab68b0bd4b!8m2!3d40.7716528!4d-74.143847!16s%2Fg%2F11zxrxb9j7!19sChIJIa0jlgpVwokRS72waKvPoyk",
+  "retrievedAt": "2026-11-03T22:52:53.660Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Andes HVAC Aire Acondicionado",
+  "category": "Air conditioning contractor",
+  "address": "33 Argyle Pl, Kearny, NJ 07032, United States ",
+  "phone": "+1 973-855-9039 ",
+  "website": "https://andeshvacaireacondicionadollc.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday9 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Andes+HVAC+Aire+Acondicionado/data=!4m7!3m6!1s0x89c2550a9623ad21:0x29a3cfab68b0bd4b!8m2!3d40.7716528!4d-74.143847!16s%2Fg%2F11zxrxb9j7!19sChIJIa0jlgpVwokRS72waKvPoyk?hl=en",
+  "screenshot": "evidence/screenshots/andes-hvac-aire-acondicionado/google-maps-listing.png"
+}

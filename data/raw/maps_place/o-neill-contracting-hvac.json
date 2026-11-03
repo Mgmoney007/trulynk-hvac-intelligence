@@ -1,0 +1,25 @@
+{
+  "id": "o-neill-contracting-hvac",
+  "placeUrl": "https://www.google.com/maps/place/O%27Neill+Contracting+HVAC/data=!4m7!3m6!1s0x89c2f0382227d043:0xa7a98e6d350f8760!8m2!3d40.9357275!4d-73.9952811!16s%2Fg%2F1th5_r17!19sChIJQ9AnIjjwwokRYIcPNW2Oqac",
+  "retrievedAt": "2026-11-03T22:57:51.939Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "O'Neill Contracting HVAC",
+  "category": "Air conditioning contractor",
+  "address": "232 N Washington Ave, Bergenfield, NJ 07621, United States ",
+  "phone": "+1 201-385-6727 ",
+  "website": "https://www.oneillac.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–4:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/O%27Neill+Contracting+HVAC/data=!4m7!3m6!1s0x89c2f0382227d043:0xa7a98e6d350f8760!8m2!3d40.9357275!4d-73.9952811!16s%2Fg%2F1th5_r17!19sChIJQ9AnIjjwwokRYIcPNW2Oqac?hl=en",
+  "screenshot": "evidence/screenshots/o-neill-contracting-hvac/google-maps-listing.png"
+}

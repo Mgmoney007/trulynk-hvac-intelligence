@@ -1,0 +1,25 @@
+{
+  "id": "jersey-heating-air-conditioning-service",
+  "placeUrl": "https://www.google.com/maps/place/Jersey+Heating+%26+Air+Conditioning+Service/data=!4m7!3m6!1s0x89c2571da4f9a921:0x257a4609f723799b!8m2!3d40.7282334!4d-74.0414027!16s%2Fg%2F11z_64xbb1!19sChIJIan5pB1XwokRm3kj9wlGeiU",
+  "retrievedAt": "2026-11-03T22:52:11.505Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Jersey Heating & Air Conditioning Service",
+  "category": "HVAC contractor",
+  "address": "514 Manila Ave, Jersey City, NJ 07302, United States ",
+  "phone": "+1 551-321-3556 ",
+  "website": "https://americanshvacservice.com/",
+  "rating": null,
+  "reviews": null,
+  "rateBoxText": "",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday6 AM–10 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Jersey+Heating+%26+Air+Conditioning+Service/data=!4m7!3m6!1s0x89c2571da4f9a921:0x257a4609f723799b!8m2!3d40.7282334!4d-74.0414027!16s%2Fg%2F11z_64xbb1!19sChIJIan5pB1XwokRm3kj9wlGeiU?hl=en",
+  "screenshot": "evidence/screenshots/jersey-heating-air-conditioning-service/google-maps-listing.png"
+}

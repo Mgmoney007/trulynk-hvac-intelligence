@@ -1,0 +1,10 @@
+{
+  "id": "airtek-mechanical-heating-cooling-llc",
+  "query": "Airtek Mechanical Heating & Cooling LLC",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Airtek%20Mechanical%20Heating%20%26%20Cooling%20LLC&find_loc=Lyndhurst%2C%20NJ",
+  "retrievedAt": "2026-11-03T22:55:55.315Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [],
+  "error": null
+}

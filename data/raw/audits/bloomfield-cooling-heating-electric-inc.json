@@ -1,0 +1,2427 @@
+{
+  "firecrawl": [],
+  "id": "bloomfield-cooling-heating-electric-inc",
+  "name": "Bloomfield Cooling, Heating & Electric Inc.",
+  "website": "http://www.bloomfieldcooling.com/",
+  "auditedAt": "2026-11-03T23:08:10.058Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://www.bloomfieldcooling.com/",
+      "at": "2026-11-03T23:08:25.354Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://bloomfieldcooling.com/",
+      "title": "Bloomfield Cooling, Heating & Electric, Inc. – Your Carrier Factory Authorized Dealer in Bergen, Passaic, Hudson, Essex County",
+      "ms": 15253,
+      "error": null,
+      "linkCount": 110
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://bloomfieldcooling.com/contact",
+      "at": "2026-11-03T23:08:38.074Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://bloomfieldcooling.com/contact/",
+      "title": "Contact – Bloomfield Cooling, Heating & Electric, Inc.",
+      "ms": 11821,
+      "error": null,
+      "linkCount": 94
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://bloomfieldcooling.com/about-us/",
+      "at": "2026-11-03T23:08:56.621Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://bloomfieldcooling.com/about-us/",
+      "title": "About Us – Bloomfield Cooling, Heating & Electric, Inc.",
+      "ms": 18029,
+      "error": null,
+      "linkCount": 93
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://www.bloomfieldcooling.com/",
+      "at": "2026-11-03T23:12:15.644Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://bloomfieldcooling.com/",
+      "title": "Bloomfield Cooling, Heating & Electric, Inc. – Your Carrier Factory Authorized Dealer in Bergen, Passaic, Hudson, Essex County",
+      "ms": 13976,
+      "error": null,
+      "linkCount": 108
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://bloomfieldcooling.com/",
+    "title": "Bloomfield Cooling, Heating & Electric, Inc. – Your Carrier Factory Authorized Dealer in Bergen, Passaic, Hudson, Essex County",
+    "lang": "en-US",
+    "metaDescription": null,
+    "h1": [
+      "Bloomfield Cooling, Heating & Electric, Inc."
+    ],
+    "viewportMeta": "width=device-width",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1849,
+    "scrollHeight": 2647,
+    "bodyText": "See work near you\nCheck out our work in your neighborhood\n4.8\n(721)\nContact us\nFeatured reviews\nThe technician was prompt, very well mannered, professional and willing to answer any questions\nKaren W.\nChris, Aaron, Ariel, Thai, Andrew, Anthony and the sales guy, Tom were terrific to deal with. Very professional and answered all our questions and concerns.\nMichael B.\nService from the Bloomfield Cooling team was right on schedule and they took care of multiple units on our property. Rosario provided excellent service and we appreciate his support. Thank you!\nGlen K.\nAs usual, Fitz did an excellent job for us. He is very professional, personable, and a real credit to the Company. You are fortunate to have employees like Fitz!\nD\nDonald Y.\nFritz was great. Thanks!\nDaniel M. (.\nExcellent and quick service. We have are heat back. Highly recommend them!\nBernie S.\nMy generator install was done proficiently. All workers were professional and courteous.\nWilliam L.\nI had a great experience with this heating contractor! They were professional, knowledgeable, and thorough when servicing my boiler. They took the time to make sure everything was working properly and explained everything. The service was efficient, and I felt confident that my heating system was in good hands. I would highly recommend them to anyone looking for reliable and professional heating service!\nJaclyn H.\nVery good and thorough\nChandan M.\nBrian our service Man is great checks out everything and explains what and why he is doing. It always feel good after he leaves. I did not leave a price range because it was covered under our Service contract so paid nothing for this visit.\nThomas G.\nFantastic!!!!\nR\nRalph C.\nService tech was very knowledgeable, informative and friendly\nSusan S.\nFeatured projects\nAc install\nSep 24, 2026\n\nTo improve indoor climate control, we installed a new crossover air handler and condenser, ensuring optimal air circulation. We identified supply and return air locations, cut necessary openings, and routed flex ductwork to the trunk line. After securely mounting the condenser, we completed connections for power, refrigerant lines, and installed a thermostat, confirming the system is functioning flawlessly.\n\nGenerator installation\nSep 21, 2026\n\nThe generator installation has been successfully performed. The generator was positioned on the pad at the designated location, and a new gas line was installed from the gas meter to the generator. The transfer switch was mounted adjacent to the electrical meter, with lines run from the transfer switch to the generator. The gas line was pressure tested and subsequently painted. A simulation of power loss was conducted to test the generator's operation, confirming that the system is functioning properly. The job is now complete.\n\nAC installation\nAug 25, 2026\n\nAfter completing the installation of the AC unit, the unit was tested, confirming that no additional refrigerant was required and that the system was functioning correctly. A final walkthrough with the homeowner ensured satisfaction with the quality of work performed.\n\nAc replacement\nAug 20, 2026\n\nThe air handler and condenser have been replaced. The refrigerant was recovered, and all old equipment was removed. A fence had to be taken down to transport the condenser to the backyard through the neighbor's property. New equipment was installed, with transitional ductwork utilized to connect the existing ductwork to the new system. The drains and electrical connections were re-established for the air handler. The line set to the air handler was flushed and reconnected, along with the line set and electrical connections to the new condenser. A nitrogen pressure test was performed at 500 psi to check for leaks, and no leaks were identified. A vacuum was pulled below 500 μm before releasing the factory charge of refrigerant. An additional pound of R454B was added to meet the manufacturer's specified subcooling of 8°F. The thermostat was replaced, and the homeowner was provided with operational instructions. The job has been completed.\n\nFurnace/ ac replacement\nAug 6, 2026\n\nThe technician successfully completed the removal of the old system located in the utility closet. The installation of the furnace, evaporator coil, and condenser was performed without any issues, ensuring that both heating and cooling functions were operating properly upon job completion. During the appointment, it was noted that the thermostat mentioned in the contract could not be installed due to the requirement of running a new wire, which the customer opted not to pursue. As a result, the old thermostat was reconnected to the system, and the cost associated with the new thermostat was deducted from the remaining balance. A thorough walkthrough was conducted with the customer to ensure satisfaction and understanding of the completed work.\n\nService\nSep 3, 2026\n\nOn arrival customers told me how now the condenser fan doesn’t kick on again so I went ahead and checked the fan itself when I turned the unit on the fan does kick on, but makes an aggressive noise. I went ahead and checked amperage coming from the fan and I was getting 1.8 A.4 more than what the RLA is since that fan was hooked up to its own dual run capacitor. I went ahead and checked that capacitor and saw that it was a bit low at 2.3 µF. Went ahead and unplugged the fan straight into the new capacitor that I had put in yesterday. Turned the system on and it makes significantly less of a noise when turning on. Went ahead and cycled the unit six times to see if the fan continues to come on and the fan continued to come on. Checked amperage from the fan, fan is now reading about 1.1 A. Units and running again.\n\nHvac service\nAug 28, 2026\n\nOn arrival I go ahead and turn power off to the air handler and begin disassembling the old motor out of the housing and wheel shaft was a bit corroded so it made it a bit difficult to pull out the motor after pulling out the motor installed the new one made sure the wheel sat correctly and tight on the motor shaft put the housing and motor back into place wired up the motor exactly how the old one was closed up the unit and started it up. Fan kicked on immediately. AC is up and running again.\n\nHvac & Generator maintenance\nAug 27, 2026\n\nArrived at the location to perform a generator maintenance, turned on the generator, changed oil, oil filter, air filter and spark plugs. Checked battery, wire and wires connections. Simulated power outage make sure the generator turned on and transferred power back to the home. Run hours 19, calibrate 1=1504, calibrate 2=1531, battery 13. Mini split two zone I perform a mini splits maintenance, check t/stat and start system operation, clean condenser unit, check refrigerant pressures, check amps draws, clean and wash air filter , clean and flush condensation drains and traps , check blowers motors , check t/d , check all wires and connections. Master bedroom I replaced the mini-split louver and louver motor, then verified that it was working properly.\n\nFurnace/ ac replacement\nAug 6, 2026\n\nThe technician successfully completed the removal of the old system located in the utility closet. The installation of the furnace, evaporator coil, and condenser was performed without any issues, ensuring that both heating and cooling functions were operating properly upon job completion. During the appointment, it was noted that the thermostat mentioned in the contract could not be installed due to the requirement of running a new wire, which the customer opted not to pursue. As a result, the old thermostat was reconnected to the system, and the cost associated with the new thermostat was deducted from the remaining balance. A thorough walkthrough was conducted with the customer to ensure satisfaction and understanding of the completed work.\n\nNov 2, 2026\n\nA malfunctioning hot water boiler was impacting the comfort of the home. We performed comprehensive maintenance under a silver agreement, ensuring optimal operation and safety. Our skilled technicians meticulously checked all components, performed necessary adjustments, and verified the system's efficiency to provide reliable hot water service for the household.\n\nNov 2, 2026\n\nA malfunction in the heating system was affecting the comfort of the space. We addressed the issue by servicing System 2 on the right side, which included the furnace, thermostat, return plenum, supply plenum, and surge protector. This comprehensive work ensured optimal performance and reliability, enhancing the overall functionality of the heating system.\n\nOct 29, 2026\n\nAn issue arose with the HVAC system during maintenance due to access constraints in the washer and dryer room. We efficiently navigated the tight space, utilizing a small extension ladder to reach the attic. Our team conducted a thorough inspection and performed necessary maintenance, ensuring optimal airflow and system performance while applying an environmental fee for responsible waste disposal.\n\n313\n34\n25\n17\n15\n9\n9\n5\n4\n3\n2\n4\n2\n1\n1\n1\n1\nKeyboard shortcuts\nMap data ©2026 Google\nTerms\nReport a map error\nPowered by \nSee work near you\n 973-237-0505  info@bloomfieldcooling.comBLOG\n  \nBloomfield Cooling, Heating & Electric, Inc.\nHOME\nABOUT\nSPECIALS\nSERVICES\nMAINTENANCE PLANS\nTROUBLESHOOTING\nCONTACT\nSAVE NOW $500\noff installation\nDOWNLOAD COUPON\n\nContact Us To Schedule Service or FREE ESTIMATE!\n\nNew or Existing Customer:\n\nNew Customer\nExisting Customer\n\nName:\n\nStreet Address:\n\nCity:\n\nState:\n\nZip:\n\nPhone Number:\n\nEmail Address:\n\nType of Estimate or Comments:\n\nGoogle Testimonials\nHere’s What Some of Our Current Satisfied Customers Have To Say:\nLucsonne arrived promptly to service our air conditioning system for the summer. He got right to work cleaning and checking indoor equipment, working steadily, never on\n– Tara Doernberg\nBloomfield has installed our generator, AC and furnace. We give them an A in each case and are thankful that we chose Bloomfield. Recently, Richard did\n– Harry S.\nI hired Bloomfield Cooling, Heating & Electric Inc. to replace an entire old central AC system in our house in West Caldwell. This included replacing all\n– Alan Cooper, West Caldwell, NJ\nI used Bloomfield AC for the first time yesterday for a routine maintenance on two AC UNITS. Great Experience. Rich the technician was polite, knowledgeable, and\n– John M.\nFantastic experience start to finish. Seamless install of central AC in a 115 year old house. On time, polite, efficient – and cleaned up everything at\n– Joanne Overty\nI have to say that Richard, the technician, was really great. He arrived after hours, 7pm, during a storm just as our power went out as\n– Gene Sower\nWhen Eric came to estimate the job, it was clear he would recommend the best manufacturer and unit for our home. We are very, very happy\n– Laura, Upper Montclair, NJ\nExcellent, professional, and highly skilled service. They come highly recommended.\n– Carol, Wayne, NJ\nThey did what I would call a terrific job, and all really nice guys! I would recommend them to anyone.\n– Terry, Livingston, NJ\nStaff was polite and friendly. I enjoyed having them work in my home. Excellent representatives of the Carrier line.\n– Dan, Montclair, NJ\n\n\n\n©2026 BloomfieldCooling.com. All Rights Reserved. | Privacy Policy | Sitemap | Powered by Media Consultants, LLC",
+    "links": [
+      {
+        "href": "https://bloomfieldcooling.com/contact/",
+        "abs": "https://bloomfieldcooling.com/contact/",
+        "text": "Contact us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 40,
+        "w": 120,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://maps.google.com/maps?ll=40.876044,-74.31109&z=10&t=m&hl=en&gl=US&mapclient=apiv3",
+        "abs": "https://maps.google.com/maps?ll=40.876044,-74.31109&z=10&t=m&hl=en&gl=US&mapclient=apiv3",
+        "text": "Open this area in Google Maps (opens a new window)",
+        "visible": true,
+        "aboveFold": true,
+        "h": 26,
+        "w": 66,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/intl/en_US/help/terms_maps.html",
+        "abs": "https://www.google.com/intl/en_US/help/terms_maps.html",
+        "text": "Terms",
+        "visible": true,
+        "aboveFold": true,
+        "h": 11,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/@40.876044,-74.3110903,10z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3",
+        "abs": "https://www.google.com/maps/@40.876044,-74.3110903,10z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3",
+        "text": "Report a map error",
+        "visible": true,
+        "aboveFold": true,
+        "h": 11,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com",
+        "abs": "https://bloomfieldcooling.com/",
+        "text": "Bloomfield Cooling, Heating & Electric, Inc.",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19732370505",
+        "abs": "tel:+19732370505",
+        "text": "973-237-0505",
+        "visible": true,
+        "aboveFold": true,
+        "h": 15,
+        "w": 81,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/blog/",
+        "abs": "https://bloomfieldcooling.com/blog/",
+        "text": "BLOG",
+        "visible": true,
+        "aboveFold": true,
+        "h": 15,
+        "w": 36,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/bloomfieldcooling/",
+        "abs": "https://www.instagram.com/bloomfieldcooling/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 17,
+        "w": 13,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/BloomfieldCooling/",
+        "abs": "https://www.facebook.com/BloomfieldCooling/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 17,
+        "w": 9,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCXjREY1OhFpBIzcK9mdptKQ",
+        "abs": "https://www.youtube.com/channel/UCXjREY1OhFpBIzcK9mdptKQ",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 17,
+        "w": 17,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/",
+        "abs": "https://bloomfieldcooling.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 17,
+        "w": 87,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/",
+        "abs": "https://bloomfieldcooling.com/",
+        "text": "Bloomfield Cooling, Heating & Electric, Inc.",
+        "visible": true,
+        "aboveFold": true,
+        "h": 48,
+        "w": 241,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "javascript:void(0)",
+        "abs": "javascript:void(0)",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/",
+        "abs": "https://bloomfieldcooling.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 43,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/",
+        "abs": "https://bloomfieldcooling.com/about-us/",
+        "text": "ABOUT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 62,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/",
+        "abs": "https://bloomfieldcooling.com/about-us/",
+        "text": "About Bloomfield Cooling & Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/recent-projects/",
+        "abs": "https://bloomfieldcooling.com/recent-projects/",
+        "text": "Recent Projects",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/customer-testimonials/",
+        "abs": "https://bloomfieldcooling.com/about-us/customer-testimonials/",
+        "text": "Customer Testimonials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://bloomfieldcooling.com/#",
+        "text": "News",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/articles/",
+        "abs": "https://bloomfieldcooling.com/about-us/articles/",
+        "text": "Articles",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/press-releases/",
+        "abs": "https://bloomfieldcooling.com/about-us/press-releases/",
+        "text": "Press Releases",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/voted-best-hvac-contractor/",
+        "abs": "https://bloomfieldcooling.com/about-us/voted-best-hvac-contractor/",
+        "text": "Voted Best HVAC Contractor",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "abs": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "text": "SPECIALS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 81,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "abs": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "text": "Installation Coupon",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "abs": "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "text": "Our Current Ads",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/financing-options/",
+        "abs": "https://bloomfieldcooling.com/specials/financing-options/",
+        "text": "Financing Options",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/",
+        "abs": "https://bloomfieldcooling.com/services/",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 83,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/air-conditioning/",
+        "abs": "https://bloomfieldcooling.com/services/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/gas-heating/",
+        "abs": "https://bloomfieldcooling.com/services/gas-heating/",
+        "text": "Gas Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "abs": "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "text": "Air Quality",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/humidification/",
+        "abs": "https://bloomfieldcooling.com/services/humidification/",
+        "text": "Humidification",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/gas-conversion/",
+        "abs": "https://bloomfieldcooling.com/services/gas-conversion/",
+        "text": "Gas Conversion",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/generators/",
+        "abs": "https://bloomfieldcooling.com/services/generators/",
+        "text": "Generators",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/electrical-services/",
+        "abs": "https://bloomfieldcooling.com/services/electrical-services/",
+        "text": "Electrical Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/electrical-panel-upgrade-service-and-upgrades-nj/",
+        "abs": "https://bloomfieldcooling.com/electrical-panel-upgrade-service-and-upgrades-nj/",
+        "text": "Electrical Panel Upgrade Service And Electrical Upgrades",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/ductless-cooling-and-heating/",
+        "abs": "https://bloomfieldcooling.com/services/ductless-cooling-and-heating/",
+        "text": "Ductless Cooling and Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "text": "MAINTENANCE PLANS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 158,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "text": "Basic Information",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/ac-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/ac-comfort-club/",
+        "text": "A/C",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/forced-hot-air-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/forced-hot-air-comfort-club/",
+        "text": "Forced Hot",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/ac-forced-hot-air-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/ac-forced-hot-air-comfort-club/",
+        "text": "A/C & Forced Hot Air",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/steam-boilers-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/steam-boilers-comfort-club/",
+        "text": "Steam Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/hot-water-boiler-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/hot-water-boiler-comfort-club/",
+        "text": "Hot Water Boiler",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/mini-split-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/mini-split-comfort-club/",
+        "text": "Mini Split",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/generator-club-maintenance/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/generator-club-maintenance/",
+        "text": "Generator Club Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "abs": "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "text": "TROUBLESHOOTING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 148,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "abs": "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "text": "Tips and Advice",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/troubleshooting/faqs/",
+        "abs": "https://bloomfieldcooling.com/troubleshooting/faqs/",
+        "text": "FAQs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/contact/",
+        "abs": "https://bloomfieldcooling.com/contact/",
+        "text": "CONTACT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 79,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/contact/",
+        "abs": "https://bloomfieldcooling.com/contact/",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "contact",
+        "abs": "https://bloomfieldcooling.com/contact",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19732370505",
+        "abs": "tel:+19732370505",
+        "text": "Call",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "abs": "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "text": "Click to Learn More AboutREME HALO LED Technology",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "abs": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "text": "DOWNLOAD COUPON",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 198,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/",
+        "abs": "https://bloomfieldcooling.com/about-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 20,
+        "w": 69,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/BloomfieldCooling",
+        "abs": "https://www.facebook.com/BloomfieldCooling",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 36,
+        "w": 341,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/BloomfieldCooling",
+        "abs": "https://www.facebook.com/BloomfieldCooling",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 136,
+        "w": 382,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:1-973-237-0505",
+        "abs": "tel:1-973-237-0505",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 20,
+        "w": 21,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:info@bloomfieldcooling.com",
+        "abs": "mailto:info@bloomfieldcooling.com",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 20,
+        "w": 52,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/search?q=Bloomfield%20Cooling%20and%20Heating&ludocid=12345428574800271743#lrd=0x0:0xab53c5e140ed597f,1",
+        "abs": "https://www.google.com/search?q=Bloomfield%20Cooling%20and%20Heating&ludocid=12345428574800271743#lrd=0x0:0xab53c5e140ed597f,1",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 200,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/tara-doernberg/",
+        "abs": "https://bloomfieldcooling.com/testimonials/tara-doernberg/",
+        "text": "– Tara Doernberg",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/harry-s/",
+        "abs": "https://bloomfieldcooling.com/testimonials/harry-s/",
+        "text": "– Harry S.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/alan-cooper-west-caldwell-nj/",
+        "abs": "https://bloomfieldcooling.com/testimonials/alan-cooper-west-caldwell-nj/",
+        "text": "– Alan Cooper, West Caldwell, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/john-m/",
+        "abs": "https://bloomfieldcooling.com/testimonials/john-m/",
+        "text": "– John M.",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/joanne-overty/",
+        "abs": "https://bloomfieldcooling.com/testimonials/joanne-overty/",
+        "text": "– Joanne Overty",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/gene-sower/",
+        "abs": "https://bloomfieldcooling.com/testimonials/gene-sower/",
+        "text": "– Gene Sower",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/laura-upper-montclair-nj/",
+        "abs": "https://bloomfieldcooling.com/testimonials/laura-upper-montclair-nj/",
+        "text": "– Laura, Upper Montclair, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/carol-wayne-nj/",
+        "abs": "https://bloomfieldcooling.com/testimonials/carol-wayne-nj/",
+        "text": "– Carol, Wayne, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/terry-livingston-nj/",
+        "abs": "https://bloomfieldcooling.com/testimonials/terry-livingston-nj/",
+        "text": "– Terry, Livingston, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/testimonials/dan-montclair-nj/",
+        "abs": "https://bloomfieldcooling.com/testimonials/dan-montclair-nj/",
+        "text": "– Dan, Montclair, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 26,
+        "w": 333,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.bbb.org/us/nj/little-falls/profile/heating-and-air-conditioning/bloomfield-cooling-heating-electric-inc-0221-90068769/#sealclick",
+        "abs": "https://www.bbb.org/us/nj/little-falls/profile/heating-and-air-conditioning/bloomfield-cooling-heating-electric-inc-0221-90068769/#sealclick",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 75,
+        "w": 40,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/privacy-policy/",
+        "abs": "https://bloomfieldcooling.com/privacy-policy/",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 87,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/sitemap.xml",
+        "abs": "https://bloomfieldcooling.com/sitemap.xml",
+        "text": "Sitemap",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 51,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/",
+        "abs": "https://bloomfieldcooling.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/",
+        "abs": "https://bloomfieldcooling.com/about-us/",
+        "text": "About▼",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/",
+        "abs": "https://bloomfieldcooling.com/about-us/",
+        "text": "About Bloomfield Cooling & Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/recent-projects/",
+        "abs": "https://bloomfieldcooling.com/recent-projects/",
+        "text": "Recent Projects",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/customer-testimonials/",
+        "abs": "https://bloomfieldcooling.com/about-us/customer-testimonials/",
+        "text": "Customer Testimonials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://bloomfieldcooling.com/#",
+        "text": "News▼",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/articles/",
+        "abs": "https://bloomfieldcooling.com/about-us/articles/",
+        "text": "Articles",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/press-releases/",
+        "abs": "https://bloomfieldcooling.com/about-us/press-releases/",
+        "text": "Press Releases",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/about-us/voted-best-hvac-contractor/",
+        "abs": "https://bloomfieldcooling.com/about-us/voted-best-hvac-contractor/",
+        "text": "Voted Best HVAC Contractor",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "abs": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "text": "Specials▼",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "abs": "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "text": "Installation Coupon",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "abs": "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "text": "Our Current Ads",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/specials/financing-options/",
+        "abs": "https://bloomfieldcooling.com/specials/financing-options/",
+        "text": "Financing Options",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/",
+        "abs": "https://bloomfieldcooling.com/services/",
+        "text": "Services▼",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/air-conditioning/",
+        "abs": "https://bloomfieldcooling.com/services/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/gas-heating/",
+        "abs": "https://bloomfieldcooling.com/services/gas-heating/",
+        "text": "Gas Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "abs": "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "text": "Air Quality",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/humidification/",
+        "abs": "https://bloomfieldcooling.com/services/humidification/",
+        "text": "Humidification",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/gas-conversion/",
+        "abs": "https://bloomfieldcooling.com/services/gas-conversion/",
+        "text": "Gas Conversion",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/generators/",
+        "abs": "https://bloomfieldcooling.com/services/generators/",
+        "text": "Generators",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/electrical-services/",
+        "abs": "https://bloomfieldcooling.com/services/electrical-services/",
+        "text": "Electrical Services▼",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/electrical-panel-upgrade-service-and-upgrades-nj/",
+        "abs": "https://bloomfieldcooling.com/electrical-panel-upgrade-service-and-upgrades-nj/",
+        "text": "Electrical Panel Upgrade Service And Electrical Upgrades",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/services/ductless-cooling-and-heating/",
+        "abs": "https://bloomfieldcooling.com/services/ductless-cooling-and-heating/",
+        "text": "Ductless Cooling and Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "text": "Maintenance Plans▼",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "text": "Basic Information",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/ac-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/ac-comfort-club/",
+        "text": "A/C",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/forced-hot-air-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/forced-hot-air-comfort-club/",
+        "text": "Forced Hot",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/ac-forced-hot-air-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/ac-forced-hot-air-comfort-club/",
+        "text": "A/C & Forced Hot Air",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/steam-boilers-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/steam-boilers-comfort-club/",
+        "text": "Steam Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/hot-water-boiler-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/hot-water-boiler-comfort-club/",
+        "text": "Hot Water Boiler",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/mini-split-comfort-club/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/mini-split-comfort-club/",
+        "text": "Mini Split",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/maintenance-plans/generator-club-maintenance/",
+        "abs": "https://bloomfieldcooling.com/maintenance-plans/generator-club-maintenance/",
+        "text": "Generator Club Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "abs": "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "text": "Troubleshooting▼",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "abs": "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "text": "Tips and Advice",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/troubleshooting/faqs/",
+        "abs": "https://bloomfieldcooling.com/troubleshooting/faqs/",
+        "text": "FAQs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/contact/",
+        "abs": "https://bloomfieldcooling.com/contact/",
+        "text": "Contact▼",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bloomfieldcooling.com/contact/",
+        "abs": "https://bloomfieldcooling.com/contact/",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Contact us",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Scroll left",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Scroll right",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Scroll left",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Scroll right",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Keyboard shortcuts",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "313",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "34",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "25",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "17",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "15",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "9",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "9",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "5",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "4",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "3",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "2",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "4",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "2",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "1",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "1",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "1",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "1",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Toggle fullscreen view",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Map camera controls",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Move up",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Move left",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Move right",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Move down",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Zoom in",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Zoom out",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Keyboard shortcuts",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Map Data",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "5 km Click to toggle between metric and imperial units",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Search",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Send",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "https://bloomfieldcooling.com/",
+        "method": "get",
+        "id": "",
+        "cls": "search-form",
+        "fieldCount": 1,
+        "fieldNames": [
+          "s"
+        ],
+        "visible": false,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": true
+      },
+      {
+        "action": "/#wpcf7-f2719-o1",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 9,
+        "fieldNames": [
+          "menu-792",
+          "your-name",
+          "streetaddress",
+          "city",
+          "state",
+          "zip",
+          "cellphone",
+          "your-email",
+          "your-message"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "https://bloomfieldcooling.com/",
+        "method": "get",
+        "id": "",
+        "cls": "rmp-search-form",
+        "fieldCount": 1,
+        "fieldNames": [
+          "s"
+        ],
+        "visible": false,
+        "hasSubmit": false,
+        "submitDisabled": null,
+        "isSearch": true
+      }
+    ],
+    "iframes": [
+      "https://text2chat-widget.servicetitan.com/?token=b1cf2d72-6f9b-40f9-b5bf-f16b16a1fb11&r=1793747293671",
+      "https://www.youtube.com/embed/krbdKOPX848?si=nPnm0iH9dOxEJPZU",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LebBM8UAAAAAMP8uycZG9-lP0jILaQk59Vq2eos&co=aHR0cHM6Ly9ibG9vbWZpZWxkY29vbGluZy5jb206NDQz&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=qlg37cp2gnm8"
+    ],
+    "scripts": [
+      "https://static.servicetitan.com/text2chat/shim.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-1004587081&cx=c&gtm=4e6b21",
+      "https://www.googletagmanager.com/gtag/js?id=G-432DDLXPB9&cx=c&gtm=4e6b21",
+      "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+      "https://load.sumome.com/",
+      "https://app.realworklabs.com/static/plugin/loader.js?v=1793747291666",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-PJGX6QSB",
+      "https://connect.facebook.net/signals/config/279603789170030?v=2.9.435&r=stable&domain=bloomfieldcooling.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://bloomfieldcooling.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://bloomfieldcooling.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://bloomfieldcooling.com/wp-content/plugins/responsive-menu/v4.0.0/assets/js/rmp-menu.js?ver=4.7.2",
+      "https://bloomfieldcooling.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.15",
+      "https://bloomfieldcooling.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.15",
+      "https://bloomfieldcooling.com/wp-content/plugins/testimonial-rotator/js/jquery.cycletwo.js?ver=7.0.2",
+      "https://bloomfieldcooling.com/wp-content/plugins/testimonial-rotator/js/jquery.cycletwo.addons.js?ver=7.0.2",
+      "https://www.googletagmanager.com/gtag/js?id=UA-57473914-1",
+      "https://www.googletagmanager.com/gtag/js?id=G-432DDLXPB9",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1004587081/?random=1793747292132&cv=9&fst=1793747292132&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465925%2C512247839%2C658953496&u_h=900&u_w=1366&ig=1&frm=0&url=https%3A%2F%2Fbloomfieldcooling.com%2F&tiba=Bloomfield%20Cooling%2C%20Heating%20%26%20Electric%2C%20Inc.%20%E2%80%93%20Your%20Carrier%20Factory%20Authorized%20Dealer%20in%20Bergen%2C%20Passaic%2C%20Hudson%2C%20Essex%20County&hn=www.googleadservices.com&rfmt=3&fmt=4",
+      "https://app.realworklabs.com/static/plugin/b2154fef311e58c451ce.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1004587081/?random=1793747293612&cv=11&fst=1793747293612&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21v9211009396za208xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120412526~120469145~120469153~121191154~121246026~121246034~123691370&u_w=1366&u_h=900&url=https%3A%2F%2Fbloomfieldcooling.com%2F&rcb=6&frm=0&tiba=Bloomfield%20Cooling%2C%20Heating%20%26%20Electric%2C%20Inc.%20%E2%80%93%20Your%20Carrier%20Factory%20Authorized%20Dealer%20in%20Bergen%2C%20Passaic%2C%20Hudson%2C%20Essex%20County&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1327619038.1793747293&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://maps.googleapis.com/maps/api/js?libraries=places%2Cvisualization&key=AIzaSyDe_QvLwfkNqtQ5v-Nn0ISVMag_N5faWVY&v=quarterly&map_ids=&language=en&region=US&auth_referrer_policy=origin&callback=google.maps.__ib__",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/util.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/places_impl.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/places.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/visualization.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/common.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/controls.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/main.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/map.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/geocoder.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/webgl.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/marker.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/log.js",
+      "https://maps.googleapis.com/maps-api-v3/api/js/65/14a/onion.js",
+      "https://seal-newjersey.bbb.org/inc/legacy.js",
+      "https://bloomfieldcooling.com/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=3.1.15",
+      "https://bloomfieldcooling.com/wp-content/themes/vw-solar-energy-pro/assets/js/tether.js?ver=7.0.2",
+      "https://bloomfieldcooling.com/wp-content/themes/vw-solar-energy-pro/assets/js/bootstrap.min.js?ver=7.0.2",
+      "https://bloomfieldcooling.com/wp-content/themes/vw-solar-energy-pro/assets/js/jquery.superfish.js?ver=7.0.2",
+      "https://bloomfieldcooling.com/wp-content/themes/vw-solar-energy-pro/assets/js/owl.carousel.js?ver=7.0.2",
+      "https://bloomfieldcooling.com/wp-content/themes/vw-solar-energy-pro/assets/js/SmoothScroll.js?ver=7.0.2",
+      "https://bloomfieldcooling.com/wp-content/themes/vw-solar-energy-pro/assets/js/custom.js?ver=7.0.2",
+      "https://www.google.com/recaptcha/api.js?render=6LebBM8UAAAAAMP8uycZG9-lP0jILaQk59Vq2eos&ver=3.0",
+      "https://bloomfieldcooling.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+      "https://bloomfieldcooling.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.6",
+      "https://www.googleadservices.com/pagead/conversion.js"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 82,
+    "timing": {
+      "dcl": 2039,
+      "load": 7111,
+      "ttfb": 973
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "requestStorageAccess: Permission denied.",
+      "Attempted to load a Vector Map, but failed. Falling back to Raster. Please see https://developers.google.com/maps/documentation/javascript/webgl/support for more info",
+      "The map is not a vector map. That will prevent use of data-driven styling."
+    ],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.273,
+        "sig": "  ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 0.009,
+        "sig": " css-3d5chl ",
+        "text": "see work near you"
+      },
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": " css-tc316l ",
+        "text": "check out our work in your neighborhood\n4.8\n(721)\ncontact us\nfeatured reviews\nthe technician was prompt, very well manne"
+      },
+      {
+        "kind": "other",
+        "cover": 0.003,
+        "sig": " grecaptcha-badge ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://bloomfieldcooling.com/",
+    "navMs": 15253,
+    "tel": [
+      {
+        "href": "tel:+19732370505",
+        "text": "973-237-0505",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732370505"
+      },
+      {
+        "href": "tel:+19732370505",
+        "text": "Call",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732370505"
+      },
+      {
+        "href": "tel:1-973-237-0505",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732370505"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "ServiceTitan",
+        "kind": "field_service"
+      },
+      {
+        "name": "Google reCAPTCHA",
+        "kind": "captcha"
+      },
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://bloomfieldcooling.com/",
+    "navMs": 13976,
+    "timing": {
+      "dcl": 2125,
+      "load": 5813,
+      "ttfb": 783
+    },
+    "viewportMeta": "width=device-width",
+    "innerWidth": 402,
+    "scrollWidth": 402,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+19732370505",
+        "text": "973-237-0505",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732370505"
+      },
+      {
+        "href": "tel:+19732370505",
+        "text": "Call",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732370505"
+      },
+      {
+        "href": "tel:1-973-237-0505",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732370505"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact us",
+      "Contact ▼",
+      "Contact us"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "bottom_bar",
+        "cover": 0.026,
+        "sig": "  ",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 0.04,
+        "sig": " css-3d5chl ",
+        "text": "see work near you"
+      },
+      {
+        "kind": "other",
+        "cover": 0.969,
+        "sig": " css-tc316l ",
+        "text": "check out our work in your neighborhood\nsee projects near you\ncontact us\nfeatured reviews\nthe technician was prompt, ver"
+      },
+      {
+        "kind": "header",
+        "cover": 0.011,
+        "sig": "rmp_menu_trigger-4909 rmp_menu_trigger rmp-menu-trigger-boring rmp-mobile-device-menu menu trigger",
+        "text": ""
+      },
+      {
+        "kind": "other",
+        "cover": 0.015,
+        "sig": " grecaptcha-badge ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 5,
+    "visibleNavLinks": 43,
+    "brokenImages": [],
+    "textChars": 11800
+  },
+  "pages": {
+    "contact": {
+      "url": "https://bloomfieldcooling.com/contact",
+      "finalUrl": "https://bloomfieldcooling.com/contact/",
+      "status": 200,
+      "title": "Contact – Bloomfield Cooling, Heating & Electric, Inc.",
+      "forms": [
+        {
+          "action": "https://bloomfieldcooling.com/",
+          "method": "get",
+          "id": "",
+          "cls": "search-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": true
+        },
+        {
+          "action": "/contact/#wpcf7-f322-o1",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init",
+          "fieldCount": 9,
+          "fieldNames": [
+            "menu-792",
+            "your-name",
+            "streetaddress",
+            "city",
+            "state",
+            "zip",
+            "homephone",
+            "your-email",
+            "your-message"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": "https://bloomfieldcooling.com/",
+          "method": "get",
+          "id": "",
+          "cls": "rmp-search-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": true
+        }
+      ],
+      "iframes": [
+        "https://text2chat-widget.servicetitan.com/?token=b1cf2d72-6f9b-40f9-b5bf-f16b16a1fb11&r=1793747307574",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LebBM8UAAAAAMP8uycZG9-lP0jILaQk59Vq2eos&co=aHR0cHM6Ly9ibG9vbWZpZWxkY29vbGluZy5jb206NDQz&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=d9eiml15os56"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@bloomfieldcooling.comblog",
+        "info@bloomfieldcooling.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19732370505",
+          "text": "973-237-0505",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732370505"
+        },
+        {
+          "href": "tel:+19732370505",
+          "text": "Call",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732370505"
+        }
+      ],
+      "owners": [],
+      "bodyText": "See work near you\nCheck out our work in your neighborhood\n4.8\n(721)\nContact us\nFeatured reviews\nThe technician was prompt, very well mannered, professional and willing to answer any questions\nKaren W.\nChris, Aaron, Ariel, Thai, Andrew, Anthony and the sales guy, Tom were terrific to deal with. Very professional and answered all our questions and concerns.\nMichael B.\nService from the Bloomfield Cooling team was right on schedule and they took care of multiple units on our property. Rosario provided excellent service and we appreciate his support. Thank you!\nGlen K.\nAs usual, Fitz did an excellent job for us. He is very professional, personable, and a real credit to the Company. You are fortunate to have employees like Fitz!\nD\nDonald Y.\nFritz was great. Thanks!\nDaniel M. (.\nExcellent and quick service. We have are heat back. Highly recommend them!\nBernie S.\nMy generator install was done proficiently. All workers were professional and courteous.\nWilliam L.\nI had a great experience with this heating contractor! They were professional, knowledgeable, and thorough when servicing my boiler. They took the time to make sure everything was working properly and explained everything. The service was efficient, and I felt confident that my heating system was in good hands. I would highly recommend them to anyone looking for reliable and professional heating service!\nJaclyn H.\nVery good and thorough\nChandan M.\nBrian our service Man is great checks out everything and explains what and why he is doing. It always feel good after he leaves. I did not leave a price range because it was covered under our Service contract so paid nothing for this visit.\nThomas G.\nFantastic!!!!\nR\nRalph C.\nService tech was very knowledgeable, informative and friendly\nSusan S.\nFeatured projects\nAc install\nSep 24, 2026\n\nTo improve indoor climate control, we installed a new crossover air handler and condenser, ensuring optimal air circulation. We identified supply and return air locations, cut necessary openings, and routed flex ductwork to the trunk line. After securely mounting the condenser, we completed connections for power, refrigerant lines, and installed a thermostat, confirming the system is functioning flawlessly.\n\nGenerator installation\nSep 21, 2026\n\nThe generator installation has been successfully performed. The generator was positioned on the pad at the designated location, and a new gas line was installed from the gas meter to the generator. The transfer switch was mounted adjacent to the electrical meter, with lines run from the transfer switch to the generator. The gas line was pressure tested and subsequently painted. A simulation of power loss was conducted to test the generator's operation, confirming that the system is functioning properly. The job is now complete.\n\nAC installation\nAug 25, 2026\n\nAfter completing the installation of the AC unit, the unit was tested, confirming that no additional refrigerant was required and that the system was functioning correctly. A final walkthrough with the homeowner ensured satisfaction with the quality of work performed.\n\nAc replacement\nAug 20, 2026\n\nThe air handler and condenser have been replaced. The refrigerant was recovered, and all old equipment was removed. A fence had to be taken down to transport the condenser to the backyard through the neighbor's property. New equipment was installed, with transitional ductwork utilized to connect the existing ductwork to the new system. The drains and electrical connections were re-established for the air handler. The line set to the air handler was flushed and reconnected, along with the line set and electrical connections to the new condenser. A nitrogen pressure test was performed at 500 psi to check for leaks, and no leaks were identified. A vacuum was pulled below 500 μm before releasing the factory charge of refrigerant. An additional pound of R454B was added to meet the manufacturer's specified subcooling of 8°F. The thermostat was replaced, and the homeowner was provided with operational instructions. The job has been completed.\n\nFurnace/ ac replacement\nAug 6, 2026\n\nThe technician successfully completed the removal of the old system located in the utility closet. The installation of the furnace, evaporator coil, and condenser was performed without any issues, ensuring that both heating and cooling functions were operating properly upon job completion. During the appointment, it was noted that the thermostat mentioned in the contract could not be installed due to the requirement of running a new wire, which the customer opted not to pursue. As a result, the old thermostat was reconnected to the system, and the cost associated with the new thermostat was deducted from the remaining balance. A thorough walkthrough was conducted with the customer to ensure satisfaction and understanding of the completed work.\n\nService\nSep 3, 2026\n\nOn arrival customers told me how now the condenser fan doesn’t kick on again so I went ahead and checked the fan itself when I turned the unit on the fan does kick on, but makes an aggressive noise. I went ahead and checked amperage coming from the fan and I was getting 1.8 A.4 more than what the RLA is since that fan was hooked up to its own dual run capacitor. I went ahead and checked that capacitor and saw that it was a bit low at 2.3 µF. Went ahead and unplugged the fan straight into the new capacitor that I had put in yesterday. Turned the system on and it makes significantly less of a noise when turning on. Went ahead and cycled the unit six times to see if the fan continues to come on and the fan continued to come on. Checked amperage from the fan, fan is now reading about 1.1 A. Units and running again.\n\nHvac service\nAug 28, 2026\n\nOn arrival I go ahead and turn power off to the air handler and begin disassembling the old motor out of the housing and wheel shaft was a bit corroded so it made it a bit difficult to pull out the motor after pulling out the motor installed the new one made sure the wheel sat correctly and tight on the motor shaft put the housing and motor back into place wired up the motor exactly how the old one was closed up the unit and started it up. Fan kicked on immediately. AC is up and running again.\n\nHvac & Generator maintenance\nAug 27, 2026\n\nArrived at the location to perform a generator maintenance, turned on the generator, changed oil, oil filter, air filter and spark plugs. Checked battery, wire and wires connections. Simulated power outage make sure the generator turned on and transferred power back to the home. Run hours 19, calibrate 1=1504, calibrate 2=1531, battery 13. Mini split two zone I perform a mini splits maintenance, check t/stat and start system operation, clean condenser unit, check refrigerant pressures, check amps draws, clean and wash air filter , clean and flush condensation drains and traps , check blowers motors , check t/d , check all wires and connections. Master bedroom I replaced the mini-split louver and louver motor, then verified that it was working properly.\n\nFurnace/ ac replacement\nAug 6, 2026\n\nThe technician successfully completed the removal of the old system located in the utility closet. The installation of the furnace, evaporator coil, and condenser was performed without any issues, ensuring that both heating and cooling functions were operating properly upon job completion. During the appointment, it was noted that the thermostat mentioned in the contract could not be installed due to the requirement of running a new wire, which the customer opted not to pursue. As a result, the old thermostat was reconnected to the system, and the cost associated with the new thermostat was deducted from the remaining balance. A thorough walkthrough was conducted with the customer to ensure satisfaction and understanding of the completed work.\n\nNov 2, 2026\n\nA malfunctioning hot water boiler was impacting the comfort of the home. We performed comprehensive maintenance under a silver agreement, ensuring optimal operation and safety. Our skilled technicians meticulously checked all components, performed necessary adjustments, and verified the system's efficiency to provide reliable hot water service for the household.\n\nNov 2, 2026\n\nA malfunction in the heating system was affecting the comfort of the space. We addressed the issue by servicing System 2 on the right side, which included the furnace, thermostat, return plenum, supply plenum, and surge protector. This comprehensive work ensured optimal performance and reliability, enhancing the overall functionality of the heating system.\n\nOct 29, 2026\n\nAn issue arose with the HVAC system during maintenance due to access constraints in the washer and dryer room. We efficiently navigated the tight space, utilizing a small extension ladder to reach the attic. Our team conducted a thorough inspection and performed necessary maintenance, ensuring optimal airflow and system performance while applying an environmental fee for responsible waste disposal.\n\n313\n34\n25\n17\n15\n9\n9\n5\n4\n3\n2\n4\n2\n1\n1\n1\n1\nKeyboard shortcuts\nMap data ©2026 Google\nTerms\nReport a map error\nPowered by \nSee work near you\n 973-237-0505  info@bloomfieldcooling.comBLOG\n  \nBloomfield Cooling, Heating & Electric, Inc.\nHOME\nABOUT\nSPECIALS\nSERVICES\nMAINTENANCE PLANS\nTROUBLESHOOTING\nCONTACT\nContact Bloomfield Cooling, Heating & Electric, Inc.\n\nDo you need a service call or have a question? Would you like to set up an appointment for a consultation? Contact Blooming Cooling, Heating & Electric, Inc. and our friendly staff will get back to you shortly.\n\n\nBloomfield Cooling, Heating & Electric, Inc.\n127 Paterson Avenue\nLittle Falls, NJ 07424\n\nCall: 973-237-0505\n\nEmail: info@bloomfieldcooling.com\n\nTo Schedule Service- [Click Here]\n\nContact Us To Schedule Service or FREE ESTIMATE!\n\nNew or Existing Customer:\n\nNew Customer\nExisting Customer\n\nName:\n\nStreet Address:\n\nCity:\n\nState:\n\nZip:\n\nPhone Number:\n\nEmail Address:\n\nType of Estimate or Comments:\n\n\n\n\n©2026 BloomfieldCooling.com. All Rights Reserved. | Privacy Policy | Sitemap | Powered by Media Consultants, LLC",
+      "vendors": [
+        {
+          "name": "ServiceTitan",
+          "kind": "field_service"
+        },
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://bloomfieldcooling.com/contact/",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/blog/",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/about-us/",
+        "https://bloomfieldcooling.com/about-us/",
+        "https://bloomfieldcooling.com/recent-projects/",
+        "https://bloomfieldcooling.com/about-us/customer-testimonials/",
+        "https://bloomfieldcooling.com/contact/#",
+        "https://bloomfieldcooling.com/about-us/articles/",
+        "https://bloomfieldcooling.com/about-us/press-releases/",
+        "https://bloomfieldcooling.com/about-us/voted-best-hvac-contractor/",
+        "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "https://bloomfieldcooling.com/specials/financing-options/",
+        "https://bloomfieldcooling.com/services/",
+        "https://bloomfieldcooling.com/services/air-conditioning/",
+        "https://bloomfieldcooling.com/services/gas-heating/",
+        "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "https://bloomfieldcooling.com/services/humidification/",
+        "https://bloomfieldcooling.com/services/gas-conversion/",
+        "https://bloomfieldcooling.com/services/generators/",
+        "https://bloomfieldcooling.com/services/electrical-services/",
+        "https://bloomfieldcooling.com/electrical-panel-upgrade-service-and-upgrades-nj/",
+        "https://bloomfieldcooling.com/services/ductless-cooling-and-heating/",
+        "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "https://bloomfieldcooling.com/maintenance-plans/ac-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/forced-hot-air-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/ac-forced-hot-air-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/steam-boilers-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/hot-water-boiler-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/mini-split-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/generator-club-maintenance/",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "https://bloomfieldcooling.com/troubleshooting/faqs/",
+        "https://bloomfieldcooling.com/contact/",
+        "https://bloomfieldcooling.com/contact/",
+        "https://bloomfieldcooling.com/contact/contact",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice",
+        "https://bloomfieldcooling.com/privacy-policy/",
+        "https://bloomfieldcooling.com/sitemap.xml",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/about-us/",
+        "https://bloomfieldcooling.com/about-us/",
+        "https://bloomfieldcooling.com/recent-projects/",
+        "https://bloomfieldcooling.com/about-us/customer-testimonials/",
+        "https://bloomfieldcooling.com/contact/#",
+        "https://bloomfieldcooling.com/about-us/articles/",
+        "https://bloomfieldcooling.com/about-us/press-releases/",
+        "https://bloomfieldcooling.com/about-us/voted-best-hvac-contractor/",
+        "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "https://bloomfieldcooling.com/specials/financing-options/",
+        "https://bloomfieldcooling.com/services/",
+        "https://bloomfieldcooling.com/services/air-conditioning/",
+        "https://bloomfieldcooling.com/services/gas-heating/",
+        "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "https://bloomfieldcooling.com/services/humidification/",
+        "https://bloomfieldcooling.com/services/gas-conversion/",
+        "https://bloomfieldcooling.com/services/generators/",
+        "https://bloomfieldcooling.com/services/electrical-services/",
+        "https://bloomfieldcooling.com/electrical-panel-upgrade-service-and-upgrades-nj/",
+        "https://bloomfieldcooling.com/services/ductless-cooling-and-heating/",
+        "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "https://bloomfieldcooling.com/maintenance-plans/ac-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/forced-hot-air-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/ac-forced-hot-air-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/steam-boilers-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/hot-water-boiler-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/mini-split-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/generator-club-maintenance/",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "https://bloomfieldcooling.com/troubleshooting/faqs/",
+        "https://bloomfieldcooling.com/contact/",
+        "https://bloomfieldcooling.com/contact/"
+      ]
+    },
+    "about": {
+      "url": "https://bloomfieldcooling.com/about-us/",
+      "finalUrl": "https://bloomfieldcooling.com/about-us/",
+      "status": 200,
+      "title": "About Us – Bloomfield Cooling, Heating & Electric, Inc.",
+      "forms": [
+        {
+          "action": "https://bloomfieldcooling.com/",
+          "method": "get",
+          "id": "",
+          "cls": "search-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": true
+        },
+        {
+          "action": "https://bloomfieldcooling.com/",
+          "method": "get",
+          "id": "",
+          "cls": "rmp-search-form",
+          "fieldCount": 1,
+          "fieldNames": [
+            "s"
+          ],
+          "visible": false,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": true
+        }
+      ],
+      "iframes": [
+        "https://text2chat-widget.servicetitan.com/?token=b1cf2d72-6f9b-40f9-b5bf-f16b16a1fb11&r=1793747321051",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LebBM8UAAAAAMP8uycZG9-lP0jILaQk59Vq2eos&co=aHR0cHM6Ly9ibG9vbWZpZWxkY29vbGluZy5jb206NDQz&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=w4hwl5gps7b0"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "info@bloomfieldcooling.comblog"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19732370505",
+          "text": "973-237-0505",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732370505"
+        },
+        {
+          "href": "tel:+19732370505",
+          "text": "Call",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+19732370505"
+        }
+      ],
+      "owners": [
+        "Michael De |  in 2000, became the new owner when our founder and president, Michael DeJoseph, retired. Ja"
+      ],
+      "bodyText": "See work near you\nCheck out our work in your neighborhood\n4.8\n(721)\nContact us\nFeatured reviews\nThe technician was prompt, very well mannered, professional and willing to answer any questions\nKaren W.\nChris, Aaron, Ariel, Thai, Andrew, Anthony and the sales guy, Tom were terrific to deal with. Very professional and answered all our questions and concerns.\nMichael B.\nService from the Bloomfield Cooling team was right on schedule and they took care of multiple units on our property. Rosario provided excellent service and we appreciate his support. Thank you!\nGlen K.\nAs usual, Fitz did an excellent job for us. He is very professional, personable, and a real credit to the Company. You are fortunate to have employees like Fitz!\nD\nDonald Y.\nFritz was great. Thanks!\nDaniel M. (.\nExcellent and quick service. We have are heat back. Highly recommend them!\nBernie S.\nMy generator install was done proficiently. All workers were professional and courteous.\nWilliam L.\nI had a great experience with this heating contractor! They were professional, knowledgeable, and thorough when servicing my boiler. They took the time to make sure everything was working properly and explained everything. The service was efficient, and I felt confident that my heating system was in good hands. I would highly recommend them to anyone looking for reliable and professional heating service!\nJaclyn H.\nVery good and thorough\nChandan M.\nBrian our service Man is great checks out everything and explains what and why he is doing. It always feel good after he leaves. I did not leave a price range because it was covered under our Service contract so paid nothing for this visit.\nThomas G.\nFantastic!!!!\nR\nRalph C.\nService tech was very knowledgeable, informative and friendly\nSusan S.\nFeatured projects\nAc install\nSep 24, 2026\n\nTo improve indoor climate control, we installed a new crossover air handler and condenser, ensuring optimal air circulation. We identified supply and return air locations, cut necessary openings, and routed flex ductwork to the trunk line. After securely mounting the condenser, we completed connections for power, refrigerant lines, and installed a thermostat, confirming the system is functioning flawlessly.\n\nGenerator installation\nSep 21, 2026\n\nThe generator installation has been successfully performed. The generator was positioned on the pad at the designated location, and a new gas line was installed from the gas meter to the generator. The transfer switch was mounted adjacent to the electrical meter, with lines run from the transfer switch to the generator. The gas line was pressure tested and subsequently painted. A simulation of power loss was conducted to test the generator's operation, confirming that the system is functioning properly. The job is now complete.\n\nAC installation\nAug 25, 2026\n\nAfter completing the installation of the AC unit, the unit was tested, confirming that no additional refrigerant was required and that the system was functioning correctly. A final walkthrough with the homeowner ensured satisfaction with the quality of work performed.\n\nAc replacement\nAug 20, 2026\n\nThe air handler and condenser have been replaced. The refrigerant was recovered, and all old equipment was removed. A fence had to be taken down to transport the condenser to the backyard through the neighbor's property. New equipment was installed, with transitional ductwork utilized to connect the existing ductwork to the new system. The drains and electrical connections were re-established for the air handler. The line set to the air handler was flushed and reconnected, along with the line set and electrical connections to the new condenser. A nitrogen pressure test was performed at 500 psi to check for leaks, and no leaks were identified. A vacuum was pulled below 500 μm before releasing the factory charge of refrigerant. An additional pound of R454B was added to meet the manufacturer's specified subcooling of 8°F. The thermostat was replaced, and the homeowner was provided with operational instructions. The job has been completed.\n\nFurnace/ ac replacement\nAug 6, 2026\n\nThe technician successfully completed the removal of the old system located in the utility closet. The installation of the furnace, evaporator coil, and condenser was performed without any issues, ensuring that both heating and cooling functions were operating properly upon job completion. During the appointment, it was noted that the thermostat mentioned in the contract could not be installed due to the requirement of running a new wire, which the customer opted not to pursue. As a result, the old thermostat was reconnected to the system, and the cost associated with the new thermostat was deducted from the remaining balance. A thorough walkthrough was conducted with the customer to ensure satisfaction and understanding of the completed work.\n\nService\nSep 3, 2026\n\nOn arrival customers told me how now the condenser fan doesn’t kick on again so I went ahead and checked the fan itself when I turned the unit on the fan does kick on, but makes an aggressive noise. I went ahead and checked amperage coming from the fan and I was getting 1.8 A.4 more than what the RLA is since that fan was hooked up to its own dual run capacitor. I went ahead and checked that capacitor and saw that it was a bit low at 2.3 µF. Went ahead and unplugged the fan straight into the new capacitor that I had put in yesterday. Turned the system on and it makes significantly less of a noise when turning on. Went ahead and cycled the unit six times to see if the fan continues to come on and the fan continued to come on. Checked amperage from the fan, fan is now reading about 1.1 A. Units and running again.\n\nHvac service\nAug 28, 2026\n\nOn arrival I go ahead and turn power off to the air handler and begin disassembling the old motor out of the housing and wheel shaft was a bit corroded so it made it a bit difficult to pull out the motor after pulling out the motor installed the new one made sure the wheel sat correctly and tight on the motor shaft put the housing and motor back into place wired up the motor exactly how the old one was closed up the unit and started it up. Fan kicked on immediately. AC is up and running again.\n\nHvac & Generator maintenance\nAug 27, 2026\n\nArrived at the location to perform a generator maintenance, turned on the generator, changed oil, oil filter, air filter and spark plugs. Checked battery, wire and wires connections. Simulated power outage make sure the generator turned on and transferred power back to the home. Run hours 19, calibrate 1=1504, calibrate 2=1531, battery 13. Mini split two zone I perform a mini splits maintenance, check t/stat and start system operation, clean condenser unit, check refrigerant pressures, check amps draws, clean and wash air filter , clean and flush condensation drains and traps , check blowers motors , check t/d , check all wires and connections. Master bedroom I replaced the mini-split louver and louver motor, then verified that it was working properly.\n\nFurnace/ ac replacement\nAug 6, 2026\n\nThe technician successfully completed the removal of the old system located in the utility closet. The installation of the furnace, evaporator coil, and condenser was performed without any issues, ensuring that both heating and cooling functions were operating properly upon job completion. During the appointment, it was noted that the thermostat mentioned in the contract could not be installed due to the requirement of running a new wire, which the customer opted not to pursue. As a result, the old thermostat was reconnected to the system, and the cost associated with the new thermostat was deducted from the remaining balance. A thorough walkthrough was conducted with the customer to ensure satisfaction and understanding of the completed work.\n\nNov 2, 2026\n\nA malfunctioning hot water boiler was impacting the comfort of the home. We performed comprehensive maintenance under a silver agreement, ensuring optimal operation and safety. Our skilled technicians meticulously checked all components, performed necessary adjustments, and verified the system's efficiency to provide reliable hot water service for the household.\n\nNov 2, 2026\n\nA malfunction in the heating system was affecting the comfort of the space. We addressed the issue by servicing System 2 on the right side, which included the furnace, thermostat, return plenum, supply plenum, and surge protector. This comprehensive work ensured optimal performance and reliability, enhancing the overall functionality of the heating system.\n\nOct 29, 2026\n\nAn issue arose with the HVAC system during maintenance due to access constraints in the washer and dryer room. We efficiently navigated the tight space, utilizing a small extension ladder to reach the attic. Our team conducted a thorough inspection and performed necessary maintenance, ensuring optimal airflow and system performance while applying an environmental fee for responsible waste disposal.\n\n320\n37\n25\n17\n15\n9\n9\n5\n4\n3\n2\n4\n2\n1\n1\n1\n1\nKeyboard shortcuts\nMap data ©2026 Google\nTerms\nReport a map error\nPowered by \nSee work near you\n 973-237-0505  info@bloomfieldcooling.comBLOG\n  \nBloomfield Cooling, Heating & Electric, Inc.\nHOME\nABOUT\nSPECIALS\nSERVICES\nMAINTENANCE PLANS\nTROUBLESHOOTING\nCONTACT\nAbout Bloomfield Cooling, Heating & Electric\n\nOur goal at Bloomfield Cooling, Heating & Electric, Inc. is simple: to consistently provide high-quality heating and air conditioning equipment, installations, service, and repair to our residential and commercial customers in Bergen, Passaic, Hudson, Morris, Union and Essex counties.\n\nSuperior heating and cooling products backed by excellent service\n\nWe use only the best HVAC products and generators on the market and are proud to sell and support Carrier products. Our customer service support staff and equipment installers and technicians are all committed to delivering superior service.\n\nWe always go the extra mile to determine our clients’ optimal needs and provide knowledgeable advice, skilled craftsmanship, and an unparalleled dedication to performance. It all starts with your initial phone call to our office and our helpful support staff. From there, our highly skilled comfort consultant will come to your premises for a full system evaluation, answer all your questions, and create a custom heating/cooling solution, including custom HVAC projects for unusual spaces. Our certified technicians and equipment installers will get the job done with the utmost professionalism. Our team treats your premises just as we do our own, with care and attention to detail.\n\nAs professionals committed to quality in every aspect of our business, we practice the highest level of ethics with our customers and treat our employees and suppliers with respect, dignity, and fairness.\n\nOur history: growth, expansion, employee development\n\nBloomfield Cooling, Heating & Cooling, Inc. was established in 1989 by Michael DeJoseph in Bloomfield, NJ as a heating and cooling company, moving to a one-room office Nutley in 1991, where we quickly began to grow. We moved to a larger location and in 1993, we added an electrical division to provide more efficient service to our customers.\n\nWith a reputation for fast, reliable service, professionalism, and immaculate installations we continued to grow and in 2005 Bloomfield Cooling, Heating & Electric moved to Little Falls, where we have our central office, a large warehouse, conference room, sheet metal shop, and our fleet of vans. We added installation and service of home standby generators in 2006 and in 2020 added various in-duct and whole-home air purifiers to our product line.\n\nIn January 2025 our general manager, Jack Lamb, who joined Bloomfield Cooling, Heating & Electric in 2000, became the new owner when our founder and president, Michael DeJoseph, retired.\n\nJack began his career with us as a full-time electrician and over time, Jack learned HVAC service work and system installations, ran the service department, and became general manager in 2014. He said he owes his professional evolution and expanded knowledge of the HVAC industry to Mike DeJoseph—and now he oversees the professional development of our team members while also enhancing our customer service capabilities.\n\nClick here to visit our SPECIALS PAGE for a list of our current offers!\nAward-winning service, year after year\n\nBloomfield Cooling, Heating & Electric has consistently won accolades and awards for our high level of customer service, integrity, and performance. We have been honored by Angi, the Best of Essex Readers’ Choice Awards for Best Heating/Cooling and Best Electrician, and the prestigious Carrier President Award.\n\nContact us today for a FREE air conditioning and heating estimate to replace your system!\n\n\n\n\n©2026 BloomfieldCooling.com. All Rights Reserved. | Privacy Policy | Sitemap | Powered by Media Consultants, LLC",
+      "vendors": [
+        {
+          "name": "ServiceTitan",
+          "kind": "field_service"
+        },
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://bloomfieldcooling.com/contact/",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/blog/",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/about-us/",
+        "https://bloomfieldcooling.com/about-us/",
+        "https://bloomfieldcooling.com/recent-projects/",
+        "https://bloomfieldcooling.com/about-us/customer-testimonials/",
+        "https://bloomfieldcooling.com/about-us/#",
+        "https://bloomfieldcooling.com/about-us/articles/",
+        "https://bloomfieldcooling.com/about-us/press-releases/",
+        "https://bloomfieldcooling.com/about-us/voted-best-hvac-contractor/",
+        "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "https://bloomfieldcooling.com/specials/financing-options/",
+        "https://bloomfieldcooling.com/services/",
+        "https://bloomfieldcooling.com/services/air-conditioning/",
+        "https://bloomfieldcooling.com/services/gas-heating/",
+        "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "https://bloomfieldcooling.com/services/humidification/",
+        "https://bloomfieldcooling.com/services/gas-conversion/",
+        "https://bloomfieldcooling.com/services/generators/",
+        "https://bloomfieldcooling.com/services/electrical-services/",
+        "https://bloomfieldcooling.com/electrical-panel-upgrade-service-and-upgrades-nj/",
+        "https://bloomfieldcooling.com/services/ductless-cooling-and-heating/",
+        "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "https://bloomfieldcooling.com/maintenance-plans/ac-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/forced-hot-air-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/ac-forced-hot-air-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/steam-boilers-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/hot-water-boiler-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/mini-split-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/generator-club-maintenance/",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "https://bloomfieldcooling.com/troubleshooting/faqs/",
+        "https://bloomfieldcooling.com/contact/",
+        "https://bloomfieldcooling.com/contact/",
+        "https://bloomfieldcooling.com/about-us/contact",
+        "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "https://bloomfieldcooling.com/privacy-policy/",
+        "https://bloomfieldcooling.com/sitemap.xml",
+        "https://bloomfieldcooling.com/",
+        "https://bloomfieldcooling.com/about-us/",
+        "https://bloomfieldcooling.com/about-us/",
+        "https://bloomfieldcooling.com/recent-projects/",
+        "https://bloomfieldcooling.com/about-us/customer-testimonials/",
+        "https://bloomfieldcooling.com/about-us/#",
+        "https://bloomfieldcooling.com/about-us/articles/",
+        "https://bloomfieldcooling.com/about-us/press-releases/",
+        "https://bloomfieldcooling.com/about-us/voted-best-hvac-contractor/",
+        "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "https://bloomfieldcooling.com/specials/installation-coupon/",
+        "https://bloomfieldcooling.com/specials/our-current-ads/",
+        "https://bloomfieldcooling.com/specials/financing-options/",
+        "https://bloomfieldcooling.com/services/",
+        "https://bloomfieldcooling.com/services/air-conditioning/",
+        "https://bloomfieldcooling.com/services/gas-heating/",
+        "https://bloomfieldcooling.com/services/air-quality-purification-services-nj/",
+        "https://bloomfieldcooling.com/services/humidification/",
+        "https://bloomfieldcooling.com/services/gas-conversion/",
+        "https://bloomfieldcooling.com/services/generators/",
+        "https://bloomfieldcooling.com/services/electrical-services/",
+        "https://bloomfieldcooling.com/electrical-panel-upgrade-service-and-upgrades-nj/",
+        "https://bloomfieldcooling.com/services/ductless-cooling-and-heating/",
+        "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "https://bloomfieldcooling.com/maintenance-plans/basic-information/",
+        "https://bloomfieldcooling.com/maintenance-plans/ac-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/forced-hot-air-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/ac-forced-hot-air-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/steam-boilers-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/hot-water-boiler-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/mini-split-comfort-club/",
+        "https://bloomfieldcooling.com/maintenance-plans/generator-club-maintenance/",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "https://bloomfieldcooling.com/troubleshooting/tips-and-advice/",
+        "https://bloomfieldcooling.com/troubleshooting/faqs/",
+        "https://bloomfieldcooling.com/contact/",
+        "https://bloomfieldcooling.com/contact/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 48,
+    "at": "2026-11-03T23:12:01.581Z",
+    "statusCounts": {
+      "200": 38,
+      "404": 10
+    },
+    "accessIssues": [],
+    "broken": [
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/tara-doernberg/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-1.png",
+        "linkedFrom": [
+          {
+            "text": "– Tara Doernberg",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/harry-s/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-2.png",
+        "linkedFrom": [
+          {
+            "text": "– Harry S.",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/alan-cooper-west-caldwell-nj/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-3.png",
+        "linkedFrom": [
+          {
+            "text": "– Alan Cooper, West Caldwell, NJ",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/john-m/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-4.png",
+        "linkedFrom": [
+          {
+            "text": "– John M.",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/joanne-overty/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-5.png",
+        "linkedFrom": [
+          {
+            "text": "– Joanne Overty",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/gene-sower/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-6.png",
+        "linkedFrom": [
+          {
+            "text": "– Gene Sower",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/laura-upper-montclair-nj/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-7.png",
+        "linkedFrom": [
+          {
+            "text": "– Laura, Upper Montclair, NJ",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/carol-wayne-nj/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-8.png",
+        "linkedFrom": [
+          {
+            "text": "– Carol, Wayne, NJ",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/terry-livingston-nj/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-9.png",
+        "linkedFrom": [
+          {
+            "text": "– Terry, Livingston, NJ",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      },
+      {
+        "url": "https://bloomfieldcooling.com/testimonials/dan-montclair-nj/",
+        "fetchStatus": 404,
+        "browserStatus": 404,
+        "browserAccess": "http_error",
+        "reproduced": true,
+        "screenshot": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/broken-10.png",
+        "linkedFrom": [
+          {
+            "text": "– Dan, Montclair, NJ",
+            "inNav": false,
+            "inFooter": false,
+            "onPage": "home"
+          }
+        ],
+        "external": false
+      }
+    ]
+  },
+  "https": {
+    "httpFinal": "https://bloomfieldcooling.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/bloomfield-cooling-heating-electric-inc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "info@bloomfieldcooling.comblog",
+      "info@bloomfieldcooling.com"
+    ],
+    "owners": [
+      "Michael De |  in 2000, became the new owner when our founder and president, Michael DeJoseph, retired. Ja"
+    ],
+    "bookingLinkTexts": []
+  },
+  "ctaClickTests": []
+}

@@ -1,0 +1,1117 @@
+{
+  "id": "pacific-air-hvac",
+  "name": "Pacific Air HVAC",
+  "website": "https://www.pacificairhvac.com/",
+  "auditedAt": "2026-11-03T22:24:12.668Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.pacificairhvac.com/",
+      "at": "2026-11-03T22:24:17.378Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://pacificairhvac.com/",
+      "title": "HVAC Contractor in Clifton, NJ Since 2009 | Pacific Air HVAC",
+      "ms": 4578,
+      "error": null,
+      "linkCount": 44
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://pacificairhvac.com/get-a-quote",
+      "at": "2026-11-03T22:24:20.520Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://pacificairhvac.com/get-a-quote",
+      "title": "Get a Quote | Free Written HVAC Estimates in North Jersey | Pacific Air HVAC",
+      "ms": 1680,
+      "error": null,
+      "linkCount": 23
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://pacificairhvac.com/about",
+      "at": "2026-11-03T22:24:22.834Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://pacificairhvac.com/about",
+      "title": "About Pacific Air HVAC | Family-Owned HVAC Contractor in Clifton, NJ Since 2009",
+      "ms": 2020,
+      "error": null,
+      "linkCount": 20
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.pacificairhvac.com/",
+      "at": "2026-11-03T22:24:55.915Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://pacificairhvac.com/",
+      "title": "HVAC Contractor in Clifton, NJ Since 2009 | Pacific Air HVAC",
+      "ms": 3424,
+      "error": null,
+      "linkCount": 44
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://pacificairhvac.com/",
+    "title": "HVAC Contractor in Clifton, NJ Since 2009 | Pacific Air HVAC",
+    "lang": "en",
+    "metaDescription": "Pacific Air HVAC: AC repair, heating & air quality across Bergen, Passaic, Hudson, Essex & Morris counties. Same-day service, free estimates, in-house ductwork. (973) 210-7060.",
+    "h1": [
+      "Heating & Cooling for North Jersey Homes and Businesses."
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 10813,
+    "bodyText": "Skip to main content\nHOME\n▾\nABOUT US\nSERVICES\nCOMMERCIAL\nSERVICE AREA\nNEWS\nGET A QUOTE\nSchedule Now!\nCOMMERCIAL & RESIDENTIAL\nHeating & Cooling for North Jersey Homes and Businesses.\n\nHeating, cooling, and air quality for homes and businesses across North Jersey and the New York metropolitan area — installed by our own Clifton crews since 2009.\n\nINSTAGRAM\nTIKTOK\nGOOGLE\n01\n02\n03\n04\nLicensed & Insured\n·\nEPA-Certified\n·\nIn-House Fabrication\n·\nSame-Day Response\n·\nFree Estimates\n·\n100% Guarantee\n·\nLicensed & Insured\n·\nEPA-Certified\n·\nIn-House Fabrication\n·\nSame-Day Response\n·\nFree Estimates\n·\n100% Guarantee\n·\nOUR SERVICES\nComfort Solutions Built for You.\n\nInstallation, repair, maintenance, custom ductwork, air quality, and commercial systems.\n\nView All Services\n01\nCommercial\n\nRooftop units, PTAC programs, and maintenance plans for offices, restaurants, and managed portfolios.\n\n02\nCooling\n\nSame-day AC repair, seasonal tune-ups, and new system installations by licensed technicians.\n\n03\nHeating\n\nFurnace, boiler, and heat pump repair and installation, with pricing in writing before work starts.\n\n04\nAir Quality\n\nFiltration, humidity control, and ventilation to keep the air in your home clean and balanced.\n\nCLIFTON, NJ\nHeating Services in Clifton\n\nFurnace repair, installation, tune-ups, boilers, and heat pumps from our Clifton shop on Orono Street. Same-day response across our core counties, with pricing in writing before work starts.\n\nHeating Services in Clifton (overview)\nFurnace Repair\nHeating Installation\nFurnace Tune-Ups & Maintenance\nBoiler Service\nHeat Pump Installation & Service\nSERVICE AREA\nTowns We Serve\nClifton\nService Area\nWayne, NJ\nPaterson, NJ\nCOOLER · SMARTER · LOCAL\nDiscover what makes us North Jersey's choice.\nIn-House Sheet Metal\n\nEvery duct fabricated in our own Clifton shop, fitted to your building exactly.\n\nLicensed & Certified Technicians\n\nNJ-licensed, insured, EPA-certified — with permits pulled on every job.\n\nWhisper-Quiet Systems\n\nModern variable-speed equipment your neighbors will never hear.\n\nBuilt for Business\n\nRooftop units, PTAC programs, and maintenance plans for buildings from North Jersey to New York City.\n\nSame-Day Response\n\nTrucks across our core counties daily — urgent calls move to the front of the line.\n\nPricing in Writing\n\nA written, itemized quote before work begins. Every time, since 2009.\n\nTESTIMONIALS\nBuilt on Trust, Backed by Reviews\n\nContractors, property managers, and homeowners across New Jersey and the New York metro.\n\nGet in Touch\n“\n\nWe've partnered with Pacific Air on multiple commercial projects. Their team is dependable, their ductwork is impeccable, and they always deliver on schedule.\n\nR\nRobert Alam\nAmeribuilt NJ, Contractor\nOUR PROCESS\nSmooth From First Call to Cool Air\n\nAssessment, written proposal, installation, inspection, and support.\n\nGet in Touch\n1.\nInitial Contact\n\nCall, message, or book online — a real person from our Clifton office responds.\n\n2.\nOn-Site Assessment\n\nA licensed technician visits, measures what matters, and listens first.\n\n3.\nWritten Proposal\n\nEquipment, labor, permits, timeline — itemized, in writing, no pressure.\n\n4.\nInstall & Inspect\n\nOur own crew builds it, the town inspects it, and we guarantee it.\n\n2009\nSINCE\n30+\nTEAM MEMBERS\n5,000+\nCUSTOMERS\n5\nCORE COUNTIES\nLATEST NEWS\nThe Latest — Straight from the Field\n\nCosts, lifespans, and straight answers for NJ homeowners and businesses.\n\nView All Articles\nOct 27, 2026\nHeating / Pacific Air\nLocal Law 97 and the Boiler Room: A Planning Timeline\nOct 20, 2026\nBuying Smart / Pacific Air\nReading a PTAC Fleet: When a Unit Is Telling You It's Done\nOct 13, 2026\nTown Guides / Pacific Air\nHeating and Cooling a Brownstone, Floor by Floor\nLET'S CLEAR THE AIR\nGot Questions? We've Got Answers\nHow often should I service my system?\n−\n\nOnce a year per system — cooling in spring, heating in fall. Regular tune-ups protect efficiency, prevent breakdowns, and keep manufacturer warranties valid. Maintenance plan members get both visits scheduled automatically, plus priority service between them.\n\nDo you handle commercial properties?\n+\n\nEvery week. Rooftop units, PTAC programs, commercial heating, and maintenance plans for offices, restaurants, retail, and managed portfolios across the service area — with work scheduled around your business hours and every proposal written and itemized.\n\nWhat does an estimate cost?\n+\n\nNothing. A licensed technician visits your home or building, assesses the system, and hands you a written, itemized quote — free, with no obligation.\n\nHow fast can you get here?\n+\n\nSame-day and next-day service covers most of our core counties — Passaic, Bergen, Essex, Morris, and Hudson — and no-heat or no-cooling calls move to the front of the line. We also schedule residential and commercial work across New York City, the lower Hudson Valley, and the rest of North Jersey. Our trucks dispatch from Clifton, so most of the core area is under thirty minutes away.\n\nDo you guarantee your work?\n+\n\nYes — Pacific Air stands behind every job with a 100% satisfaction guarantee. We're licensed and insured in New Jersey, our technicians are EPA-certified, and we pull permits on every job that requires one, so the town's inspection backs up our own.\n\nDo you work in New York City and the Hudson Valley?\n+\n\nYes. We schedule installations, commercial projects, and maintenance across the five boroughs and in Westchester and Rockland counties, in addition to our North Jersey core. Clifton sits fifteen miles from Manhattan, and our commercial crews cross the river regularly. Same-day response remains a core-county service.\n\nWhere is Pacific Air HVAC located and what are your hours?\n+\n\nOur shop is at 16 Orono St, Clifton, NJ 07013. We are open Monday through Saturday, 8AM to 5PM, and closed Sunday. Call (973) 210-7060 or request a quote online, and trucks dispatch daily from Clifton to Passaic, Bergen, Essex, Morris, and Hudson counties.\n\nLET'S GET STARTED\nBook now and enjoy fast, reliable heating and cooling.\n\nFree on-site assessments and written proposals for homes, buildings, and portfolios across New Jersey and the New York metropolitan area.\n\nSchedule Now!\n— Phone\n(973) 210-7060\n— Hours\nMonday – Saturday / 8AM – 5PM\n— The Shop\n16 Orono St, Clifton, NJ 07013\nPRIVACY POLICY · TERMS & CONDITIONS · COMMUNICATION · ACCESSIBILITY\nPACIFIC AIR HVAC · 16 ORONO ST, CLIFTON, NJ 07013 · (973) 210-7060 · INFO@PACIFICAIRHVAC.COM · MON–SAT 8AM–5PM\n© 2026 PACIFIC AIR HVAC · ALL RIGHTS RESERVED · NJ MASTER HVACR LIC. #19HC00622600 · NJ HIC REG. #13VH09439800 · SEO & WEBSITE BY AMJ MARKETING GROUP",
+    "links": [
+      {
+        "href": "#main",
+        "abs": "https://pacificairhvac.com/#main",
+        "text": "Skip to main content",
+        "visible": true,
+        "aboveFold": true,
+        "h": 56,
+        "w": 188,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://pacificairhvac.com/",
+        "text": "Pacific Air HVAC home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 66,
+        "w": 66,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://pacificairhvac.com/",
+        "text": "HOME ▾",
+        "visible": true,
+        "aboveFold": true,
+        "h": 96,
+        "w": 102,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about",
+        "abs": "https://pacificairhvac.com/about",
+        "text": "ABOUT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 96,
+        "w": 124,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://pacificairhvac.com/services",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 96,
+        "w": 120,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac",
+        "abs": "https://pacificairhvac.com/commercial-hvac",
+        "text": "COMMERCIAL",
+        "visible": true,
+        "aboveFold": true,
+        "h": 96,
+        "w": 152,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/service-area",
+        "abs": "https://pacificairhvac.com/service-area",
+        "text": "SERVICE AREA",
+        "visible": true,
+        "aboveFold": true,
+        "h": 96,
+        "w": 159,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://pacificairhvac.com/blog",
+        "text": "NEWS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 96,
+        "w": 88,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-a-quote",
+        "abs": "https://pacificairhvac.com/get-a-quote",
+        "text": "GET A QUOTE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 96,
+        "w": 153,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-a-quote",
+        "abs": "https://pacificairhvac.com/get-a-quote",
+        "text": "Schedule Now!",
+        "visible": true,
+        "aboveFold": true,
+        "h": 96,
+        "w": 175,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/get-a-quote",
+        "abs": "https://pacificairhvac.com/get-a-quote",
+        "text": "Schedule Now!",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/pacificairhvac?stkn=ZzNjazZ6ejE4OXk3",
+        "abs": "https://www.instagram.com/pacificairhvac?stkn=ZzNjazZ6ejE4OXk3",
+        "text": "INSTAGRAM",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 100,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.tiktok.com/@pacificairhvac?_r=1&_t=ZT-9A74Ex2f2jd",
+        "abs": "https://www.tiktok.com/@pacificairhvac?_r=1&_t=ZT-9A74Ex2f2jd",
+        "text": "TIKTOK",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 66,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://g.co/kgs/h4H5BKb",
+        "abs": "https://g.co/kgs/h4H5BKb",
+        "text": "GOOGLE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 31,
+        "w": 76,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://pacificairhvac.com/services",
+        "text": "View All Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 31,
+        "w": 159,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac",
+        "abs": "https://pacificairhvac.com/commercial-hvac",
+        "text": "01 Commercial Rooftop units, PTAC programs, and maintenance plans for offices, r",
+        "visible": true,
+        "aboveFold": false,
+        "h": 362,
+        "w": 278,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-services",
+        "abs": "https://pacificairhvac.com/ac-services",
+        "text": "02 Cooling Same-day AC repair, seasonal tune-ups, and new system installations b",
+        "visible": true,
+        "aboveFold": false,
+        "h": 362,
+        "w": 278,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating",
+        "abs": "https://pacificairhvac.com/heating",
+        "text": "03 Heating Furnace, boiler, and heat pump repair and installation, with pricing ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 362,
+        "w": 278,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-quality",
+        "abs": "https://pacificairhvac.com/air-quality",
+        "text": "04 Air Quality Filtration, humidity control, and ventilation to keep the air in ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 362,
+        "w": 278,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/clifton-nj",
+        "abs": "https://pacificairhvac.com/clifton-nj",
+        "text": "Heating Services in Clifton (overview)",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 267,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/clifton-nj/furnace-repair",
+        "abs": "https://pacificairhvac.com/clifton-nj/furnace-repair",
+        "text": "Furnace Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 111,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/clifton-nj/heating-installation",
+        "abs": "https://pacificairhvac.com/clifton-nj/heating-installation",
+        "text": "Heating Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 142,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/clifton-nj/heating-maintenance",
+        "abs": "https://pacificairhvac.com/clifton-nj/heating-maintenance",
+        "text": "Furnace Tune-Ups & Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 244,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/clifton-nj/boiler-service",
+        "abs": "https://pacificairhvac.com/clifton-nj/boiler-service",
+        "text": "Boiler Service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/clifton-nj/heat-pumps",
+        "abs": "https://pacificairhvac.com/clifton-nj/heat-pumps",
+        "text": "Heat Pump Installation & Service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 235,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/clifton-nj",
+        "abs": "https://pacificairhvac.com/clifton-nj",
+        "text": "Clifton",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 49,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-area",
+        "abs": "https://pacificairhvac.com/service-area",
+        "text": "Service Area",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 92,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-area/wayne-nj",
+        "abs": "https://pacificairhvac.com/service-area/wayne-nj",
+        "text": "Wayne, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 78,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/service-area/paterson-nj",
+        "abs": "https://pacificairhvac.com/service-area/paterson-nj",
+        "text": "Paterson, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 29,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/get-a-quote",
+        "abs": "https://pacificairhvac.com/get-a-quote",
+        "text": "Get in Touch",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 197,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/get-a-quote",
+        "abs": "https://pacificairhvac.com/get-a-quote",
+        "text": "Get in Touch",
+        "visible": true,
+        "aboveFold": false,
+        "h": 31,
+        "w": 124,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://pacificairhvac.com/blog",
+        "text": "View All Articles",
+        "visible": true,
+        "aboveFold": false,
+        "h": 31,
+        "w": 153,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/post/local-law-97-heating-plant-planning",
+        "abs": "https://pacificairhvac.com/post/local-law-97-heating-plant-planning",
+        "text": "Oct 27, 2026 Heating / Pacific Air Local Law 97 and the Boiler Room: A Planning ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 511,
+        "w": 371,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/post/ptac-units-nyc-buildings-when-to-replace",
+        "abs": "https://pacificairhvac.com/post/ptac-units-nyc-buildings-when-to-replace",
+        "text": "Oct 20, 2026 Buying Smart / Pacific Air Reading a PTAC Fleet: When a Unit Is Tel",
+        "visible": true,
+        "aboveFold": false,
+        "h": 441,
+        "w": 371,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/post/brownstone-heating-cooling-floor-by-floor",
+        "abs": "https://pacificairhvac.com/post/brownstone-heating-cooling-floor-by-floor",
+        "text": "Oct 13, 2026 Town Guides / Pacific Air Heating and Cooling a Brownstone, Floor b",
+        "visible": true,
+        "aboveFold": false,
+        "h": 511,
+        "w": 371,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/get-a-quote",
+        "abs": "https://pacificairhvac.com/get-a-quote",
+        "text": "Schedule Now!",
+        "visible": true,
+        "aboveFold": false,
+        "h": 60,
+        "w": 214,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19732107060",
+        "abs": "tel:+19732107060",
+        "text": "(973) 210-7060",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 225,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/privacy-policy",
+        "abs": "https://pacificairhvac.com/privacy-policy",
+        "text": "PRIVACY POLICY",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 142,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/terms-conditions",
+        "abs": "https://pacificairhvac.com/terms-conditions",
+        "text": "TERMS & CONDITIONS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 187,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/communication",
+        "abs": "https://pacificairhvac.com/communication",
+        "text": "COMMUNICATION",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 148,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/accessibility",
+        "abs": "https://pacificairhvac.com/accessibility",
+        "text": "ACCESSIBILITY",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 127,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+19732107060",
+        "abs": "tel:+19732107060",
+        "text": "(973) 210-7060",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 128,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:info@pacificairhvac.com",
+        "abs": "mailto:info@pacificairhvac.com",
+        "text": "INFO@PACIFICAIRHVAC.COM",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 242,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://amjmarketing.com",
+        "abs": "https://amjmarketing.com/",
+        "text": "AMJ MARKETING GROUP",
+        "visible": true,
+        "aboveFold": false,
+        "h": 42,
+        "w": 717,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Pause slideshow",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "01",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "02",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "03",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "04",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Previous testimonial",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next testimonial",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to testimonial 1",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to testimonial 2",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to testimonial 3",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "How often should I service my system? −",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do you handle commercial properties? +",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "What does an estimate cost? +",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "How fast can you get here? +",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do you guarantee your work? +",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Do you work in New York City and the Hudson Valley? +",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Where is Pacific Air HVAC located and what are your hours? +",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://www.googletagmanager.com/gtm.js?id=GTM-TCWZTZWG",
+      "https://www.googletagmanager.com/gtag/js?id=G-L0BF60ZFDF",
+      "https://pacificairhvac.com/assets/index-sj6wA06d.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "HVACBusiness",
+        "name": "Pacific Air HVAC",
+        "url": "https://pacificairhvac.com",
+        "telephone": "+19732107060",
+        "email": "info@pacificairhvac.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "16 Orono St",
+          "addressLocality": "Clifton",
+          "addressRegion": "NJ",
+          "postalCode": "07013",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 40.8634,
+          "longitude": -74.2035
+        },
+        "openingHours": "Mo-Sa 08:00-17:00",
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "opens": "08:00",
+            "closes": "17:00"
+          }
+        ],
+        "foundingDate": "2009",
+        "areaServed": [
+          "New Jersey",
+          "New York metropolitan area",
+          "New York City NY",
+          "Westchester County NY",
+          "Rockland County NY",
+          "Passaic County NJ",
+          "Wayne NJ",
+          "Paterson NJ",
+          "Bergen County NJ",
+          "Essex County NJ",
+          "Morris County NJ",
+          "Hudson County NJ",
+          "Union County NJ",
+          "Sussex County NJ",
+          "Warren County NJ"
+        ],
+        "knowsAbout": [
+          "air conditioning installation",
+          "AC repair",
+          "furnaces",
+          "boilers",
+          "heat pumps",
+          "ductless mini-splits",
+          "indoor air quality",
+          "sheet metal fabrication",
+          "commercial HVAC"
+        ],
+        "sameAs": [
+          "https://g.co/kgs/h4H5BKb",
+          "https://www.instagram.com/pacificairhvac?stkn=ZzNjazZ6ejE4OXk3",
+          "https://www.tiktok.com/@pacificairhvac?_r=1&_t=ZT-9A74Ex2f2jd"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How often should I service my system?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Once a year per system — cooling in spring, heating in fall. Regular tune-ups protect efficiency, prevent breakdowns, and keep manufacturer warranties valid. Maintenance plan members get both visits scheduled automatically, plus priority service between them."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you handle commercial properties?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Every week. Rooftop units, PTAC programs, commercial heating, and maintenance plans for offices, restaurants, retail, and managed portfolios across the service area — with work scheduled around your business hours and every proposal written and itemized."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What does an estimate cost?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Nothing. A licensed technician visits your home or building, assesses the system, and hands you a written, itemized quote — free, with no obligation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How fast can you get here?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Same-day and next-day service covers most of our core counties — Passaic, Bergen, Essex, Morris, and Hudson — and no-heat or no-cooling calls move to the front of the line. We also schedule residential and commercial work across New York City, the lower Hudson Valley, and the rest of North Jersey. Our trucks dispatch from Clifton, so most of the core area is under thirty minutes away."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you guarantee your work?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — Pacific Air stands behind every job with a 100% satisfaction guarantee. We're licensed and insured in New Jersey, our technicians are EPA-certified, and we pull permits on every job that requires one, so the town's inspection backs up our own."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you work in New York City and the Hudson Valley?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. We schedule installations, commercial projects, and maintenance across the five boroughs and in Westchester and Rockland counties, in addition to our North Jersey core. Clifton sits fifteen miles from Manhattan, and our commercial crews cross the river regularly. Same-day response remains a core-county service."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where is Pacific Air HVAC located and what are your hours?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our shop is at 16 Orono St, Clifton, NJ 07013. We are open Monday through Saturday, 8AM to 5PM, and closed Sunday. Call (973) 210-7060 or request a quote online, and trucks dispatch daily from Clifton to Passaic, Bergen, Essex, Morris, and Hudson counties."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "HVAC Contractor in Clifton, NJ Since 2009 | Pacific Air HVAC",
+        "url": "https://pacificairhvac.com"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "HVAC Contractor in Clifton, NJ Since 2009 | Pacific Air HVAC",
+        "url": "https://pacificairhvac.com",
+        "logo": "https://media.base44.com/images/public/6a763c7d89e0f92ce5e6667a/0f6dbf6c6_logo.png"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 20,
+    "timing": {
+      "dcl": 1850,
+      "load": 1851,
+      "ttfb": 1032
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.107,
+        "sig": " pa-header ",
+        "text": "home\n▾\nabout us\nservices\ncommercial\nservice area\nnews\nget a quote\nschedule now!"
+      },
+      {
+        "kind": "bottom_bar",
+        "cover": 0.011,
+        "sig": " fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://pacificairhvac.com/",
+    "navMs": 4578,
+    "tel": [
+      {
+        "href": "tel:+19732107060",
+        "text": "(973) 210-7060",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732107060"
+      },
+      {
+        "href": "tel:+19732107060",
+        "text": "(973) 210-7060",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732107060"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://pacificairhvac.com/",
+    "navMs": 3424,
+    "timing": {
+      "dcl": 1823,
+      "load": 1823,
+      "ttfb": 1036
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+19732107060",
+        "text": "(973) 210-7060",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732107060"
+      },
+      {
+        "href": "tel:+19732107060",
+        "text": "(973) 210-7060",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732107060"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [
+      "Schedule Now!"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.12,
+        "sig": " pa-header ",
+        "text": "schedule now!\nmenu"
+      },
+      {
+        "kind": "header",
+        "cover": 0.048,
+        "sig": " fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 6521
+  },
+  "pages": {
+    "contact": {
+      "url": "https://pacificairhvac.com/get-a-quote",
+      "finalUrl": "https://pacificairhvac.com/get-a-quote",
+      "status": 200,
+      "title": "Get a Quote | Free Written HVAC Estimates in North Jersey | Pacific Air HVAC",
+      "forms": [
+        {
+          "action": null,
+          "method": "get",
+          "id": "",
+          "cls": "flex flex-col",
+          "fieldCount": 9,
+          "fieldNames": [
+            "company",
+            "q_full_name",
+            "q_phone",
+            "q_email",
+            "q_town",
+            "q_property_type",
+            "q_service_needed",
+            "q_message",
+            "q_sms_consent"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@pacificairhvac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19732107060",
+          "text": "(973) 210-7060",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732107060"
+        },
+        {
+          "href": "tel:+19732107060",
+          "text": "(973) 210-7060",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732107060"
+        },
+        {
+          "href": "tel:+19732107060",
+          "text": "(973) 210-7060",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732107060"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to main content\nHOME\nABOUT US\nSERVICES\nCOMMERCIAL\nSERVICE AREA\nNEWS\nGET A QUOTE\n▾\nSchedule Now!\nGET A QUOTE\nRequest a written quote for your home or business.\n\nComplete the form below and a member of our Clifton office responds within one business day. If the matter is urgent, calling (973) 210-7060 during business hours is the fastest way to be scheduled.\n\n01\nWe respond\n\nA member of our office — not an answering service — replies within one business day to schedule a visit.\n\n02\nWe assess\n\nA licensed technician visits the property, assesses the system or the project, and answers your questions. The visit costs nothing.\n\n03\nYou receive the quote\n\nA written, itemized quote — equipment, labor, permits, and timeline. The quoted price is the invoiced price.\n\nTell us about the property and the work.\nFULL NAME *\n, REQUIRED\nPHONE *\n, REQUIRED\nEMAIL *\n, REQUIRED\nTOWN *\n, REQUIRED\nPROPERTY TYPE *\n, REQUIRED\nSelect one\nResidential\nCommercial\nManaged property – portfolio\nSERVICE NEEDED *\n, REQUIRED\nSelect one\nAir conditioning\nHeating\nIndoor air quality\nDuctwork – fabrication\nMaintenance plan\nRepair — system not working\nNot sure — assessment needed\nDESCRIBE THE WORK\nIt is okay to text me scheduling updates at the number above. Message and data rates may apply. Consent is not a condition of service.\n\nFull terms: Communication Policy · Privacy Policy\n\nRequest a Quote\n— Phone\n(973) 210-7060\n— Hours\nMonday – Saturday / 8AM – 5PM / Sunday closed\n— The Shop\n16 Orono St, Clifton, NJ 07013\n— Email\ninfo@pacificairhvac.com\n— No Heat or No Cooling\n\nLoss-of-heat and loss-of-cooling calls are placed at the front of the schedule. Call the office directly rather than using the form — during business hours, a call is answered immediately.\n\nBEFORE YOU SUBMIT\nFour things every quote includes.\n\nThese apply to every property in our service area.\n\n01\nNo cost\n\nThe visit and the quote are free.\n\n02\nIn writing\n\nEquipment, labor, permits, and timeline, itemized in a single document.\n\n03\nNo pressure\n\nThe quote is presented, questions are answered, and the decision is left with you.\n\n04\nLicensed work\n\nWork is performed by NJ-licensed, insured, EPA-certified employees of Pacific Air.\n\nBEFORE YOU ASK\nCommon questions about estimates.\nIs the estimate actually free?\n−\n\nYes. The site visit, the assessment, and the written quote cost nothing. There is no obligation attached to receiving a quote.\n\nDo I need to be at the property for the visit?\n+\n\nFor most residential work, yes — the technician needs interior access and your answers about how the home behaves. For commercial and managed properties, we coordinate access with a superintendent or manager when the owner cannot attend.\n\nHow soon will I hear back?\n+\n\nForm submissions receive a response within one business day. Calls during business hours are answered immediately. Assessment visits are typically scheduled within a few days, and sooner when the system is not working.\n\nWhich areas do you cover?\n+\n\nOur core service area is Passaic, Bergen, Essex, Morris, and Hudson counties, with trucks dispatching daily from Clifton — and we schedule work across New York City, the lower Hudson Valley, and the rest of North Jersey. If your location sits beyond the core counties, call the office. A short call settles the question.\n\nPRIVACY POLICY · TERMS & CONDITIONS · COMMUNICATION · ACCESSIBILITY\nPACIFIC AIR HVAC · 16 ORONO ST, CLIFTON, NJ 07013 · (973) 210-7060 · INFO@PACIFICAIRHVAC.COM · MON–SAT 8AM–5PM\n© 2026 PACIFIC AIR HVAC · ALL RIGHTS RESERVED · NJ MASTER HVACR LIC. #19HC00622600 · NJ HIC REG. #13VH09439800 · SEO & WEBSITE BY AMJ MARKETING GROUP",
+      "vendors": [],
+      "links": [
+        "https://pacificairhvac.com/get-a-quote#main",
+        "https://pacificairhvac.com/",
+        "https://pacificairhvac.com/",
+        "https://pacificairhvac.com/about",
+        "https://pacificairhvac.com/services",
+        "https://pacificairhvac.com/commercial-hvac",
+        "https://pacificairhvac.com/service-area",
+        "https://pacificairhvac.com/blog",
+        "https://pacificairhvac.com/get-a-quote",
+        "https://pacificairhvac.com/get-a-quote",
+        "https://pacificairhvac.com/get-a-quote",
+        "https://pacificairhvac.com/communication",
+        "https://pacificairhvac.com/privacy-policy",
+        "https://pacificairhvac.com/privacy-policy",
+        "https://pacificairhvac.com/terms-conditions",
+        "https://pacificairhvac.com/communication",
+        "https://pacificairhvac.com/accessibility"
+      ]
+    },
+    "about": {
+      "url": "https://pacificairhvac.com/about",
+      "finalUrl": "https://pacificairhvac.com/about",
+      "status": 200,
+      "title": "About Pacific Air HVAC | Family-Owned HVAC Contractor in Clifton, NJ Since 2009",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@pacificairhvac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+19732107060",
+          "text": "(973) 210-7060",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732107060"
+        },
+        {
+          "href": "tel:+19732107060",
+          "text": "(973) 210-7060",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19732107060"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to main content\nHOME\nABOUT US\n▾\nSERVICES\nCOMMERCIAL\nSERVICE AREA\nNEWS\nGET A QUOTE\nSchedule Now!\nABOUT PACIFIC AIR HVAC\nA family-owned HVAC contractor, serving North Jersey since 2009.\n\nPacific Air HVAC installs, repairs, and maintains heating, cooling, and air quality systems for homes and businesses across Passaic, Bergen, Essex, Morris, and Hudson counties.\n\nOUR HISTORY\nThe company began with one van and a trade.\n\nFounded in Clifton. Family-owned and family-operated today.\n\nPacific Air HVAC was founded in Clifton in 2009 by Ali, who started the company with a single 1994 Ford Econoline van and a background in sheet metal work. The early years were spent on residential service calls throughout Passaic County, and the company's reputation was built on the quality of completed work.\n\nThe company has since grown to a fleet of six trucks and a team of more than thirty technicians, fabricators, and office staff. That growth has been deliberate. Each expansion of the service area followed demand from existing customers, and each new team member is trained to the standards set on the company's first jobs.\n\nPacific Air remains family-owned and family-operated, and the practices established at the beginning have not changed. Ductwork is fabricated in our own shop. Permits are filed for every job that requires them. Pricing is provided in writing before work begins.\n\n2009\nFOUNDED\n6\nSERVICE TRUCKS\n30+\nTEAM MEMBERS\n5\nCORE COUNTIES\nWHAT WE VALUE\nThree principles guide how we operate.\n\nThey apply to every job, residential and commercial.\n\n01\nProfessionalism\n\nTechnicians arrive on schedule, in uniform, and prepared for the work. Job sites are protected while work is underway and cleaned before we leave.\n\n02\nReliability\n\nCommitments are kept. Appointment windows, project timelines, and written quotes are treated as obligations, and we communicate promptly when conditions change.\n\n03\nCare\n\nRecommendations are based on what the building requires. When a repair is sufficient, a repair is what we recommend.\n\nIN-HOUSE FABRICATION\nSheet metal fabrication, performed in our own shop.\n\nMost HVAC contractors order ductwork from third-party fabricators. Pacific Air operates its own sheet metal shop in Clifton, where every duct, transition, and plenum we install is measured, cut, and formed by our own staff.\n\nFabricating in-house allows ductwork to be built to the exact dimensions of each building rather than adapted from standard sizes. It also removes outside lead times from project schedules, which keeps installations on the dates we commit to.\n\nLICENSING & CERTIFICATIONS\nCredentials, documented.\n\nDocumentation is available on request.\n\nNJ Master HVACR License\n\nLicensed and insured in the State of New Jersey. Lic. #19HC00622600.\n\nEPA Section 608\n\nAll technicians who handle refrigerants hold current EPA certification.\n\nMitsubishi Electric\n\nCertified installer of Mitsubishi Electric ductless systems.\n\nFujitsu\n\nCertified installer of Fujitsu ductless systems.\n\nThe Unico System\n\nCertified installer of high-velocity systems for homes without conventional ductwork.\n\nMunicipal Permits\n\nPermits are filed for all qualifying work, and installations are inspected by the municipality.\n\nWHO WE SERVE\nResidential and commercial work, to the same standard.\n\nThe same technicians, documentation, and pricing practices apply to both.\n\nResidential\n\nWork ranges from single-room ductless installations to complete system replacements, including boiler service for older housing and high-velocity systems for homes without existing ductwork.\n\nCommercial\n\nRooftop units, PTAC programs, commercial heating, and scheduled maintenance plans for offices, restaurants, retail locations, and managed properties, with service records documented for every unit.\n\nCONTACT\nRequest an estimate or ask a question.\n\nEstimates are provided at no cost and include a written, itemized quote. A member of our Clifton office responds within one business day.\n\nSchedule Now!\n— Phone\n(973) 210-7060\n— Hours\nMonday – Saturday / 8AM – 5PM\n— The Shop\n16 Orono St, Clifton, NJ 07013\nPRIVACY POLICY · TERMS & CONDITIONS · COMMUNICATION · ACCESSIBILITY\nPACIFIC AIR HVAC · 16 ORONO ST, CLIFTON, NJ 07013 · (973) 210-7060 · INFO@PACIFICAIRHVAC.COM · MON–SAT 8AM–5PM\n© 2026 PACIFIC AIR HVAC · ALL RIGHTS RESERVED · NJ MASTER HVACR LIC. #19HC00622600 · NJ HIC REG. #13VH09439800 · SEO & WEBSITE BY AMJ MARKETING GROUP",
+      "vendors": [],
+      "links": [
+        "https://pacificairhvac.com/about#main",
+        "https://pacificairhvac.com/",
+        "https://pacificairhvac.com/",
+        "https://pacificairhvac.com/about",
+        "https://pacificairhvac.com/services",
+        "https://pacificairhvac.com/commercial-hvac",
+        "https://pacificairhvac.com/service-area",
+        "https://pacificairhvac.com/blog",
+        "https://pacificairhvac.com/get-a-quote",
+        "https://pacificairhvac.com/get-a-quote",
+        "https://pacificairhvac.com/get-a-quote",
+        "https://pacificairhvac.com/get-a-quote",
+        "https://pacificairhvac.com/privacy-policy",
+        "https://pacificairhvac.com/terms-conditions",
+        "https://pacificairhvac.com/communication",
+        "https://pacificairhvac.com/accessibility"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 25,
+    "at": "2026-11-03T22:24:52.437Z",
+    "statusCounts": {
+      "200": 25
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://pacificairhvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/pacific-air-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/pacific-air-hvac/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/pacific-air-hvac/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/pacific-air-hvac/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/pacific-air-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00622600"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 2009,
+    "copyrightYear": 2026,
+    "emails": [
+      "info@pacificairhvac.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "GET A QUOTE -> https://pacificairhvac.com/get-a-quote",
+      "Schedule Now! -> https://pacificairhvac.com/get-a-quote",
+      "Schedule Now! -> https://pacificairhvac.com/get-a-quote",
+      "Schedule Now! -> https://pacificairhvac.com/get-a-quote"
+    ]
+  }
+}

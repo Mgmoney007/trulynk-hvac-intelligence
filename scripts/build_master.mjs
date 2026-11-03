@@ -8,7 +8,7 @@ import { ROOT, readJson, writeJson, today } from './lib/util.mjs';
 import { normalizePhone } from './lib/phone.mjs';
 import { buildFindings, phoneRecords } from './lib/findings.mjs';
 import { opportunityScore, evidenceConfidence, assignPriority } from './lib/scoring.mjs';
-import { countyForCity, parseAddress } from './lib/geo.mjs';
+import { countyForCity, parseAddress, siteAddress } from './lib/geo.mjs';
 
 const csvEsc = v => { const s = v == null ? '' : Array.isArray(v) ? v.join('; ') : String(v); return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; };
 const toCsv = (rows, cols) => [cols.join(','), ...rows.map(r => cols.map(c => csvEsc(r[c])).join(','))].join('\n') + '\n';
@@ -26,14 +26,16 @@ for (const sel of selected) {
   const bbbRaw = await readJson(path.join(ROOT, 'data/raw/bbb', `${sel.id}.json`), null);
   const bbb = bbbRaw?.match ? { matched: true, basis: bbbRaw.match.basis, rating: bbbRaw.match.rating, name: bbbRaw.match.name, address: bbbRaw.match.address, phone: bbbRaw.match.phone, url: bbbRaw.match.href || bbbRaw.searchUrl, retrievedAt: bbbRaw.retrievedAt }
     : bbbRaw ? { matched: false, url: bbbRaw.searchUrl, retrievedAt: bbbRaw.retrievedAt } : null;
-  const addr = parseAddress(place?.address);
+  let addr = parseAddress(place?.address);
+  let addrBasis = 'listing address municipality';
+  if (!addr.street) { const sa = siteAddress(audit); if (sa && countyForCity(sa.city)) { addr = sa; addrBasis = `${sa.source} (Google listing shows no street address)`; } }
   const county = mr.county || countyForCity(addr.city) || null;
   const gbpE164 = normalizePhone(place?.phone || c.cardPhone)?.e164 || null;
   const co = {
     id: sel.id, name: mr.officialName || place?.name || c.name, website: audit?.website || c.website, placeUrl: c.placeUrl, placeId: c.placeId,
-    address: place?.address || null, street: addr.street, city: addr.city, zip: addr.zip, county, countyBasis: mr.county ? 'manual (see notes)' : county ? 'listing address municipality' : 'unresolved',
+    address: place?.address || (addr.street ? `${addr.street}, ${addr.city}, NJ ${addr.zip || ''}` : null), street: addr.street, city: addr.city, zip: addr.zip, county, countyBasis: mr.county ? 'manual (see notes)' : county ? addrBasis : 'unresolved',
     gbpPhone: place?.phone || c.cardPhone, gbpE164, gbpRating: place?.rating ?? null, gbpReviews: place?.reviews ?? null, gbpCategory: place?.category || null,
-    gbpHours: place?.hoursSummary || null, gbpClaimPrompt: !!place?.claimPrompt, gbpPlaceRetrieved: !!place && !place.error, gbpRetrievedAt: place?.retrievedAt || null, gbpScreenshot: place?.screenshot || null,
+    gbpHours: place?.hoursSummary || null, gbpClaimPrompt: !!place?.claimPrompt, gbpLimitedView: place?.limitedView !== false, gbpPlaceRetrieved: !!place && !place.error, gbpRetrievedAt: place?.retrievedAt || null, gbpScreenshot: place?.screenshot || null,
     permanentlyClosed: !!place?.permanentlyClosed, independent: mr.independent !== false, independenceNote: mr.independenceNote || 'No franchise/national-brand indicators in name, listing or site',
     decisionMaker: mr.decisionMaker || null, conflicts: mr.conflicts || [], notes: mr.notes || '', excluded: !!mr.exclude, excludeReason: mr.exclude || '',
     queriesMatched: c.queries, softFlags: c.softFlags || [], bbb,
@@ -58,6 +60,9 @@ const SERVICE_FOR = {
   'A-BROKEN-LINK': 'Repair broken links/CTAs; add automated link monitoring',
   'A-CTA-PAGE-ERROR': 'Restore booking/contact page and route form leads to CRM',
   'A-LISTING-WEBSITE-ERROR': 'Fix Google listing website link and landing page',
+  'A-WRONG-MARKET-COPY': 'Rewrite site copy for the actual NJ service area (Hudson County towns), fix broken service pages',
+  'A-DEAD-CTA': 'Wire hero Appointment/Contact/Quote buttons to a working request form with CRM/SMS routing',
+  'A-PARKED-WEBSITE': 'Launch a working website (service pages, tap-to-call, request form) on the domain the Google listing points to',
   'A-CAPTCHA-ERROR': 'Fix form CAPTCHA configuration; test lead delivery end-to-end',
   'A-NO-VIEWPORT': 'Mobile-responsive rebuild of key landing pages',
   'A-MOBILE-OVERFLOW': 'Fix mobile layout overflow on homepage',

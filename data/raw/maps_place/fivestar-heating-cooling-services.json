@@ -1,0 +1,25 @@
+{
+  "id": "fivestar-heating-cooling-services",
+  "placeUrl": "https://www.google.com/maps/place/FiveStar+Heating+Cooling+Services/data=!4m7!3m6!1s0x89c2fb33546cc79f:0xc02f0ef06e8af35f!8m2!3d40.8955579!4d-74.0453055!16s%2Fg%2F11yx_zpgnm!19sChIJn8dsVDP7wokRX_OKbvAOL8A",
+  "retrievedAt": "2026-11-03T22:59:39.214Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "FiveStar Heating Cooling Services",
+  "category": "HVAC contractor",
+  "address": "206 Anderson St apt 2a, Hackensack, NJ 07601, United States ",
+  "phone": "+1 631-602-0164 ",
+  "website": "http://www.fivestarheatingcoolingservices.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday9 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/FiveStar+Heating+Cooling+Services/data=!4m7!3m6!1s0x89c2fb33546cc79f:0xc02f0ef06e8af35f!8m2!3d40.8955579!4d-74.0453055!16s%2Fg%2F11yx_zpgnm!19sChIJn8dsVDP7wokRX_OKbvAOL8A?hl=en",
+  "screenshot": "evidence/screenshots/fivestar-heating-cooling-services/google-maps-listing.png"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "american-way-plumbing-heating-air-conditioning",
+  "query": "American Way Plumbing, Heating & Air Conditioning",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=American%20Way%20Plumbing%2C%20Heating%20%26%20Air%20Conditioning&find_loc=%2C%20NJ",
+  "retrievedAt": "2026-11-03T22:55:09.424Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(908) 931-0006",
+      "address": "22 South Ave W Ste 227, Cranford, NJ 07016-2695",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/cranford/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/109792"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(973) 898-0606",
+      "address": "45 S Park Pl Ste 377, Morristown, NJ 07960-3924",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/morristown/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(973) 992-1009",
+      "address": "184 S Livingston Ave Ste 9-274, Livingston, NJ 07039",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/livingston/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/110088"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(973) 424-1234",
+      "address": "623 Eagle Rock Ave Ste 387, West Orange, NJ 07052-2948",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/west-orange/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/110707"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(877) 717-8383",
+      "address": "20 Pine St, Kearny, NJ 07032",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/kearny/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/110130"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(877) 717-8383",
+      "address": "924 Bergen Ave Ste 266, Jersey City, NJ 07306-3018",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/jersey-city/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/110751"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(973) 744-7200",
+      "address": "41 Watchung Plaza Ste 229, Montclair, NJ 07042",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/montclair/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/110049"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(973) 772-1234",
+      "address": "15 E 2nd St, Clifton, NJ 07011-1606",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/clifton/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/110775"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(973) 225-1032",
+      "address": "90 Grove St, Paterson, NJ 07503-2222",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/paterson/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/134190"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(201) 592-1500",
+      "address": "Linwood Plaza, Fort Lee, NJ 07024",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/fort-lee/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/110708"
+    },
+    {
+      "ad": false,
+      "name": "American Way Plumbing Heating & Air Conditioning",
+      "rating": null,
+      "phone": "(201) 828-9009",
+      "address": "115 Franklin Turnpike Ste 181, Mahwah, NJ 07430",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/mahwah/profile/plumber/american-way-mechanical-plumbing-heating-cooling-0221-90168724/addressId/110089"
+    }
+  ],
+  "error": null
+}

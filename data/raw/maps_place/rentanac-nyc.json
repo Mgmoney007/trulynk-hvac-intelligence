@@ -1,0 +1,25 @@
+{
+  "id": "rentanac-nyc",
+  "placeUrl": "https://www.google.com/maps/place/RentAnAC+NYC/data=!4m7!3m6!1s0x89c2f76f7c00927f:0x8bffe2b0f7cada8!8m2!3d40.8020546!4d-74.023586!16s%2Fg%2F11n92lfhp1!19sChIJf5IAfG_3wokRqK18Dyv-vwg",
+  "retrievedAt": "2026-11-03T22:52:22.091Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "RentAnAC NYC",
+  "category": "Air conditioning contractor",
+  "address": "7001 Anpesil Dr Unit D-7, North Bergen, NJ 07047, United States ",
+  "phone": "+1 888-762-6651 ",
+  "website": "https://www.rentanac.com/?utm_source=GMB&utm_medium=NYC&utm_campaign=GMB+NYC&utm_id=GMB+NYC",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/RentAnAC+NYC/data=!4m7!3m6!1s0x89c2f76f7c00927f:0x8bffe2b0f7cada8!8m2!3d40.8020546!4d-74.023586!16s%2Fg%2F11n92lfhp1!19sChIJf5IAfG_3wokRqK18Dyv-vwg?hl=en",
+  "screenshot": "evidence/screenshots/rentanac-nyc/google-maps-listing.png"
+}

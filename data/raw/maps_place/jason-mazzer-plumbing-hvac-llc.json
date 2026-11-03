@@ -1,0 +1,25 @@
+{
+  "id": "jason-mazzer-plumbing-hvac-llc",
+  "placeUrl": "https://www.google.com/maps/place/Jason+Mazzer+Plumbing+%26+HVAC,+LLC/data=!4m7!3m6!1s0x89c2fbbe008b4fe7:0xd2b53ccd106dd17f!8m2!3d40.916253!4d-74.100395!16s%2Fg%2F1w6_prm4!19sChIJ50-LAL77wokRf9FtEM08tdI",
+  "retrievedAt": "2026-11-03T22:56:15.809Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Jason Mazzer Plumbing & HVAC, LLC",
+  "category": "Plumber",
+  "address": "200 Floral Ln, Saddle Brook, NJ 07663, United States ",
+  "phone": "+1 201-615-6672 ",
+  "website": "http://mazzerplumbing.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Jason+Mazzer+Plumbing+%26+HVAC,+LLC/data=!4m7!3m6!1s0x89c2fbbe008b4fe7:0xd2b53ccd106dd17f!8m2!3d40.916253!4d-74.100395!16s%2Fg%2F1w6_prm4!19sChIJ50-LAL77wokRf9FtEM08tdI?hl=en",
+  "screenshot": "evidence/screenshots/jason-mazzer-plumbing-hvac-llc/google-maps-listing.png"
+}

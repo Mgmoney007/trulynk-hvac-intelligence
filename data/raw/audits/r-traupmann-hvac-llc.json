@@ -1,0 +1,1217 @@
+{
+  "id": "r-traupmann-hvac-llc",
+  "name": "R Traupmann HVAC LLC",
+  "website": "https://www.rtraupmannhvac.com/",
+  "auditedAt": "2026-11-03T22:24:58.596Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.rtraupmannhvac.com/",
+      "at": "2026-11-03T22:25:02.366Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.rtraupmannhvac.com/",
+      "title": "Furnace Repair Wayne and Franklin Lakes NJ | R Traupmann HVAC",
+      "ms": 3725,
+      "error": null,
+      "linkCount": 69
+    },
+    {
+      "step": "desktop_booking",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.rtraupmannhvac.com/schedule",
+      "at": "2026-11-03T22:25:07.111Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.rtraupmannhvac.com/schedule",
+      "title": "Schedule Furnace Repair Wayne NJ | R Traupmann HVAC",
+      "ms": 3540,
+      "error": null,
+      "linkCount": 48
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.rtraupmannhvac.com/",
+      "at": "2026-11-03T22:25:53.178Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.rtraupmannhvac.com/",
+      "title": "Furnace Repair Wayne and Franklin Lakes NJ | R Traupmann HVAC",
+      "ms": 3462,
+      "error": null,
+      "linkCount": 69
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.rtraupmannhvac.com/",
+    "title": "Furnace Repair Wayne and Franklin Lakes NJ | R Traupmann HVAC",
+    "lang": "en",
+    "metaDescription": "R Traupmann HVAC is your trusted source for AC repair in Wayne and Franklin Lakes. With over 44 years of experience, we offer reliable and high-quality HVAC solutions, competitive pricing, and guaranteed workmanship. Call us today for all your heating and",
+    "h1": [
+      "WAYNE AND FRANKLIN LAKES’S ONE MAN SHOP FOR FURNACE NEEDS"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 7208,
+    "bodyText": "AC \nHeating \nIAQ\nProducts \nAbout Us \nContact Us \n(973) 772-8422\nWAYNE AND FRANKLIN LAKES’S ONE MAN SHOP FOR FURNACE NEEDS\nYOUR COMFORT IS OUR BUSINESS\n\nOur owner brings over 45 years of experience to your home’s heating and cooling problems. We know Northern New Jersey and tackle your HVAC problems professionally.\n\nCALL (973) 772-8422 TODAY SCHEDULE SERVICE\nA TRUSTED AND RELIABLE SOURCE FOR WAYNE HVAC SERVICES\n\nStarted in 1981, R Traupmann brings over 45 years of HVAC expertise to homes in Wayne and Franklin Lakes. Our team is dedicated to providing reliable, high-quality solutions on every job. This is true not only for Furnace repair in Wayne but system installation and customized ductwork as well. To ensure efficiency, we also offer a variety of insulation services.\n\nYou can count on us to make any part of Northern New Jersey feel like home.\n\nAmong the best HVAC companies in Wayne, we offer competitive pricing, and guaranteed workmanship. Our warranties include one year on repairs and up to five years on system replacements. With R Traupmann on the job, you can trust your investment is protected.\n\nDon’t put off comfort in Franklin Lakes or Wayne. Call R Traupmann HVAC today to schedule heating or AC service!\n\nWAYS WE KEEP WAYNE COMFORTABLE\nHEATING\nAIR CONDITIONING\nVENTILATION\nINSULATION\nWHAT SETS R TRAUPMANN APART\nOver 45 years of HVAC experience\nComprehensive guarantees for every type of HVAC service\nNATE and NORA-certified technicians\nFull-service sheet metal shop for custom ductwork\nA small team means less red tape and bureaucracy\nWE WORK HARD TO ENSURE YOUR SATISFACTION\nSAME-DAY SERVICE\n\nWe’ll get to your furnace repair within 24 hours.\n\n5-YEAR EQUIPMENT GUARANTEES\n\nYour new boiler or furnace is guaranteed 5 years after install.\n\n1-YEAR REPAIR GUARANTEE\n\nWhen you call us for Wayne furnace or AC repair, you’ll get twelve months worth of peace of mind.\n\nWE SERVICE ALL BRANDS\nPROUD TO SERVICE NORTHERN NEW JERSEY\nBelleville\nBergenfield\nBloomfield\nBloomingdale\nBogota\nBrooklyn\nCaldwell\nCanal Street\nCarlstadt\nCedar Grove\nCliffside Park\nClifton\nCloster\nCresskill\nDemarest\nDumont\nEast Newark\nEast Orange\nEast Rutherford\nEdgewater\nElmwood Park\nEmerson\nEnglewood\nEssex Fells\nFair Lawn\nFairfield\nFairview\nFort Lee\nFranklin Lakes\nGarfield\nGlen Ridge\nGlen Rock\nHackensack\nHaledon\nHarrington Park\nHarrison\nHasbrouck Heights\nHaworth\nHawthorne\nHillsdale\nHo Ho Kus\nHoboken\nJersey City\nKearny\nLeonia\nLincoln Park\nLittle Falls\nLittle Ferry\nLivingston\nLodi\nLyndhurst\nMaywood\nMidland Park\nMontclair\nMoonachie\nNew Milford\nNew York\nNewark\nNorth Arlington\nNorth Bergen\nNorth Haledon\nNorth Montclair\nNorwood\nNutley\nOradell\nOrange\nPalisades Park\nParamus\nPassaic\nPaterson\nPequannock\nPompton Lakes\nPompton Plains\nRidgefield\nRidgefield Park\nRidgewood\nRiver Edge\nRiverdale\nRivervale\nRochelle Park\nRoseland\nRutherford\nSaddle Brook\nSecaucus\nShort Hills\nSouth Hackensack\nSouth Orange\nTeaneck\nTenafly\nTeterboro\nTotowa\nUnion City\nUpper Montclair\nVerona\nWaldwick\nWallington\nWashington Township\nWayne\nWeehawken\nWest Caldwell\nWest New York\nWest Orange\nWest Paterson\nWestwood\nWood Ridge\nWoodcliff Lake\nWoodland Park\nWyckoff\nUse scroll bar at right to see all cities we service\nHELPING NORTHERN NEW JERSEY\nSAVE ON HVAC SERVICE\n10% OFF\nSenior & Veteran Discount\n$125.00 OFF\nNew Furnace Installation\n$125.00 OFF\nNew Air Conditioner Installation\nREPAIRING VERSUS REPLACING\n- MAKE THE RIGHT INVESTMENT\n\nYour Furnace works hard to keep your home comfortable. But, when it breaks down, how do you know if repair or replacement is needed?\n\nIf your system is under 10 years old and the issue is minor—like a faulty ignitor or a clogged filter, Furnace repair is usually the way to go. But if your Furnace is pushing 15 years, needs frequent fixes, or isn’t keeping up with your HVAC needs, a new unit might be the smarter investment.\n\nA newer system will be more efficient, saving you money on energy bills and unexpected breakdowns. Not sure which option is right for you? R Traupmann can help you weigh the pros and cons.\n\nINSTALL A HEAT PUMP EXPLORE NEW AC OPTIONS GET A QUOTE ON A NEW FURNACE\nCHOOSE A WAYNE HVAC COMPANY WITH A SHEET METAL SHOP\n\nA company with an in-house sheet metal shop can design and fabricate ductwork that’s made specifically for your system, ensuring better airflow, higher efficiency, and fewer leaks. That means your home stays more comfortable, and you won’t waste money on lost energy.\n\nPlus, if you ever need a quick furnace repair or modification, there’s no waiting on outside suppliers. When you need HVAC work done right in Wayne, go with a company that builds from the ducts up.\n\nHAVE QUESTIONS ABOUT Furnace SERVICE? NEED SAME-DAY SERVICE?\n\nReach out to our team for down-to-earth advice. We’re in this to ensure your comfort.\n\nCALL (973) 772-8422 TODAY SCHEDULE SERVICE\n(973) 772-8422\nHOURS\n\nMonday - Friday 8:00 am - 5:00 pm\nEmergency Service Available\n\nPAYMENT OPTIONS\n  \n   \nCONNECT\n  \nLOCATION\n\n262 Parker Ave Clifton, NJ 07011\n\nHome Improvement License: #13VH05069500\nMaster HVACR License: #19HC00330300\n\nHOME ABOUT US CONTACT SERVICES REVIEWS\nPowered by Online Access All Rights Reserved © 2001-2026\nPrivacy Policy | Terms and Conditions",
+    "links": [
+      {
+        "href": "/",
+        "abs": "https://www.rtraupmannhvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 380,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.rtraupmannhvac.com/#",
+        "text": "AC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 64,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-repair",
+        "abs": "https://www.rtraupmannhvac.com/ac-repair",
+        "text": "AC Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-replacement",
+        "abs": "https://www.rtraupmannhvac.com/ac-replacement",
+        "text": "AC Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-maintenance",
+        "abs": "https://www.rtraupmannhvac.com/ac-maintenance",
+        "text": "AC Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac",
+        "abs": "https://www.rtraupmannhvac.com/commercial-hvac",
+        "text": "Commercial HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split",
+        "abs": "https://www.rtraupmannhvac.com/ductless-mini-split",
+        "text": "Ductless Mini-Splits",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.rtraupmannhvac.com/#",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 108,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/furnace-repair",
+        "abs": "https://www.rtraupmannhvac.com/furnace-repair",
+        "text": "Furnace Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/furnace-replacement",
+        "abs": "https://www.rtraupmannhvac.com/furnace-replacement",
+        "text": "Furnace Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/furnace-maintenance",
+        "abs": "https://www.rtraupmannhvac.com/furnace-maintenance",
+        "text": "Furnace Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/boiler-service",
+        "abs": "https://www.rtraupmannhvac.com/boiler-service",
+        "text": "Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heat-pump-service",
+        "abs": "https://www.rtraupmannhvac.com/heat-pump-service",
+        "text": "Heat Pumps",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac",
+        "abs": "https://www.rtraupmannhvac.com/commercial-hvac",
+        "text": "Commercial HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality",
+        "abs": "https://www.rtraupmannhvac.com/indoor-air-quality",
+        "text": "IAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 49,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.rtraupmannhvac.com/#",
+        "text": "Products",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 119,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/webapp/p/203/lochnivar-",
+        "abs": "https://www.rtraupmannhvac.com/webapp/p/203/lochnivar-",
+        "text": "Lochnivar",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.rtraupmannhvac.com/#",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 120,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://www.rtraupmannhvac.com/reviews",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.rtraupmannhvac.com/about-us",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/guarantees",
+        "abs": "https://www.rtraupmannhvac.com/guarantees",
+        "text": "Our Guarantees",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/promotions",
+        "abs": "https://www.rtraupmannhvac.com/promotions",
+        "text": "Special Offers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing",
+        "abs": "https://www.rtraupmannhvac.com/financing",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/webapp/p/410/available-tax-credits",
+        "abs": "https://www.rtraupmannhvac.com/webapp/p/410/available-tax-credits",
+        "text": "Tax Credits",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/webapp/p/411/what-you-can-expect-from-us",
+        "abs": "https://www.rtraupmannhvac.com/webapp/p/411/what-you-can-expect-from-us",
+        "text": "What To Expect",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-plan",
+        "abs": "https://www.rtraupmannhvac.com/maintenance-plan",
+        "text": "Annual Maintenance Benefits",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.rtraupmannhvac.com/#",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 137,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.rtraupmannhvac.com/contact",
+        "text": "Hours and Location",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/schedule",
+        "abs": "https://www.rtraupmannhvac.com/schedule",
+        "text": "Schedule Service",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/employment",
+        "abs": "https://www.rtraupmannhvac.com/employment",
+        "text": "Join Our Team",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:9737728422",
+        "abs": "tel:9737728422",
+        "text": "(973) 772-8422",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 223,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 772-8422",
+        "abs": "tel:(973) 772-8422",
+        "text": "CALL (973) 772-8422 TODAY",
+        "visible": true,
+        "aboveFold": true,
+        "h": 43,
+        "w": 317,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/schedule",
+        "abs": "https://www.rtraupmannhvac.com/schedule",
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 43,
+        "w": 243,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.rtraupmannhvac.com/about-us",
+        "text": "R Traupmann",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 106,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/webapp/p/411/what-you-can-expect-from-us",
+        "abs": "https://www.rtraupmannhvac.com/webapp/p/411/what-you-can-expect-from-us",
+        "text": "reliable, high-quality solutions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 232,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ductwork-services",
+        "abs": "https://www.rtraupmannhvac.com/ductwork-services",
+        "text": "customized ductwork",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 1103,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/insulation-service",
+        "abs": "https://www.rtraupmannhvac.com/insulation-service",
+        "text": "insulation services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 146,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/guarantees",
+        "abs": "https://www.rtraupmannhvac.com/guarantees",
+        "text": "guaranteed workmanship",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 201,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/schedule",
+        "abs": "https://www.rtraupmannhvac.com/schedule",
+        "text": "schedule heating or AC service",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 250,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-service",
+        "abs": "https://www.rtraupmannhvac.com/heating-service",
+        "text": "furnace",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heat-pump-service",
+        "abs": "https://www.rtraupmannhvac.com/heat-pump-service",
+        "text": "heat pump services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split",
+        "abs": "https://www.rtraupmannhvac.com/ductless-mini-split",
+        "text": "ductless",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-repair",
+        "abs": "https://www.rtraupmannhvac.com/ac-repair",
+        "text": "cooling repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ductwork-services",
+        "abs": "https://www.rtraupmannhvac.com/ductwork-services",
+        "text": "ductwork",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/duct-cleaning",
+        "abs": "https://www.rtraupmannhvac.com/duct-cleaning",
+        "text": "clean ducts",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/insulation-service",
+        "abs": "https://www.rtraupmannhvac.com/insulation-service",
+        "text": "insulation services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.rtraupmannhvac.com/contact",
+        "text": "repair within 24 hours",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 170,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/guarantees",
+        "abs": "https://www.rtraupmannhvac.com/guarantees",
+        "text": "guaranteed 5 years after install",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 243,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-repair",
+        "abs": "https://www.rtraupmannhvac.com/ac-repair",
+        "text": "AC repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 71,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heat-pump-installation",
+        "abs": "https://www.rtraupmannhvac.com/heat-pump-installation",
+        "text": "INSTALL A HEAT PUMP",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 268,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-installation",
+        "abs": "https://www.rtraupmannhvac.com/ac-installation",
+        "text": "EXPLORE NEW AC OPTIONS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 314,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/furnace-installation",
+        "abs": "https://www.rtraupmannhvac.com/furnace-installation",
+        "text": "GET A QUOTE ON A NEW FURNACE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 379,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/furnace-repair",
+        "abs": "https://www.rtraupmannhvac.com/furnace-repair",
+        "text": "furnace repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 109,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 772-8422",
+        "abs": "tel:(973) 772-8422",
+        "text": "CALL (973) 772-8422 TODAY",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 317,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/schedule",
+        "abs": "https://www.rtraupmannhvac.com/schedule",
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 43,
+        "w": 243,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.rtraupmannhvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 47,
+        "w": 380,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:9737728422",
+        "abs": "tel:9737728422",
+        "text": "(973) 772-8422",
+        "visible": true,
+        "aboveFold": false,
+        "h": 38,
+        "w": 223,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/people/R-Traupmann-HVAC/100057519216073/",
+        "abs": "https://www.facebook.com/people/R-Traupmann-HVAC/100057519216073/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 32,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "",
+        "abs": "https://www.rtraupmannhvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 24,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/email",
+        "abs": "https://www.rtraupmannhvac.com/email",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 48,
+        "w": 32,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/",
+        "abs": "https://www.rtraupmannhvac.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 57,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.rtraupmannhvac.com/about-us",
+        "text": "ABOUT US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 95,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.rtraupmannhvac.com/contact",
+        "text": "CONTACT",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 90,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/hvac-service",
+        "abs": "https://www.rtraupmannhvac.com/hvac-service",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 91,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/reviews",
+        "abs": "https://www.rtraupmannhvac.com/reviews",
+        "text": "REVIEWS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 83,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.hvacwebsites.com",
+        "abs": "https://www.hvacwebsites.com/",
+        "text": "Online Access",
+        "visible": true,
+        "aboveFold": false,
+        "h": 14,
+        "w": 82,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://terms.online-access.com/webapp/p/2/reserved-rights?co=1",
+        "abs": "https://terms.online-access.com/webapp/p/2/reserved-rights?co=1",
+        "text": "All Rights Reserved © 2001-2026",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 149,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/privacy-policy",
+        "abs": "https://www.rtraupmannhvac.com/privacy-policy",
+        "text": "Privacy Policy | Terms and Conditions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 169,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/Privacy-Policy",
+        "abs": "https://www.rtraupmannhvac.com/Privacy-Policy",
+        "text": "Privacy Policy",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "AC",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Products",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Accept all",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Reject non-essential",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6815.287454844582!2d-74.12713363292663!3d40.879846603872075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f94b2db46659%3A0x4fbf795106f9ef27!2s262%20Parker%20Ave%2C%20Clifton%2C%20NJ%2007011!5e0!3m2!1sen!2sus!4v1743709827000!5m2!1sen!2sus"
+    ],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/destination?id=AW-123456&cx=c&gtm=4e6b20",
+      "https://unpkg.com/web-vitals/dist/web-vitals.iife.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-L7BLXM7CSC&cx=c&gtm=4e6b20",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-TVHKSB8N",
+      "https://kit.fontawesome.com/5b7a39f0c6.js",
+      "https://code.jquery.com/jquery-3.5.1.min.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/123456/?random=1793744700935&cv=11&fst=1793744700935&bg=ffffff&guid=ON&async=1&gtm=45be6b20z89220045871za20gzb9220045871zd9220045871xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938468~118897920~118897930~120385423~120469145~120469153~121246026~121246034~123691370~123692836~123814184~123814946&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.rtraupmannhvac.com%2F&rcb=9&frm=0&tiba=Furnace%20Repair%20Wayne%20and%20Franklin%20Lakes%20NJ%20%7C%20R%20Traupmann%20HVAC&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1269321767.1793744701&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&ept=9&rfmt=3&fmt=4",
+      "https://www.rtraupmannhvac.com/js/widgets/gglReviewWidget/ReviewWidget.min.js",
+      "https://www.rtraupmannhvac.com/js/widgets/reviewWidget/OArwInit.min.js",
+      "https://www.rtraupmannhvac.com/js/Bootstrap4/bootstrap.min.js",
+      "https://www.rtraupmannhvac.com/js/widgets/oaAccordion/oaAccordion.min.js",
+      "https://www.rtraupmannhvac.com/js/widgets/OAcarousel/intScript.min.js",
+      "https://www.rtraupmannhvac.com/js/globalScripts.min.js",
+      "https://www.rtraupmannhvac.com/js/widgets/cookieCheck/cookiePopup.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "http://schema.org",
+        "@type": [
+          "HVACBusiness",
+          "GeneralContractor"
+        ],
+        "priceRange": "Varies per service",
+        "openingHours": [
+          "Mo 08:00-17:00",
+          "Tu 08:00-17:00",
+          "We 08:00-17:00",
+          "Th 08:00-17:00",
+          "Fr 08:00-17:00"
+        ],
+        "description": "R Traupmann HVAC is your trusted source for AC repair in Wayne and Franklin Lakes. With over 44 years of experience, we offer reliable and high-quality HVAC solutions, competitive pricing, and guaranteed workmanship. Call us today for all your heating and",
+        "name": "R Traupmann HVAC",
+        "alternateName": [
+          "R Traupmann"
+        ],
+        "telephone": "(973) 772-8422",
+        "image": "rtraupmannhvac.com/wahelper/GetImage?id=623060&width=100&height=100",
+        "@id": "rtraupmannhvac.com#2699",
+        "areaServed": "Northern New Jersey",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "262 Parker Ave",
+          "addressLocality": "Clifton",
+          "addressRegion": "NJ",
+          "postalCode": "07011",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 19,
+    "timing": {
+      "dcl": 1987,
+      "load": 3022,
+      "ttfb": 764
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)"
+    ],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://www.rtraupmannhvac.com/",
+    "navMs": 3725,
+    "tel": [
+      {
+        "href": "tel:9737728422",
+        "text": "(973) 772-8422",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737728422"
+      },
+      {
+        "href": "tel:(973) 772-8422",
+        "text": "CALL (973) 772-8422 TODAY",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737728422"
+      },
+      {
+        "href": "tel:(973) 772-8422",
+        "text": "CALL (973) 772-8422 TODAY",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737728422"
+      },
+      {
+        "href": "tel:9737728422",
+        "text": "(973) 772-8422",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737728422"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.rtraupmannhvac.com/",
+    "navMs": 3462,
+    "timing": {
+      "dcl": 1721,
+      "load": 2934,
+      "ttfb": 761
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:9737728422",
+        "text": "(973) 772-8422",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737728422"
+      },
+      {
+        "href": "tel:(973) 772-8422",
+        "text": "CALL (973) 772-8422 TODAY",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737728422"
+      },
+      {
+        "href": "tel:(973) 772-8422",
+        "text": "CALL (973) 772-8422 TODAY",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737728422"
+      },
+      {
+        "href": "tel:9737728422",
+        "text": "(973) 772-8422",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19737728422"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 2,
+    "brokenImages": [],
+    "textChars": 5134
+  },
+  "pages": {
+    "booking": {
+      "url": "https://www.rtraupmannhvac.com/schedule",
+      "finalUrl": "https://www.rtraupmannhvac.com/schedule",
+      "status": 200,
+      "title": "Schedule Furnace Repair Wayne NJ | R Traupmann HVAC",
+      "forms": [
+        {
+          "action": "/DynamicForm/ProcessFormWithFile",
+          "method": "post",
+          "id": "scheduleservice",
+          "cls": " form-horizontal",
+          "fieldCount": 22,
+          "fieldNames": [
+            "scheduleservice_radiobuttongroup_1",
+            "scheduleservice_radiobuttongroup_1",
+            "scheduleservice_radiobuttongroup_2",
+            "scheduleservice_radiobuttongroup_2",
+            "scheduleservice_namemodule_3[0]",
+            "scheduleservice_namemodule_3[1]",
+            "scheduleservice_addressmodule_4[0]",
+            "scheduleservice_addressmodule_4[1]",
+            "scheduleservice_addressmodule_4[2]",
+            "scheduleservice_addressmodule_4[3]",
+            "scheduleservice_email_5",
+            "scheduleservice_email_5_confirmation",
+            "scheduleservice_phone_6",
+            "scheduleservice_checkboxlist_8",
+            "scheduleservice_phone_9",
+            "scheduleservice_checkboxlist_10",
+            "scheduleservice_dropdown_12",
+            "scheduleservice_textarea_13",
+            "scheduleservice_textarea_14",
+            "scheduleservice_fileinput_15"
+          ],
+          "visible": true,
+          "hasSubmit": false,
+          "submitDisabled": null,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf4FsQZAAAAAPXMPVthMdLdCzCWsXjlPWwcQUj9&co=aHR0cHM6Ly93d3cucnRyYXVwbWFubmh2YWMuY29tOjQ0Mw..&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=normal&anchor-ms=20000&execute-ms=30000&cb=g9l91l39c8tf",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6815.287454844582!2d-74.12713363292663!3d40.879846603872075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f94b2db46659%3A0x4fbf795106f9ef27!2s262%20Parker%20Ave%2C%20Clifton%2C%20NJ%2007011!5e0!3m2!1sen!2sus!4v1743709827000!5m2!1sen!2sus",
+        "https://www.google.com/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&k=6Lf4FsQZAAAAAPXMPVthMdLdCzCWsXjlPWwcQUj9&bft=0dAFcWeA5j3dkFT6ZUcufn3ZtR03wQYm2m4mRVMbvjBtW1FgA-7QjHQgVXe5Oajzx_4wuG-CDS-D1NoPRPGDN4_wSDlqthEWJq2w"
+      ],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:9737728422",
+          "text": "(973) 772-8422",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19737728422"
+        },
+        {
+          "href": "tel:9737728422",
+          "text": "(973) 772-8422",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19737728422"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Schedule Service\nAC \nHeating \nIAQ\nProducts \nAbout Us \nContact Us \n(973) 772-8422\nSchedule Quote or Service Request\nSchedule Request Form\n\nIn order to better schedule your request, all fields marked with an * are required.\n\nContact Info\nAre you an existing customer?\nYes\nNo\nAre you the owner/tenant at this address?\nOwner\nTenant\n*First Name:\n*Last Name:\n*Address:\n*City:\n*State/Province:\n*Postal Code:\n*Email:\n*Email Confirmation:\n*Primary Phone Number:\nCan the above number receive texts?\nYes\nSecondary Phone Number:\nCan the above number receive texts?\nYes\nAppointment Type Requested\nI am requesting an appointment for:\nService\nNew/Replacement Equipment\nGeneral Information Request\nBest time to contact you?:\nNature of problem or additional comments:\nFeel free to upload a picture as well:\nSubmit\nBy submitting this form, you are agreeing to receive SMS or email informational, appointment, and marketing messages from R Traupmann HVAC. Message frequency may vary. Standard Message and Data Rates may apply. Reply STOP to opt out, or reply HELP for assistance. View our Privacy Policy\n(973) 772-8422\nHOURS\n\nMonday - Friday 8:00 am - 5:00 pm\nEmergency Service Available\n\nPAYMENT OPTIONS\n  \n   \nCONNECT\n  \nLOCATION\n\n262 Parker Ave Clifton, NJ 07011\n\nHome Improvement License: #13VH05069500\nMaster HVACR License: #19HC00330300\n\nHOME ABOUT US CONTACT SERVICES REVIEWS\nPowered by Online Access All Rights Reserved © 2001-2026\nPrivacy Policy | Terms and Conditions",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        }
+      ],
+      "links": [
+        "https://www.rtraupmannhvac.com/",
+        "https://www.rtraupmannhvac.com/schedule",
+        "https://www.rtraupmannhvac.com/schedule#",
+        "https://www.rtraupmannhvac.com/ac-repair",
+        "https://www.rtraupmannhvac.com/ac-replacement",
+        "https://www.rtraupmannhvac.com/ac-maintenance",
+        "https://www.rtraupmannhvac.com/commercial-hvac",
+        "https://www.rtraupmannhvac.com/ductless-mini-split",
+        "https://www.rtraupmannhvac.com/schedule#",
+        "https://www.rtraupmannhvac.com/furnace-repair",
+        "https://www.rtraupmannhvac.com/furnace-replacement",
+        "https://www.rtraupmannhvac.com/furnace-maintenance",
+        "https://www.rtraupmannhvac.com/boiler-service",
+        "https://www.rtraupmannhvac.com/heat-pump-service",
+        "https://www.rtraupmannhvac.com/commercial-hvac",
+        "https://www.rtraupmannhvac.com/indoor-air-quality",
+        "https://www.rtraupmannhvac.com/schedule#",
+        "https://www.rtraupmannhvac.com/webapp/p/203/lochnivar-",
+        "https://www.rtraupmannhvac.com/schedule#",
+        "https://www.rtraupmannhvac.com/reviews",
+        "https://www.rtraupmannhvac.com/about-us",
+        "https://www.rtraupmannhvac.com/guarantees",
+        "https://www.rtraupmannhvac.com/promotions",
+        "https://www.rtraupmannhvac.com/financing",
+        "https://www.rtraupmannhvac.com/webapp/p/410/available-tax-credits",
+        "https://www.rtraupmannhvac.com/webapp/p/411/what-you-can-expect-from-us",
+        "https://www.rtraupmannhvac.com/maintenance-plan",
+        "https://www.rtraupmannhvac.com/schedule#",
+        "https://www.rtraupmannhvac.com/contact",
+        "https://www.rtraupmannhvac.com/schedule",
+        "https://www.rtraupmannhvac.com/employment",
+        "https://www.rtraupmannhvac.com/privacy-policy",
+        "https://www.rtraupmannhvac.com/",
+        "https://www.rtraupmannhvac.com/schedule",
+        "https://www.rtraupmannhvac.com/email",
+        "https://www.rtraupmannhvac.com/",
+        "https://www.rtraupmannhvac.com/about-us",
+        "https://www.rtraupmannhvac.com/contact",
+        "https://www.rtraupmannhvac.com/hvac-service",
+        "https://www.rtraupmannhvac.com/reviews",
+        "https://www.rtraupmannhvac.com/privacy-policy",
+        "https://www.rtraupmannhvac.com/Privacy-Policy"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 35,
+    "at": "2026-11-03T22:25:48.813Z",
+    "statusCounts": {
+      "200": 35
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.rtraupmannhvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/r-traupmann-hvac-llc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/r-traupmann-hvac-llc/desktop-home-full.png",
+    "desktop_booking": "evidence/screenshots/r-traupmann-hvac-llc/desktop-booking.png",
+    "mobile_asis": "evidence/screenshots/r-traupmann-hvac-llc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00330300"
+    ],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": true,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "yearsClaim": 45,
+    "copyrightYear": 2026,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Schedule Service -> https://www.rtraupmannhvac.com/schedule",
+      "SCHEDULE SERVICE -> https://www.rtraupmannhvac.com/schedule",
+      "schedule heating or AC service -> https://www.rtraupmannhvac.com/schedule",
+      "GET A QUOTE ON A NEW FURNACE -> https://www.rtraupmannhvac.com/furnace-installation",
+      "SCHEDULE SERVICE -> https://www.rtraupmannhvac.com/schedule"
+    ]
+  }
+}

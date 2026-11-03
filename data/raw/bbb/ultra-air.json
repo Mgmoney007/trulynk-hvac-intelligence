@@ -1,0 +1,111 @@
+{
+  "id": "ultra-air",
+  "query": "Ultra Air",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Ultra%20Air&find_loc=Clifton%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:19:40.827Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": {
+    "ad": false,
+    "name": "Ultra Air, Inc",
+    "rating": "A+",
+    "phone": "(973) 450-1141",
+    "address": "Clifton, NJ 07014-1913",
+    "accredited": true,
+    "href": "https://www.bbb.org/us/nj/clifton/profile/air-conditioning-repair/ultra-air-inc-0221-90218029",
+    "basis": "phone",
+    "nameSimilarity": 1
+  },
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Air Press Massages",
+      "rating": "A+",
+      "phone": "(973) 244-0300",
+      "address": "79 Two Bridges Rd, Fairfield, NJ 07004-1029",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/fairfield/profile/product-development-and-marketing/telebrands-0221-19000531"
+    },
+    {
+      "ad": false,
+      "name": "Air Press Massages",
+      "rating": "A+",
+      "phone": "(973) 244-0300",
+      "address": "3 Telebrands Plz, Fairfield, NJ 07004",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/fairfield/profile/product-development-and-marketing/telebrands-0221-19000531/addressId/52845"
+    },
+    {
+      "ad": false,
+      "name": "Air Press Massages",
+      "rating": "A+",
+      "phone": "(973) 244-0300",
+      "address": "1 Telebrands Plz, Fairfield, NJ 07004-1060",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/fairfield/profile/product-development-and-marketing/telebrands-0221-19000531/addressId/20362"
+    },
+    {
+      "ad": false,
+      "name": "Ultra Clean Air",
+      "rating": "A+",
+      "phone": "(203) 845-0696",
+      "address": "Milford, CT 06461-1680",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ct/milford/profile/duct-cleaning/ultra-clean-air-0111-17001534"
+    },
+    {
+      "ad": false,
+      "name": "Ultra Air, Inc",
+      "rating": "A+",
+      "phone": "(973) 450-1141",
+      "address": "Clifton, NJ 07014-1913",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/clifton/profile/air-conditioning-repair/ultra-air-inc-0221-90218029"
+    },
+    {
+      "ad": false,
+      "name": "Ultra Air Heating & Air-Conditioning, LLC",
+      "rating": null,
+      "phone": "(973) 633-8484",
+      "address": "PO Box 512, Lincoln Park, NJ 07035-0512",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/lincoln-park/profile/heating-contractors/ultra-air-heating-air-conditioning-llc-0221-4004557"
+    },
+    {
+      "ad": false,
+      "name": "Ultra Enterprise Solutions, Inc. Heating & Air Conditioning",
+      "rating": "A+",
+      "phone": "(845) 267-6789",
+      "address": "471 Kings Highway, Valley Cottage , NY 10989-1442",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ny/valley-cottage-/profile/heating-and-air-conditioning/ultra-enterprise-solutions-inc-0121-59473"
+    },
+    {
+      "ad": false,
+      "name": "Air Press Massages",
+      "rating": "A+",
+      "phone": "(800) 887-2717",
+      "address": "700 Indian Springs Dr, Lancaster, PA 17601",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/pa/lancaster/profile/product-development-and-marketing/bulbhead-0241-236075224/addressId/343755"
+    },
+    {
+      "ad": false,
+      "name": "Ultra Pro Air-Tite Holders, LLC",
+      "rating": "A+",
+      "phone": "(800) 521-1248",
+      "address": "1560 Curran Hwy, Robert Hardman Industrial Park, North Adams, MA 01247",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ma/north-adams/profile/injection-molding/ultra-pro-air-tite-holders-llc-0261-320387"
+    },
+    {
+      "ad": false,
+      "name": "Air Press Massages",
+      "rating": "A+",
+      "phone": "(973) 244-0300",
+      "address": "41 Western Industrial Drive, Cranston, RI 02921",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/ri/cranston/profile/product-development-and-marketing/sterlington-collections-0021-136591/addressId/279332"
+    }
+  ],
+  "error": null
+}

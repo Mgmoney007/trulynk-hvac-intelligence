@@ -1,0 +1,710 @@
+{
+  "firecrawl": [],
+  "id": "ideal-climate-hvacr",
+  "name": "Ideal Climate HVACR",
+  "website": "http://idealclimatehvacr.com/",
+  "auditedAt": "2026-11-03T22:53:48.261Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://idealclimatehvacr.com/",
+      "at": "2026-11-03T22:53:59.256Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://idealclimatehvacr.com/",
+      "title": "Refrigeration Maintenance %%sep%% %%sitename%%",
+      "ms": 10959,
+      "error": null,
+      "linkCount": 28
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://idealclimatehvacr.com/contact/",
+      "at": "2026-11-03T22:54:09.403Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://idealclimatehvacr.com/contact/",
+      "title": "Contact Information %%sep%% %%sitename%%",
+      "ms": 9591,
+      "error": null,
+      "linkCount": 30
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://idealclimatehvacr.com/",
+      "at": "2026-11-03T22:54:24.647Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://idealclimatehvacr.com/",
+      "title": "Refrigeration Maintenance %%sep%% %%sitename%%",
+      "ms": 10185,
+      "error": null,
+      "linkCount": 28
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://idealclimatehvacr.com/",
+    "title": "Refrigeration Maintenance %%sep%% %%sitename%%",
+    "lang": "en-US",
+    "metaDescription": "We have strong experience in state of the art with a continue manufacture training and hands-on equipment. Learn More.",
+    "h1": [],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 2473,
+    "bodyText": "Skip to content\n\nMaster HVACR License # 299\n\nCall Us: (201) 865-4773\n\nHOME\n \nSERVICES\n \nCONTACT\n×\nHOME\nSERVICES\nCONTACT\nMaking Your\nComfort Our Priority\n\nOur Company is based on the belief that our customer’s need is of the utmost importance. Over the past two decades, we had been providing quality and efficient service to maintain our client's piece of mind to the highest level. As a result, a high percentage of our business is from repeated customers and referrals.\n\nWe keep up with new technologies with our constantly manufacture training and hands-on equipment to deliver quality service, better energy-efficient products and superior comfort level environment.\n\nLook forward to working with you. We value your visit to our Web and welcome the opportunity to earn your trust.\n\nWhat Customers Are Saying\nTim Anastasio\n\nCouldn't be happier with my experience with Ideal Climate HVACR. I was in quite a jam when my A/C compressor broke down, but Reynaldo came to the rescue and did a thorough inspection of the situation, and laid out my options. Very accommodating in terms of scheduling when they came to assess/repair/replace everything and reasonably priced. Highly recommend!\n\nSally Morales\n\nIf you want a professional, quality and reasonably priced job done ..., look no further. I had a wonderful experience when I called the company when my ac unit broke down. Reynaldo was knowledgeable and friendly, he listens and responded to all my questions and offered his expertise.... He was able to get my unit back up and running .... so happy with the service ... definitely would highly recommend it to anyone for the job!\n\nPrieto Soriano\n\nAll I can say is Reynaldo is the man. When I call\n\nIdeal Climate HVACR my mind is at ease he always reassures me when he comes that he will take care of the problem and he always does. I highly recommend him for all your HVAC and Commercial Refrigeration needs.\n\nAndrew Pacheco\n\nCalled Ideal Climate HVACR and a man named Reynaldo came in for the appointment. Had to repair my furnace after having some issues with heat. Very professional and showed up on time. Fixed the problem and was very reasonable overall on costs. Would recommend to others.\n\nPeter Chen\n\nI have been using Ideal Climate HVAC for many years. Reynaldo is very professional and responsible. He has fixed my A/C and furnaces. I'm extremely pleased with his work. Even once his van got rear-ended, he still came to my place to fix my AC. Truly professional!\n\nTim Anastasio\n\nCouldn't be happier with my experience with Ideal Climate HVACR. I was in quite a jam when my A/C compressor broke down, but Reynaldo came to the rescue and did a thorough inspection of the situation, and laid out my options. Very accommodating in terms of scheduling when they came to assess/repair/replace everything and reasonably priced. Highly recommend!\n\nSally Morales\n\nIf you want a professional, quality and reasonably priced job done ..., look no further. I had a wonderful experience when I called the company when my ac unit broke down. Reynaldo was knowledgeable and friendly, he listens and responded to all my questions and offered his expertise.... He was able to get my unit back up and running .... so happy with the service ... definitely would highly recommend it to anyone for the job!\n\nPrieto Soriano\n\nAll I can say is Reynaldo is the man. When I call\n\nIdeal Climate HVACR my mind is at ease he always reassures me when he comes that he will take care of the problem and he always does. I highly recommend him for all your HVAC and Commercial Refrigeration needs.\n\nAndrew Pacheco\n\nCalled Ideal Climate HVACR and a man named Reynaldo came in for the appointment. Had to repair my furnace after having some issues with heat. Very professional and showed up on time. Fixed the problem and was very reasonable overall on costs. Would recommend to others.\n\nPeter Chen\n\nI have been using Ideal Climate HVAC for many years. Reynaldo is very professional and responsible. He has fixed my A/C and furnaces. I'm extremely pleased with his work. Even once his van got rear-ended, he still came to my place to fix my AC. Truly professional!\n\nTim Anastasio\n\nCouldn't be happier with my experience with Ideal Climate HVACR. I was in quite a jam when my A/C compressor broke down, but Reynaldo came to the rescue and did a thorough inspection of the situation, and laid out my options. Very accommodating in terms of scheduling when they came to assess/repair/replace everything and reasonably priced. Highly recommend!\n\nSally Morales\n\nIf you want a professional, quality and reasonably priced job done ..., look no further. I had a wonderful experience when I called the company when my ac unit broke down. Reynaldo was knowledgeable and friendly, he listens and responded to all my questions and offered his expertise.... He was able to get my unit back up and running .... so happy with the service ... definitely would highly recommend it to anyone for the job!\n\nPrieto Soriano\n\nAll I can say is Reynaldo is the man. When I call\n\nIdeal Climate HVACR my mind is at ease he always reassures me when he comes that he will take care of the problem and he always does. I highly recommend him for all your HVAC and Commercial Refrigeration needs.\n\nAndrew Pacheco\n\nCalled Ideal Climate HVACR and a man named Reynaldo came in for the appointment. Had to repair my furnace after having some issues with heat. Very professional and showed up on time. Fixed the problem and was very reasonable overall on costs. Would recommend to others.\n\nPeter Chen\n\nI have been using Ideal Climate HVAC for many years. Reynaldo is very professional and responsible. He has fixed my A/C and furnaces. I'm extremely pleased with his work. Even once his van got rear-ended, he still came to my place to fix my AC. Truly professional!\n\nPrevious\nNext\nExplore Our Services\nHOME\nSERVICES\nCONTACT\n\nUnion City, New Jersey\n\nCall Us: (201) 865-4773\n\nidealclimatehvacr@gmail.com\n\n© 2026, Ideal Climate HVACR. All Rights Reserved.",
+    "links": [
+      {
+        "href": "#fl-main-content",
+        "abs": "https://idealclimatehvacr.com/#fl-main-content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": true,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12018654773",
+        "abs": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": true,
+        "aboveFold": true,
+        "h": 27,
+        "w": 134,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 27,
+        "w": 150,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 27,
+        "w": 745,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 48,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/services/",
+        "abs": "https://idealclimatehvacr.com/services/",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 74,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/contact/",
+        "abs": "https://idealclimatehvacr.com/contact/",
+        "text": "CONTACT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 73,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 48,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/services/",
+        "abs": "https://idealclimatehvacr.com/services/",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 74,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/contact/",
+        "abs": "https://idealclimatehvacr.com/contact/",
+        "text": "CONTACT",
+        "visible": true,
+        "aboveFold": true,
+        "h": 30,
+        "w": 73,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12018654773",
+        "abs": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/services/",
+        "abs": "https://idealclimatehvacr.com/services/",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/contact/",
+        "abs": "https://idealclimatehvacr.com/contact/",
+        "text": "Contact",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/services/",
+        "abs": "https://idealclimatehvacr.com/services/",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com/contact/",
+        "abs": "https://idealclimatehvacr.com/contact/",
+        "text": "Contact",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://idealclimatehvacr.com/services",
+        "text": "Explore Our Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 58,
+        "w": 220,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://idealclimatehvacr.com",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 97,
+        "w": 97,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://idealclimatehvacr.com",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 331,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://idealclimatehvacr.com/",
+        "abs": "https://idealclimatehvacr.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 83,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://idealclimatehvacr.com/services/",
+        "abs": "https://idealclimatehvacr.com/services/",
+        "text": "SERVICES",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 111,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://idealclimatehvacr.com/contact/",
+        "abs": "https://idealclimatehvacr.com/contact/",
+        "text": "CONTACT",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 111,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "https://goo.gl/maps/jt8JqqQNVG3JoAp9A",
+        "abs": "https://goo.gl/maps/jt8JqqQNVG3JoAp9A",
+        "text": "Union City, New Jersey",
+        "visible": true,
+        "aboveFold": false,
+        "h": 32,
+        "w": 202,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+12018654773",
+        "abs": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": true,
+        "aboveFold": false,
+        "h": 32,
+        "w": 134,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:idealclimatehvacr@gmail.com",
+        "abs": "mailto:idealclimatehvacr@gmail.com",
+        "text": "idealclimatehvacr@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 32,
+        "w": 273,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://idealclimatehvacr.com/#",
+        "text": "Scroll To Top",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Go to slide 1",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 2",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 3",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 4",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Go to slide 5",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Explore Our Services",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://idealclimatehvacr.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://idealclimatehvacr.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://idealclimatehvacr.com/wp-includes/js/imagesloaded.min.js?ver=7.1.4",
+      "https://idealclimatehvacr.com/wp-content/plugins/pws-core/public/js/GD-cORe-public.js?ver=4.0.0",
+      "https://idealclimatehvacr.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=4.3.6",
+      "https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js",
+      "https://idealclimatehvacr.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://idealclimatehvacr.com/wp-content/plugins/bbpowerpack/assets/js/swiper.jquery.min.js?ver=4.4.6",
+      "https://idealclimatehvacr.com/wp-content/uploads/bb-plugin/cache/8-layout.js?ver=63d0f6ac920154b03cb2417b8a55c263",
+      "https://idealclimatehvacr.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=3.1.17",
+      "https://idealclimatehvacr.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.7.3.1",
+      "https://idealclimatehvacr.com/wp-content/uploads/bb-plugin/cache/a0c1e90d33b454fc018eef7d6c508ab8-layout-bundle.js?ver=2.7.3.1-1.4.8",
+      "https://idealclimatehvacr.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.7.3.1",
+      "https://idealclimatehvacr.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.12.1",
+      "https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 23,
+    "timing": {
+      "dcl": 2487,
+      "load": 2933,
+      "ttfb": 486
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://idealclimatehvacr.com/",
+    "navMs": 10959,
+    "tel": [
+      {
+        "href": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018654773"
+      },
+      {
+        "href": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018654773"
+      },
+      {
+        "href": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018654773"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      },
+      {
+        "name": "GoDaddy Builder",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://idealclimatehvacr.com/",
+    "navMs": 10185,
+    "timing": {
+      "dcl": 1967,
+      "load": 2157,
+      "ttfb": 232
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018654773"
+      },
+      {
+        "href": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018654773"
+      },
+      {
+        "href": "tel:+12018654773",
+        "text": "(201) 865-4773",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12018654773"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "CONTACT",
+      "CONTACT"
+    ],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 5,
+    "brokenImages": [],
+    "textChars": 5985
+  },
+  "pages": {
+    "contact": {
+      "url": "https://idealclimatehvacr.com/contact/",
+      "finalUrl": "https://idealclimatehvacr.com/contact/",
+      "status": 200,
+      "title": "Contact Information %%sep%% %%sitename%%",
+      "forms": [
+        {
+          "action": "/contact/#gf_1",
+          "method": "post",
+          "id": "gform_1",
+          "cls": "",
+          "fieldCount": 6,
+          "fieldNames": [
+            "input_1",
+            "input_9",
+            "input_4",
+            "input_5",
+            "g-recaptcha-response",
+            "input_10"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfopbkjAAAAANroSqlqDPkKJ-gBZv-64Z0dUd_r&co=aHR0cHM6Ly9pZGVhbGNsaW1hdGVodmFjci5jb206NDQz&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&theme=light&size=normal&anchor-ms=20000&execute-ms=30000&cb=d256cm5md8jt",
+        "about:blank",
+        "https://www.google.com/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&k=6LfopbkjAAAAANroSqlqDPkKJ-gBZv-64Z0dUd_r&bft=0dAFcWeA5_qf1BiYKVQke5n2sU5lG8kgA3zr-htZYyO791LGu2gSoBjznTIWp59nQbbMtWwEsI2W3p4h9xOnidpkwtYMH3neHoJw"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "idealclimatehvacr@gmail.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+12018654773",
+          "text": "(201) 865-4773",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018654773"
+        },
+        {
+          "href": "tel:+12018654773",
+          "text": "(201) 865-4773",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018654773"
+        },
+        {
+          "href": "tel:+12018654773",
+          "text": "(201) 865-4773",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018654773"
+        },
+        {
+          "href": "tel:+12018654773",
+          "text": "(201) 865-4773",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12018654773"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n\nMaster HVACR License # 299\n\nCall Us: (201) 865-4773\n\nHOME\n \nSERVICES\n \nCONTACT\n×\nHOME\nSERVICES\nCONTACT\nReach Out Today\nGet In Touch For Additional\nInformation\n\nUnion City, New Jersey\n\nCall Us: (201) 865-4773\n\nidealclimatehvacr@gmail.com\n\nMon - Fri: 8:30 AM – 5:30 PM\nSat: 9:00 AM – 3:30 PM\nSun: Closed\n\nSend Us a Message\n\nName(Required)\nPhone(Required)\nEmail(Required)\nMessage(Required)\nCAPTCHA\nHOME\nSERVICES\nCONTACT\n\nUnion City, New Jersey\n\nCall Us: (201) 865-4773\n\nidealclimatehvacr@gmail.com\n\n© 2026, Ideal Climate HVACR. All Rights Reserved.",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "GoDaddy Builder",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://idealclimatehvacr.com/contact/#fl-main-content",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/services/",
+        "https://idealclimatehvacr.com/contact/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/services/",
+        "https://idealclimatehvacr.com/contact/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/services/",
+        "https://idealclimatehvacr.com/contact/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/services/",
+        "https://idealclimatehvacr.com/contact/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/",
+        "https://idealclimatehvacr.com/services/",
+        "https://idealclimatehvacr.com/contact/",
+        "https://idealclimatehvacr.com/contact/#"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 4,
+    "at": "2026-11-03T22:54:13.379Z",
+    "statusCounts": {
+      "200": 4
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://idealclimatehvacr.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/ideal-climate-hvacr/desktop-home.png",
+    "desktop_full": "evidence/screenshots/ideal-climate-hvacr/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/ideal-climate-hvacr/desktop-contact.png",
+    "mobile_asis": "evidence/screenshots/ideal-climate-hvacr/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": true,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "copyrightYear": 2026,
+    "emails": [
+      "idealclimatehvacr@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

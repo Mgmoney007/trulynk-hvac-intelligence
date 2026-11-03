@@ -1,0 +1,2132 @@
+{
+  "firecrawl": [],
+  "id": "grc-mechanical-services",
+  "name": "grc-mechanical-services",
+  "website": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "auditedAt": "2026-11-03T23:38:49.395Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "at": "2026-11-03T23:38:54.425Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "title": "GRC Mechanical | Expert HVAC Services in Bergen County, NJ",
+      "ms": 4994,
+      "error": null,
+      "linkCount": 116
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+      "at": "2026-11-03T23:39:03.096Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+      "title": "Contact Us | GRC Mechanical Services",
+      "ms": 6847,
+      "error": null,
+      "linkCount": 108
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://grcmechanical.com/about/",
+      "at": "2026-11-03T23:39:06.109Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://grcmechanical.com/about/",
+      "title": "About Us | GRC Mechanical Services",
+      "ms": 2591,
+      "error": null,
+      "linkCount": 108
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "at": "2026-11-03T23:40:22.451Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "title": "GRC Mechanical | Expert HVAC Services in Bergen County, NJ",
+      "ms": 3766,
+      "error": null,
+      "linkCount": 116
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "title": "GRC Mechanical | Expert HVAC Services in Bergen County, NJ",
+    "lang": "en-US",
+    "metaDescription": "GRC Mechanical Services offers Heating, Air Conditioning, Refrigeration, & more services to Residential, Commercial, and Industrial clients in New Jersey.",
+    "h1": [
+      "HVAC Solutions to Make Life More Comfortable"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5922,
+    "bodyText": "Skip to content\n\nSave Up to $5,900 in Rebates With a New Carrier Dual Fuel Heat Pump • SAVE NOW \n\nServing Northern New Jersey\n& Rockland County\n\n1-800-651-8222\n\nGET A QUOTE\nSCHEDULE SERVICE\nASK A TECH\nResidential Services\nCommercial Services\nContact Us\nService Areas\nAbout\nHVAC Solutions to Make Life More Comfortable\n\nWe work hard to make sure you get the cooling, heating, refrigeration, and generator services you need to enjoy a more comfortable and productive environment in your home or business.\n\nWHY CHOOSE GRC\n\nCONTACT US\n\nName\n\n\nEmail\n\n\nPhone\n\n\nCity\n\n\nHow Can We Help?\n\n\nPlease leave this field empty.\n\n4.8\n\nReview Score as of 1/19/24\n\nTrusted in the Community for over 75 Years\n\nWe are a full-service HVAC/R mechanical contractor with many long-time and loyal commercial and residential clients.\n\nBreathe Easy Maintenance Program\n\nOur comprehensive maintenance plan is designed to help improve your comfort as well as your system’s efficiency.\n\nCertified and Factory Trained Technicians\n\nOur technicians are factory-trained to provide expert installation, maintenance and repair, and are NATE-certified.\n\n24/7 Emergency Service\n\nWe're happy to help in an HVAC emergency. And, if you're a Breathe Easy customer, you'll get 4-hour priority service.\n\nSlash Energy Costs With a New Carrier Dual Fuel Heat Pump  System \n\nGET BACK UP TO\n\n$5,900*\n\nin rebates when you replace your AC system with a Carrier dual fuel heat pump.\n\nPlus 0% Financing for 84 months\nfrom the PSE&G Decarbonization Program.\n\nAsk about other incentives on AC, Heating, and Hot Water Systems for PSE&G, Rockland Electric, and JCP&L Customers! \n\nVIEW CURRENT OFFERS\n\n*Includes $1,900 in Carrier Cool Cash (Must be installed and claimed by December 26, 2026), $3,500 through the PSE&G Decarbonization Program, and a $500 GRC Loyalty Rebate. Contact GRC for Details. \n\nLearn more about available utility programs near you: PSE&G\n(opens in new tab)\n, JCP&L\n(opens in new tab)\n, Rockland Electric\n(opens in new tab)\n\nAir Conditioning\n\nWe help people with all of their air conditioning installation, repair, and maintenance needs needs by making sure their air conditioning systems are running safely, reliably and efficiently.\n\nHeat Pumps & Ductless\n\nLooking for highly efficient year-round comfort, all in one unit? Heat pumps and ductless systems offer just that, and we can professionally install them for you promptly.\n\nWine Cellar Cooling\n\nWhether you want to upgrade your current wine cellar cooling system, or install a brand-new one in your home, GRC Mechanical is pleased to offer professional wine cellar cooling services.\n\nOther Services\n\nAs a full-service HVAC/R company, you can count on GRC Mechanical for all your comfort needs, including generator installation and services, piping, and indoor air quality products.\n\nCommercial HVAC & Refrigeration\n\nWe’re pleased to meet the HVAC/R needs of businesses and organizations in Bergen County, NJ, Rockland County, NY and surrounding areas. Our skilled commercial HVAC/R professionals will help meet your needs promptly, with your budget in mind.\n\nAbout GRC Mechanical Services, Inc.\n\nGRC Mechanical Services is a full service HVAC/R mechanical contractor with many long-time and loyal commercial and residential clients. We think that fact speaks to the uncompromising quality of our work.\n\nSee Why Your Neighbors Choose Us\n\n\"courteous and helpful.\"\n\"GRC came over to my house on one of the hottest days of the year when my air conditioner failed to work. They told me what was wrong and was very knowledgeable. Showed me different new air condition units and how they would improve the quality of air flow through the house. I chose one and they were back within a day and installed the new unit. Did a nice clean job. The staff was courteous and helpful.\"\n \n- Wendy P.\n \n\n\"honest and trustworthy\"\n\"GRC Mechanical has handled all of my plumbing, heating, HVAC, generator maintenance and upgrades for more than ten years. They have been very responsive and professional. They are honest and trustworthy. Fantastic people to work with.\"\n \n- Michael M.\n \n\n\"would definitely hire them again\"\n\"I had a new heat pump replaced by GRC. I spoke with John and he gave me a fair estimate. I had the opportunity to meet Miguel at my apartment to take some measurements and he explained thoroughly everything they were going to do and how they were going to do it. I am very pleased with the job they did. They worked very neat and clean they had everything in order. They did an excellent job and I would definitely hire them again. Thank you very much. GRC.\"\n \n- Mario H.\n \n\n\"grateful to this company\"\n\"I called GRC and reported the dilemma with my Generator on a day when a major snowstorm was predicted. I called early evening and other companies that I called prior were unavailable and many didn't service the Generac brand. GRC Mechanical answered my call and immediately assigned my case to a service person and assured me that my Generator would be fully operational that day. Well within a couple of hours a serviceman was at my house and fixed the generator. I was ready for the storm and am so grateful to this company for providing prompt quality service and prioritizing customer concerns and satisfaction. Thanks GRC! Would highly recommend to anyone with a Generator!\"\n \n- Diane Z.\n \n\n\"excellent work\"\n\"GRC folks are knowledgeable in how heating and air conditioning systems work. They have both done excellent work on my home heating system and will start on setting up my OLD A/C system next week for the summer season. They have also been caring for our church HVAC systems in Paramus for many years with excellent results including the installation of one new combined system within one week.\"\n \n- Werner M.\n \n\n\"GRC customer service is amazing.\"\n“I called yesterday as one of my HVAC units was acting up. In less than 30 minutes they were on my roof and in about an hour or so had my unit running perfectly. I can’t thank them enough!”\n \n- Jerry Collins - Glen Rock, NY\n\n\"Would highly recommend this company\"\n\"John was extremely pleasant to work with. He looked at our existing system, listened to our concerns and questions and explained all of our options. He spend a great deal of time with us and was very kind and helpful. The day the work was to start, the workers showed up on time, were very neat and professional. They showed up everyday at the same time and worked the entire day. Everyone at the company was an absolute pleasure to deal with. Would highly recommend this company. It was one of the best experiences we have ever had. When the town inspector came, he even commented that the job was very well done.\"\n \n\n- Cynthia S.\n\n \n\n\"Very competitive price and the installation was perfect\"\n\"GRC serviced my wine cellar cooling unit. They responded to repair requests within the same day for equipment they did not even sell me or install. Top quality service. When the time came to replace the equipment they gave me a very competitive price and the installation was perfect. Their crew arrived on time, put down floor protection and were professional and neat. The new equipment went in without a hitch and is working fine. It is nice to know that they stand behind their work!!\"\n\n- Carl G.\n\n \n\n\"meticulous and thorough\"\n\"From day 1, when Matt prepared a quote for a replacement of my AC system, the level of professionalism and responsiveness from GRC Mechanical was excellent. The crew on site was meticulous and thorough in removing the old AC system and installing a new AC condenser, air handler and new flexible hoses for the vents. Their pricing was competitive with other quotes that I received from other companies. I highly recommend them.\"\n \n- Arthur F.\n \n\n\"confident, courteous, knowledgeable\"\n\"Needed our complete A/C [Air Handler and Compressor] replaced. Timely response/visit to give an estimate. Very knowledgeable and friendly. Three workers showed up at 8:30 a.m. to make the installation happen in one day. They worked together as a cohesive team. All were confident, courteous, knowledgeable and did not leave until we understood how to use/maintain the system and operate the new fangled thermostat. :)\"\n \n- S.A.\n \n\n\"courteous and helpful.\"\n\"GRC came over to my house on one of the hottest days of the year when my air conditioner failed to work. They told me what was wrong and was very knowledgeable. Showed me different new air condition units and how they would improve the quality of air flow through the house. I chose one and they were back within a day and installed the new unit. Did a nice clean job. The staff was courteous and helpful.\"\n \n- Wendy P.\n \n\n\"honest and trustworthy\"\n\"GRC Mechanical has handled all of my plumbing, heating, HVAC, generator maintenance and upgrades for more than ten years. They have been very responsive and professional. They are honest and trustworthy. Fantastic people to work with.\"\n \n- Michael M.\n \n\n\"would definitely hire them again\"\n\"I had a new heat pump replaced by GRC. I spoke with John and he gave me a fair estimate. I had the opportunity to meet Miguel at my apartment to take some measurements and he explained thoroughly everything they were going to do and how they were going to do it. I am very pleased with the job they did. They worked very neat and clean they had everything in order. They did an excellent job and I would definitely hire them again. Thank you very much. GRC.\"\n \n- Mario H.\n \n\n\"grateful to this company\"\n\"I called GRC and reported the dilemma with my Generator on a day when a major snowstorm was predicted. I called early evening and other companies that I called prior were unavailable and many didn't service the Generac brand. GRC Mechanical answered my call and immediately assigned my case to a service person and assured me that my Generator would be fully operational that day. Well within a couple of hours a serviceman was at my house and fixed the generator. I was ready for the storm and am so grateful to this company for providing prompt quality service and prioritizing customer concerns and satisfaction. Thanks GRC! Would highly recommend to anyone with a Generator!\"\n \n- Diane Z.\n \n\n\"excellent work\"\n\"GRC folks are knowledgeable in how heating and air conditioning systems work. They have both done excellent work on my home heating system and will start on setting up my OLD A/C system next week for the summer season. They have also been caring for our church HVAC systems in Paramus for many years with excellent results including the installation of one new combined system within one week.\"\n \n- Werner M.\n \n\n\"GRC customer service is amazing.\"\n“I called yesterday as one of my HVAC units was acting up. In less than 30 minutes they were on my roof and in about an hour or so had my unit running perfectly. I can’t thank them enough!”\n \n- Jerry Collins - Glen Rock, NY\n\n\"Would highly recommend this company\"\n\"John was extremely pleasant to work with. He looked at our existing system, listened to our concerns and questions and explained all of our options. He spend a great deal of time with us and was very kind and helpful. The day the work was to start, the workers showed up on time, were very neat and professional. They showed up everyday at the same time and worked the entire day. Everyone at the company was an absolute pleasure to deal with. Would highly recommend this company. It was one of the best experiences we have ever had. When the town inspector came, he even commented that the job was very well done.\"\n \n\n- Cynthia S.\n\n \n\n\"Very competitive price and the installation was perfect\"\n\"GRC serviced my wine cellar cooling unit. They responded to repair requests within the same day for equipment they did not even sell me or install. Top quality service. When the time came to replace the equipment they gave me a very competitive price and the installation was perfect. Their crew arrived on time, put down floor protection and were professional and neat. The new equipment went in without a hitch and is working fine. It is nice to know that they stand behind their work!!\"\n\n- Carl G.\n\n \n\n\"meticulous and thorough\"\n\"From day 1, when Matt prepared a quote for a replacement of my AC system, the level of professionalism and responsiveness from GRC Mechanical was excellent. The crew on site was meticulous and thorough in removing the old AC system and installing a new AC condenser, air handler and new flexible hoses for the vents. Their pricing was competitive with other quotes that I received from other companies. I highly recommend them.\"\n \n- Arthur F.\n \n\n\"confident, courteous, knowledgeable\"\n\"Needed our complete A/C [Air Handler and Compressor] replaced. Timely response/visit to give an estimate. Very knowledgeable and friendly. Three workers showed up at 8:30 a.m. to make the installation happen in one day. They worked together as a cohesive team. All were confident, courteous, knowledgeable and did not leave until we understood how to use/maintain the system and operate the new fangled thermostat. :)\"\n \n- S.A.\n \nPrevious\nNext\nTrusted in the Community for over 75 Years\n\nWe are a full-service HVAC/R mechanical contractor with many long-time and loyal commercial and residential clients.\n\nBreathe Easy Maintenance Program\n\nOur comprehensive maintenance plan is designed to help improve your comfort as well as your system’s efficiency.\n\nCertified and Factory Trained Technicians\n\nOur technicians are factory-trained to provide expert installation, maintenance and repair, and are NATE-certified.\n\n24/7 Emergency Service\n\nWe're happy to help in an HVAC emergency. And, if you're a Breathe Easy customer, you'll get 4-hour priority service.\n\nContact us at\n\n1-800-651-8222\n\nIf you need help with the HVAC system in your home or office, GRC Mechanical Services, Inc. is ready to help. Please contact us by calling the number above, or feel free to fill out the convenient contact form and one of our representatives will respond soon.\n\nGRC Mechanical Services\n\n244 Green Street\nSouth Hackensack, NJ 07606\n\n1-800-651-8222\n\nCONTACT US\n\nName\n\n\nEmail\n\n\nPhone\n\n\nCity\n\n\nHow Can We Help?\n\n\nPlease leave this field empty.\n\nResidential & Commercial Services\n\nAir Conditioning\nHeating\nDuctless\nHeat Pumps\n\nWine Cellar Cooling\nIndoor Air Quality\nGenerators\nCommercial HVAC\n\nQuick Links\n\nService Areas\nCareers\nAbout\n\nFinancing\nSpecial Offers\n\n© 2026 GRC Mechanical. All Rights Reserved. | Accessibility Statement | Site by Trust and Proof\n(opens in new tab)",
+    "links": [
+      {
+        "href": "#fl-main-content",
+        "abs": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp#fl-main-content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": true,
+        "h": 20,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about/hvac-special-offers/",
+        "abs": "https://grcmechanical.com/about/hvac-special-offers/",
+        "text": "SAVE NOW",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 85,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://grcmechanical.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 327,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/?fwp_type=get-a-quote",
+        "abs": "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+        "text": "GET A QUOTE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 25,
+        "w": 117,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/?fwp_type=schedule-service",
+        "abs": "https://grcmechanical.com/contact-us/?fwp_type=schedule-service",
+        "text": "SCHEDULE SERVICE",
+        "visible": true,
+        "aboveFold": true,
+        "h": 25,
+        "w": 164,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/?fwp_type=ask-a-tech",
+        "abs": "https://grcmechanical.com/contact-us/?fwp_type=ask-a-tech",
+        "text": "ASK A TECH",
+        "visible": true,
+        "aboveFold": true,
+        "h": 25,
+        "w": 103,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/?fwp_type=get-a-quote",
+        "abs": "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+        "text": "GET A QUOTE",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/?fwp_type=schedule-service",
+        "abs": "https://grcmechanical.com/contact-us/?fwp_type=schedule-service",
+        "text": "SCHEDULE SERVICE",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/?fwp_type=ask-a-tech",
+        "abs": "https://grcmechanical.com/contact-us/?fwp_type=ask-a-tech",
+        "text": "ASK A TECH",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/air-conditioning/",
+        "abs": "https://grcmechanical.com/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/air-conditioning/air-conditioning-maintenance-tune-up/",
+        "abs": "https://grcmechanical.com/air-conditioning/air-conditioning-maintenance-tune-up/",
+        "text": "Air Conditioning Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/air-conditioning/air-conditioning-repair/",
+        "abs": "https://grcmechanical.com/air-conditioning/air-conditioning-repair/",
+        "text": "Air Conditioning Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/air-conditioning/air-conditioning-installation-replacement/",
+        "abs": "https://grcmechanical.com/air-conditioning/air-conditioning-installation-replacement/",
+        "text": "Air Conditioning Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heating/",
+        "abs": "https://grcmechanical.com/heating/",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heating/furnace-maintenance-tune-up/",
+        "abs": "https://grcmechanical.com/heating/furnace-maintenance-tune-up/",
+        "text": "Gas Furnace Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heating/furnace-repair/",
+        "abs": "https://grcmechanical.com/heating/furnace-repair/",
+        "text": "Gas Furnace Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heating/furnace-installation-replacement/",
+        "abs": "https://grcmechanical.com/heating/furnace-installation-replacement/",
+        "text": "Gas Furnace Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heating/boiler-maintenance-tune-up/",
+        "abs": "https://grcmechanical.com/heating/boiler-maintenance-tune-up/",
+        "text": "Boiler Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heating/boiler-repair/",
+        "abs": "https://grcmechanical.com/heating/boiler-repair/",
+        "text": "Boiler Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heating/boiler-installation-replacement/",
+        "abs": "https://grcmechanical.com/heating/boiler-installation-replacement/",
+        "text": "Boiler Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/wine-cellar-cooling/",
+        "abs": "https://grcmechanical.com/wine-cellar-cooling/",
+        "text": "Wine Cellar Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/generators/",
+        "abs": "https://grcmechanical.com/generators/",
+        "text": "Generators",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/generators/generator-maintenance/",
+        "abs": "https://grcmechanical.com/generators/generator-maintenance/",
+        "text": "Generator Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/generators/generator-repair/",
+        "abs": "https://grcmechanical.com/generators/generator-repair/",
+        "text": "Generator Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/generators/generator-installation/",
+        "abs": "https://grcmechanical.com/generators/generator-installation/",
+        "text": "Generator Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/generators/natural-gas-home-generators/",
+        "abs": "https://grcmechanical.com/generators/natural-gas-home-generators/",
+        "text": "Natural Gas Backup Standby Generators",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/ductless-mini-splits/",
+        "abs": "https://grcmechanical.com/ductless-mini-splits/",
+        "text": "Ductless Mini-Splits",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-maintenance-tune-up/",
+        "abs": "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-maintenance-tune-up/",
+        "text": "Ductless Mini-Split Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-repair/",
+        "abs": "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-repair/",
+        "text": "Ductless Mini-Split Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-installation-replacement/",
+        "abs": "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-installation-replacement/",
+        "text": "Ductless Mini-Split Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heat-pumps/",
+        "abs": "https://grcmechanical.com/heat-pumps/",
+        "text": "Heat Pumps",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heat-pumps/heat-pump-maintenance-tune-up/",
+        "abs": "https://grcmechanical.com/heat-pumps/heat-pump-maintenance-tune-up/",
+        "text": "Heat Pump Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heat-pumps/heat-pump-repair/",
+        "abs": "https://grcmechanical.com/heat-pumps/heat-pump-repair/",
+        "text": "Heat Pump Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/heat-pumps/heat-pump-installation-replacement/",
+        "abs": "https://grcmechanical.com/heat-pumps/heat-pump-installation-replacement/",
+        "text": "Heat Pump Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/indoor-air-quality/",
+        "abs": "https://grcmechanical.com/indoor-air-quality/",
+        "text": "Indoor Air Quality",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/piping-services/",
+        "abs": "https://grcmechanical.com/piping-services/",
+        "text": "Piping Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/carrier-products/",
+        "abs": "https://grcmechanical.com/carrier-products/",
+        "text": "Carrier Products",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/carrier-products/air-conditioning-systems/",
+        "abs": "https://grcmechanical.com/carrier-products/air-conditioning-systems/",
+        "text": "Carrier AC Systems",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/carrier-products/heating-systems/",
+        "abs": "https://grcmechanical.com/carrier-products/heating-systems/",
+        "text": "Carrier Gas Furnaces",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/carrier-products/boilers/",
+        "abs": "https://grcmechanical.com/carrier-products/boilers/",
+        "text": "Carrier Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/carrier-products/heat-pumps/",
+        "abs": "https://grcmechanical.com/carrier-products/heat-pumps/",
+        "text": "Carrier Heat Pumps",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/carrier-products/fan-coils/",
+        "abs": "https://grcmechanical.com/carrier-products/fan-coils/",
+        "text": "Carrier Fan Coils",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/carrier-products/thermostats-controls/",
+        "abs": "https://grcmechanical.com/carrier-products/thermostats-controls/",
+        "text": "Carrier Controls",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-essex-county-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-essex-county-nj/",
+        "text": "Essex County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-hudson-county-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-hudson-county-nj/",
+        "text": "Hudson County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-morris-county-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-morris-county-nj/",
+        "text": "Morris County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-passaic-county-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-passaic-county-nj/",
+        "text": "Passaic County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-franklin-lakes-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-franklin-lakes-nj/",
+        "text": "Franklin Lakes, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-glen-rock-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-glen-rock-nj/",
+        "text": "Glen Rock, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-mahwah-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-mahwah-nj/",
+        "text": "Mahwah, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-oradell-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-oradell-nj/",
+        "text": "Oradell, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-paramus-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-paramus-nj/",
+        "text": "Paramus, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-ramsey-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-ramsey-nj/",
+        "text": "Ramsey, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-ridgewood-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-ridgewood-nj/",
+        "text": "Ridgewood, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-saddle-river-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-saddle-river-nj/",
+        "text": "Saddle River, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-wayne-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-wayne-nj/",
+        "text": "Wayne, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/hvac-services-wyckoff-nj/",
+        "abs": "https://grcmechanical.com/service-areas/hvac-services-wyckoff-nj/",
+        "text": "Wyckoff, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/",
+        "abs": "https://grcmechanical.com/commercial-hvac/",
+        "text": "Commercial Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 207,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/commercial-maintenance-programs/",
+        "abs": "https://grcmechanical.com/commercial-hvac/commercial-maintenance-programs/",
+        "text": "Commercial Maintenance Programs",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/commercial-heating/",
+        "abs": "https://grcmechanical.com/commercial-hvac/commercial-heating/",
+        "text": "Commercial Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/commercial-air-conditioning/",
+        "abs": "https://grcmechanical.com/commercial-hvac/commercial-air-conditioning/",
+        "text": "Commercial Air Conditioning",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/commercial-boiler-installation-repair/",
+        "abs": "https://grcmechanical.com/commercial-hvac/commercial-boiler-installation-repair/",
+        "text": "Commercial Boilers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/commercial-rooftop-hvac/",
+        "abs": "https://grcmechanical.com/commercial-hvac/commercial-rooftop-hvac/",
+        "text": "Commercial Rooftop HVAC",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/commercial-chiller-installation-repair/",
+        "abs": "https://grcmechanical.com/commercial-hvac/commercial-chiller-installation-repair/",
+        "text": "Commercial Chillers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/commercial-refrigeration-installation-repair/",
+        "abs": "https://grcmechanical.com/commercial-hvac/commercial-refrigeration-installation-repair/",
+        "text": "Commercial Refrigeration",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/commercial-piping-services/",
+        "abs": "https://grcmechanical.com/commercial-hvac/commercial-piping-services/",
+        "text": "Commercial Piping Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/ductwork-fabrication/",
+        "abs": "https://grcmechanical.com/commercial-hvac/ductwork-fabrication/",
+        "text": "Ductwork Fabrication",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/commercial-hvac/aaon-equipment/",
+        "abs": "https://grcmechanical.com/commercial-hvac/aaon-equipment/",
+        "text": "AAON Equipment",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-essex-county-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-essex-county-nj/",
+        "text": "Essex County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-hudson-county-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-hudson-county-nj/",
+        "text": "Hudson County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-morris-county-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-morris-county-nj/",
+        "text": "Morris County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-passaic-county-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-passaic-county-nj/",
+        "text": "Passaic County, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-rockland-county-ny/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-rockland-county-ny/",
+        "text": "Rockland County, NY",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-allendale-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-allendale-nj/",
+        "text": "Commercial HVAC Allendale NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-carlstadt-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-carlstadt-nj/",
+        "text": "Commercial HVAC Carlstadt NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-east-rutherford-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-east-rutherford-nj/",
+        "text": "East Rutherford, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-elmwood-park-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-elmwood-park-nj/",
+        "text": "Elmwood Park, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-mahwah-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-mahwah-nj/",
+        "text": "Commercial HVAC Mahwah NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-maywood-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-maywood-nj/",
+        "text": "Maywood, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-montvale-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-montvale-nj/",
+        "text": "Montvale, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-moonachie-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-moonachie-nj/",
+        "text": "Commercial HVAC Moonachie NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-northvale-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-northvale-nj/",
+        "text": "Northvale, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-paramus-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-paramus-nj/",
+        "text": "Commercial HVAC Paramus NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/commercial-hvac-services-ramsey-nj/",
+        "abs": "https://grcmechanical.com/service-areas/commercial-hvac-services-ramsey-nj/",
+        "text": "Ramsey, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/contact-us/",
+        "abs": "https://grcmechanical.com/contact-us/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 115,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/service-areas/",
+        "abs": "https://grcmechanical.com/service-areas/",
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 135,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/about/",
+        "abs": "https://grcmechanical.com/about/",
+        "text": "About",
+        "visible": true,
+        "aboveFold": true,
+        "h": 36,
+        "w": 91,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/about/breathe-easy-maintenance-plan/",
+        "abs": "https://grcmechanical.com/about/breathe-easy-maintenance-plan/",
+        "text": "Breathe Easy Maintenance Plan",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/about/financing/",
+        "abs": "https://grcmechanical.com/about/financing/",
+        "text": "Financing",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/about/hvac-special-offers/",
+        "abs": "https://grcmechanical.com/about/hvac-special-offers/",
+        "text": "Special Offers",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://grcmechanical.com/about/careers/",
+        "abs": "https://grcmechanical.com/about/careers/",
+        "text": "Career Opportunities",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about/",
+        "abs": "https://grcmechanical.com/about/",
+        "text": "WHY CHOOSE GRC",
+        "visible": true,
+        "aboveFold": true,
+        "h": 25,
+        "w": 196,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about/hvac-special-offers/",
+        "abs": "https://grcmechanical.com/about/hvac-special-offers/",
+        "text": "VIEW CURRENT OFFERS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 25,
+        "w": 238,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://homeenergy.pseg.com/heatingandcooling",
+        "abs": "https://homeenergy.pseg.com/heatingandcooling",
+        "text": "PSE&G (opens in new tab)",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 38,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://residential.energysavenj.com/jersey-central/hvac/",
+        "abs": "https://residential.energysavenj.com/jersey-central/hvac/",
+        "text": "JCP&L (opens in new tab)",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 33,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.oru.com/en/save-money/rebates-incentives-credits/new-jersey-customers/incentives-for-residential-customers-nj/efficient-products/heating-cooling-equipment",
+        "abs": "https://www.oru.com/en/save-money/rebates-incentives-credits/new-jersey-customers/incentives-for-residential-customers-nj/efficient-products/heating-cooling-equipment",
+        "text": "Rockland Electric (opens in new tab)",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 94,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/air-conditioning/",
+        "abs": "https://grcmechanical.com/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 250,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heat-pumps/",
+        "abs": "https://grcmechanical.com/heat-pumps/",
+        "text": "Heat Pumps & Ductless",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 356,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/wine-cellar-cooling/",
+        "abs": "https://grcmechanical.com/wine-cellar-cooling/",
+        "text": "Wine Cellar Cooling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 300,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac/",
+        "abs": "https://grcmechanical.com/commercial-hvac/",
+        "text": "Commercial HVAC & Refrigeration",
+        "visible": true,
+        "aboveFold": false,
+        "h": 53,
+        "w": 518,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:18006518222",
+        "abs": "tel:18006518222",
+        "text": "1-800-651-8222",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 159,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/air-conditioning/",
+        "abs": "https://grcmechanical.com/air-conditioning/",
+        "text": "Air Conditioning",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 130,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/heating/",
+        "abs": "https://grcmechanical.com/heating/",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 64,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/ductless-mini-splits/",
+        "abs": "https://grcmechanical.com/ductless-mini-splits/",
+        "text": "Ductless",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 68,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/heat-pumps/",
+        "abs": "https://grcmechanical.com/heat-pumps/",
+        "text": "Heat Pumps",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 99,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/wine-cellar-cooling/",
+        "abs": "https://grcmechanical.com/wine-cellar-cooling/",
+        "text": "Wine Cellar Cooling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 155,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/indoor-air-quality/",
+        "abs": "https://grcmechanical.com/indoor-air-quality/",
+        "text": "Indoor Air Quality",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 143,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/generators/",
+        "abs": "https://grcmechanical.com/generators/",
+        "text": "Generators",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 91,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/commercial-hvac/",
+        "abs": "https://grcmechanical.com/commercial-hvac/",
+        "text": "Commercial HVAC",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 147,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/service-areas/",
+        "abs": "https://grcmechanical.com/service-areas/",
+        "text": "Service Areas",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 107,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/about/careers/",
+        "abs": "https://grcmechanical.com/about/careers/",
+        "text": "Careers",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 62,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/about/",
+        "abs": "https://grcmechanical.com/about/",
+        "text": "About",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 50,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/about/financing/",
+        "abs": "https://grcmechanical.com/about/financing/",
+        "text": "Financing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 78,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/about/hvac-special-offers/",
+        "abs": "https://grcmechanical.com/about/hvac-special-offers/",
+        "text": "Special Offers",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 110,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/accessibility-statement/",
+        "abs": "https://grcmechanical.com/accessibility-statement/",
+        "text": "Accessibility Statement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 171,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://trustandproof.com/?source=copyright",
+        "abs": "https://trustandproof.com/?source=copyright",
+        "text": "Trust and Proof (opens in new tab)",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 116,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Residential Services submenu toggle",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Air Conditioning submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Heating submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Generators submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Ductless Mini-Splits submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Heat Pumps submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Carrier Products submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Service Areas submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Commercial Services submenu toggle",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Service Areas submenu toggle",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "About submenu toggle",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "GET STARTED",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Previous",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "GET STARTED",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [
+      {
+        "action": "/#wpcf7-f12-p1118-o1",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 7,
+        "fieldNames": [
+          "your-name",
+          "your-email",
+          "your-phone",
+          "your-city",
+          "your-message",
+          "website",
+          "_wpcf7_ak_hp_textarea"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      },
+      {
+        "action": "/#wpcf7-f12-o2",
+        "method": "post",
+        "id": "",
+        "cls": "wpcf7-form init",
+        "fieldCount": 7,
+        "fieldNames": [
+          "your-name",
+          "your-email",
+          "your-phone",
+          "your-city",
+          "your-message",
+          "website",
+          "_wpcf7_ak_hp_textarea"
+        ],
+        "visible": true,
+        "hasSubmit": true,
+        "submitDisabled": false,
+        "isSearch": false
+      }
+    ],
+    "iframes": [
+      "https://www.google.com/maps/embed/v1/place?q=GRC+Mechanical+Services&key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le4QtYqAAAAALLsm-pLFt95W29a98e4HCE-JfbZ&co=aHR0cHM6Ly9ncmNtZWNoYW5pY2FsLmNvbTo0NDM.&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=6qhzrtmm6lct"
+    ],
+    "scripts": [
+      "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+      "https://connect.facebook.net/signals/config/1735771870736042?v=2.9.435&r=stable&domain=grcmechanical.com&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-3S843P1VBV&cx=c&gtm=4e6b30h2",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-MTSTJTG",
+      "https://grcmechanical.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://grcmechanical.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://grcmechanical.com/wp-content/plugins/mpw-cf7tracking-2020/js/cf7tracking.min.js?ver=1679315850",
+      "https://www.googletagmanager.com/gtag/js?id=UA-30901059-1",
+      "https://grcmechanical.com/wp-content/uploads/bb-plugin/cache/1118-layout.js?ver=17ddab5c8476df6a0b29b18d352121a2",
+      "https://grcmechanical.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+      "https://grcmechanical.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+      "https://grcmechanical.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.2.3",
+      "https://grcmechanical.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.2.3",
+      "https://grcmechanical.com/wp-content/plugins/cf7-google-analytics/js/cf7-google-analytics.min.js?ver=1.8.10",
+      "https://grcmechanical.com/wp-content/plugins/bb-plugin/js/libs/jquery.imagesloaded.min.js?ver=2.11.1.2",
+      "https://grcmechanical.com/wp-content/plugins/bb-plugin/js/libs/jquery.ba-throttle-debounce.min.js?ver=2.11.1.2",
+      "https://grcmechanical.com/wp-content/plugins/bbpowerpack/assets/js/owl.carousel.min.js?ver=2.42.3",
+      "https://grcmechanical.com/wp-content/uploads/bb-plugin/cache/144619609bf8100e474c0db3aec49769-layout-bundle.js?ver=2.11.1.2-1.6.1",
+      "https://www.google.com/recaptcha/api.js?render=6Le4QtYqAAAAALLsm-pLFt95W29a98e4HCE-JfbZ&ver=3.0",
+      "https://grcmechanical.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+      "https://grcmechanical.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.2.3",
+      "https://grcmechanical.com/wp-content/plugins/bb-plugin/js/libs/jquery.magnificpopup.min.js?ver=2.11.1.2",
+      "https://grcmechanical.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.20",
+      "https://grcmechanical.com/wp-content/plugins/mpw-cf7tracking-2020/js/writesources.min.js?ver=1679315850",
+      "https://grcmechanical.com/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1787162268",
+      "https://cdn.callrail.com/companies/312613908/wp-0-5-3/swap.js?ver=7.1.4",
+      "https://js.callrail.com/group/0/cf6a8482893023e93de5/12/icap.js?t=1793749132133&GoogleAnalytics4__ga_3S843P1VBV=GS2.1.s1793749131%24o1%24g0%24t1793749131%24j60%24l0%24h0&GoogleAnalytics4__ga=GA1.1.466346686.1793749131&ga=GA1.1.466346686.1793749131&uuid=dcb988e3-8e90-4fa3-abe2-ebbaa9a03b4a&ids%5B%5D=312613908"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://grcmechanical.com/",
+            "url": "https://grcmechanical.com/",
+            "name": "GRC Mechanical | Expert HVAC Services in Bergen County, NJ",
+            "isPartOf": {
+              "@id": "https://grcmechanical.com/#website"
+            },
+            "about": {
+              "@id": "https://grcmechanical.com/#organization"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://grcmechanical.com/#primaryimage"
+            },
+            "image": {
+              "@id": "https://grcmechanical.com/#primaryimage"
+            },
+            "thumbnailUrl": "https://grcmechanical.com/wp-content/uploads/2025/08/CAR-CFAD-Badge-4C-PNG.png",
+            "datePublished": "2023-05-01T05:31:59+00:00",
+            "dateModified": "2026-10-28T13:28:02+00:00",
+            "description": "GRC Mechanical Services offers Heating, Air Conditioning, Refrigeration, & more services to Residential, Commercial, and Industrial clients in New Jersey.",
+            "breadcrumb": {
+              "@id": "https://grcmechanical.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://grcmechanical.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://grcmechanical.com/#primaryimage",
+            "url": "https://grcmechanical.com/wp-content/uploads/2025/08/CAR-CFAD-Badge-4C-PNG.png",
+            "contentUrl": "https://grcmechanical.com/wp-content/uploads/2025/08/CAR-CFAD-Badge-4C-PNG.png",
+            "width": 800,
+            "height": 800,
+            "caption": "Carrier Factory Authorized Dealer Badge 2025"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://grcmechanical.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://grcmechanical.com/#website",
+            "url": "https://grcmechanical.com/",
+            "name": "GRC Mechanical",
+            "description": "",
+            "publisher": {
+              "@id": "https://grcmechanical.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://grcmechanical.com/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://grcmechanical.com/#organization",
+            "name": "GRC Mechanical",
+            "url": "https://grcmechanical.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://grcmechanical.com/#/schema/logo/image/",
+              "url": "https://grcmechanical.com/wp-content/uploads/2023/05/grc-logo.svg",
+              "contentUrl": "https://grcmechanical.com/wp-content/uploads/2023/05/grc-logo.svg",
+              "width": "1024",
+              "height": "1024",
+              "caption": "GRC Mechanical"
+            },
+            "image": {
+              "@id": "https://grcmechanical.com/#/schema/logo/image/"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 56,
+    "timing": {
+      "dcl": 2259,
+      "load": 3303,
+      "ttfb": 178
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "requestStorageAccess: Permission denied."
+    ],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.003,
+        "sig": " grecaptcha-badge ",
+        "text": ""
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "navMs": 4994,
+    "tel": [
+      {
+        "href": "tel:18006518222",
+        "text": "1-800-651-8222",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18006518222"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Google reCAPTCHA",
+        "kind": "captcha"
+      },
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      },
+      {
+        "name": "CallRail",
+        "kind": "call_tracking"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://grcmechanical.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "navMs": 3766,
+    "timing": {
+      "dcl": 1308,
+      "load": 2380,
+      "ttfb": 152
+    },
+    "viewportMeta": "width=device-width, initial-scale=1.0",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:18006518222",
+        "text": "1-800-651-8222",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+18006518222"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [
+      "GET A QUOTE",
+      "SCHEDULE SERVICE",
+      "Contact Us"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 0.016,
+        "sig": " grecaptcha-badge ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 8,
+    "brokenImages": [],
+    "textChars": 14378
+  },
+  "pages": {
+    "contact": {
+      "url": "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+      "finalUrl": "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+      "status": 200,
+      "title": "Contact Us | GRC Mechanical Services",
+      "forms": [
+        {
+          "action": "/contact-us/?fwp_type=get-a-quote#wpcf7-f2095-p1237-o1",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init",
+          "fieldCount": 7,
+          "fieldNames": [
+            "your-name",
+            "your-email",
+            "your-phone",
+            "your-city",
+            "your-message",
+            "website",
+            "_wpcf7_ak_hp_textarea"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        },
+        {
+          "action": "/contact-us/?fwp_type=get-a-quote#wpcf7-f12-o2",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init",
+          "fieldCount": 7,
+          "fieldNames": [
+            "your-name",
+            "your-email",
+            "your-phone",
+            "your-city",
+            "your-message",
+            "website",
+            "_wpcf7_ak_hp_textarea"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/maps/embed/v1/place?q=GRC+Mechanical+Services&key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le4QtYqAAAAALLsm-pLFt95W29a98e4HCE-JfbZ&co=aHR0cHM6Ly9ncmNtZWNoYW5pY2FsLmNvbTo0NDM.&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=gn5jd5v5zkdg"
+      ],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:18006518222",
+          "text": "1-800-651-8222",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18006518222"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n\nSave Up to $5,900 in Rebates With a New Carrier Dual Fuel Heat Pump • SAVE NOW \n\nServing Northern New Jersey\n& Rockland County\n\n1-800-651-8222\n\nGET A QUOTE\nSCHEDULE SERVICE\nASK A TECH\nResidential Services\nCommercial Services\nContact Us\nService Areas\nAbout\nHome » Contact Us\nGet A Quote\n\n4.8\n\nReview Score as of 1/19/24\n\nDo you have questions for us? We want to help. Please refer to the information below for the best way to get in touch with us.\n\nWe look forward to speaking with you.\n\nPhone: (201) 489-6233\nToll Free: 1-800-651-8222\nFax: (201) 489-1050\n\nGRC Mechanical Services\n244 Green Street\nSouth Hackensack, NJ 07606\n\nName\n\n\nEmail\n\n\nPhone\n\n\nCity\n\n\nHow Can We Help?\n\n\nPlease leave this field empty.\n\nSee Why Your Neighbors Choose Us\n\n\"courteous and helpful.\"\n\"GRC came over to my house on one of the hottest days of the year when my air conditioner failed to work. They told me what was wrong and was very knowledgeable. Showed me different new air condition units and how they would improve the quality of air flow through the house. I chose one and they were back within a day and installed the new unit. Did a nice clean job. The staff was courteous and helpful.\"\n \n- Wendy P.\n \n\n\"honest and trustworthy\"\n\"GRC Mechanical has handled all of my plumbing, heating, HVAC, generator maintenance and upgrades for more than ten years. They have been very responsive and professional. They are honest and trustworthy. Fantastic people to work with.\"\n \n- Michael M.\n \n\n\"would definitely hire them again\"\n\"I had a new heat pump replaced by GRC. I spoke with John and he gave me a fair estimate. I had the opportunity to meet Miguel at my apartment to take some measurements and he explained thoroughly everything they were going to do and how they were going to do it. I am very pleased with the job they did. They worked very neat and clean they had everything in order. They did an excellent job and I would definitely hire them again. Thank you very much. GRC.\"\n \n- Mario H.\n \n\n\"grateful to this company\"\n\"I called GRC and reported the dilemma with my Generator on a day when a major snowstorm was predicted. I called early evening and other companies that I called prior were unavailable and many didn't service the Generac brand. GRC Mechanical answered my call and immediately assigned my case to a service person and assured me that my Generator would be fully operational that day. Well within a couple of hours a serviceman was at my house and fixed the generator. I was ready for the storm and am so grateful to this company for providing prompt quality service and prioritizing customer concerns and satisfaction. Thanks GRC! Would highly recommend to anyone with a Generator!\"\n \n- Diane Z.\n \n\n\"excellent work\"\n\"GRC folks are knowledgeable in how heating and air conditioning systems work. They have both done excellent work on my home heating system and will start on setting up my OLD A/C system next week for the summer season. They have also been caring for our church HVAC systems in Paramus for many years with excellent results including the installation of one new combined system within one week.\"\n \n- Werner M.\n \n\n\"GRC customer service is amazing.\"\n“I called yesterday as one of my HVAC units was acting up. In less than 30 minutes they were on my roof and in about an hour or so had my unit running perfectly. I can’t thank them enough!”\n \n- Jerry Collins - Glen Rock, NY\n\n\"Would highly recommend this company\"\n\"John was extremely pleasant to work with. He looked at our existing system, listened to our concerns and questions and explained all of our options. He spend a great deal of time with us and was very kind and helpful. The day the work was to start, the workers showed up on time, were very neat and professional. They showed up everyday at the same time and worked the entire day. Everyone at the company was an absolute pleasure to deal with. Would highly recommend this company. It was one of the best experiences we have ever had. When the town inspector came, he even commented that the job was very well done.\"\n \n\n- Cynthia S.\n\n \n\n\"Very competitive price and the installation was perfect\"\n\"GRC serviced my wine cellar cooling unit. They responded to repair requests within the same day for equipment they did not even sell me or install. Top quality service. When the time came to replace the equipment they gave me a very competitive price and the installation was perfect. Their crew arrived on time, put down floor protection and were professional and neat. The new equipment went in without a hitch and is working fine. It is nice to know that they stand behind their work!!\"\n\n- Carl G.\n\n \n\n\"meticulous and thorough\"\n\"From day 1, when Matt prepared a quote for a replacement of my AC system, the level of professionalism and responsiveness from GRC Mechanical was excellent. The crew on site was meticulous and thorough in removing the old AC system and installing a new AC condenser, air handler and new flexible hoses for the vents. Their pricing was competitive with other quotes that I received from other companies. I highly recommend them.\"\n \n- Arthur F.\n \n\n\"confident, courteous, knowledgeable\"\n\"Needed our complete A/C [Air Handler and Compressor] replaced. Timely response/visit to give an estimate. Very knowledgeable and friendly. Three workers showed up at 8:30 a.m. to make the installation happen in one day. They worked together as a cohesive team. All were confident, courteous, knowledgeable and did not leave until we understood how to use/maintain the system and operate the new fangled thermostat. :)\"\n \n- S.A.\n \n\n\"courteous and helpful.\"\n\"GRC came over to my house on one of the hottest days of the year when my air conditioner failed to work. They told me what was wrong and was very knowledgeable. Showed me different new air condition units and how they would improve the quality of air flow through the house. I chose one and they were back within a day and installed the new unit. Did a nice clean job. The staff was courteous and helpful.\"\n \n- Wendy P.\n \n\n\"honest and trustworthy\"\n\"GRC Mechanical has handled all of my plumbing, heating, HVAC, generator maintenance and upgrades for more than ten years. They have been very responsive and professional. They are honest and trustworthy. Fantastic people to work with.\"\n \n- Michael M.\n \n\n\"would definitely hire them again\"\n\"I had a new heat pump replaced by GRC. I spoke with John and he gave me a fair estimate. I had the opportunity to meet Miguel at my apartment to take some measurements and he explained thoroughly everything they were going to do and how they were going to do it. I am very pleased with the job they did. They worked very neat and clean they had everything in order. They did an excellent job and I would definitely hire them again. Thank you very much. GRC.\"\n \n- Mario H.\n \n\n\"grateful to this company\"\n\"I called GRC and reported the dilemma with my Generator on a day when a major snowstorm was predicted. I called early evening and other companies that I called prior were unavailable and many didn't service the Generac brand. GRC Mechanical answered my call and immediately assigned my case to a service person and assured me that my Generator would be fully operational that day. Well within a couple of hours a serviceman was at my house and fixed the generator. I was ready for the storm and am so grateful to this company for providing prompt quality service and prioritizing customer concerns and satisfaction. Thanks GRC! Would highly recommend to anyone with a Generator!\"\n \n- Diane Z.\n \n\n\"excellent work\"\n\"GRC folks are knowledgeable in how heating and air conditioning systems work. They have both done excellent work on my home heating system and will start on setting up my OLD A/C system next week for the summer season. They have also been caring for our church HVAC systems in Paramus for many years with excellent results including the installation of one new combined system within one week.\"\n \n- Werner M.\n \n\n\"GRC customer service is amazing.\"\n“I called yesterday as one of my HVAC units was acting up. In less than 30 minutes they were on my roof and in about an hour or so had my unit running perfectly. I can’t thank them enough!”\n \n- Jerry Collins - Glen Rock, NY\n\n\"Would highly recommend this company\"\n\"John was extremely pleasant to work with. He looked at our existing system, listened to our concerns and questions and explained all of our options. He spend a great deal of time with us and was very kind and helpful. The day the work was to start, the workers showed up on time, were very neat and professional. They showed up everyday at the same time and worked the entire day. Everyone at the company was an absolute pleasure to deal with. Would highly recommend this company. It was one of the best experiences we have ever had. When the town inspector came, he even commented that the job was very well done.\"\n \n\n- Cynthia S.\n\n \n\n\"Very competitive price and the installation was perfect\"\n\"GRC serviced my wine cellar cooling unit. They responded to repair requests within the same day for equipment they did not even sell me or install. Top quality service. When the time came to replace the equipment they gave me a very competitive price and the installation was perfect. Their crew arrived on time, put down floor protection and were professional and neat. The new equipment went in without a hitch and is working fine. It is nice to know that they stand behind their work!!\"\n\n- Carl G.\n\n \n\n\"meticulous and thorough\"\n\"From day 1, when Matt prepared a quote for a replacement of my AC system, the level of professionalism and responsiveness from GRC Mechanical was excellent. The crew on site was meticulous and thorough in removing the old AC system and installing a new AC condenser, air handler and new flexible hoses for the vents. Their pricing was competitive with other quotes that I received from other companies. I highly recommend them.\"\n \n- Arthur F.\n \n\n\"confident, courteous, knowledgeable\"\n\"Needed our complete A/C [Air Handler and Compressor] replaced. Timely response/visit to give an estimate. Very knowledgeable and friendly. Three workers showed up at 8:30 a.m. to make the installation happen in one day. They worked together as a cohesive team. All were confident, courteous, knowledgeable and did not leave until we understood how to use/maintain the system and operate the new fangled thermostat. :)\"\n \n- S.A.\n \nPrevious\nNext\nTrusted in the Community for over 75 Years\n\nWe are a full-service HVAC/R mechanical contractor with many long-time and loyal commercial and residential clients.\n\nBreathe Easy Maintenance Program\n\nOur comprehensive maintenance plan is designed to help improve your comfort as well as your system’s efficiency.\n\nCertified and Factory Trained Technicians\n\nOur technicians are factory-trained to provide expert installation, maintenance and repair, and are NATE-certified.\n\n24/7 Emergency Service\n\nWe're happy to help in an HVAC emergency. And, if you're a Breathe Easy customer, you'll get 4-hour priority service.\n\nContact us at\n\n1-800-651-8222\n\nIf you need help with the HVAC system in your home or office, GRC Mechanical Services, Inc. is ready to help. Please contact us by calling the number above, or feel free to fill out the convenient contact form and one of our representatives will respond soon.\n\nGRC Mechanical Services\n\n244 Green Street\nSouth Hackensack, NJ 07606\n\n1-800-651-8222\n\nCONTACT US\n\nName\n\n\nEmail\n\n\nPhone\n\n\nCity\n\n\nHow Can We Help?\n\n\nPlease leave this field empty.\n\nResidential & Commercial Services\n\nAir Conditioning\nHeating\nDuctless\nHeat Pumps\n\nWine Cellar Cooling\nIndoor Air Quality\nGenerators\nCommercial HVAC\n\nQuick Links\n\nService Areas\nCareers\nAbout\n\nFinancing\nSpecial Offers\n\n© 2026 GRC Mechanical. All Rights Reserved. | Accessibility Statement | Site by Trust and Proof\n(opens in new tab)",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote#fl-main-content",
+        "https://grcmechanical.com/about/hvac-special-offers/",
+        "https://grcmechanical.com/",
+        "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+        "https://grcmechanical.com/contact-us/?fwp_type=schedule-service",
+        "https://grcmechanical.com/contact-us/?fwp_type=ask-a-tech",
+        "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+        "https://grcmechanical.com/contact-us/?fwp_type=schedule-service",
+        "https://grcmechanical.com/contact-us/?fwp_type=ask-a-tech",
+        "https://grcmechanical.com/air-conditioning/",
+        "https://grcmechanical.com/air-conditioning/air-conditioning-maintenance-tune-up/",
+        "https://grcmechanical.com/air-conditioning/air-conditioning-repair/",
+        "https://grcmechanical.com/air-conditioning/air-conditioning-installation-replacement/",
+        "https://grcmechanical.com/heating/",
+        "https://grcmechanical.com/heating/furnace-maintenance-tune-up/",
+        "https://grcmechanical.com/heating/furnace-repair/",
+        "https://grcmechanical.com/heating/furnace-installation-replacement/",
+        "https://grcmechanical.com/heating/boiler-maintenance-tune-up/",
+        "https://grcmechanical.com/heating/boiler-repair/",
+        "https://grcmechanical.com/heating/boiler-installation-replacement/",
+        "https://grcmechanical.com/wine-cellar-cooling/",
+        "https://grcmechanical.com/generators/",
+        "https://grcmechanical.com/generators/generator-maintenance/",
+        "https://grcmechanical.com/generators/generator-repair/",
+        "https://grcmechanical.com/generators/generator-installation/",
+        "https://grcmechanical.com/generators/natural-gas-home-generators/",
+        "https://grcmechanical.com/ductless-mini-splits/",
+        "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-maintenance-tune-up/",
+        "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-repair/",
+        "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-installation-replacement/",
+        "https://grcmechanical.com/heat-pumps/",
+        "https://grcmechanical.com/heat-pumps/heat-pump-maintenance-tune-up/",
+        "https://grcmechanical.com/heat-pumps/heat-pump-repair/",
+        "https://grcmechanical.com/heat-pumps/heat-pump-installation-replacement/",
+        "https://grcmechanical.com/indoor-air-quality/",
+        "https://grcmechanical.com/piping-services/",
+        "https://grcmechanical.com/carrier-products/",
+        "https://grcmechanical.com/carrier-products/air-conditioning-systems/",
+        "https://grcmechanical.com/carrier-products/heating-systems/",
+        "https://grcmechanical.com/carrier-products/boilers/",
+        "https://grcmechanical.com/carrier-products/heat-pumps/",
+        "https://grcmechanical.com/carrier-products/fan-coils/",
+        "https://grcmechanical.com/carrier-products/thermostats-controls/",
+        "https://grcmechanical.com/service-areas/hvac-services-essex-county-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-hudson-county-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-morris-county-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-passaic-county-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-franklin-lakes-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-glen-rock-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-mahwah-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-oradell-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-paramus-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-ramsey-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-ridgewood-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-saddle-river-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-wayne-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-wyckoff-nj/",
+        "https://grcmechanical.com/commercial-hvac/",
+        "https://grcmechanical.com/commercial-hvac/commercial-maintenance-programs/",
+        "https://grcmechanical.com/commercial-hvac/commercial-heating/",
+        "https://grcmechanical.com/commercial-hvac/commercial-air-conditioning/",
+        "https://grcmechanical.com/commercial-hvac/commercial-boiler-installation-repair/",
+        "https://grcmechanical.com/commercial-hvac/commercial-rooftop-hvac/",
+        "https://grcmechanical.com/commercial-hvac/commercial-chiller-installation-repair/",
+        "https://grcmechanical.com/commercial-hvac/commercial-refrigeration-installation-repair/",
+        "https://grcmechanical.com/commercial-hvac/commercial-piping-services/",
+        "https://grcmechanical.com/commercial-hvac/ductwork-fabrication/",
+        "https://grcmechanical.com/commercial-hvac/aaon-equipment/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-essex-county-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-hudson-county-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-morris-county-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-passaic-county-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-rockland-county-ny/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-allendale-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-carlstadt-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-east-rutherford-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-elmwood-park-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-mahwah-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-maywood-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-montvale-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-moonachie-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-northvale-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-paramus-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-ramsey-nj/",
+        "https://grcmechanical.com/contact-us/",
+        "https://grcmechanical.com/service-areas/",
+        "https://grcmechanical.com/about/",
+        "https://grcmechanical.com/about/breathe-easy-maintenance-plan/",
+        "https://grcmechanical.com/about/financing/",
+        "https://grcmechanical.com/about/hvac-special-offers/",
+        "https://grcmechanical.com/about/careers/",
+        "https://grcmechanical.com/",
+        "https://grcmechanical.com/air-conditioning/",
+        "https://grcmechanical.com/heating/",
+        "https://grcmechanical.com/ductless-mini-splits/",
+        "https://grcmechanical.com/heat-pumps/",
+        "https://grcmechanical.com/wine-cellar-cooling/",
+        "https://grcmechanical.com/indoor-air-quality/",
+        "https://grcmechanical.com/generators/",
+        "https://grcmechanical.com/commercial-hvac/",
+        "https://grcmechanical.com/service-areas/",
+        "https://grcmechanical.com/about/careers/",
+        "https://grcmechanical.com/about/",
+        "https://grcmechanical.com/about/financing/",
+        "https://grcmechanical.com/about/hvac-special-offers/",
+        "https://grcmechanical.com/accessibility-statement/"
+      ]
+    },
+    "about": {
+      "url": "https://grcmechanical.com/about/",
+      "finalUrl": "https://grcmechanical.com/about/",
+      "status": 200,
+      "title": "About Us | GRC Mechanical Services",
+      "forms": [
+        {
+          "action": "/about/#wpcf7-f12-o1",
+          "method": "post",
+          "id": "",
+          "cls": "wpcf7-form init",
+          "fieldCount": 7,
+          "fieldNames": [
+            "your-name",
+            "your-email",
+            "your-phone",
+            "your-city",
+            "your-message",
+            "website",
+            "_wpcf7_ak_hp_textarea"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/maps/embed/v1/place?q=GRC+Mechanical+Services&key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Le4QtYqAAAAALLsm-pLFt95W29a98e4HCE-JfbZ&co=aHR0cHM6Ly9ncmNtZWNoYW5pY2FsLmNvbTo0NDM.&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=396day6ucvu2"
+      ],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:18006518222",
+          "text": "1-800-651-8222",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+18006518222"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n\nSave Up to $5,900 in Rebates With a New Carrier Dual Fuel Heat Pump • SAVE NOW \n\nServing Northern New Jersey\n& Rockland County\n\n1-800-651-8222\n\nGET A QUOTE\nSCHEDULE SERVICE\nASK A TECH\nResidential Services\nCommercial Services\nContact Us\nService Areas\nAbout\nHome » About\nAbout GRC Mechanical Services\n\n4.8\n\nReview Score as of 1/19/24\n\nGRC Mechanical Services was established in 1948 as a refrigeration service organization. Today, we are a full-service HVAC/R mechanical contractor with many long-time and loyal commercial and residential clients. We think that fact speaks to the uncompromising quality of our work. GRC Mechanical Services is owned and operated by two professional engineers who are cousins, Fred G. Russenberger, Jr., PE. and John P. Russenberger, PE.\n\nGRC Mechanical is a 6-Time Winner of the Carrier® President’s Award.\n\nPresident’s Awards are presented annually to an elite group of Carrier dealers who exemplify the company’s model for operational excellence, business effectiveness and delivering the best in cutting-edge technology to consumers. Carrier also awards dealers who are committed to providing excellent customer service and who are dedicated to the Carrier brand. Winners go above and beyond the call of duty in the industry with a dependable, customer-focused work ethic.\n\nLearn More About Our Service, Engineering, & Installation Departments\n\nThrough our Service Department, we provide technical solutions that promote a relationship and instill confidence with our clients. This is the foundation for the Engineering Department's design-build services. Eighty percent of our installation work comes from our existing clients for whom we design the entire system or are called upon to comment on their existing design. Our Installation Department will then utilize its duct fabrication and installation, rigging, pipe fitting, plumbing, and control wiring capabilities to complete the task.\n\nLicenses & Affiliations\n\nProfessional Organizations\n\nAmerican Society of Heating, Refrigerating, and Air-Conditioning Engineers\nAir Conditioning Contractors Of America\nNorth American Technician Excellence\n\nLicenses\n\nNJ HVACR License: 19HC00091600\nRockland County Mechanical Contractor License: P-1633\nProfessional Engineering Licenses: 40297,  29109\nPlumbing License: 12650\nAt GRC Mechanical Services, we work hard for our commercial and residential customers.\n\nWe always strive to provide our customers with the information they need. Learn more about the ways we can serve you below:\n\nBreathe Easy Maintenance Plan: A comprehensive maintenance plan designed to help improve your comfort as well as your system’s efficiency.\nFinancing: Need help paying for your heating and cooling needs? Learn more about our special financing.\nSpecial Offers: For sales and specials on our products and services, visit our Special Offers page often.\nCareers: Considering a career in the HVAC industry? We may have just the opportunity you’re looking for!\n\nContact Us: Touch base with us - visit this page for contact information.\n\nSee Why Your Neighbors Choose Us\n\n\"courteous and helpful.\"\n\"GRC came over to my house on one of the hottest days of the year when my air conditioner failed to work. They told me what was wrong and was very knowledgeable. Showed me different new air condition units and how they would improve the quality of air flow through the house. I chose one and they were back within a day and installed the new unit. Did a nice clean job. The staff was courteous and helpful.\"\n \n- Wendy P.\n \n\n\"honest and trustworthy\"\n\"GRC Mechanical has handled all of my plumbing, heating, HVAC, generator maintenance and upgrades for more than ten years. They have been very responsive and professional. They are honest and trustworthy. Fantastic people to work with.\"\n \n- Michael M.\n \n\n\"would definitely hire them again\"\n\"I had a new heat pump replaced by GRC. I spoke with John and he gave me a fair estimate. I had the opportunity to meet Miguel at my apartment to take some measurements and he explained thoroughly everything they were going to do and how they were going to do it. I am very pleased with the job they did. They worked very neat and clean they had everything in order. They did an excellent job and I would definitely hire them again. Thank you very much. GRC.\"\n \n- Mario H.\n \n\n\"grateful to this company\"\n\"I called GRC and reported the dilemma with my Generator on a day when a major snowstorm was predicted. I called early evening and other companies that I called prior were unavailable and many didn't service the Generac brand. GRC Mechanical answered my call and immediately assigned my case to a service person and assured me that my Generator would be fully operational that day. Well within a couple of hours a serviceman was at my house and fixed the generator. I was ready for the storm and am so grateful to this company for providing prompt quality service and prioritizing customer concerns and satisfaction. Thanks GRC! Would highly recommend to anyone with a Generator!\"\n \n- Diane Z.\n \n\n\"excellent work\"\n\"GRC folks are knowledgeable in how heating and air conditioning systems work. They have both done excellent work on my home heating system and will start on setting up my OLD A/C system next week for the summer season. They have also been caring for our church HVAC systems in Paramus for many years with excellent results including the installation of one new combined system within one week.\"\n \n- Werner M.\n \n\n\"GRC customer service is amazing.\"\n“I called yesterday as one of my HVAC units was acting up. In less than 30 minutes they were on my roof and in about an hour or so had my unit running perfectly. I can’t thank them enough!”\n \n- Jerry Collins - Glen Rock, NY\n\n\"Would highly recommend this company\"\n\"John was extremely pleasant to work with. He looked at our existing system, listened to our concerns and questions and explained all of our options. He spend a great deal of time with us and was very kind and helpful. The day the work was to start, the workers showed up on time, were very neat and professional. They showed up everyday at the same time and worked the entire day. Everyone at the company was an absolute pleasure to deal with. Would highly recommend this company. It was one of the best experiences we have ever had. When the town inspector came, he even commented that the job was very well done.\"\n \n\n- Cynthia S.\n\n \n\n\"Very competitive price and the installation was perfect\"\n\"GRC serviced my wine cellar cooling unit. They responded to repair requests within the same day for equipment they did not even sell me or install. Top quality service. When the time came to replace the equipment they gave me a very competitive price and the installation was perfect. Their crew arrived on time, put down floor protection and were professional and neat. The new equipment went in without a hitch and is working fine. It is nice to know that they stand behind their work!!\"\n\n- Carl G.\n\n \n\n\"meticulous and thorough\"\n\"From day 1, when Matt prepared a quote for a replacement of my AC system, the level of professionalism and responsiveness from GRC Mechanical was excellent. The crew on site was meticulous and thorough in removing the old AC system and installing a new AC condenser, air handler and new flexible hoses for the vents. Their pricing was competitive with other quotes that I received from other companies. I highly recommend them.\"\n \n- Arthur F.\n \n\n\"confident, courteous, knowledgeable\"\n\"Needed our complete A/C [Air Handler and Compressor] replaced. Timely response/visit to give an estimate. Very knowledgeable and friendly. Three workers showed up at 8:30 a.m. to make the installation happen in one day. They worked together as a cohesive team. All were confident, courteous, knowledgeable and did not leave until we understood how to use/maintain the system and operate the new fangled thermostat. :)\"\n \n- S.A.\n \n\n\"courteous and helpful.\"\n\"GRC came over to my house on one of the hottest days of the year when my air conditioner failed to work. They told me what was wrong and was very knowledgeable. Showed me different new air condition units and how they would improve the quality of air flow through the house. I chose one and they were back within a day and installed the new unit. Did a nice clean job. The staff was courteous and helpful.\"\n \n- Wendy P.\n \n\n\"honest and trustworthy\"\n\"GRC Mechanical has handled all of my plumbing, heating, HVAC, generator maintenance and upgrades for more than ten years. They have been very responsive and professional. They are honest and trustworthy. Fantastic people to work with.\"\n \n- Michael M.\n \n\n\"would definitely hire them again\"\n\"I had a new heat pump replaced by GRC. I spoke with John and he gave me a fair estimate. I had the opportunity to meet Miguel at my apartment to take some measurements and he explained thoroughly everything they were going to do and how they were going to do it. I am very pleased with the job they did. They worked very neat and clean they had everything in order. They did an excellent job and I would definitely hire them again. Thank you very much. GRC.\"\n \n- Mario H.\n \n\n\"grateful to this company\"\n\"I called GRC and reported the dilemma with my Generator on a day when a major snowstorm was predicted. I called early evening and other companies that I called prior were unavailable and many didn't service the Generac brand. GRC Mechanical answered my call and immediately assigned my case to a service person and assured me that my Generator would be fully operational that day. Well within a couple of hours a serviceman was at my house and fixed the generator. I was ready for the storm and am so grateful to this company for providing prompt quality service and prioritizing customer concerns and satisfaction. Thanks GRC! Would highly recommend to anyone with a Generator!\"\n \n- Diane Z.\n \n\n\"excellent work\"\n\"GRC folks are knowledgeable in how heating and air conditioning systems work. They have both done excellent work on my home heating system and will start on setting up my OLD A/C system next week for the summer season. They have also been caring for our church HVAC systems in Paramus for many years with excellent results including the installation of one new combined system within one week.\"\n \n- Werner M.\n \n\n\"GRC customer service is amazing.\"\n“I called yesterday as one of my HVAC units was acting up. In less than 30 minutes they were on my roof and in about an hour or so had my unit running perfectly. I can’t thank them enough!”\n \n- Jerry Collins - Glen Rock, NY\n\n\"Would highly recommend this company\"\n\"John was extremely pleasant to work with. He looked at our existing system, listened to our concerns and questions and explained all of our options. He spend a great deal of time with us and was very kind and helpful. The day the work was to start, the workers showed up on time, were very neat and professional. They showed up everyday at the same time and worked the entire day. Everyone at the company was an absolute pleasure to deal with. Would highly recommend this company. It was one of the best experiences we have ever had. When the town inspector came, he even commented that the job was very well done.\"\n \n\n- Cynthia S.\n\n \n\n\"Very competitive price and the installation was perfect\"\n\"GRC serviced my wine cellar cooling unit. They responded to repair requests within the same day for equipment they did not even sell me or install. Top quality service. When the time came to replace the equipment they gave me a very competitive price and the installation was perfect. Their crew arrived on time, put down floor protection and were professional and neat. The new equipment went in without a hitch and is working fine. It is nice to know that they stand behind their work!!\"\n\n- Carl G.\n\n \n\n\"meticulous and thorough\"\n\"From day 1, when Matt prepared a quote for a replacement of my AC system, the level of professionalism and responsiveness from GRC Mechanical was excellent. The crew on site was meticulous and thorough in removing the old AC system and installing a new AC condenser, air handler and new flexible hoses for the vents. Their pricing was competitive with other quotes that I received from other companies. I highly recommend them.\"\n \n- Arthur F.\n \n\n\"confident, courteous, knowledgeable\"\n\"Needed our complete A/C [Air Handler and Compressor] replaced. Timely response/visit to give an estimate. Very knowledgeable and friendly. Three workers showed up at 8:30 a.m. to make the installation happen in one day. They worked together as a cohesive team. All were confident, courteous, knowledgeable and did not leave until we understood how to use/maintain the system and operate the new fangled thermostat. :)\"\n \n- S.A.\n \nPrevious\nNext\nTrusted in the Community for over 75 Years\n\nWe are a full-service HVAC/R mechanical contractor with many long-time and loyal commercial and residential clients.\n\nBreathe Easy Maintenance Program\n\nOur comprehensive maintenance plan is designed to help improve your comfort as well as your system’s efficiency.\n\nCertified and Factory Trained Technicians\n\nOur technicians are factory-trained to provide expert installation, maintenance and repair, and are NATE-certified.\n\n24/7 Emergency Service\n\nWe're happy to help in an HVAC emergency. And, if you're a Breathe Easy customer, you'll get 4-hour priority service.\n\nContact us at\n\n1-800-651-8222\n\nIf you need help with the HVAC system in your home or office, GRC Mechanical Services, Inc. is ready to help. Please contact us by calling the number above, or feel free to fill out the convenient contact form and one of our representatives will respond soon.\n\nGRC Mechanical Services\n\n244 Green Street\nSouth Hackensack, NJ 07606\n\n1-800-651-8222\n\nCONTACT US\n\nName\n\n\nEmail\n\n\nPhone\n\n\nCity\n\n\nHow Can We Help?\n\n\nPlease leave this field empty.\n\nResidential & Commercial Services\n\nAir Conditioning\nHeating\nDuctless\nHeat Pumps\n\nWine Cellar Cooling\nIndoor Air Quality\nGenerators\nCommercial HVAC\n\nQuick Links\n\nService Areas\nCareers\nAbout\n\nFinancing\nSpecial Offers\n\n© 2026 GRC Mechanical. All Rights Reserved. | Accessibility Statement | Site by Trust and Proof\n(opens in new tab)",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        }
+      ],
+      "links": [
+        "https://grcmechanical.com/about/#fl-main-content",
+        "https://grcmechanical.com/about/hvac-special-offers/",
+        "https://grcmechanical.com/",
+        "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+        "https://grcmechanical.com/contact-us/?fwp_type=schedule-service",
+        "https://grcmechanical.com/contact-us/?fwp_type=ask-a-tech",
+        "https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+        "https://grcmechanical.com/contact-us/?fwp_type=schedule-service",
+        "https://grcmechanical.com/contact-us/?fwp_type=ask-a-tech",
+        "https://grcmechanical.com/air-conditioning/",
+        "https://grcmechanical.com/air-conditioning/air-conditioning-maintenance-tune-up/",
+        "https://grcmechanical.com/air-conditioning/air-conditioning-repair/",
+        "https://grcmechanical.com/air-conditioning/air-conditioning-installation-replacement/",
+        "https://grcmechanical.com/heating/",
+        "https://grcmechanical.com/heating/furnace-maintenance-tune-up/",
+        "https://grcmechanical.com/heating/furnace-repair/",
+        "https://grcmechanical.com/heating/furnace-installation-replacement/",
+        "https://grcmechanical.com/heating/boiler-maintenance-tune-up/",
+        "https://grcmechanical.com/heating/boiler-repair/",
+        "https://grcmechanical.com/heating/boiler-installation-replacement/",
+        "https://grcmechanical.com/wine-cellar-cooling/",
+        "https://grcmechanical.com/generators/",
+        "https://grcmechanical.com/generators/generator-maintenance/",
+        "https://grcmechanical.com/generators/generator-repair/",
+        "https://grcmechanical.com/generators/generator-installation/",
+        "https://grcmechanical.com/generators/natural-gas-home-generators/",
+        "https://grcmechanical.com/ductless-mini-splits/",
+        "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-maintenance-tune-up/",
+        "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-repair/",
+        "https://grcmechanical.com/ductless-mini-splits/ductless-mini-split-installation-replacement/",
+        "https://grcmechanical.com/heat-pumps/",
+        "https://grcmechanical.com/heat-pumps/heat-pump-maintenance-tune-up/",
+        "https://grcmechanical.com/heat-pumps/heat-pump-repair/",
+        "https://grcmechanical.com/heat-pumps/heat-pump-installation-replacement/",
+        "https://grcmechanical.com/indoor-air-quality/",
+        "https://grcmechanical.com/piping-services/",
+        "https://grcmechanical.com/carrier-products/",
+        "https://grcmechanical.com/carrier-products/air-conditioning-systems/",
+        "https://grcmechanical.com/carrier-products/heating-systems/",
+        "https://grcmechanical.com/carrier-products/boilers/",
+        "https://grcmechanical.com/carrier-products/heat-pumps/",
+        "https://grcmechanical.com/carrier-products/fan-coils/",
+        "https://grcmechanical.com/carrier-products/thermostats-controls/",
+        "https://grcmechanical.com/service-areas/hvac-services-essex-county-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-hudson-county-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-morris-county-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-passaic-county-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-franklin-lakes-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-glen-rock-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-mahwah-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-oradell-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-paramus-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-ramsey-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-ridgewood-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-saddle-river-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-wayne-nj/",
+        "https://grcmechanical.com/service-areas/hvac-services-wyckoff-nj/",
+        "https://grcmechanical.com/commercial-hvac/",
+        "https://grcmechanical.com/commercial-hvac/commercial-maintenance-programs/",
+        "https://grcmechanical.com/commercial-hvac/commercial-heating/",
+        "https://grcmechanical.com/commercial-hvac/commercial-air-conditioning/",
+        "https://grcmechanical.com/commercial-hvac/commercial-boiler-installation-repair/",
+        "https://grcmechanical.com/commercial-hvac/commercial-rooftop-hvac/",
+        "https://grcmechanical.com/commercial-hvac/commercial-chiller-installation-repair/",
+        "https://grcmechanical.com/commercial-hvac/commercial-refrigeration-installation-repair/",
+        "https://grcmechanical.com/commercial-hvac/commercial-piping-services/",
+        "https://grcmechanical.com/commercial-hvac/ductwork-fabrication/",
+        "https://grcmechanical.com/commercial-hvac/aaon-equipment/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-essex-county-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-hudson-county-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-morris-county-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-passaic-county-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-rockland-county-ny/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-allendale-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-carlstadt-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-east-rutherford-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-elmwood-park-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-mahwah-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-maywood-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-montvale-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-moonachie-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-northvale-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-paramus-nj/",
+        "https://grcmechanical.com/service-areas/commercial-hvac-services-ramsey-nj/",
+        "https://grcmechanical.com/contact-us/",
+        "https://grcmechanical.com/service-areas/",
+        "https://grcmechanical.com/about/",
+        "https://grcmechanical.com/about/breathe-easy-maintenance-plan/",
+        "https://grcmechanical.com/about/financing/",
+        "https://grcmechanical.com/about/hvac-special-offers/",
+        "https://grcmechanical.com/about/careers/",
+        "https://grcmechanical.com/",
+        "https://grcmechanical.com/air-conditioning/",
+        "https://grcmechanical.com/heating/",
+        "https://grcmechanical.com/ductless-mini-splits/",
+        "https://grcmechanical.com/heat-pumps/",
+        "https://grcmechanical.com/wine-cellar-cooling/",
+        "https://grcmechanical.com/indoor-air-quality/",
+        "https://grcmechanical.com/generators/",
+        "https://grcmechanical.com/commercial-hvac/",
+        "https://grcmechanical.com/service-areas/",
+        "https://grcmechanical.com/about/careers/",
+        "https://grcmechanical.com/about/",
+        "https://grcmechanical.com/about/financing/",
+        "https://grcmechanical.com/about/hvac-special-offers/",
+        "https://grcmechanical.com/accessibility-statement/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 60,
+    "at": "2026-11-03T23:40:17.508Z",
+    "statusCounts": {
+      "200": 60
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://grcmechanical.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/grc-mechanical-services/desktop-home.png",
+    "desktop_full": "evidence/screenshots/grc-mechanical-services/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/grc-mechanical-services/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/grc-mechanical-services/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/grc-mechanical-services/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00091600"
+    ],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": true,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": true,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": true
+    },
+    "copyrightYear": 2026,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": [
+      "GET A QUOTE -> https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+      "SCHEDULE SERVICE -> https://grcmechanical.com/contact-us/?fwp_type=schedule-service",
+      "GET A QUOTE -> https://grcmechanical.com/contact-us/?fwp_type=get-a-quote",
+      "SCHEDULE SERVICE -> https://grcmechanical.com/contact-us/?fwp_type=schedule-service"
+    ]
+  },
+  "ctaClickTests": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a-degree-above-heating-cooling-llc",
+  "placeUrl": "https://www.google.com/maps/place/A+Degree+Above+Heating+%26+Cooling,+LLC/data=!4m7!3m6!1s0x89c2fbd9e95f6915:0xe2a6c4d6c4849809!8m2!3d40.906637!4d-74.097483!16s%2Fg%2F11b5wjrvg2!19sChIJFWlf6dn7wokRCZiExNbEpuI",
+  "retrievedAt": "2026-11-03T22:58:03.083Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "A Degree Above Heating & Cooling, LLC",
+  "category": "HVAC contractor",
+  "address": "134 Pehle Ave, Saddle Brook, NJ 07663, United States ",
+  "phone": "+1 201-368-0005 ",
+  "website": "http://degreeabove.com/",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7:30 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/A+Degree+Above+Heating+%26+Cooling,+LLC/data=!4m7!3m6!1s0x89c2fbd9e95f6915:0xe2a6c4d6c4849809!8m2!3d40.906637!4d-74.097483!16s%2Fg%2F11b5wjrvg2!19sChIJFWlf6dn7wokRCZiExNbEpuI?hl=en",
+  "screenshot": "evidence/screenshots/a-degree-above-heating-cooling-llc/google-maps-listing.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hvac-ready-llc",
+  "placeUrl": "https://www.google.com/maps/place/HVAC+Ready+LLC/data=!4m7!3m6!1s0x86d63194c79e0f95:0xba66580d757c3db2!8m2!3d40.897583!4d-74.19842!16s%2Fg%2F11rd8_3mrs!19sChIJlQ-ex5Qx1oYRsj18dQ1YZro",
+  "retrievedAt": "2026-11-03T22:56:37.302Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "HVAC Ready LLC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-357-0838 ",
+  "website": "http://hvacready.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–6 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/HVAC+Ready+LLC/data=!4m7!3m6!1s0x86d63194c79e0f95:0xba66580d757c3db2!8m2!3d40.897583!4d-74.19842!16s%2Fg%2F11rd8_3mrs!19sChIJlQ-ex5Qx1oYRsj18dQ1YZro?hl=en",
+  "screenshot": "evidence/screenshots/hvac-ready-llc/google-maps-listing.png"
+}

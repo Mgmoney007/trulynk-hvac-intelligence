@@ -1,0 +1,25 @@
+{
+  "id": "indoor-expert-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Indoor+Expert+Heating+%26+Cooling/data=!4m7!3m6!1s0xaf9b6165b78bab93:0x1e52fbea6fa3ce8f!8m2!3d40.92656!4d-74.1649928!16s%2Fg%2F11tt01vgb6!19sChIJk6uLt2Vhm68Rj86jb-r7Uh4",
+  "retrievedAt": "2026-11-03T23:05:42.275Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Indoor Expert Heating & Cooling",
+  "category": "HVAC contractor",
+  "address": "285 River St, Paterson, NJ 07524, United States ",
+  "phone": "+1 917-349-4526 ",
+  "website": "https://indoorexpertsnj.com/",
+  "rating": 4.6,
+  "reviews": null,
+  "rateBoxText": "4.6",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Indoor+Expert+Heating+%26+Cooling/data=!4m7!3m6!1s0xaf9b6165b78bab93:0x1e52fbea6fa3ce8f!8m2!3d40.92656!4d-74.1649928!16s%2Fg%2F11tt01vgb6!19sChIJk6uLt2Vhm68Rj86jb-r7Uh4?hl=en",
+  "screenshot": "evidence/screenshots/indoor-expert-heating-cooling/google-maps-listing.png"
+}

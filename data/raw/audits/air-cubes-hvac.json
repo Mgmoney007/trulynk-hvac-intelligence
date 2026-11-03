@@ -1,0 +1,1021 @@
+{
+  "firecrawl": [],
+  "id": "air-cubes-hvac",
+  "name": "Air Cubes HVAC",
+  "website": "http://aircubeshvac.com/",
+  "auditedAt": "2026-11-03T23:14:16.284Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://aircubeshvac.com/",
+      "at": "2026-11-03T23:14:18.972Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://sites.google.com/view/aircubeshvac",
+      "title": "Call us at: (908) 400-0398",
+      "ms": 2639,
+      "error": null,
+      "linkCount": 56
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://sites.google.com/view/aircubeshvac/contact-us",
+      "at": "2026-11-03T23:14:21.721Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://sites.google.com/view/aircubeshvac/contact-us",
+      "title": "Call us at: (908) 400-0398 - Contact Us",
+      "ms": 1432,
+      "error": null,
+      "linkCount": 37
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://aircubeshvac.com/",
+      "at": "2026-11-03T23:14:37.682Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://sites.google.com/view/aircubeshvac",
+      "title": "Call us at: (908) 400-0398",
+      "ms": 2417,
+      "error": null,
+      "linkCount": 56
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://sites.google.com/view/aircubeshvac",
+    "title": "Call us at: (908) 400-0398",
+    "lang": "en-US",
+    "metaDescription": null,
+    "h1": [
+      "Your comfort is our #1 priority",
+      "Heating and Air Conditioning Services",
+      "Providing Heat and Air Conditioning to the Following Areas:",
+      "Resources for Home Owners"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 3536,
+    "bodyText": "Skip to main content\nSkip to navigation\nCall us at: (908) 400-0398\t\nHomeContact UsReviewsServicesPhoto Gallery\n\t\nAir Cubes HVAC \n\t\nYour comfort is our #1 priority\nHeating and Air Conditioning Services\nWe are a small family owned NJ HVAC contractor company. We work year round to provide our costumers with comfort, affordability, and satisfaction.\n Our company is fully licensed/insured and can offer you a variety of options for your home or small business. Whether the job calls for an installation, repair, or maintenance, we can help.\nHere at Air Cubes, we  install and service all heating and air conditioning systems including boilers, furnaces, ductless, and energy efficient units.\nJorge Amador, \nMaster HVACR Contractor NJ\nLicense # 19HC00711900\nProviding Heat and Air Conditioning to the Following Areas:\nEssex County\n\nLivingston\n\nMaplewood\n\nMillburn\n\nMontclair\n\nNorth Caldwell\n\nShort Hills\n\nSouth Orange\n\nUpper Montclair\n\nWest Caldwell\n\nWest Orange\n\nHudson County\n\nBayonne\n\nHoboken\n\nJersey City\n\nWest New York\n\n\n\nMiddlesex County\n\nEast Brunswick \n\nEdison\n\nIselin\n\nMetuchen\n\nNorth Brunswick\n\nPiscataway\n\nSouth Brunswick\n\nSouth Plainfield\n\nWoodbridge\n\nUnion County\n\nBerkley Heights\n\nClark\n\nCranford\n\nFanwood\n\nKenilworth\n\nMountainside\n\nNew Providence\n\nScotch Plains\n\nSpringfield\n\nSummit\n\nUnion\n\nWestfield\n\n\n\nResources for Home Owners\nAir Conditioner: Repair or Replace?\nFollow these HouseLogic tips to decide whether to repair or replace your central air conditioner. Learn how to assess the efficiency of your air conditioning equipment.\n\nHow to know when it’s time to replace your furnace.\n\nRoom Temperature: If some rooms are warmer than others, you have uneven heat distribution. It might simply be that the ducts need adjusting or cleaning, but it could indicate a problem with the furnace or heating system itself.\n\nFurnace Age: Furnaces typically need to be replaced after 15 years, and heat pumps after 10. \n\nUnusual Sounds: Unusual or excessive noise could indicate that the duct system is too small for your home, which can cause a strain on the furnace, or there may be a problem with the furnace itself.\n\nHigh Heating Bills: If your winter heating bills are through the roof, a more energy efficient furnace might be the answer. \n\n\n\n\nName: Jorge Amador               Phone Number: (908) 400-0398          Email: Aircubeshvac@gmail.com\n\nGoogle Sites\nReport abuse",
+    "links": [
+      {
+        "href": "/view/aircubeshvac/home",
+        "abs": "https://sites.google.com/view/aircubeshvac/home",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/home",
+        "abs": "https://sites.google.com/view/aircubeshvac/home",
+        "text": "Call us at: (908) 400-0398",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/home",
+        "abs": "https://sites.google.com/view/aircubeshvac/home",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/contact-us",
+        "abs": "https://sites.google.com/view/aircubeshvac/contact-us",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews/read-our-reviews",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews/read-our-reviews",
+        "text": "Read Our Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews/leave-us-a-review",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews/leave-us-a-review",
+        "text": "Leave Us a Review",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services",
+        "abs": "https://sites.google.com/view/aircubeshvac/services",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/heating",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/heating",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/cooling",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/cooling",
+        "text": "Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/installations",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/installations",
+        "text": "Installations",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/service-maintenance-plans",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/service-maintenance-plans",
+        "text": "Service & Maintenance Plans",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/photo-gallery",
+        "abs": "https://sites.google.com/view/aircubeshvac/photo-gallery",
+        "text": "Photo Gallery",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/home",
+        "abs": "https://sites.google.com/view/aircubeshvac/home",
+        "text": "Call us at: (908) 400-0398",
+        "visible": true,
+        "aboveFold": true,
+        "h": 24,
+        "w": 351,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/home",
+        "abs": "https://sites.google.com/view/aircubeshvac/home",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 47,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/contact-us",
+        "abs": "https://sites.google.com/view/aircubeshvac/contact-us",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 81,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews",
+        "text": "Reviews",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 60,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews/read-our-reviews",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews/read-our-reviews",
+        "text": "Read Our Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews/leave-us-a-review",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews/leave-us-a-review",
+        "text": "Leave Us a Review",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services",
+        "abs": "https://sites.google.com/view/aircubeshvac/services",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 61,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/heating",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/heating",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/cooling",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/cooling",
+        "text": "Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/installations",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/installations",
+        "text": "Installations",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/service-maintenance-plans",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/service-maintenance-plans",
+        "text": "Service & Maintenance Plans",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/photo-gallery",
+        "abs": "https://sites.google.com/view/aircubeshvac/photo-gallery",
+        "text": "Photo Gallery",
+        "visible": true,
+        "aboveFold": true,
+        "h": 22,
+        "w": 101,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/home",
+        "abs": "https://sites.google.com/view/aircubeshvac/home",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/contact-us",
+        "abs": "https://sites.google.com/view/aircubeshvac/contact-us",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews",
+        "text": "Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews/read-our-reviews",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews/read-our-reviews",
+        "text": "Read Our Reviews",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/reviews/leave-us-a-review",
+        "abs": "https://sites.google.com/view/aircubeshvac/reviews/leave-us-a-review",
+        "text": "Leave Us a Review",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services",
+        "abs": "https://sites.google.com/view/aircubeshvac/services",
+        "text": "Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/heating",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/heating",
+        "text": "Heating",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/cooling",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/cooling",
+        "text": "Cooling",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/installations",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/installations",
+        "text": "Installations",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/service-maintenance-plans",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/service-maintenance-plans",
+        "text": "Service & Maintenance Plans",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/photo-gallery",
+        "abs": "https://sites.google.com/view/aircubeshvac/photo-gallery",
+        "text": "Photo Gallery",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_30Wd7cqp08tr",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_30Wd7cqp08tr",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p__Vvz-n-nny78",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p__Vvz-n-nny78",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_6V8AQd9VEsvN",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_6V8AQd9VEsvN",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_LFfO6WcOouFp",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_LFfO6WcOouFp",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/installations",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/installations",
+        "text": "installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/service-maintenance-plans",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/service-maintenance-plans",
+        "text": "repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 48,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/service-maintenance-plans",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/service-maintenance-plans",
+        "text": "maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 109,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_q-T-wnIUFVnq",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_q-T-wnIUFVnq",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/heating",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/heating",
+        "text": "heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 63,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/view/aircubeshvac/services/cooling",
+        "abs": "https://sites.google.com/view/aircubeshvac/services/cooling",
+        "text": "air conditioning systems",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 206,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_lEmdebTaQ-8w",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_lEmdebTaQ-8w",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.2pdn68bsnwl3",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.2pdn68bsnwl3",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.tu6oabo2guzc",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.tu6oabo2guzc",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_YdVh0juHFmKi",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_YdVh0juHFmKi",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_CsdDY41JI3ws",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_CsdDY41JI3ws",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_uOB3WFvVLsap",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_uOB3WFvVLsap",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_jn_CUtCVKs8E",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_jn_CUtCVKs8E",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_q0JUp5TyL9Ur",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_q0JUp5TyL9Ur",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#h.p_45nWWfCNPKug",
+        "abs": "https://sites.google.com/view/aircubeshvac#h.p_45nWWfCNPKug",
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false,
+        "h": 28,
+        "w": 28,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/url?q=https%3A%2F%2Fwww.houselogic.com%2Forganize-maintain%2Fhome-maintenance-tips%2Freplace-home-air-conditioning-equipment%2F&sa=D&sntz=1&usg=AOvVaw2SLTQ4gnBuRyS-hdam0ZKS",
+        "abs": "https://www.google.com/url?q=https%3A%2F%2Fwww.houselogic.com%2Forganize-maintain%2Fhome-maintenance-tips%2Freplace-home-air-conditioning-equipment%2F&sa=D&sntz=1&usg=AOvVaw2SLTQ4gnBuRyS-hdam0ZKS",
+        "text": "Air Conditioner: Repair or Replace? Follow these HouseLogic tips to decide wheth",
+        "visible": true,
+        "aboveFold": false,
+        "h": 153,
+        "w": 560,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Back to site",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Search",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Back to site",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Clear search",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Skip to main content",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Skip to navigation",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Open search bar",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Scroll down",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Copy heading link",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Site actions",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Site actions",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Google Sites",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Report abuse",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.etOqPKhAhvg.O/m=gapi_rpc/exm=client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-l5JrVgGKVELwC844E6riBHX86-w/cb=gapi.loaded_1?le=scs,fedcm_migration_mod",
+      "https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.en.etOqPKhAhvg.O/m=client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo-l5JrVgGKVELwC844E6riBHX86-w/cb=gapi.loaded_0?le=scs",
+      "https://apis.google.com/js/client.js?onload=gapiLoaded",
+      "https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js",
+      "https://www.gstatic.com/_/atari/_/js/k=atari.vw.en_US.CY2eaMNW2S0.O/am=AAAAGAAE/d=1/rs=AGEqA5kb6BcqE8ZiALmvuVdjL4tgdVXDVw/m=view"
+    ],
+    "jsonLd": [],
+    "brokenImages": [
+      "https://lh3.googleusercontent.com/docsubipk/AP9E6xU5RJ7HunHNq11Kh4t8uL-3A7d1e1WpUl1lhUZoQTIy6n5zLmxTABsJgb3cpfnJSkLvD1iEgy2Wftmspzv38FBMekbiHOR4Gjkg1vUQUhPDJPLDLmjkojwdpRsYznPIeSfGN5nNFeLO_Ze5IWU-2WrkH_608aPTa2PrX-a7CaFZJSsm9-QRUv59Amufjc59Uuinl9f7CjOo8A"
+    ],
+    "imageCount": 5,
+    "timing": {
+      "dcl": 1218,
+      "load": 2121,
+      "ttfb": 440
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": " m63kcb n63nq ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 0.062,
+        "sig": " vloccc k5zlne qdwej u8eyrb ",
+        "text": "call us at: (908) 400-0398\t\nhomecontact usreviewsservicesphoto gallery\n\t"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://sites.google.com/view/aircubeshvac",
+    "navMs": 2639,
+    "tel": [],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://sites.google.com/view/aircubeshvac",
+    "navMs": 2417,
+    "timing": {
+      "dcl": 1035,
+      "load": 1840,
+      "ttfb": 495
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [],
+    "telAboveFold": false,
+    "ctaAboveFold": [],
+    "menuToggle": false,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": " m63kcb n63nq ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 0.01,
+        "sig": "s9iprd dxsord ytv4we mz8gvb ysh9j ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 0.084,
+        "sig": " vloccc k5zlne qdwej u8eyrb ",
+        "text": "\t"
+      },
+      {
+        "kind": "bottom_bar",
+        "cover": 0.001,
+        "sig": " dza9kd ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 1,
+    "visibleNavLinks": 1,
+    "brokenImages": [
+      "https://lh3.googleusercontent.com/docsubipk/AP9E6xU5RJ7HunHNq11Kh4t8uL-3A7d1e1WpUl1lhUZoQTIy6n5zLmxTABsJgb3cpfnJSkLvD1iEgy2Wftmspzv38FBMekbiHOR4Gjkg1vUQUhPDJPLDLmjkojwdpRsYznPIeSfGN5nNFeLO_Ze5IWU-2WrkH_608aPTa2PrX-a7CaFZJSsm9-QRUv59Amufjc59Uuinl9f7CjOo8A"
+    ],
+    "textChars": 2283
+  },
+  "pages": {
+    "contact": {
+      "url": "https://sites.google.com/view/aircubeshvac/contact-us",
+      "finalUrl": "https://sites.google.com/view/aircubeshvac/contact-us",
+      "status": 200,
+      "title": "Call us at: (908) 400-0398 - Contact Us",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [],
+      "owners": [],
+      "bodyText": "Skip to main content\nSkip to navigation\nCall us at: (908) 400-0398\t\nHomeContact UsReviewsServicesPhoto Gallery\n\t\nClick Here to Leave Us a Message\nGoogle Sites\nReport abuse",
+      "vendors": [],
+      "links": [
+        "https://sites.google.com/view/aircubeshvac/home",
+        "https://sites.google.com/view/aircubeshvac/home",
+        "https://sites.google.com/view/aircubeshvac/home",
+        "https://sites.google.com/view/aircubeshvac/contact-us",
+        "https://sites.google.com/view/aircubeshvac/reviews",
+        "https://sites.google.com/view/aircubeshvac/reviews/read-our-reviews",
+        "https://sites.google.com/view/aircubeshvac/reviews/leave-us-a-review",
+        "https://sites.google.com/view/aircubeshvac/services",
+        "https://sites.google.com/view/aircubeshvac/services/heating",
+        "https://sites.google.com/view/aircubeshvac/services/cooling",
+        "https://sites.google.com/view/aircubeshvac/services/installations",
+        "https://sites.google.com/view/aircubeshvac/services/service-maintenance-plans",
+        "https://sites.google.com/view/aircubeshvac/photo-gallery",
+        "https://sites.google.com/view/aircubeshvac/home",
+        "https://sites.google.com/view/aircubeshvac/home",
+        "https://sites.google.com/view/aircubeshvac/contact-us",
+        "https://sites.google.com/view/aircubeshvac/reviews",
+        "https://sites.google.com/view/aircubeshvac/reviews/read-our-reviews",
+        "https://sites.google.com/view/aircubeshvac/reviews/leave-us-a-review",
+        "https://sites.google.com/view/aircubeshvac/services",
+        "https://sites.google.com/view/aircubeshvac/services/heating",
+        "https://sites.google.com/view/aircubeshvac/services/cooling",
+        "https://sites.google.com/view/aircubeshvac/services/installations",
+        "https://sites.google.com/view/aircubeshvac/services/service-maintenance-plans",
+        "https://sites.google.com/view/aircubeshvac/photo-gallery",
+        "https://sites.google.com/view/aircubeshvac/home",
+        "https://sites.google.com/view/aircubeshvac/contact-us",
+        "https://sites.google.com/view/aircubeshvac/reviews",
+        "https://sites.google.com/view/aircubeshvac/reviews/read-our-reviews",
+        "https://sites.google.com/view/aircubeshvac/reviews/leave-us-a-review",
+        "https://sites.google.com/view/aircubeshvac/services",
+        "https://sites.google.com/view/aircubeshvac/services/heating",
+        "https://sites.google.com/view/aircubeshvac/services/cooling",
+        "https://sites.google.com/view/aircubeshvac/services/installations",
+        "https://sites.google.com/view/aircubeshvac/services/service-maintenance-plans",
+        "https://sites.google.com/view/aircubeshvac/photo-gallery"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 12,
+    "at": "2026-11-03T23:14:35.213Z",
+    "statusCounts": {
+      "200": 12
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://sites.google.com/view/aircubeshvac",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 503,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/air-cubes-hvac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/air-cubes-hvac/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/air-cubes-hvac/desktop-contact.png",
+    "mobile_asis": "evidence/screenshots/air-cubes-hvac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00711900"
+    ],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [
+      "aircubeshvac@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

@@ -1,0 +1,1369 @@
+{
+  "firecrawl": [],
+  "id": "a-degree-above-heating-cooling-llc",
+  "name": "A Degree Above Heating & Cooling, LLC",
+  "website": "http://degreeabove.com/",
+  "auditedAt": "2026-11-03T23:01:18.888Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "http://degreeabove.com/",
+      "at": "2026-11-03T23:01:22.367Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.degreeabove.com/",
+      "title": "Reliable HVAC Services | A Degree Above Heating And Cooling | Saddle Brook, New Milford & Hackensack, NJ",
+      "ms": 3421,
+      "error": null,
+      "linkCount": 72
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.degreeabove.com/contact",
+      "at": "2026-11-03T23:01:25.637Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.degreeabove.com/contact",
+      "title": "Contact | A Degree Above Heating And Cooling",
+      "ms": 2224,
+      "error": null,
+      "linkCount": 51
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.degreeabove.com/about-us",
+      "at": "2026-11-03T23:01:28.784Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.degreeabove.com/about-us",
+      "title": "About Us | A Degree Above Heating And Cooling | Saddle Brook, New Milford & Hackensack, NJ",
+      "ms": 2478,
+      "error": null,
+      "linkCount": 52
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "http://degreeabove.com/",
+      "at": "2026-11-03T23:01:55.187Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.degreeabove.com/",
+      "title": "Reliable HVAC Services | A Degree Above Heating And Cooling | Saddle Brook, New Milford & Hackensack, NJ",
+      "ms": 3097,
+      "error": null,
+      "linkCount": 74
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.degreeabove.com/",
+    "title": "Reliable HVAC Services | A Degree Above Heating And Cooling | Saddle Brook, New Milford & Hackensack, NJ",
+    "lang": "en",
+    "metaDescription": "Get reliable HVAC repairs, maintenance & installations. Contact us for special promotions today!",
+    "h1": [
+      "RELIABLE HVAC SERVICES FOR EVERY SEASON!"
+    ],
+    "viewportMeta": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 6940,
+    "bodyText": "Home\nAbout Us\nTestimonials\nAreas We Serve\nHVAC Services\nHVAC Repairs & Maintenance\nFurnace Maintenance\nAC Maintenance\nHVAC Installations\nBoiler Services\nWater Heaters\nHumidifier Services\nOur HVAC Products\nResources\nFAQ\nGallery\nContact\n(201) 368-0005\nHome\nAbout Us\nTestimonials\nAreas We Serve\nHVAC Services\nHVAC Repairs & Maintenance\nFurnace Maintenance\nAC Maintenance\nHVAC Installations\nBoiler Services\nWater Heaters\nHumidifier Services\nOur HVAC Products\nResources\nFAQ\nGallery\nContact\n(201) 368-0005\nRELIABLE HVAC SERVICES FOR EVERY SEASON!\nHire us for Affordable HVAC Solutions in Teaneck, Paramus, Ridgewood, Saddle Brook, NJ, and Surrounding Areas\nBook Your HVAC Service Today\nHVAC Repairs and Maintenance\nLearn More ➔\nBoiler Replacements and Maintenance\nLearn More ➔\nWater Heater Services\nLearn More ➔\nHVAC Installations\nLearn More ➔\nA Degree Above Heating and Cooling, LLC\n\nHVAC service, AC unit replacement, Boiler repair & more\n\n\n\n\nServing Hackensack, Paramus, Ridgewood, Saddle Brook, NJ and Surrounding Areas\n\nIs your HVAC unit making a funny noise? Do you need to tune up your AC unit before the weather gets warm? A Degree Above Heating and Cooling, LLC is your reliable resource for air conditioning and air quality testing. We're a family-owned and -operated HVAC company serving residents of Paramus Ridgewood, Saddle Brook, New Milford, NJ, and the surrounding areas. We also offer a wide range of maintenance services for AC units.\n\n\n\n\nGet a project estimate now by calling 201-368-0005.\n\nWe offer comprehensive HVAC system maintenance for a competitive cost with NO HIDDEN FEES\n\nWe are a local company that strives for honesty and integrity. When you schedule an HVAC check with us, we'll:\nClean the fan\nInspect filters\nCheck coolant lines\nInspect evaporator coils\nClean and adjust fastenings\nInspect filter\nCheck airflow\n\nTalk to Our HVAC Pros\nHome to experienced air quality specialists\n\nA Degree Above Heating and Cooling employs skilled air conditioning contractors focused on keeping you cool year-round. We're your best bet for:\n\nHVAC repair\n\nHVAC maintenance\n\nWater Heaters\n\n﻿Boiler Services\n\nHumidifier installation & Air quality testing\n\nWe work with HVAC brands from some of the best manufacturers, including Trane and Carrier. Schedule an appointment with A Degree Above Heating and Cooling serving Paramus, Ridgewood, Hackensack, New Milford, NJ, and surrounding areas as soon as possible.\n\nCheck out what our customers have to say!\n⭐⭐⭐⭐⭐\n\nWe have been ongoing customers of A Degree Above for 3 years now. They do our AC system maintenance every spring, and handled a heating system repair when a part broke a couple winters ago. They are always super professional and timely with scheduling, payments/receipts, and communicative, which is not always the easiest with service companies.\n\n\n\n\nSpecial shout-out to our tech Jordan, who has been kind and great all the times he's been here, but especially for this— I'm immunocompromised (cancer) and always wear a mask when anyone comes into our home for my safety. After seeing this and completing the exterior work on our AC, Jordan and his co-worker came back inside wearing masks (unprompted) and when I thanked him for it, he responded with kindness and wanting to assure our safety. Kindness and compassion like this goes a long way and these are the type of people you'd want to trust in your home!\n\n\n\n\n-Em Lee\n\n⭐⭐⭐⭐⭐\n\nPaul and Jordan came to address a heating issue. Very detailed on what the problem is, on time, professional, and most of all honest. It’s always a terrific experience with A Degree Above. My family has trusted in their Services for central air and heat. Paul has serviced our home previously, simply fantastic gentleman. Highly recommend.\n\n\n\n\n-Nicole Garofalo\n\n⭐⭐⭐⭐⭐\n\nThis is one of the best companies. I called during that terrible heat wave and, as busy as they were from it, they came the next day and fixed the issue. We would have melted! I would not hesitate to use them again!\n\n\n\n\n-Cathy H\n\n⭐⭐⭐⭐⭐\n\nThe complete team was very professional and helpful. From the office to the service technicians they always kept me informed of what was going on and were always on time. It's a pleasure dealing with a degree above! They have just gained a customer for life. Great job to Lou and Jared for taking care of the problem quickly. I would recommend this company to anyone.\n\n\n\n\n-Jorge Huertas\n\n⭐⭐⭐⭐⭐\n\nIf you need HVAC services, this is the place. I compared a few for pricing and not only they gave me most reasonable pricing, the team was amazing. Coming in promptly at the scheduled time, and did the job quickly and cleaned up perfectly. I would not hesitate to work with them again in any future projects.\n\n\n\n\n-Jisun Kang\n\n⭐⭐⭐⭐⭐\n\nThese guys were the epitome of professionalism. We received emails with the name of the technician before arrival time. They were prompt & courteous. They laid protective white drop cloths from the 1st through 3rd floor & also wore booties. They were very neat no debris left behind. The building inspectors said \"wow\" they went above & beyond. Beautiful Job! Great price! Thank you Anthony\n\n\n\n\n-Stan Dziedzic\n\n⭐⭐⭐⭐⭐\n\nHad an issue with my Central Air Furnace not heating and their service techs were very professional. They were able to solve the problem within 20 mins. Great service. Will definitely use them again would highly recommend them to anyone with issues with their units.\n\n\n\n\n-David Skific\n\n⭐⭐⭐⭐⭐\n\nWe had A Degree Above replace our AC/gas furnace 4 years ago and it was such an easy process. A few weeks ago, we had an issue with the thermostat and wiring, they came out quickly and made sure to fix the problem. I love how they have an automated service that texts you about appointments and even sends a picture of the technician that’s coming. Highly recommend!\n\n\n\n\n-Carlos Ramirez\n\n⭐⭐⭐⭐⭐\n\nWe had the best experience with Lou and his team. We had some major issues with our air conditioning unit and Lou spent hours assessing it and going to get the parts necessary for him to fix it. I will be using him again in the future for sure!\n\n\n\n\n-Jillian Sandor\n\n⭐⭐⭐⭐⭐\n\nI just had Lou come out and work on diagnosing and repairing both of my AC Units. Lou was truly a Godsend. He came on time, spent time to go through both the units, gave me his honest advice and opinion and left me with a more than reasonable repair bill. I cannot tell you how grateful I am for this because whenever you call companies, you feel like everyone is out there to rip you off! He was extremely knowledgeable, kind, professional and beyond everything honest! Thank you again for your help with our units Lou. I would recommend his team to anyone with closed eyes.\n\n\n\n\n-Jyoti Agarwalla\n\n⭐⭐⭐⭐⭐\n\nThese guys are the best around. They have done numerous service calls for me both on the heating system and air conditioning system along with an install of a brand new unit on the first floor. My most recent experience with A Degree Above was today when I came home to see the thermostat reading 82 degrees. They had a technician on site in one hour on a feel like temperature of 102 degrees outside. Took care of the issue quickly and had the unit back up and running. Would recommend them for any HVAC needs. Thank you A Degree Above!\n\n\n\n\n-Devin Marchesani\n\n⭐⭐⭐⭐⭐\n\nPaul & Jared from A Degree Above fixed our furnace, which didn't ignite properly. They were very efficient. They kept me posted via text and arrived a little earlier than scheduled, which was good. They identified the issue quickly, repaired it and suggested ways to keep it from happening again (like changing the filter more frequently). Both gentlemen were very polite and customer friendly, a pleasure to do business with. I highly recommend A Degree Above Heating & Cooling and will definitely call them again if I need repairs.\n\n\n\n\n-Khalid Strickland\n\n⭐⭐⭐⭐⭐\n\nMy family has been a customer of A Degree Above for years. I highly recommend them. Their service is extremely prompt, and they care about their customers. Five stars for sure.\n\n\n\n\n-Gabrielle Brieger\n\n⭐⭐⭐⭐⭐\n\nThe guys at A Degree Above never disappoint. They showed up in a few hours after my husband called for emergency service for our hydronic heating system. Then a few hours later the system was repaired and the house warm again. Thank you to Paul and the entire team at A Degree Above, including their apprentices. We highly recommend this company.\n\n\n\n\n-Angelica Posada\n\n⭐⭐⭐⭐⭐\n\nI've used Degree Above multiple times since I bought my home. I'm very pleased with the service from start to finish. They always try to come ASAP, frequently the same day. The guys take the time to explain what the problem is and your options. When they saw that I was knowledgeable and handy, they even advised me to try and diagnose simple fixes prior to calling them which showed me they care about their customers and not just making a buck. I highly recommend them.\n\n\n\n\n-Peter Cherevas\n\n⭐⭐⭐⭐⭐\n\nI used A Degree Above about five year ago and was impressed with their professionalism and honesty. When my central ac had problems again, I didn't hesitate to call them. They were once again very thorough in their investigation into the problems my ac unit was having, explained everything they were doing and what my options were. I would definitely recommend them.\n\n\n\n\n-Kitty Caiazza\n\n⭐⭐⭐⭐⭐\n\nI can't express enough how professional A Degree Heating and Cooling company is, finding people like Lou, Cheryl, Richmond was are recent tech but the others guys are so informative, very nice they are truly a gem. There guys are amazing and I also think there prices are reasonable. I am not big on writing Reviews but I had too for this company and for any family out there in need of a honest trusting company..Thank you A Degree we appreciate you so much.\n\n\n\n\n-Ana Ferreira\n\n⭐⭐⭐⭐⭐\n\nA Degree Above is a reputable respectful company. Once they start a project they'll finish the project and if there are any issues they'll address it. Lou, is a honest man with integrity they did an advanced full installation in our 3k and greater square foot home. They paid full attention detail can't tell how happy I was to have them as my HVAC contractor. A +\n\n\n\n\n-Roberto Vaccarella\n\n⭐⭐⭐⭐⭐\n\nGreat prompt service was able to get to us last minute on a really hot day just before a holiday weekend!! Guys were polite(Matt and Rich) and seemed very honest they did their job quickly and professionally! The girl (I think her name was Erin) was very nice getting us in last minute. And their prices were not very expensive considering it was also a last minute emergency did not charge any extra fee just a normal service call price $99.99 which is about normal!\n\n\n\n\n-Robert Wilson\n\n⭐⭐⭐⭐⭐\n\nPurchasing a home can be very stressful but A Degree Aboves technician put us at ease. He was very thorough and explained every component on both the AC and furnace unit that was having issues. They were able to provide a quote to us that will allow negotiations to occur with the sellers. We will definitely be using them once the home is closed and we can proceed with repairs. Highly recommended.\n\n\n\n\n-Kelly Wiegand\n\n⭐⭐⭐⭐⭐\n\nI have not found any company in any line of business that I trust more than A Degree Above. They do great work for a great price, and they stand by their work. The one time I wasn't entirely happy with something they did, the owner Lou came out and addressed it for free. And I even found out afterwards from searching around online, that they really hadn't done anything wrong in the first place. He's really about making the customer happy, and I'll never use another HVAC company EVER.\n\n\n\n\n-RM B\n\n⭐⭐⭐⭐⭐\n\nThey are prompt, clean and very professional.\n\n\n\n\nThey delivered exactly what they promised and at a great price. I was impressed.\n\n\n\n\nInstalling a new boiler is a big job, but they were up to the task. I highly recommend these guys.\n\n\n\n\nThanks Lou!\n\n\n\n\n-Lazaro Carvajal\n\n⭐⭐⭐⭐⭐\n\nI finally found an air conditioning company I can trust. Lou is an honest, knowledgable and professional. I called at 7pm on a friday and he was here ther next morning. I am so appreciative of the service call, particularly since it's going to be over 90 degrees in june! My system froze up. Lou diagnosed the problem and got me up and running until the parts come in.\n\nThank you A Degree Above.\n\nI'm glad I found you.\n\nBrian\n\n\n\n\n-Brian\n\n⭐⭐⭐⭐⭐\n\nAn extraordinary group of professionals! I was greatly impressed with how quickly/efficiently they installed my HVAC system. Very clean too! The office team is great to deal with as well. Would recommend them in a heartbeat.\n\n\n\n\n-Jason Yulfo\n\n⭐⭐⭐⭐⭐\n\nexcellent Service,knowledgeable,fast,reasonable price, I highly recommend to anyone that needs HVAC services. They were pretty professional, they showed up on time, and all the work was completed on time. They were respectful. We are very happy with their service.\n\n\n\n\n-Rupert Chandool\n\n⭐⭐⭐⭐⭐\n\nNot only have I used A DEGREE ABOVE but I have referred other friend to them and needless to say they are truly a degree above. We have all been extremely satisfied. They are truly professional and very fair and honest. Very comforting to know they have your best interest\n\n\n\n\n-Vivian P. Spoto\n\n⭐⭐⭐⭐⭐\n\nPaul and Jordan came to address a heating issue. Very detailed on what the problem is, on time, professional, and most of all honest. It’s always a terrific experience with A Degree Above. My family has trusted in their Services for central air and heat. Paul has serviced our home previously, simply fantastic gentleman. Highly recommend.\n\n\n\n\n-Nicole Garofalo\n\nAre you worried about affording your new HVAC system?\n\nA new air conditioning system can drain your savings. That's why A Degree Above Heating and Cooling offers financing through FTL finance. This fixed-rate financing program can help you afford the HVAC equipment you need.\n\n\n\n\nGet in touch with an HVAC specialist at A Degree Above Heating and Cooling today to discuss your financing options.\n\nA Degree Above Heating And Cooling\n\n134 Pehle Ave\n\nSaddle Brook, NJ 07663\n\nOur Location\nCall Us\nHours\n(201) 368-0005\nMon - Fri\n7:00 am - 5:00 pm\nSaturday\n8:00 am - 12:00 pm\nSunday\nClosed\nSeasonal Strategies for High-Efficiency Home Cooling\nChoosing the Best HVAC Contractor in Saddle Brook, NJ\nBy A Degree Above Heating & Cooling, LLC • September 4, 2026\nLearn what makes an HVAC contractor truly reliable in Saddle Brook, NJ — from licenses and response time to repair credentials for furnaces, AC, and boilers.\nPreparing Your HVAC System for Spring Weather in Westwood, NJ\nBy A Degree Above Heating And Cooling • June 24, 2026\nPrepare your HVAC system for spring in Westwood, NJ with professional tune-ups that ensure a smooth heating-to-cooling transition and lower energy costs.\nCooling System Checkups That Extend Equipment Life in New Milford, NJ\nBy A Degree Above Heating And Cooling • May 24, 2026\nCooling system checkups in New Milford, NJ extend equipment life and reduce energy costs with professional spring inspections for residential AC systems.\n1\n(current)\n2\n3\n...\n5\nCall Us:\n(201) 368-0005\nOur Location:\n\n134 Pehle Ave\n\nSaddle Brook, NJ 07663\n\nHours:\nMon - Fri\n7:00 am - 5:00 pm\nSaturday\n8:00 am - 12:00 pm\nSunday\nClosed\nFollow Us:\n\nCopyright © A Degree Above Heating And Cooling | All Rights Reserved\n\nTREE SERVICES\n\nHome\nHome\nHome\nHome\n\nADDITIONAL SERVICES\n\nHome\n\nCONTACT US TODAY\n\n(201) 368-0005\n\n134 Pehle Ave\n\nSaddle Brook, NJ 07663",
+    "links": [
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 23,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 60,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.degreeabove.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 101,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/testimonials",
+        "abs": "https://www.degreeabove.com/testimonials",
+        "text": "Testimonials",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 176,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/areas-we-serve",
+        "abs": "https://www.degreeabove.com/areas-we-serve",
+        "text": "Areas We Serve",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 176,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-services",
+        "abs": "https://www.degreeabove.com/hvac-services",
+        "text": "HVAC Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 142,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-repairs-maintenance",
+        "abs": "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "text": "HVAC Repairs & Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 308,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/furnace-maintenance",
+        "abs": "https://www.degreeabove.com/furnace-maintenance",
+        "text": "Furnace Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 308,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-maintenance",
+        "abs": "https://www.degreeabove.com/ac-maintenance",
+        "text": "AC Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 308,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-installations",
+        "abs": "https://www.degreeabove.com/hvac-installations",
+        "text": "HVAC Installations",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 308,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/boiler-services",
+        "abs": "https://www.degreeabove.com/boiler-services",
+        "text": "Boiler Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 308,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/water-heaters",
+        "abs": "https://www.degreeabove.com/water-heaters",
+        "text": "Water Heaters",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 308,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/humidifier-services",
+        "abs": "https://www.degreeabove.com/humidifier-services",
+        "text": "Humidifier Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 308,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/our-hvac-products",
+        "abs": "https://www.degreeabove.com/our-hvac-products",
+        "text": "Our HVAC Products",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 157,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/resources",
+        "abs": "https://www.degreeabove.com/resources",
+        "text": "Resources",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 111,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.degreeabove.com/faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 78,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/gallery",
+        "abs": "https://www.degreeabove.com/gallery",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 68,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.degreeabove.com/contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 76,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 368-0005",
+        "abs": "tel:(201) 368-0005",
+        "text": "(201) 368-0005",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.degreeabove.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/testimonials",
+        "abs": "https://www.degreeabove.com/testimonials",
+        "text": "Testimonials",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/areas-we-serve",
+        "abs": "https://www.degreeabove.com/areas-we-serve",
+        "text": "Areas We Serve",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-services",
+        "abs": "https://www.degreeabove.com/hvac-services",
+        "text": "HVAC Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-repairs-maintenance",
+        "abs": "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "text": "HVAC Repairs & Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/furnace-maintenance",
+        "abs": "https://www.degreeabove.com/furnace-maintenance",
+        "text": "Furnace Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 52,
+        "w": 153,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-maintenance",
+        "abs": "https://www.degreeabove.com/ac-maintenance",
+        "text": "AC Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 153,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-installations",
+        "abs": "https://www.degreeabove.com/hvac-installations",
+        "text": "HVAC Installations",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/boiler-services",
+        "abs": "https://www.degreeabove.com/boiler-services",
+        "text": "Boiler Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/water-heaters",
+        "abs": "https://www.degreeabove.com/water-heaters",
+        "text": "Water Heaters",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/humidifier-services",
+        "abs": "https://www.degreeabove.com/humidifier-services",
+        "text": "Humidifier Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/our-hvac-products",
+        "abs": "https://www.degreeabove.com/our-hvac-products",
+        "text": "Our HVAC Products",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/resources",
+        "abs": "https://www.degreeabove.com/resources",
+        "text": "Resources",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.degreeabove.com/faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/gallery",
+        "abs": "https://www.degreeabove.com/gallery",
+        "text": "Gallery",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.degreeabove.com/contact",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 165,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.degreeabove.com/contact",
+        "text": "Book Your HVAC Service Today",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 289,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-repairs-maintenance",
+        "abs": "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "text": "Learn More ➔",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 208,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/boiler-services",
+        "abs": "https://www.degreeabove.com/boiler-services",
+        "text": "Learn More ➔",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 208,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/water-heaters",
+        "abs": "https://www.degreeabove.com/water-heaters",
+        "text": "Learn More ➔",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 208,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-installations",
+        "abs": "https://www.degreeabove.com/hvac-installations",
+        "text": "Learn More ➔",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 208,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.degreeabove.com/contact",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 250,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/ac-maintenance",
+        "abs": "https://www.degreeabove.com/ac-maintenance",
+        "text": "maintenance services for AC",
+        "visible": true,
+        "aboveFold": false,
+        "h": 47,
+        "w": 494,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.degreeabove.com/contact",
+        "text": "Talk to Our HVAC Pros",
+        "visible": true,
+        "aboveFold": false,
+        "h": 55,
+        "w": 250,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-repairs-maintenance",
+        "abs": "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "text": "HVAC repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 101,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-repairs-maintenance",
+        "abs": "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "text": "HVAC maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 162,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/water-heaters",
+        "abs": "https://www.degreeabove.com/water-heaters",
+        "text": "Water Heaters",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 119,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/boiler-services",
+        "abs": "https://www.degreeabove.com/boiler-services",
+        "text": "Boiler Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 120,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/humidifier-services",
+        "abs": "https://www.degreeabove.com/humidifier-services",
+        "text": "Humidifier installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 185,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/humidifier-services",
+        "abs": "https://www.degreeabove.com/humidifier-services",
+        "text": "&",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 12,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/humidifier-services",
+        "abs": "https://www.degreeabove.com/humidifier-services",
+        "text": "Air quality testing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 147,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact",
+        "abs": "https://www.degreeabove.com/contact",
+        "text": "Get in touch",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 97,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/choosing-the-best-hvac-contractor-in-saddle-brook-nj",
+        "abs": "https://www.degreeabove.com/choosing-the-best-hvac-contractor-in-saddle-brook-nj",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/choosing-the-best-hvac-contractor-in-saddle-brook-nj",
+        "abs": "https://www.degreeabove.com/choosing-the-best-hvac-contractor-in-saddle-brook-nj",
+        "text": "Choosing the Best HVAC Contractor in Saddle Brook, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 81,
+        "w": 310,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/preparing-your-hvac-system-for-spring-weather-in-westwood-nj",
+        "abs": "https://www.degreeabove.com/preparing-your-hvac-system-for-spring-weather-in-westwood-nj",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/preparing-your-hvac-system-for-spring-weather-in-westwood-nj",
+        "abs": "https://www.degreeabove.com/preparing-your-hvac-system-for-spring-weather-in-westwood-nj",
+        "text": "Preparing Your HVAC System for Spring Weather in Westwood, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 108,
+        "w": 310,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling-system-checkups-that-extend-equipment-life-in-new-milford-nj",
+        "abs": "https://www.degreeabove.com/cooling-system-checkups-that-extend-equipment-life-in-new-milford-nj",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling-system-checkups-that-extend-equipment-life-in-new-milford-nj",
+        "abs": "https://www.degreeabove.com/cooling-system-checkups-that-extend-equipment-life-in-new-milford-nj",
+        "text": "Cooling System Checkups That Extend Equipment Life in New Milford, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 135,
+        "w": 310,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 194,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/adegreeabovehvac",
+        "abs": "https://facebook.com/adegreeabovehvac",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 35,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://instagram.com/a_degree_above/",
+        "abs": "https://instagram.com/a_degree_above/",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 35,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://youtube.com/channel/UCBJJOCi7zELWyjc7o2qJNDA",
+        "abs": "https://youtube.com/channel/UCBJJOCi7zELWyjc7o2qJNDA",
+        "text": "youtube",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 35,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://yelp.com/biz/a-degree-above-heating-and-cooling-saddle-brook-2",
+        "abs": "https://yelp.com/biz/a-degree-above-heating-and-cooling-saddle-brook-2",
+        "text": "yelp",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 35,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/place/A+Degree+Above+Heating+%26+Cooling,+LLC/@40.906637,-74.097483,798m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c2fbd9e95f6915:0xe2a6c4d6c4849809!8m2!3d40.906637!4d-74.097483!16s%2Fg%2F11b5wjrvg2!5m1!1e2",
+        "abs": "https://www.google.com/maps/place/A+Degree+Above+Heating+%26+Cooling,+LLC/@40.906637,-74.097483,798m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c2fbd9e95f6915:0xe2a6c4d6c4849809!8m2!3d40.906637!4d-74.097483!16s%2Fg%2F11b5wjrvg2!5m1!1e2",
+        "text": "google_my_business",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 35,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.angi.com/companylist/us/nj/saddle-brook/a-degree-above-heating-and-cooling-reviews-8225528.htm",
+        "abs": "https://www.angi.com/companylist/us/nj/saddle-brook/a-degree-above-heating-and-cooling-reviews-8225528.htm",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 93,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.houzz.com/professionals/heating-and-cooling-sales-and-repair/a-degree-above-heating-and-cooling-pfvwus-pf~504646420",
+        "abs": "https://www.houzz.com/professionals/heating-and-cooling-sales-and-repair/a-degree-above-heating-and-cooling-pfvwus-pf~504646420",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 168,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 319,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 319,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 319,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 319,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.degreeabove.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 317,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 368-0005",
+        "abs": "tel:(201) 368-0005",
+        "text": "(201) 368-0005",
+        "visible": true,
+        "aboveFold": false,
+        "h": 23,
+        "w": 122,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 1",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "back",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "next",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://www.youtube.com/embed/xhvNMptq044",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.415213031853!2d-74.10005792460727!3d40.90664102567804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2fbd9e95f6915%3A0xe2a6c4d6c4849809!2sA%20Degree%20Above%20Heating%20%26%20Cooling%2C%20LLC!5e0!3m2!1sen!2sus!4v1760102076123!5m2!1sen!2sus"
+    ],
+    "scripts": [
+      "https://d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js",
+      "https://cdn.ad360.media/js/ad360pixelevent.min.js?t=1793750400000",
+      "https://www.googletagmanager.com/gtag/js?id=G-ENRQL4D4GV",
+      "https://static.cdn-website.com/mnlt/production/6884/_dm/s/rt/dist/scripts/d-js-runtime-flex-package.min.js",
+      "https://ms-cdn.multiscreensite.com/runtime-react/4306/res/js/runtime-react.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "A Degree Above Heating And Cooling",
+        "url": "https://www.degreeabove.com/"
+      },
+      {
+        "@context": {
+          "@vocab": "http://schema.org/"
+        },
+        "@type": "HVACBusiness",
+        "name": "A Degree Above Heating And Cooling",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "134 Pehle Avenue",
+          "addressLocality": "Saddle Brook",
+          "addressRegion": "New Jersey",
+          "postalCode": "07663",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "40.90663",
+          "longitude": "-74.09749"
+        },
+        "url": "https://www.degreeabove.com",
+        "description": "Is your HVAC unit making a funny noise? Do you need to tune up your AC unit before the weather gets warm? A Degree Above Heating and Cooling, LLC is your reliable resource for air conditioning and air quality testing. We're a family-owned and -operated HVAC company serving residents of Paramus, Ridgewood, Saddle Brook and the surrounding areas. We also offer a wide range of maintenance services for AC units.",
+        "telephone": "(201) 368-0005",
+        "email": "info@degreeabove.com",
+        "logo": "https://irp.cdn-website.com/c687b0bc/dms3rep/multi/logo.png",
+        "sameAs": [
+          "https://youtube.com/channel/UCBJJOCi7zELWyjc7o2qJNDA",
+          "https://yelp.com/biz/a-degree-above-heating-and-cooling-saddle-brook-2",
+          "https://google.com/maps/place/A+Degree+Above+Heating+%26+Cooling,+LLC/@40.906637,-74.097483,798m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c2fbd9e95f6915:0xe2a6c4d6c4849809!8m2!3d40.906637!4d-74.097483!16s%2Fg%2F11b5wjrvg2!5m1!1e2",
+          "https://instagram.com/a_degree_above/",
+          "https://facebook.com/adegreeabovehvac"
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "07:00",
+            "closes": "17:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Saturday"
+            ],
+            "opens": "08:00",
+            "closes": "12:00"
+          }
+        ],
+        "@id": "https://www.degreeabove.com"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 13,
+    "timing": {
+      "dcl": 1649,
+      "load": 2544,
+      "ttfb": 465
+    },
+    "captchaErrors": [],
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 400 (Bad Request)"
+    ],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.137,
+        "sig": "flex-header  ",
+        "text": "home\nabout us\ntestimonials\nareas we serve\nhvac services\nhvac repairs & maintenance\nfurnace maintenance\nac maintenance\nhv"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.degreeabove.com/",
+    "navMs": 3421,
+    "tel": [
+      {
+        "href": "tel:(201) 368-0005",
+        "text": "(201) 368-0005",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013680005"
+      },
+      {
+        "href": "tel:(201) 368-0005",
+        "text": "(201) 368-0005",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013680005"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Duda",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.degreeabove.com/",
+    "navMs": 3097,
+    "timing": {
+      "dcl": 1431,
+      "load": 1549,
+      "ttfb": 296
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(201) 368-0005",
+        "text": "(201) 368-0005",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013680005"
+      },
+      {
+        "href": "tel:(201) 368-0005",
+        "text": "(201) 368-0005",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013680005"
+      },
+      {
+        "href": "tel:(201) 368-0005",
+        "text": "(201) 368-0005",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013680005"
+      },
+      {
+        "href": "tel:(201) 368-0005",
+        "text": "(201) 368-0005",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12013680005"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact",
+      "Book Your HVAC Service Today"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.169,
+        "sig": "flex-header  ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 22,
+    "brokenImages": [],
+    "textChars": 15286
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.degreeabove.com/contact",
+      "finalUrl": "https://www.degreeabove.com/contact",
+      "status": 200,
+      "title": "Contact | A Degree Above Heating And Cooling",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "1172415974",
+          "cls": "dmRespDesignRow",
+          "fieldCount": 5,
+          "fieldNames": [
+            "dmform-0",
+            "dmform-4",
+            "dmform-1",
+            "dmform-2",
+            "dmform-3"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.415213031853!2d-74.10005792460727!3d40.90664102567804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2fbd9e95f6915%3A0xe2a6c4d6c4849809!2sA%20Degree%20Above%20Heating%20%26%20Cooling%2C%20LLC!5e0!3m2!1sen!2sus!4v1760102076123!5m2!1sen!2sus"
+      ],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:(201) 368-0005",
+          "text": "(201) 368-0005",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12013680005"
+        },
+        {
+          "href": "tel:(201) 368-0005",
+          "text": "(201) 368-0005",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12013680005"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home\nAbout Us\nTestimonials\nAreas We Serve\nHVAC Services\nHVAC Repairs & Maintenance\nFurnace Maintenance\nAC Maintenance\nHVAC Installations\nBoiler Services\nWater Heaters\nHumidifier Services\nOur HVAC Products\nResources\nFAQ\nGallery\nContact\n(201) 368-0005\nHome\nAbout Us\nTestimonials\nAreas We Serve\nHVAC Services\nHVAC Repairs & Maintenance\nFurnace Maintenance\nAC Maintenance\nHVAC Installations\nBoiler Services\nWater Heaters\nHumidifier Services\nOur HVAC Products\nResources\nFAQ\nGallery\nContact\n(201) 368-0005\nContact Us\nFind Expert HVAC Service\nin Paramus, Hackensack, NJ, and surrounding areas\nContact A Degree Above Heating and Cooling today\n\nIf you need HVAC repair or maintenance, turn to A Degree Above Heating and Cooling, LLC. Call 201-368-0005 now to schedule an appointment. Don't forget to ask about our financing options.\n\nEmail Us Now\n\nPlease use the form on this page to contact us. We look forward to hearing from you!\n\nFirst Name*\nLast Name*\nEmail*\nPhone*\nMessage*\n\nAll fields marked with an asterisk * are required\n\n \nA Degree Above Heating And Cooling\n\n134 Pehle Ave\n\nSaddle Brook, NJ 07663\n\nOur Location\nCall Us\nHours\n(201) 368-0005\nMon - Fri\n7:00 am - 5:00 pm\nSaturday\n8:00 am - 12:00 pm\nSunday\nClosed\nCall Us:\n(201) 368-0005\nOur Location:\n\n134 Pehle Ave\n\nSaddle Brook, NJ 07663\n\nHours:\nMon - Fri\n7:00 am - 5:00 pm\nSaturday\n8:00 am - 12:00 pm\nSunday\nClosed\nFollow Us:\n\nCopyright © A Degree Above Heating And Cooling | All Rights Reserved\n\nTREE SERVICES\n\nHome\nHome\nHome\nHome\n\nADDITIONAL SERVICES\n\nHome\n\nCONTACT US TODAY\n\n(201) 368-0005\n\n134 Pehle Ave\n\nSaddle Brook, NJ 07663",
+      "vendors": [],
+      "links": [
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/about-us",
+        "https://www.degreeabove.com/testimonials",
+        "https://www.degreeabove.com/areas-we-serve",
+        "https://www.degreeabove.com/hvac-services",
+        "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "https://www.degreeabove.com/furnace-maintenance",
+        "https://www.degreeabove.com/ac-maintenance",
+        "https://www.degreeabove.com/hvac-installations",
+        "https://www.degreeabove.com/boiler-services",
+        "https://www.degreeabove.com/water-heaters",
+        "https://www.degreeabove.com/humidifier-services",
+        "https://www.degreeabove.com/our-hvac-products",
+        "https://www.degreeabove.com/resources",
+        "https://www.degreeabove.com/faq",
+        "https://www.degreeabove.com/gallery",
+        "https://www.degreeabove.com/contact",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/about-us",
+        "https://www.degreeabove.com/testimonials",
+        "https://www.degreeabove.com/areas-we-serve",
+        "https://www.degreeabove.com/hvac-services",
+        "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "https://www.degreeabove.com/furnace-maintenance",
+        "https://www.degreeabove.com/ac-maintenance",
+        "https://www.degreeabove.com/hvac-installations",
+        "https://www.degreeabove.com/boiler-services",
+        "https://www.degreeabove.com/water-heaters",
+        "https://www.degreeabove.com/humidifier-services",
+        "https://www.degreeabove.com/our-hvac-products",
+        "https://www.degreeabove.com/resources",
+        "https://www.degreeabove.com/faq",
+        "https://www.degreeabove.com/gallery",
+        "https://www.degreeabove.com/contact",
+        "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/"
+      ]
+    },
+    "about": {
+      "url": "https://www.degreeabove.com/about-us",
+      "finalUrl": "https://www.degreeabove.com/about-us",
+      "status": 200,
+      "title": "About Us | A Degree Above Heating And Cooling | Saddle Brook, New Milford & Hackensack, NJ",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:(201) 368-0005",
+          "text": "(201) 368-0005",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12013680005"
+        },
+        {
+          "href": "tel:(201) 368-0005",
+          "text": "Call Today: (201) 368-0005",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12013680005"
+        },
+        {
+          "href": "tel:(201) 368-0005",
+          "text": "(201) 368-0005",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12013680005"
+        }
+      ],
+      "owners": [
+        "Lou Andreano | ces. Over 12 Years of Experience: Our owner, Lou Andreano, brought extensive "
+      ],
+      "bodyText": "Home\nAbout Us\nTestimonials\nAreas We Serve\nHVAC Services\nHVAC Repairs & Maintenance\nFurnace Maintenance\nAC Maintenance\nHVAC Installations\nBoiler Services\nWater Heaters\nHumidifier Services\nOur HVAC Products\nResources\nFAQ\nGallery\nContact\n(201) 368-0005\nHome\nAbout Us\nTestimonials\nAreas We Serve\nHVAC Services\nHVAC Repairs & Maintenance\nFurnace Maintenance\nAC Maintenance\nHVAC Installations\nBoiler Services\nWater Heaters\nHumidifier Services\nOur HVAC Products\nResources\nFAQ\nGallery\nContact\n(201) 368-0005\nAbout Us\nTalk to Our HVAC Pros\nCall Today: (201) 368-0005\nABOUT A DEGREE ABOVE HEATING & COOLING\n\nBased in Saddle Brook, NJ, provides expert HVAC services to residential and commercial clients throughout Bergen, Passaic, and Morris Counties.\n\nFounded in 2014 by Louis Andreano, we're dedicated to providing honest, reliable, and professional service for all your heating, cooling, and indoor air quality needs.\n\n\n\n\nOur Commitment to You:\n\n\n\n\nAt A Degree Above Heating & Cooling, we work hard to earn and keep your business by focusing on:\n\n\n\n\nHonesty, Integrity, & Professionalism: These core values are the foundation of our business.\nTimely Service: We strive to provide prompt and efficient service to address your needs quickly\nCustomer Satisfaction: We're committed to exceeding your expectations and ensuring your complete satisfaction.\nExpert Solutions: We have expert specialists equipped to handle all your HVAC needs.\n\n\n\n\nWe offer a comprehensive range of HVAC services, including:\nA/C Services: Installation, maintenance, and repair of air conditioning systems.\nFurnace Services: Installation, maintenance, and repair of furnaces.\nWater Heater Services: Installation of water heaters.\nBoiler Services: Installation, maintenance, and repair of boilers.\nMedia Filter Services: Installation and maintenance of media filters.\nHumidifier Services: Installation and maintenance of humidifiers.\nHVAC Maintenance & Repairs: Comprehensive maintenance and repair services for all HVAC systems.\nWhy Choose A Degree Above Heating & Cooling?\n\nEstablished in 2014:\n\nWe have a proven track record of providing reliable HVAC services.\n\nOver 12 Years of Experience:\n\nOur owner, Lou Andreano, brought extensive experience to the business from day one.\n\nExpert Specialists:\n\nOur team has the knowledge and skills to handle all your HVAC needs.\n\nFocus on Honesty, Integrity, & Professionalism:\n\nWe operate with the highest ethical standards.\n\nComprehensive HVAC Solutions:\n\nWe offer a wide range of services to meet all your heating, cooling, and indoor air quality needs.\n\nContact Us Today!\n\nContact A Degree Above Heating & Cooling today to put your HVAC issues behind you!\n\nCall Us:\n(201) 368-0005\nOur Location:\n\n134 Pehle Ave\n\nSaddle Brook, NJ 07663\n\nHours:\nMon - Fri\n7:00 am - 5:00 pm\nSaturday\n8:00 am - 12:00 pm\nSunday\nClosed\nFollow Us:\n\nCopyright © A Degree Above Heating And Cooling | All Rights Reserved\n\nTREE SERVICES\n\nHome\nHome\nHome\nHome\n\nADDITIONAL SERVICES\n\nHome\n\nCONTACT US TODAY\n\n(201) 368-0005\n\n134 Pehle Ave\n\nSaddle Brook, NJ 07663",
+      "vendors": [],
+      "links": [
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/about-us",
+        "https://www.degreeabove.com/testimonials",
+        "https://www.degreeabove.com/areas-we-serve",
+        "https://www.degreeabove.com/hvac-services",
+        "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "https://www.degreeabove.com/furnace-maintenance",
+        "https://www.degreeabove.com/ac-maintenance",
+        "https://www.degreeabove.com/hvac-installations",
+        "https://www.degreeabove.com/boiler-services",
+        "https://www.degreeabove.com/water-heaters",
+        "https://www.degreeabove.com/humidifier-services",
+        "https://www.degreeabove.com/our-hvac-products",
+        "https://www.degreeabove.com/resources",
+        "https://www.degreeabove.com/faq",
+        "https://www.degreeabove.com/gallery",
+        "https://www.degreeabove.com/contact",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/about-us",
+        "https://www.degreeabove.com/testimonials",
+        "https://www.degreeabove.com/areas-we-serve",
+        "https://www.degreeabove.com/hvac-services",
+        "https://www.degreeabove.com/hvac-repairs-maintenance",
+        "https://www.degreeabove.com/furnace-maintenance",
+        "https://www.degreeabove.com/ac-maintenance",
+        "https://www.degreeabove.com/hvac-installations",
+        "https://www.degreeabove.com/boiler-services",
+        "https://www.degreeabove.com/water-heaters",
+        "https://www.degreeabove.com/humidifier-services",
+        "https://www.degreeabove.com/our-hvac-products",
+        "https://www.degreeabove.com/resources",
+        "https://www.degreeabove.com/faq",
+        "https://www.degreeabove.com/gallery",
+        "https://www.degreeabove.com/contact",
+        "https://www.degreeabove.com/contact",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/",
+        "https://www.degreeabove.com/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 21,
+    "at": "2026-11-03T23:01:52.026Z",
+    "statusCounts": {
+      "200": 20,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.degreeabove.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/a-degree-above-heating-cooling-llc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/a-degree-above-heating-cooling-llc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/a-degree-above-heating-cooling-llc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/a-degree-above-heating-cooling-llc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/a-degree-above-heating-cooling-llc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": true,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 2014,
+    "yearsClaim": 12,
+    "emails": [],
+    "owners": [
+      "Lou Andreano | ces. Over 12 Years of Experience: Our owner, Lou Andreano, brought extensive "
+    ],
+    "bookingLinkTexts": [
+      "Book Your HVAC Service Today -> https://www.degreeabove.com/contact",
+      "facebook -> https://facebook.com/adegreeabovehvac"
+    ]
+  }
+}

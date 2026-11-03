@@ -1,0 +1,25 @@
+{
+  "id": "anthony-sons-mechanical",
+  "placeUrl": "https://www.google.com/maps/place/Anthony+%26+Sons+Mechanical/data=!4m7!3m6!1s0x89c3ad115cdf358d:0xc59828c82715142f!8m2!3d40.7152393!4d-74.2291898!16s%2Fg%2F11fkf42xn7!19sChIJjTXfXBGtw4kRLxQVJ8gomMU",
+  "retrievedAt": "2026-11-03T23:12:38.923Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Anthony & Sons Mechanical",
+  "category": "HVAC contractor",
+  "address": "10 Melville Pl, Irvington, NJ 07111, United States ",
+  "phone": "+1 862-754-4795 ",
+  "website": "https://www.anthonyandsonsmechanicalservices.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Anthony+%26+Sons+Mechanical/data=!4m7!3m6!1s0x89c3ad115cdf358d:0xc59828c82715142f!8m2!3d40.7152393!4d-74.2291898!16s%2Fg%2F11fkf42xn7!19sChIJjTXfXBGtw4kRLxQVJ8gomMU?hl=en",
+  "screenshot": "evidence/screenshots/anthony-sons-mechanical/google-maps-listing.png"
+}

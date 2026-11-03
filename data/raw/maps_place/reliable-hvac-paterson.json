@@ -1,0 +1,25 @@
+{
+  "id": "reliable-hvac-paterson",
+  "placeUrl": "https://www.google.com/maps/place/Reliable+HVAC+Paterson/data=!4m7!3m6!1s0x75c9c8c999ba289:0xa07127f9fbc1a8aa!8m2!3d40.9162763!4d-74.1711422!16s%2Fg%2F11zcnykfth!19sChIJiaKbmYycXAcRqqjB-_kncaA",
+  "retrievedAt": "2026-11-03T23:04:38.792Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Reliable HVAC Paterson",
+  "category": "HVAC contractor",
+  "address": "168 Market St, Paterson, NJ 07505, United States ",
+  "phone": "+1 973-613-2367 ",
+  "website": "https://reliablehvacpaterson.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Reliable+HVAC+Paterson/data=!4m7!3m6!1s0x75c9c8c999ba289:0xa07127f9fbc1a8aa!8m2!3d40.9162763!4d-74.1711422!16s%2Fg%2F11zcnykfth!19sChIJiaKbmYycXAcRqqjB-_kncaA?hl=en",
+  "screenshot": "evidence/screenshots/reliable-hvac-paterson/google-maps-listing.png"
+}

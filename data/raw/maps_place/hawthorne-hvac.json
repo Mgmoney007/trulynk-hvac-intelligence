@@ -1,0 +1,25 @@
+{
+  "id": "hawthorne-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Hawthorne+HVAC/data=!4m7!3m6!1s0x2060c48047107f2f:0x55d75b694fb2bdf9!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11zy9wd1lz!19sChIJL38QR4DEYCAR-b2yT2lb11U",
+  "retrievedAt": "2026-11-03T23:06:46.302Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Hawthorne HVAC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 862-660-8257 ",
+  "website": "https://www.hawthorne-hvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Hawthorne+HVAC/data=!4m7!3m6!1s0x2060c48047107f2f:0x55d75b694fb2bdf9!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11zy9wd1lz!19sChIJL38QR4DEYCAR-b2yT2lb11U?hl=en",
+  "screenshot": "evidence/screenshots/hawthorne-hvac/google-maps-listing.png"
+}

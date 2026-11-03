@@ -1,0 +1,25 @@
+{
+  "id": "service-professionals",
+  "placeUrl": "https://www.google.com/maps/place/Service+Professionals/data=!4m7!3m6!1s0x89c301a6f81644bd:0x57210ed7677ce6ff!8m2!3d40.8862166!4d-74.2430784!16s%2Fg%2F11w_tq5zgc!19sChIJvUQW-KYBw4kR_-Z8Z9cOIVc",
+  "retrievedAt": "2026-11-03T23:11:03.135Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Service Professionals",
+  "category": "HVAC contractor",
+  "address": "451 Main St, Little Falls Township, NJ 07424, United States ",
+  "phone": "+1 908-224-0746 ",
+  "website": "https://service-professionals.com/?utm_source=google&utm_medium=gmb&utm_campaign=GMB%20LFT",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Service+Professionals/data=!4m7!3m6!1s0x89c301a6f81644bd:0x57210ed7677ce6ff!8m2!3d40.8862166!4d-74.2430784!16s%2Fg%2F11w_tq5zgc!19sChIJvUQW-KYBw4kR_-Z8Z9cOIVc?hl=en",
+  "screenshot": "evidence/screenshots/service-professionals/google-maps-listing.png"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "andes-refrigeration",
+  "placeUrl": "https://www.google.com/maps/place/Andes+Refrigeration/data=!4m7!3m6!1s0x89c2555fd38c0355:0x1cde08c9619d57c!8m2!3d40.7590566!4d-74.1566819!16s%2Fg%2F11r_tf13nh!19sChIJVQOM019VwokRfNUZlozgzQE",
+  "retrievedAt": "2026-11-03T22:53:57.546Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Andes Refrigeration",
+  "category": "Refrigerator repair service",
+  "address": "11 Wilson Ave, Kearny, NJ 07032, United States ",
+  "phone": "+1 973-336-5963 ",
+  "website": "https://andesrefrigerationusa.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Andes+Refrigeration/data=!4m7!3m6!1s0x89c2555fd38c0355:0x1cde08c9619d57c!8m2!3d40.7590566!4d-74.1566819!16s%2Fg%2F11r_tf13nh!19sChIJVQOM019VwokRfNUZlozgzQE?hl=en",
+  "screenshot": "evidence/screenshots/andes-refrigeration/google-maps-listing.png"
+}

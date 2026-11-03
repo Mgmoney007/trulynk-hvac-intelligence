@@ -1,0 +1,1039 @@
+{
+  "id": "blueray-heating-and-cooling",
+  "name": "Blueray Heating and Cooling",
+  "website": "https://bluerayheatingandcooling.com/",
+  "auditedAt": "2026-11-03T22:25:37.344Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://bluerayheatingandcooling.com/",
+      "at": "2026-11-03T22:25:41.214Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://bluerayheatingandcooling.com/",
+      "title": "HVAC Repair & Installation in Clifton, NJ | Blueray HVAC",
+      "ms": 3834,
+      "error": null,
+      "linkCount": 46
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://bluerayheatingandcooling.com/contact-us",
+      "at": "2026-11-03T22:25:48.082Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://bluerayheatingandcooling.com/contact-us/",
+      "title": "Contact Blueray HVAC | Clifton, NJ | (973) 925-5556",
+      "ms": 5891,
+      "error": null,
+      "linkCount": 29
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://bluerayheatingandcooling.com/about-us/",
+      "at": "2026-11-03T22:25:50.680Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://bluerayheatingandcooling.com/about-us/",
+      "title": "About Blueray Heating & Cooling | Clifton, NJ HVAC Experts",
+      "ms": 2119,
+      "error": null,
+      "linkCount": 27
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://bluerayheatingandcooling.com/",
+      "at": "2026-11-03T22:26:12.742Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://bluerayheatingandcooling.com/",
+      "title": "HVAC Repair & Installation in Clifton, NJ | Blueray HVAC",
+      "ms": 3633,
+      "error": null,
+      "linkCount": 53
+    },
+    {
+      "step": "firecrawl_mobile",
+      "method": "firecrawl_scrape_mobile",
+      "url": "https://bluerayheatingandcooling.com/",
+      "at": "2026-11-03T22:26:27.801Z",
+      "access": "ok",
+      "status": 200
+    },
+    {
+      "step": "firecrawl_mobile",
+      "method": "firecrawl_scrape_mobile",
+      "url": "https://bluerayheatingandcooling.com/",
+      "at": "2026-11-03T22:26:36.741Z",
+      "access": "ok",
+      "status": 200
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://bluerayheatingandcooling.com/",
+    "title": "HVAC Repair & Installation in Clifton, NJ | Blueray HVAC",
+    "lang": "en-US",
+    "metaDescription": "Fast, reliable heating & AC repair, installation, and maintenance in Clifton, NJ. Same-day service, free estimates. Call (973) 925-5556 today!",
+    "h1": [],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 4530,
+    "bodyText": "Home\nAbout Us\nServices\nWhy Us?\nFAQ\nArticles\nTestimonials\nContact Us\nContact Us\nNew Jersey's Finest HVAC Services\nHVAC Inspection, Maintenance, and Installation! Free Estimate and Same Day Service Guarantee!\nFree Estimate\nOur Services\n\nWHY US?\n\nWhen you choose Blueray Heating and Cooling, you’re choosing\n\nReliability and High-Quality Services\n\nReliability is at the core of our values at Blueray…\n\nRead More\n\nHVAC Expertise and Experience\n\nWith 20+ years of experience in the HVAC industry, our…\n\nRead More\n\nCustomer Satisfaction as Our Priority\n\nYour satisfaction is paramount to us at Blueray Heating and…\n\nRead More\n\nNorth Jersey’s Preferred HVAC Experts\n\nBlueray Heating and Cooling takes pride in being North Jersey’s…\n\nRead More\n\nSeamless Indoor Comfort Solutions\n\nExperience the Blueray difference today and elevate the comfort of…\n\nRead More\n\nAbout Blueray\n\nAt Blueray Heating and Cooling, we’re dedicated to keeping your home comfortable all year round. Our team of HVAC experts is committed to providing high-quality heating, cooling, and indoor air quality solutions for your home or business.\n\n0+\nExperienced people on the team\n0+\nСities where employees work\nRead MoreOur Video\nContact us today!\n\nReady to experience the Blueray Heating and Cooling difference? Whether it’s an emergency or an installation, we’re only one click away!\n\n\tContact Us\n\nTESTIMONIALS\n\nOur Customers Say\n\nMy heating and cooling system has been better than ever since Matt came to fix them. He was recommended to me by some coworkers and it was the best decision of my life.\n\nMohammed Odatalla\n\nWe use them for all our plumbing, heating and cooling needs. Hamza is very knowledgeable and always helps find the best solution. Whenever I have a plumbing emergency I never panic because I know Blu-ray is only one phone call away. And the best part is they do residential and commercial they have worked in my house and my restaurants. Keep up the amazing work\n\nSaad Basra\n\nMatt came to check on the unit last week, he was nice and really honest with his opinion on the unit. We had initially called a different company, and Blueray was our second opinion. We decided to go with Blueray.\nWe just had our AC unit replaced today and we just want to share we had a good experience with Blueray HVAC. Thank you! Matt and Sam are very friendly and professional. I highly recommend them!\n\nKate Benito\n\nWe have been with Blue Ray for the past 6 years and each experience has been seamless. We’ve had everything from water heaters replaced to clogged toilets/sinks serviced but recently had our kitchen sink faucet and toilet replaced and I couldn’t be morr grateful. They call you back right away, are professional, punctual and get the job done! Highly recommend.\n\nYR\n\nMy experience with Blueray is always positive. They are on time..reliable..Knowledgeable. I have used them several times and always satisfied with the work100%. I have a 88 years old mom and they are patient with her . Take time to talk with her and that is also important to me . I would highly recommend them.especially Matt.\n\nAlvidia Ortiz\n\n“Best HVAC company in New Jersey! Fair prices, quality work, and the summer discount made it even better.”\n\nMaria L. - Edison, NJ\n\n“Emergency repair during a heatwave. They arrived within 2 hours and had our AC running perfectly. Highly recommend!”\n\nJohn D. - Jersey City, NJ\n\n“Blue Ray installed our new AC system last month. Professional, efficient, and the 10% discount was a great bonus!”\n\nSarah M. - Newark, NJ\n\nFrozen pipe? Fixed before the damage spread. Couldn’t recommend them enough!\n\nOur heat went out in the middle of the night. Blueray was there within hours, absolute lifesavers!\n\nMy heating and cooling system has been better than ever since Matt came to fix them. He was recommended to me by some coworkers and it was the best decision of my life.\n\nMohammed Odatalla\n\nWe use them for all our plumbing, heating and cooling needs. Hamza is very knowledgeable and always helps find the best solution. Whenever I have a plumbing emergency I never panic because I know Blu-ray is only one phone call away. And the best part is they do residential and commercial they have worked in my house and my restaurants. Keep up the amazing work\n\nSaad Basra\n\nMatt came to check on the unit last week, he was nice and really honest with his opinion on the unit. We had initially called a different company, and Blueray was our second opinion. We decided to go with Blueray.\nWe just had our AC unit replaced today and we just want to share we had a good experience with Blueray HVAC. Thank you! Matt and Sam are very friendly and professional. I highly recommend them!\n\nKate Benito\n\nWe have been with Blue Ray for the past 6 years and each experience has been seamless. We’ve had everything from water heaters replaced to clogged toilets/sinks serviced but recently had our kitchen sink faucet and toilet replaced and I couldn’t be morr grateful. They call you back right away, are professional, punctual and get the job done! Highly recommend.\n\nYR\n\nMy experience with Blueray is always positive. They are on time..reliable..Knowledgeable. I have used them several times and always satisfied with the work100%. I have a 88 years old mom and they are patient with her . Take time to talk with her and that is also important to me . I would highly recommend them.especially Matt.\n\nAlvidia Ortiz\n\n“Best HVAC company in New Jersey! Fair prices, quality work, and the summer discount made it even better.”\n\nMaria L. - Edison, NJ\n\n“Emergency repair during a heatwave. They arrived within 2 hours and had our AC running perfectly. Highly recommend!”\n\nJohn D. - Jersey City, NJ\n\n“Blue Ray installed our new AC system last month. Professional, efficient, and the 10% discount was a great bonus!”\n\nSarah M. - Newark, NJ\n\nFrozen pipe? Fixed before the damage spread. Couldn’t recommend them enough!\n\nOur heat went out in the middle of the night. Blueray was there within hours, absolute lifesavers!\n\nOUR BLOG\n\nLatest Articles\nAIR CONDITIONINGHEATINGHVAC\n\nMaximizing Energy Efficiency: Tips for Your HVAC System\n\n2 years ago\nAs homeowners or property managers, we’re always looking for ways to save on energy costs without compromising comfort. Your HVAC…\nAIR CONDITIONINGHVAC\n\nSpring Refresh: Is Your AC Ready?\n\n2 years ago\nAs the chill of winter fades, spring brings a fresh start. It’s a time for renewal, and your air conditioning…\nAIR CONDITIONINGHEATINGHVAC\n\nUpgrade to Comfort: The Benefits of a Smart Thermostat\n\n2 years ago\nIn today’s tech-driven world, the concept of a smart home is no longer a novelty but a reality for many.…\nRead More\nWorking Hours\n\nMon-Fri: 9 AM – 6 PM\n\nSaturday: 9 AM – 4 PM\n\nSunday: Closed\n\nOffice\n\n91 Knapp Ave Clifton, NJ 07011\n\n+1 973 925 5556\nGet in Touch\n\nCopyright ©2025 Blueray HVAC, All Rights Reserved.",
+    "links": [
+      {
+        "href": "/",
+        "abs": "https://bluerayheatingandcooling.com/",
+        "text": "Blueray Heating and Cooling logo",
+        "visible": true,
+        "aboveFold": true,
+        "h": 60,
+        "w": 190,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://bluerayheatingandcooling.com/#",
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/",
+        "abs": "https://bluerayheatingandcooling.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 100,
+        "w": 82,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/about-us/",
+        "abs": "https://bluerayheatingandcooling.com/about-us/",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 100,
+        "w": 105,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/services/",
+        "abs": "https://bluerayheatingandcooling.com/services/",
+        "text": "Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 100,
+        "w": 99,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/why-us/",
+        "abs": "https://bluerayheatingandcooling.com/why-us/",
+        "text": "Why Us?",
+        "visible": true,
+        "aboveFold": true,
+        "h": 100,
+        "w": 100,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/faq/",
+        "abs": "https://bluerayheatingandcooling.com/faq/",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 100,
+        "w": 70,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/articles/",
+        "abs": "https://bluerayheatingandcooling.com/articles/",
+        "text": "Articles",
+        "visible": true,
+        "aboveFold": true,
+        "h": 100,
+        "w": 92,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/testimonials/",
+        "abs": "https://bluerayheatingandcooling.com/testimonials/",
+        "text": "Testimonials",
+        "visible": true,
+        "aboveFold": true,
+        "h": 100,
+        "w": 126,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/contact-us/",
+        "abs": "https://bluerayheatingandcooling.com/contact-us/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 100,
+        "w": 117,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.yelp.com/biz/blueray-heating-and-cooling-clifton-4",
+        "abs": "https://www.yelp.com/biz/blueray-heating-and-cooling-clifton-4",
+        "text": "Yelp",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 32,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.facebook.com/share/PJrcX8yg5vLekCvL/?mibextid=LQQJ4d",
+        "abs": "https://www.facebook.com/share/PJrcX8yg5vLekCvL/?mibextid=LQQJ4d",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 32,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.instagram.com/bluerayheatingandcooling_?igsh=MTg1OWwzYXR3MWU0dg==",
+        "abs": "https://www.instagram.com/bluerayheatingandcooling_?igsh=MTg1OWwzYXR3MWU0dg==",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 32,
+        "w": 32,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://bluerayheatingandcooling.com/contact-us",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 42,
+        "w": 134,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/summer-2026-campaign/",
+        "abs": "https://bluerayheatingandcooling.com/summer-2026-campaign/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://bluerayheatingandcooling.com/contact-us",
+        "text": "Free Estimate",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 145,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/services",
+        "abs": "https://bluerayheatingandcooling.com/services",
+        "text": "Our Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 139,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/why-us/",
+        "abs": "https://bluerayheatingandcooling.com/why-us/",
+        "text": "Reliability and High-Quality Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 325,
+        "w": 369,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/why-us",
+        "abs": "https://bluerayheatingandcooling.com/why-us",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/why-us/",
+        "abs": "https://bluerayheatingandcooling.com/why-us/",
+        "text": "HVAC Expertise and Experience",
+        "visible": true,
+        "aboveFold": false,
+        "h": 325,
+        "w": 369,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/why-us",
+        "abs": "https://bluerayheatingandcooling.com/why-us",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/why-us/",
+        "abs": "https://bluerayheatingandcooling.com/why-us/",
+        "text": "Customer Satisfaction as Our Priority",
+        "visible": true,
+        "aboveFold": false,
+        "h": 325,
+        "w": 369,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/why-us",
+        "abs": "https://bluerayheatingandcooling.com/why-us",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/why-us/",
+        "abs": "https://bluerayheatingandcooling.com/why-us/",
+        "text": "North Jersey’s Preferred HVAC Experts",
+        "visible": true,
+        "aboveFold": false,
+        "h": 325,
+        "w": 369,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/why-us",
+        "abs": "https://bluerayheatingandcooling.com/why-us",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/why-us/",
+        "abs": "https://bluerayheatingandcooling.com/why-us/",
+        "text": "Seamless Indoor Comfort Solutions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 325,
+        "w": 369,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/why-us",
+        "abs": "https://bluerayheatingandcooling.com/why-us",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 99,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us/",
+        "abs": "https://bluerayheatingandcooling.com/about-us/",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 51,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/wp-content/uploads/2024/05/promo.mp4",
+        "abs": "https://bluerayheatingandcooling.com/wp-content/uploads/2024/05/promo.mp4",
+        "text": "https://bluerayheatingandcooling.com/wp-content/uploads/2024/05/promo.mp4",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "javascript:void(0);",
+        "abs": "javascript:void(0);",
+        "text": "Use Up/Down Arrow keys to increase or decrease volume.",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us/",
+        "abs": "https://bluerayheatingandcooling.com/contact-us/",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 51,
+        "w": 165,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/maximizing-energy-efficiency-tips-for-your-hvac-system/",
+        "abs": "https://bluerayheatingandcooling.com/maximizing-energy-efficiency-tips-for-your-hvac-system/",
+        "text": "Maximizing Energy Efficiency: Tips for Your HVAC System",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/maximizing-energy-efficiency-tips-for-your-hvac-system/",
+        "abs": "https://bluerayheatingandcooling.com/maximizing-energy-efficiency-tips-for-your-hvac-system/",
+        "text": "Maximizing Energy Efficiency: Tips for Your HVAC System",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 270,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/spring-refresh-is-your-ac-ready/",
+        "abs": "https://bluerayheatingandcooling.com/spring-refresh-is-your-ac-ready/",
+        "text": "Spring Refresh: Is Your AC Ready?",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/spring-refresh-is-your-ac-ready/",
+        "abs": "https://bluerayheatingandcooling.com/spring-refresh-is-your-ac-ready/",
+        "text": "Spring Refresh: Is Your AC Ready?",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 236,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/upgrade-to-comfort-the-benefits-of-a-smart-thermostat/",
+        "abs": "https://bluerayheatingandcooling.com/upgrade-to-comfort-the-benefits-of-a-smart-thermostat/",
+        "text": "Upgrade to Comfort: The Benefits of a Smart Thermostat",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://bluerayheatingandcooling.com/upgrade-to-comfort-the-benefits-of-a-smart-thermostat/",
+        "abs": "https://bluerayheatingandcooling.com/upgrade-to-comfort-the-benefits-of-a-smart-thermostat/",
+        "text": "Upgrade to Comfort: The Benefits of a Smart Thermostat",
+        "visible": true,
+        "aboveFold": false,
+        "h": 52,
+        "w": 282,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/articles/",
+        "abs": "https://bluerayheatingandcooling.com/articles/",
+        "text": "Read More",
+        "visible": true,
+        "aboveFold": false,
+        "h": 51,
+        "w": 140,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://maps.app.goo.gl/SHHxgNyAJv6pZXXFA",
+        "abs": "https://maps.app.goo.gl/SHHxgNyAJv6pZXXFA",
+        "text": "91 Knapp Ave Clifton, NJ 07011",
+        "visible": true,
+        "aboveFold": false,
+        "h": 20,
+        "w": 214,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:tel:+19739255556",
+        "abs": "tel:tel:+19739255556",
+        "text": "+1 973 925 5556",
+        "visible": true,
+        "aboveFold": false,
+        "h": 36,
+        "w": 225,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.yelp.com/biz/blueray-heating-and-cooling-clifton-4",
+        "abs": "https://www.yelp.com/biz/blueray-heating-and-cooling-clifton-4",
+        "text": "Yelp",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 14,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/share/PJrcX8yg5vLekCvL/?mibextid=LQQJ4d",
+        "abs": "https://www.facebook.com/share/PJrcX8yg5vLekCvL/?mibextid=LQQJ4d",
+        "text": "Facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 19,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/bluerayheatingandcooling_?igsh=MTg1OWwzYXR3MWU0dg==",
+        "abs": "https://www.instagram.com/bluerayheatingandcooling_?igsh=MTg1OWwzYXR3MWU0dg==",
+        "text": "Instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 18,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:support@bluerayhvac.com",
+        "abs": "mailto:support@bluerayhvac.com",
+        "text": "Email",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 19,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.bbb.org/us/nj/clifton/profile/residential-air-conditioning-contractors/blueray-hvac-0221-90182506",
+        "abs": "https://www.bbb.org/us/nj/clifton/profile/residential-air-conditioning-contractors/blueray-hvac-0221-90182506",
+        "text": "Better Business Bureau A+ accredited business seal",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "#",
+        "abs": "https://bluerayheatingandcooling.com/#",
+        "text": "Back to top",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 50,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Previous",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Our Video",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Play",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Play",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Mute",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Fullscreen",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Back to top",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://www.gstatic.com/call-tracking/call-tracking_9.js",
+      "https://www.gstatic.com/wcm/loader.js",
+      "https://www.googletagmanager.com/gtag/js?id=AW-864284987&cx=c&gtm=4e6b20h1",
+      "https://bluerayheatingandcooling.com/wp-content/plugins/widget-google-reviews/assets/6.9.11/js/public-main.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-PKMDY0WQWF",
+      "https://www.googletagmanager.com/gtag/js?id=AW-864284987",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/864284987/?random=1793744739128&cv=11&fst=1793744739128&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6b21h2v899332882za208zb871625597zd871625597xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~119381662~120213116~120385423~120412526~120420415~120469145~120469153~121191153~121246026~121246034~121284210~123691370~123814944&u_w=1366&u_h=900&url=https%3A%2F%2Fbluerayheatingandcooling.com%2F&rcb=8&frm=0&tiba=HVAC%20Repair%20%26%20Installation%20in%20Clifton%2C%20NJ%20%7C%20Blueray%20HVAC&did=dZTNiMT&gdid=dZTNiMT&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1452266896.1793744739&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://bluerayheatingandcooling.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://bluerayheatingandcooling.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://bluerayheatingandcooling.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.29",
+      "https://bluerayheatingandcooling.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.32",
+      "https://bluerayheatingandcooling.com/wp-content/themes/Impreza/js/us.core.min.js?ver=8.24.1",
+      "https://bluerayheatingandcooling.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17",
+      "https://bluerayheatingandcooling.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=7.1.4",
+      "https://bluerayheatingandcooling.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=7.1.4",
+      "https://bluerayheatingandcooling.com/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.17"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Blueray HVAC",
+        "alternateName": "Blueray HVAC",
+        "description": "",
+        "url": "https://bluerayheatingandcooling.com"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 11,
+    "timing": {
+      "dcl": 2099,
+      "load": 3015,
+      "ttfb": 819
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.111,
+        "sig": "page-header l-header id_21 pos_fixed bg_transparent shadow_wide ",
+        "text": "home\nabout us\nservices\nwhy us?\nfaq\narticles\ntestimonials\ncontact us\ncontact us"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://bluerayheatingandcooling.com/",
+    "navMs": 3834,
+    "tel": [
+      {
+        "href": "tel:tel:+19739255556",
+        "text": "+1 973 925 5556",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": "duplicated_scheme",
+        "e164": "+19739255556"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://bluerayheatingandcooling.com/",
+    "navMs": 3633,
+    "timing": {
+      "dcl": 1976,
+      "load": 2896,
+      "ttfb": 850
+    },
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:tel:+19739255556",
+        "text": "+1 973 925 5556",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": "duplicated_scheme",
+        "e164": "+19739255556"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [
+      "Facebook"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.09,
+        "sig": "page-header l-header id_21 pos_fixed bg_solid shadow_thin ",
+        "text": ""
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 5,
+    "brokenImages": [],
+    "textChars": 7022
+  },
+  "pages": {
+    "contact": {
+      "url": "https://bluerayheatingandcooling.com/contact-us",
+      "finalUrl": "https://bluerayheatingandcooling.com/contact-us/",
+      "status": 200,
+      "title": "Contact Blueray HVAC | Clifton, NJ | (973) 925-5556",
+      "forms": [
+        {
+          "action": "/contact-us/#gf_1",
+          "method": "post",
+          "id": "gform_1",
+          "cls": "",
+          "fieldCount": 7,
+          "fieldNames": [
+            "input_1",
+            "input_3",
+            "input_4",
+            "input_5",
+            "input_8",
+            "input_7",
+            "g-recaptcha-response"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12066.642465628756!2d-74.1302847!3d40.8793216!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2ffde348130d7%3A0x89518d4ddc76fdfe!2sBlueray%20Heating%20and%20Cooling!5e0!3m2!1sen!2sjo!4v1715673360425!5m2!1sen!2sjo",
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LcH9OEpAAAAAKEir7-flTe5ZOaYbz-iN4XwkD3a&co=aHR0cHM6Ly9ibHVlcmF5aGVhdGluZ2FuZGNvb2xpbmcuY29tOjQ0Mw..&hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&theme=light&size=normal&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=4rzn8ym1lm1m",
+        "about:blank",
+        "https://www.google.com/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&k=6LcH9OEpAAAAAKEir7-flTe5ZOaYbz-iN4XwkD3a&bft=0dAFcWeA7zwYTzv_JliN1GsROshsav5Kde4mS8VbvEGSALQi_XIQ2_-QEtODKrPHG-xHPJWS3w05JGm5UTChoV7Is-jKrzMy_tNw"
+      ],
+      "captchaErrors": [],
+      "emails": [
+        "support@bluerayhvac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:+1 973 925 5556",
+          "text": "+1 973 925 5556",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19739255556"
+        },
+        {
+          "href": "tel:tel:+19739255556",
+          "text": "+1 973 925 5556",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": "duplicated_scheme",
+          "e164": "+19739255556"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home\nAbout Us\nServices\nWhy Us?\nFAQ\nArticles\nTestimonials\nContact Us\nContact Us\nContact Us\nHomeContact Us\nContact us\nsupport@bluerayhvac.com\n+1 973 925 5556\nSend a Message\nYour Name*\nYour Email Address*\nPhone Number*\nZIP Code*\nService Requested*\nService Requested\nHeating Services\nCooling Services\nPlumbing\nIndoor Air Quality Solutions\nEnergy-Efficient HVAC Systems\nHVAC Zoning Systems\n24/7 Emergency HVAC and Plumbing Services\nHVAC and Plumbing Maintenance Plans\nSmart Home HVAC Solutions\nMessage\nCAPTCHA\nWorking Hours\n\nMon-Fri: 9 AM – 6 PM\n\nSaturday: 9 AM – 4 PM\n\nSunday: Closed\n\nOffice\n\n91 Knapp Ave Clifton, NJ 07011\n\n+1 973 925 5556\nGet in Touch\n\nCopyright ©2025 Blueray HVAC, All Rights Reserved.",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://bluerayheatingandcooling.com/",
+        "https://bluerayheatingandcooling.com/contact-us/#",
+        "https://bluerayheatingandcooling.com/",
+        "https://bluerayheatingandcooling.com/about-us/",
+        "https://bluerayheatingandcooling.com/services/",
+        "https://bluerayheatingandcooling.com/why-us/",
+        "https://bluerayheatingandcooling.com/faq/",
+        "https://bluerayheatingandcooling.com/articles/",
+        "https://bluerayheatingandcooling.com/testimonials/",
+        "https://bluerayheatingandcooling.com/contact-us/",
+        "https://bluerayheatingandcooling.com/contact-us",
+        "https://bluerayheatingandcooling.com/",
+        "https://bluerayheatingandcooling.com/contact-us/",
+        "https://bluerayheatingandcooling.com/contact-us/#"
+      ]
+    },
+    "about": {
+      "url": "https://bluerayheatingandcooling.com/about-us/",
+      "finalUrl": "https://bluerayheatingandcooling.com/about-us/",
+      "status": 200,
+      "title": "About Blueray Heating & Cooling | Clifton, NJ HVAC Experts",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "support@bluerayhvac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:tel:+19739255556",
+          "text": "+1 973 925 5556",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": "duplicated_scheme",
+          "e164": "+19739255556"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Home\nAbout Us\nServices\nWhy Us?\nFAQ\nArticles\nTestimonials\nContact Us\nContact Us\nAbout Us\nHomeAbout Us\n\nBLUERAY HEATING AND COOLING\n\nYour Trusted HVAC Experts in North Jersey\n\nWelcome to Blueray Heating and Cooling, the leading HVAC service provider in North Jersey! With a strong commitment to excellence and a track record of 20+ in the industry, we are dedicated to delivering top-tier heating, ventilation, and air conditioning solutions to residences and commercial establishments across the region.\n\nLocated in Clifton, New Jersey, our primary goal is to offer premium services that cater to all your HVAC requirements with exceptional care and precision. From installation to repairs, we are your reliable companion in ensuring optimum indoor comfort for your peace of mind.\n\nContact Us\n\nThe weather in North Jersey can be weird, so you need reliable HVAC services all year round. At Blueray Heating and Cooling, we recognize this challenge and have a team of expert technicians ready to provide tailored and efficient solutions for your specific needs. Whether you are combating the summer heat or the freezing winter chill, we have the knowledge and tools to keep you comfortable in all seasons.\n\nOur reputation for top-notch services precedes us, and we take pride in our commitment to delivering quality and exceptional customer service. Whether you require routine maintenance, emergency repairs, or a new system installation, you can rely on us to handle the job with precision and reliability.\n\nAs a locally-owned business deeply rooted in the community, we proudly serve all of North Jersey, including Clifton, Passaic, Paterson, and neighboring areas. By choosing Blueray Heating and Cooling, you are not just opting for a service provider – you are selecting a trustworthy company dedicated to surpassing your expectations with each service appointment.\n\nExperience the unparalleled service of Blueray today and witness why we are the preferred HVAC experts in North Jersey. Get in touch with us to schedule your service and let us assist you in creating the ideal indoor environment for your residence or business.\n\nContact Us\nContact us today!\n\nReady to experience the Blueray Heating and Cooling difference? Whether it’s an emergency or an installation, we’re only one click away!\n\n\tContact Us\nWorking Hours\n\nMon-Fri: 9 AM – 6 PM\n\nSaturday: 9 AM – 4 PM\n\nSunday: Closed\n\nOffice\n\n91 Knapp Ave Clifton, NJ 07011\n\n+1 973 925 5556\nGet in Touch\n\nCopyright ©2025 Blueray HVAC, All Rights Reserved.",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        }
+      ],
+      "links": [
+        "https://bluerayheatingandcooling.com/",
+        "https://bluerayheatingandcooling.com/about-us/#",
+        "https://bluerayheatingandcooling.com/",
+        "https://bluerayheatingandcooling.com/about-us/",
+        "https://bluerayheatingandcooling.com/services/",
+        "https://bluerayheatingandcooling.com/why-us/",
+        "https://bluerayheatingandcooling.com/faq/",
+        "https://bluerayheatingandcooling.com/articles/",
+        "https://bluerayheatingandcooling.com/testimonials/",
+        "https://bluerayheatingandcooling.com/contact-us/",
+        "https://bluerayheatingandcooling.com/contact-us",
+        "https://bluerayheatingandcooling.com/",
+        "https://bluerayheatingandcooling.com/about-us/",
+        "https://bluerayheatingandcooling.com/contact-us/",
+        "https://bluerayheatingandcooling.com/contact-us/",
+        "https://bluerayheatingandcooling.com/contact-us/",
+        "https://bluerayheatingandcooling.com/about-us/#"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 16,
+    "at": "2026-11-03T22:26:08.331Z",
+    "statusCounts": {
+      "200": 15,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://bluerayheatingandcooling.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/blueray-heating-and-cooling/desktop-home.png",
+    "desktop_full": "evidence/screenshots/blueray-heating-and-cooling/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/blueray-heating-and-cooling/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/blueray-heating-and-cooling/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/blueray-heating-and-cooling/mobile-home.png",
+    "firecrawl_mobile": "evidence/screenshots/blueray-heating-and-cooling/firecrawl-mobile.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": true
+    },
+    "yearsClaim": 20,
+    "copyrightYear": 2025,
+    "emails": [
+      "support@bluerayhvac.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "Facebook -> https://www.facebook.com/share/PJrcX8yg5vLekCvL/?mibextid=LQQJ4d",
+      "Free Estimate -> https://bluerayheatingandcooling.com/contact-us",
+      "Facebook -> https://www.facebook.com/share/PJrcX8yg5vLekCvL/?mibextid=LQQJ4d"
+    ]
+  },
+  "firecrawl": [
+    {
+      "at": "2026-11-03T22:26:27.801Z",
+      "method": "firecrawl_scrape_mobile",
+      "url": "https://bluerayheatingandcooling.com/",
+      "purpose": "phase0 validation of fallback ingest pipeline",
+      "statusCode": 200,
+      "title": "HVAC Repair & Installation in Clifton, NJ | Blueray HVAC",
+      "tel": [
+        {
+          "href": "tel:tel:+19739255556",
+          "e164": "+19739255556"
+        }
+      ],
+      "mailto": [
+        "support@bluerayhvac.com"
+      ],
+      "linkCount": 5,
+      "vendors": [],
+      "screenshot": "evidence/screenshots/blueray-heating-and-cooling/firecrawl-mobile.png",
+      "scrapeId": "01a1a382-ce92-718e-9c96-f58e7f8413ae",
+      "creditsUsed": 1,
+      "proxyUsed": "basic"
+    }
+  ]
+}

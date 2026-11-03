@@ -1,0 +1,639 @@
+{
+  "firecrawl": [],
+  "id": "air-tech-heating-cooling",
+  "name": "Air tech Heating & Cooling",
+  "website": "https://njairtech.com/",
+  "auditedAt": "2026-11-03T23:00:38.032Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://njairtech.com/",
+      "at": "2026-11-03T23:00:44.864Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.njairtech.com/",
+      "title": "HOME | My Site 12",
+      "ms": 6795,
+      "error": null,
+      "linkCount": 28
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://njairtech.com/",
+      "at": "2026-11-03T23:00:53.022Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.njairtech.com/",
+      "title": "HOME | My Site 12",
+      "ms": 6987,
+      "error": null,
+      "linkCount": 27
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.njairtech.com/",
+    "title": "HOME | My Site 12",
+    "lang": "en",
+    "metaDescription": null,
+    "h1": [
+      "HEATING & COOLING"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 5679,
+    "bodyText": "Skip to Main Content\n\n973 204 2826\n\nAirtech1419@gmail.com\n\nHOME\nABOUT US\nOUR SERVICES\nTESTIMONIALS\nCONTACT US\nGET STARTED\n\nLICENSED & INSURED\n\nHEATING & COOLING\n\nYour local HVAC specialists — keeping your home comfortable year-round with fast, reliable service you can trust.\n\n20+\n\nYears Experience\n\n500+\n\nHappy Customers\n\nFAST & RELIABLE SERVICE\n20+\n\nABOUT US\n\nABOUT AIR TECH\n\nAir Tech Heating & Cooling is a fully licensed and insured HVAC company serving Northern New Jersey. With over 20 years of hands-on experience, I deliver reliable, trustworthy heating and cooling services-prioritizing prompt response, quality workmanship, and transparent pricing. Whether it's routine maintenance, emergency repairs, or system installations, clients can count on Air Tech Heating & Cooling for professional solutions tailored to their needs.\n\nFully Licensed & Insured\n\nCertified HVAC Technicians\n\nUpfront, Transparent Pricing\n\nSatisfaction Guaranteed\n\nINNOVATING FOR YOUR COMFORT\n\nAt Air Tech, we don't just fix systems — we bring the latest HVAC technology and industry expertise to every job. \n\nLAERN MORE\n\nCall us today\n\n(973) 204-2826\n\nWHAT WE DO\nHEATING\n\nNew unit installs, repairs, replacements & seasonal tune-ups.\n\nCOOLING / AC\n\nNew AC units, installs, repairs & maintenance plans for residential & commercial.\n\nMAINTENANCE\n\nPreventive service agreements to keep your system running efficiently all year.\n\nWHY CHOOSE US\n\nOUR HVAC SERVICES\n\nWe've built our reputation one satisfied customer at a time. From fast response and honest pricing to expert technicians who treat your home with respect — Air Tech delivers the full package every single time.\n\n100%\nHappy Customers\nEXPERT TECHNICIANS\n\nOur certified HVAC technicians bring years of hands-on experience to every job — diagnosing fast and fixing it right the first time.\n\nFLEXIBLE SCHEDULING\n\nWe work around your schedule — including evenings and weekends. Getting your HVAC serviced should never be an inconvenience.\n\nTRANSPARENT PRICING\n\nNo hidden fees, no surprises. \n\nSUPPORT\n\nEvery day of the year.\n\nAREAS WE SERVICE\n\nPassaic County\n\nEssex County\n\nBergen County\n\nHudson County\n\nMorris County\n\nUnion County\n\nWHAT OUR CLIENTS SAY ABOUT US\n\n\"Fast, professional, and honest pricing. My AC was fixed the same day I called. I won't use anyone else!\"\n\nSarah M.\n\nVerified Customer\n\n\"They installed a brand new heating system and the difference is night and day. Super clean work and great price.\"\n\nJames R.\n\nVerified Customer\n\n\"Called them on a Sunday for an emergency and they showed up within the hour. Absolute lifesavers!\"\n\nLinda K.\n\nVerified Customer\n\nWE’D LOVE TO HEAR FROM YOU\n\nHave something on your mind? Reach out to us anytime. Our team is here to assist you with inquiries & information about us. Simply fill out the form or use the contact details below, and we’ll get back to you as soon as possible.\n\nPHONE\n\n(973) 204-2826\n\nEMAIL\n\nAirtech1419@gmail.com\n\nLOCATION\n\nUnited States\n\nAIR TECH'S GALLERY\n\nYour trusted local HVAC experts — delivering reliable heating and cooling solutions.\n\nQUICK LINKS\n\nHOME\n\nABOUT US\n\nOUR SERVICES\n\nTESTIMONIALS\n\nCONTACT US\n\nCONTACT US\n\n(973) 204-2826\n\nAirtech1419@gmail.com\n\nUnited States\n\nSOCIAL LINKS\n\n© 2026 Air Tech Heating & Cooling LLC · All Rights Reserved",
+    "links": [
+      {
+        "href": "tel:+165-589-3575",
+        "abs": "tel:+165-589-3575",
+        "text": "973 204 2826",
+        "visible": true,
+        "aboveFold": true,
+        "h": 16,
+        "w": 84,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:Airtech1419@gmail.com",
+        "abs": "mailto:Airtech1419@gmail.com",
+        "text": "Airtech1419@gmail.com",
+        "visible": true,
+        "aboveFold": true,
+        "h": 16,
+        "w": 152,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 90,
+        "w": 100,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 87,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "ABOUT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 121,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "OUR SERVICES",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 161,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "TESTIMONIALS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 166,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": true,
+        "h": 38,
+        "w": 141,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "GET STARTED",
+        "visible": true,
+        "aboveFold": true,
+        "h": 45,
+        "w": 163,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "LAERN MORE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 173,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "abs": "tel:(973) 204-2826",
+        "text": "Location",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 45,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "./#comp-mnfo0vho1",
+        "abs": "https://www.njairtech.com/#comp-mnfo0vho1",
+        "text": "Slide 1",
+        "visible": true,
+        "aboveFold": false,
+        "h": 11,
+        "w": 11,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "./#comp-mnfrmuup",
+        "abs": "https://www.njairtech.com/#comp-mnfrmuup",
+        "text": "Copy of Slide 1",
+        "visible": true,
+        "aboveFold": false,
+        "h": 7,
+        "w": 7,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "./#comp-mnfrqhh7",
+        "abs": "https://www.njairtech.com/#comp-mnfrqhh7",
+        "text": "Copy of Copy of Slide 1",
+        "visible": true,
+        "aboveFold": false,
+        "h": 7,
+        "w": 7,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "abs": "tel:(973) 204-2826",
+        "text": "(973) 204-2826",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 117,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:Airtech1419@gmail.com",
+        "abs": "mailto:Airtech1419@gmail.com",
+        "text": "Airtech1419@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 185,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 118,
+        "w": 141,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 40,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "ABOUT US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 69,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "OUR SERVICES",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 103,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "TESTIMONIALS",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 109,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.njairtech.com",
+        "abs": "https://www.njairtech.com/",
+        "text": "CONTACT US",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 86,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "abs": "tel:(973) 204-2826",
+        "text": "(973) 204-2826",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 117,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "mailto:Airtech1419@gmail.com",
+        "abs": "mailto:Airtech1419@gmail.com",
+        "text": "Airtech1419@gmail.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 185,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/#",
+        "abs": "https://www.facebook.com/#",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 27,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.twitter.com/#",
+        "abs": "https://www.twitter.com/#",
+        "text": "twitter",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 27,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "http://www.linkedin.com/#",
+        "abs": "http://www.linkedin.com/#",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 27,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "http://www.youtube.com/#",
+        "abs": "http://www.youtube.com/#",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 27,
+        "w": 27,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Skip to Main Content",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Previous",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "Next",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "image",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js",
+      "https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js",
+      "https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/wix-image-kit.76f53d0c.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/htmlparser2-xml.4f17eecc.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[SkipToContentButton].d886e6d7.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap.da83ff7e.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[HeaderContainer_DefaultWithFillLayers].576d702c.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_menu.600e2c51.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FooterContainer_DefaultWithFillLayers].aca4ada3.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_bootstrap-classic.d170fd1f.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StripColumnsContainer_Default].119e0578.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[StylableButton_Default].773a433c.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[FiveGridLine_SolidLine].76fd72e8.bundle.min.js",
+      "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[ClassicSection].95b2f0f2.bundle.min.js",
+      "https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js",
+      "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+      "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "https://static.parastorage.com/unpkg/lodash@4.18.1/lodash.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.d5866f82.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/main.71f0d29e.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.b325a058.bundle.min.js",
+      "https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js",
+      "https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js"
+    ],
+    "jsonLd": [],
+    "brokenImages": [],
+    "imageCount": 30,
+    "timing": {
+      "dcl": 1675,
+      "load": 2343,
+      "ttfb": 922
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 0.162,
+        "sig": "site_header mlzr0a site_header wixui-header ",
+        "text": "973 204 2826\n\nairtech1419@gmail.com\n\nhome\nabout us\nour services\ntestimonials\ncontact us\nget started"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.njairtech.com/",
+    "navMs": 6795,
+    "tel": [
+      {
+        "href": "tel:+165-589-3575",
+        "text": "973 204 2826",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "href_invalid",
+        "problem": null,
+        "e164": null
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "text": "Location",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732042826"
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "text": "(973) 204-2826",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732042826"
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "text": "(973) 204-2826",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732042826"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Wix",
+        "kind": "cms"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.njairtech.com/",
+    "navMs": 6987,
+    "timing": {
+      "dcl": 1552,
+      "load": 3550,
+      "ttfb": 922
+    },
+    "viewportMeta": "width=320, user-scalable=yes",
+    "innerWidth": 320,
+    "scrollWidth": 320,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:(973) 204-2826",
+        "text": "Location",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19732042826"
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "text": "(973) 204-2826",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732042826"
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "text": "(973) 204-2826",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732042826"
+      },
+      {
+        "href": "tel:(973) 204-2826",
+        "text": "(973) 204-2826",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19732042826"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 3,
+    "visibleNavLinks": 4,
+    "brokenImages": [],
+    "textChars": 3161
+  },
+  "pages": {},
+  "linkCheck": {
+    "checked": 2,
+    "at": "2026-11-03T23:00:45.996Z",
+    "statusCounts": {
+      "200": 1,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.njairtech.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/air-tech-heating-cooling/desktop-home.png",
+    "desktop_full": "evidence/screenshots/air-tech-heating-cooling/desktop-home-full.png",
+    "mobile_asis": "evidence/screenshots/air-tech-heating-cooling/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": false,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": false
+    },
+    "yearsClaim": 20,
+    "copyrightYear": 2026,
+    "emails": [
+      "airtech1419@gmail.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "facebook -> https://www.facebook.com/#"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "keil-heating-and-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/KEIL+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c31b537c404803:0x40b7c3732b13b2c!8m2!3d41.0013321!4d-74.3176152!16s%2Fg%2F1xpwkqhs!19sChIJA0hAfFMbw4kRLDuxMjd8CwQ",
+  "retrievedAt": "2026-11-03T23:05:21.162Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "KEIL Heating and Air Conditioning",
+  "category": "HVAC contractor",
+  "address": "259 Hamburg Turnpike, Riverdale, NJ 07457, United States ",
+  "phone": "+1 973-492-0096 ",
+  "website": "https://www.keilheatingandairconditioning.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/KEIL+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c31b537c404803:0x40b7c3732b13b2c!8m2!3d41.0013321!4d-74.3176152!16s%2Fg%2F1xpwkqhs!19sChIJA0hAfFMbw4kRLDuxMjd8CwQ?hl=en",
+  "screenshot": "evidence/screenshots/keil-heating-and-air-conditioning/google-maps-listing.png"
+}

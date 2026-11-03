@@ -1,0 +1,25 @@
+{
+  "id": "hvac-metals-llc",
+  "placeUrl": "https://www.google.com/maps/place/HVAC+Metals,+LLC/data=!4m7!3m6!1s0x89c2543e0a12acc7:0x489c2f73829fa0c0!8m2!3d40.7589574!4d-74.1414717!16s%2Fg%2F11bc960nn6!19sChIJx6wSCj5UwokRwKCfgnMvnEg",
+  "retrievedAt": "2026-11-03T22:54:08.183Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "HVAC Metals, LLC",
+  "category": "Sheet metal contractor",
+  "address": "181-183 Garfield Ave, Kearny, NJ 07032, United States ",
+  "phone": "+1 201-991-2206 ",
+  "website": "https://www.hvacmetalsllc.com/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday6 AM–2:30 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/HVAC+Metals,+LLC/data=!4m7!3m6!1s0x89c2543e0a12acc7:0x489c2f73829fa0c0!8m2!3d40.7589574!4d-74.1414717!16s%2Fg%2F11bc960nn6!19sChIJx6wSCj5UwokRwKCfgnMvnEg?hl=en",
+  "screenshot": "evidence/screenshots/hvac-metals-llc/google-maps-listing.png"
+}

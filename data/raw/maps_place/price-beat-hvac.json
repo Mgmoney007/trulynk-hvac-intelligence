@@ -1,0 +1,25 @@
+{
+  "id": "price-beat-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Price+Beat+HVAC/data=!4m7!3m6!1s0x89c3b39403f852ab:0x675b1b94ec86e6bd!8m2!3d40.9673744!4d-74.0739123!16s%2Fg%2F11j5cndcxr!19sChIJq1L4A5Szw4kRveaG7JQbW2c",
+  "retrievedAt": "2026-11-03T22:55:54.339Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Price Beat HVAC",
+  "category": "HVAC contractor",
+  "address": "64 E Ridgewood Ave, Paramus, NJ 07652, United States ",
+  "phone": "+1 888-888-8512 ",
+  "website": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Price+Beat+HVAC/data=!4m7!3m6!1s0x89c3b39403f852ab:0x675b1b94ec86e6bd!8m2!3d40.9673744!4d-74.0739123!16s%2Fg%2F11j5cndcxr!19sChIJq1L4A5Szw4kRveaG7JQbW2c?hl=en",
+  "screenshot": "evidence/screenshots/price-beat-hvac/google-maps-listing.png"
+}

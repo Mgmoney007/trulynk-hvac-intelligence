@@ -1,0 +1,25 @@
+{
+  "id": "gold-ac-heating-services",
+  "placeUrl": "https://www.google.com/maps/place/Gold+AC+%26+Heating+Services/data=!4m7!3m6!1s0x89c2fbc13314b53f:0x725885689198b39d!8m2!3d40.8851897!4d-74.040753!16s%2Fg%2F11kpcxv_tg!19sChIJP7UUM8H7wokRnbOYkWiFWHI",
+  "retrievedAt": "2026-11-03T22:59:28.580Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Gold AC & Heating Services",
+  "category": "HVAC contractor",
+  "address": "25 E Salem St #756, Hackensack, NJ 07601, United States ",
+  "phone": "+1 551-497-4263 ",
+  "website": "https://goldenservicecooling.com/hackensack-nj/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–10 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Gold+AC+%26+Heating+Services/data=!4m7!3m6!1s0x89c2fbc13314b53f:0x725885689198b39d!8m2!3d40.8851897!4d-74.040753!16s%2Fg%2F11kpcxv_tg!19sChIJP7UUM8H7wokRnbOYkWiFWHI?hl=en",
+  "screenshot": "evidence/screenshots/gold-ac-heating-services/google-maps-listing.png"
+}

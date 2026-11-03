@@ -1,0 +1,25 @@
+{
+  "id": "railroad-climate-services",
+  "placeUrl": "https://www.google.com/maps/place/Railroad+Climate+Services/data=!4m7!3m6!1s0x89c2fbf2542fd581:0xabdec68f7c57efcc!8m2!3d40.8907738!4d-74.0462886!16s%2Fg%2F11n3nx04vf!19sChIJgdUvVPL7wokRzO9XfI_G3qs",
+  "retrievedAt": "2026-11-03T22:56:58.409Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Railroad Climate Services",
+  "category": "HVAC contractor",
+  "address": "353 Railroad Ave #1, Hackensack, NJ 07601, United States ",
+  "phone": "+1 551-231-6241 ",
+  "website": "https://railroadclimateservices.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–9 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Railroad+Climate+Services/data=!4m7!3m6!1s0x89c2fbf2542fd581:0xabdec68f7c57efcc!8m2!3d40.8907738!4d-74.0462886!16s%2Fg%2F11n3nx04vf!19sChIJgdUvVPL7wokRzO9XfI_G3qs?hl=en",
+  "screenshot": "evidence/screenshots/railroad-climate-services/google-maps-listing.png"
+}

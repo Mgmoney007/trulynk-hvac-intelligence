@@ -1,0 +1,30 @@
+{
+  "id": "residential-air-systems-inc",
+  "query": "Residential Air Systems, Inc.",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Residential%20Air%20Systems%2C%20Inc.&find_loc=Cedar%20Grove%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:14:25.671Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": {
+    "ad": false,
+    "name": "Residential Air Systems Inc.",
+    "rating": "A+",
+    "phone": "(973) 227-3343",
+    "address": "59 Village Park Rd, Cedar Grove, NJ 07009-1212",
+    "accredited": true,
+    "href": "https://www.bbb.org/us/nj/cedar-grove/profile/heating-and-air-conditioning/residential-air-systems-inc-0221-28002038",
+    "basis": "phone",
+    "nameSimilarity": 1
+  },
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Residential Air Systems Inc.",
+      "rating": "A+",
+      "phone": "(973) 227-3343",
+      "address": "59 Village Park Rd, Cedar Grove, NJ 07009-1212",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/cedar-grove/profile/heating-and-air-conditioning/residential-air-systems-inc-0221-28002038"
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "service-hvac-units-llc",
+  "placeUrl": "https://www.google.com/maps/place/Service+HVAC+Units+LLC/data=!4m7!3m6!1s0x89c25727135cafa3:0xa9790bdb7208a7e!8m2!3d40.883307!4d-74.1355184!16s%2Fg%2F11jl45lskd!19sChIJo69cEydXwokRfoogt72Qlwo",
+  "retrievedAt": "2026-11-03T22:50:24.803Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Service HVAC Units LLC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-951-9532 ",
+  "website": "https://servicehvacunits.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Service+HVAC+Units+LLC/data=!4m7!3m6!1s0x89c25727135cafa3:0xa9790bdb7208a7e!8m2!3d40.883307!4d-74.1355184!16s%2Fg%2F11jl45lskd!19sChIJo69cEydXwokRfoogt72Qlwo?hl=en",
+  "screenshot": "evidence/screenshots/service-hvac-units-llc/google-maps-listing.png"
+}

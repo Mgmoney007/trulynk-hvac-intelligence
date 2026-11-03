@@ -1,0 +1,8 @@
+audited iron-crest-plumbing-of-union-city: access_failures=0 broken=0
+audited andes-refrigeration: access_failures=0 broken=0
+skip (exists) integrate-comfort-systems
+skip (exists) j-m-cooling-and-heating
+skip (exists) multitemp-hvac
+audited hvac-metals-llc: access_failures=0 broken=0
+audited andes-hvac-aire-acondicionado: access_failures=0 broken=0
+audited cronin-plumbing-and-heating: access_failures=1 broken=n/a

@@ -1,0 +1,25 @@
+{
+  "id": "air-comfort-and-refrigeration-services-bloomfield-new-jersey",
+  "placeUrl": "https://www.google.com/maps/place/Air+Comfort+and+Refrigeration+Services+-+Bloomfield+New+Jersey/data=!4m7!3m6!1s0x89c2556db39a9779:0x5d5a1cfb824dd125!8m2!3d40.8382781!4d-74.1637531!16s%2Fg%2F11b7cj3cn1!19sChIJeZeas21VwokRJdFNgvscWl0",
+  "retrievedAt": "2026-11-03T23:00:53.914Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Air Comfort and Refrigeration Services - Bloomfield New Jersey",
+  "category": "HVAC contractor",
+  "address": "354 Sylvan Rd, Bloomfield, NJ 07003, United States ",
+  "phone": "+1 973-818-1388 ",
+  "website": "http://aircomfortandrefrigeration.us/",
+  "rating": 4.8,
+  "reviews": null,
+  "rateBoxText": "4.8",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Air+Comfort+and+Refrigeration+Services+-+Bloomfield+New+Jersey/data=!4m7!3m6!1s0x89c2556db39a9779:0x5d5a1cfb824dd125!8m2!3d40.8382781!4d-74.1637531!16s%2Fg%2F11b7cj3cn1!19sChIJeZeas21VwokRJdFNgvscWl0?hl=en",
+  "screenshot": "evidence/screenshots/air-comfort-and-refrigeration-services-bloomfield-new-jersey/google-maps-listing.png"
+}

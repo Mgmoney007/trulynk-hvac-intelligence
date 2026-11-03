@@ -1,0 +1,843 @@
+{
+  "firecrawl": [],
+  "id": "aeromark-mechanical-inc",
+  "name": "Aeromark Mechanical Inc",
+  "website": "https://aeromarknj.com/",
+  "auditedAt": "2026-11-03T22:54:08.451Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://aeromarknj.com/",
+      "at": "2026-11-03T22:54:10.785Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://aeromarknj.com/",
+      "title": "Aeromark Mechanical, Family-owned HVAC & mechanical contracting, North Jersey",
+      "ms": 2291,
+      "error": null,
+      "linkCount": 30
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://aeromarknj.com/contact/",
+      "at": "2026-11-03T22:54:13.144Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://aeromarknj.com/contact/",
+      "title": "Contact Aeromark Mechanical, East Rutherford & Jersey City, NJ",
+      "ms": 982,
+      "error": null,
+      "linkCount": 27
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://aeromarknj.com/story/",
+      "at": "2026-11-03T22:54:14.745Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://aeromarknj.com/story/",
+      "title": "Our Story, Aeromark Mechanical, family-owned since 2007",
+      "ms": 905,
+      "error": null,
+      "linkCount": 26
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://aeromarknj.com/",
+      "at": "2026-11-03T22:54:33.642Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://aeromarknj.com/",
+      "title": "Aeromark Mechanical, Family-owned HVAC & mechanical contracting, North Jersey",
+      "ms": 2454,
+      "error": null,
+      "linkCount": 30
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://aeromarknj.com/",
+    "title": "Aeromark Mechanical, Family-owned HVAC & mechanical contracting, North Jersey",
+    "lang": "en",
+    "metaDescription": "Family-owned HVAC and mechanical contractor in East Rutherford, NJ. Heating, cooling and new-construction mechanical for homes, builders and multifamily projects.",
+    "h1": [
+      ""
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 9034,
+    "bodyText": "100%\nResidential\nCommercial\nOur work\nOur story\nCareers\nContact\nCALL 973-668-5783\nFAMILY-OWNED HVAC & MECHANICAL CONTRACTING · NORTH JERSEY\nSCROLL\n2007\nSERVING NORTH JERSEY SINCE\n70+\nTEAM MEMBERS\nFamily\nOWNED & OPERATED\n19HC00195600\nNJ HVACR LICENSE\nWHO WE ARE\nA mechanical contractor with a family name on every job.\n\nWhen you call Aeromark you don't reach a call center or a national franchise. You reach the family that built this company and stands behind it. Corporate chains answer to shareholders. We answer to you, and to a reputation we've been earning in this community since 2007.\n\nTHE AEROMARK TEAM · COMPANY BBQ\nFor your home\nRepairs, replacements, and the maintenance in between.\nFurnaces, boilers and heat pumps\nCentral air and ductless mini-splits\nCustom ductwork and duct repairs\nAir purifiers, humidifiers and ventilation\nSmart thermostats, set up properly\nTwo visits a year on a maintenance plan\nRESIDENTIAL SERVICES\nFor builders & developers\nDesign-build mechanical, installed by our own crews.\nFull mechanical design for new construction\nMid-rise and high-rise multifamily\nOur own crews on site, not subcontractors\nVRF and high-efficiency systems\nWe coordinate with your GC and engineers\nValue engineering that protects the budget\nCOMMERCIAL & NEW CONSTRUCTION\nHOW WE WORK\nClear scope. Clear pricing. No surprises.\n01\nConsultation\n\nWe listen, assess, and understand the goal.\n\n02\nDesign & proposal\n\nA written proposal with the full scope and price before work begins.\n\n03\nExpert installation\n\nOur own trained crews, self-performing the work.\n\n04\nFollow-through\n\nWe stand behind the work, long after it's done.\n\nIN THE FIELD\nReal crews, real rooftops.\nTOWER CRANE · HIGH-RISE JOB\nRTU INSTALL · JERSEY CITY\nEXPOSED SPIRAL DUCTWORK\nHEAT-PUMP ARRAY · SOHO WEST\nPROJECT PORTFOLIO\nBuilt for multifamily and new construction.\n\nMid-rise to thirty-story, across Hudson and Bergen County. The demanding work that separates contractors from crews.\n\nVIEW THE FULL PORTFOLIO\nHomeowner?\nHeating, cooling and maintenance plans for North Jersey homes.\nVISIT OUR RESIDENTIAL PAGE\nIN THEIR WORDS\nThe work speaks. So do the people who hired us.\n\n“An outstanding experience. The team at Aeromark was responsive, helpful and highly professional. They assessed a difficult AC problem, found a solution, and did a complete, thorough installation.”\n\nJOHN M.\n\n“Great technicians who provide timely and accurate service, a courteous and professional team, and they've digitized everything so they know your equipment and history.”\n\nANTONIO G.\n\n“Meticulous and detail-oriented on a complicated multi-zone controls install for our hydronic heating system.”\n\nJOSEPH C.\nBRANDS WE INSTALL · ACCA MEMBER\nSERVICE AREA\nNorth Jersey is home turf.\n\nJersey City · Hoboken · Union City · Hackensack · East Rutherford · Carlstadt · Lyndhurst · Bayonne · North Bergen · Newark · Clifton · Kearny · and beyond\n\nReady to work with a contractor who treats your project like family?\nCALL 973-668-5783\nResidential\nCommercial\nOur work\nOur story\nCareers\nContact\n62 Railroad Ave, Suite 101 · East Rutherford, NJ 07073 · 153 Morgan St, Jersey City, NJ 07302\nFamily owned & operated · NJ HVACR #19HC00195600\nPrivacy·Internal forms",
+    "links": [
+      {
+        "href": "#top",
+        "abs": "https://aeromarknj.com/#top",
+        "text": "Aeromark Mechanical, home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 26,
+        "w": 29,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "residential/",
+        "abs": "https://aeromarknj.com/residential/",
+        "text": "Residential",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 105,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "commercial/",
+        "abs": "https://aeromarknj.com/commercial/",
+        "text": "Commercial",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 112,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "work/",
+        "abs": "https://aeromarknj.com/work/",
+        "text": "Our work",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 94,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "story/",
+        "abs": "https://aeromarknj.com/story/",
+        "text": "Our story",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 95,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "careers/",
+        "abs": "https://aeromarknj.com/careers/",
+        "text": "Careers",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 85,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "contact/",
+        "abs": "https://aeromarknj.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 85,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "contact/#form",
+        "abs": "https://aeromarknj.com/contact/#form",
+        "text": "CALL 973-668-5783",
+        "visible": true,
+        "aboveFold": true,
+        "h": 41,
+        "w": 176,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "residential/",
+        "abs": "https://aeromarknj.com/residential/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 86,
+        "w": 211,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "commercial/",
+        "abs": "https://aeromarknj.com/commercial/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 86,
+        "w": 226,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "work/",
+        "abs": "https://aeromarknj.com/work/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 86,
+        "w": 186,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "story/",
+        "abs": "https://aeromarknj.com/story/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 86,
+        "w": 188,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "careers/",
+        "abs": "https://aeromarknj.com/careers/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 86,
+        "w": 167,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "contact/",
+        "abs": "https://aeromarknj.com/contact/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 86,
+        "w": 166,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "contact/#form",
+        "abs": "https://aeromarknj.com/contact/#form",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 55,
+        "w": 193,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "contact/",
+        "abs": "https://aeromarknj.com/contact/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 224,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19736685783",
+        "abs": "tel:+19736685783",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 51,
+        "w": 195,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "residential/",
+        "abs": "https://aeromarknj.com/residential/",
+        "text": "RESIDENTIAL SERVICES",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 160,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "commercial/",
+        "abs": "https://aeromarknj.com/commercial/",
+        "text": "COMMERCIAL & NEW CONSTRUCTION",
+        "visible": true,
+        "aboveFold": false,
+        "h": 24,
+        "w": 255,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "work/",
+        "abs": "https://aeromarknj.com/work/",
+        "text": "VIEW THE FULL PORTFOLIO",
+        "visible": true,
+        "aboveFold": false,
+        "h": 51,
+        "w": 260,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "residential/",
+        "abs": "https://aeromarknj.com/residential/",
+        "text": "VISIT OUR RESIDENTIAL PAGE",
+        "visible": true,
+        "aboveFold": false,
+        "h": 51,
+        "w": 277,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+19736685783",
+        "abs": "tel:+19736685783",
+        "text": "CALL 973-668-5783",
+        "visible": true,
+        "aboveFold": false,
+        "h": 51,
+        "w": 207,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "residential/",
+        "abs": "https://aeromarknj.com/residential/",
+        "text": "Residential",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 102,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "commercial/",
+        "abs": "https://aeromarknj.com/commercial/",
+        "text": "Commercial",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 109,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "work/",
+        "abs": "https://aeromarknj.com/work/",
+        "text": "Our work",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 91,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "story/",
+        "abs": "https://aeromarknj.com/story/",
+        "text": "Our story",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 92,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "careers/",
+        "abs": "https://aeromarknj.com/careers/",
+        "text": "Careers",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 83,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "contact/",
+        "abs": "https://aeromarknj.com/contact/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 83,
+        "inNav": true,
+        "inFooter": true
+      },
+      {
+        "href": "privacy/",
+        "abs": "https://aeromarknj.com/privacy/",
+        "text": "Privacy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 15,
+        "w": 45,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "internal-forms/",
+        "abs": "https://aeromarknj.com/internal-forms/",
+        "text": "Internal forms",
+        "visible": true,
+        "aboveFold": false,
+        "h": 15,
+        "w": 84,
+        "inNav": false,
+        "inFooter": true
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Switch between light and dark",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Switch between light and dark",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [],
+    "scripts": [
+      "https://aeromarknj.com/assets/js/site.js?v=19",
+      "https://aeromarknj.com/assets/js/editor.js?v=15"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "HVACBusiness",
+            "@id": "https://aeromarknj.com/#east-rutherford",
+            "name": "Aeromark Mechanical, Inc.",
+            "url": "https://aeromarknj.com/",
+            "logo": "https://aeromarknj.com/assets/img/logo-2026.png",
+            "image": "https://aeromarknj.com/assets/img/social-card.jpg",
+            "telephone": "+1-973-668-5783",
+            "foundingDate": "2007-02",
+            "description": "Family owned mechanical contractor providing residential and commercial heating, cooling and ventilation across North Jersey since 2007.",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "62 Railroad Avenue, Suite 101",
+              "addressLocality": "East Rutherford",
+              "addressRegion": "NJ",
+              "postalCode": "07073",
+              "addressCountry": "US"
+            },
+            "openingHoursSpecification": [
+              {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday"
+                ],
+                "opens": "08:00",
+                "closes": "16:30"
+              }
+            ],
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "Hudson County, New Jersey"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Bergen County, New Jersey"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Essex County, New Jersey"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Passaic County, New Jersey"
+              }
+            ],
+            "knowsAbout": [
+              "HVAC installation",
+              "HVAC repair",
+              "Air conditioning",
+              "Heating systems",
+              "Ductwork installation",
+              "Design build mechanical contracting"
+            ]
+          },
+          {
+            "@type": "HVACBusiness",
+            "@id": "https://aeromarknj.com/#jersey-city",
+            "name": "Aeromark Mechanical, Inc. — Jersey City",
+            "url": "https://aeromarknj.com/contact/",
+            "telephone": "+1-973-668-5783",
+            "parentOrganization": {
+              "@id": "https://aeromarknj.com/#east-rutherford"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "153 Morgan Street",
+              "addressLocality": "Jersey City",
+              "addressRegion": "NJ",
+              "postalCode": "07302",
+              "addressCountry": "US"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "url": "https://aeromarknj.com/",
+            "name": "Aeromark Mechanical",
+            "publisher": {
+              "@id": "https://aeromarknj.com/#east-rutherford"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 25,
+    "timing": {
+      "dcl": 1511,
+      "load": 1666,
+      "ttfb": 405
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": "loader done ",
+        "text": "100%"
+      },
+      {
+        "kind": "other",
+        "cover": 0.069,
+        "sig": "hdr  ",
+        "text": "residential\ncommercial\nour work\nour story\ncareers\ncontact\ncall 973-668-5783"
+      },
+      {
+        "kind": "header",
+        "cover": 1,
+        "sig": " hero-sticky ",
+        "text": "family-owned hvac & mechanical contracting · north jersey\nscroll"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://aeromarknj.com/",
+    "navMs": 2291,
+    "tel": [
+      {
+        "href": "tel:+19736685783",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19736685783"
+      },
+      {
+        "href": "tel:+19736685783",
+        "text": "CALL 973-668-5783",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736685783"
+      }
+    ],
+    "vendors": []
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://aeromarknj.com/",
+    "navMs": 2454,
+    "timing": {
+      "dcl": 1123,
+      "load": 1283,
+      "ttfb": 357
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+19736685783",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+19736685783"
+      },
+      {
+        "href": "tel:+19736685783",
+        "text": "CALL 973-668-5783",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+19736685783"
+      }
+    ],
+    "telAboveFold": false,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "other",
+        "cover": 1,
+        "sig": "loader done ",
+        "text": "100%"
+      },
+      {
+        "kind": "other",
+        "cover": 0.091,
+        "sig": "hdr  ",
+        "text": ""
+      },
+      {
+        "kind": "header",
+        "cover": 1,
+        "sig": " hero-sticky ",
+        "text": "family-owned hvac & mechanical contracting · north jersey\nscroll"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 7,
+    "brokenImages": [],
+    "textChars": 3124
+  },
+  "pages": {
+    "contact": {
+      "url": "https://aeromarknj.com/contact/",
+      "finalUrl": "https://aeromarknj.com/contact/",
+      "status": 200,
+      "title": "Contact Aeromark Mechanical, East Rutherford & Jersey City, NJ",
+      "forms": [
+        {
+          "action": "../send.php",
+          "method": "post",
+          "id": "",
+          "cls": "fm rv rv2 in",
+          "fieldCount": 8,
+          "fieldNames": [
+            "hp_extra",
+            "name",
+            "phone",
+            "email",
+            "town",
+            "type",
+            "type",
+            "message"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:+19736685783",
+          "text": "973-668-5783",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736685783"
+        },
+        {
+          "href": "tel:+19736685783",
+          "text": "973-668-5783",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736685783"
+        },
+        {
+          "href": "tel:+19736685783",
+          "text": "973-668-5783",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736685783"
+        },
+        {
+          "href": "tel:+19736685783",
+          "text": "CALL 973-668-5783",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+19736685783"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Residential\nCommercial\nOur work\nOur story\nCareers\nContact\nCALL 973-668-5783\nCONTACT\nTalk to a person, not a queue.\n\nCall and you reach our office, not a national call center. For anything urgent, the phone is always the fastest route.\n\nSEND A MESSAGE\nTell us what's going on.\n\nFill this in and it reaches the office directly. If your heat or AC is out right now, calling is faster.\n\n973-668-5783\n\nLEAVE THIS BLANK\n\nNAME\n\nPHONE\n\nEMAIL\n\nTOWN\n\nIS THIS FOR A HOME OR A BUILDING?\nResidential\nCommercial\n\nWHAT DO YOU NEED?\n\nSEND MESSAGE\n\nWe reply during office hours, Monday to Friday. Your details go to our office and nowhere else.\n\nEast Rutherford\n62 Railroad Avenue, Suite 101\nEast Rutherford, NJ 07073\n973-668-5783\nMonday to Friday · 8:00am – 4:30pm\nJersey City\n153 Morgan Street\nJersey City, NJ 07302\n973-668-5783\nMonday to Friday · 8:00am – 4:30pm\nWHAT TO HAVE READY\nA minute of prep saves a visit.\nThe address, and whether it's a home, a building or a project site\nWhat the system is doing, or not doing\nMake and model if you can see it, though we can find it on arrival\nFor a project: the stage you're at and the timeline you're working to\n\nFree estimates on installations. We service and repair all makes and models, whether we installed them or not.\n\nSERVICE AREA\nNorth Jersey is home turf.\n\nJersey City · Hoboken · Union City · Hackensack · East Rutherford · Carlstadt · Lyndhurst · Bayonne · North Bergen · Newark · Clifton · Kearny · and beyond\n\nHeat out? AC down? Project on the board?\nCALL 973-668-5783\nResidential\nCommercial\nOur work\nOur story\nCareers\nContact\n62 Railroad Ave, Suite 101 · East Rutherford, NJ 07073 · 153 Morgan St, Jersey City, NJ 07302\nFamily owned & operated · NJ HVACR #19HC00195600\nPrivacy·Internal forms",
+      "vendors": [],
+      "links": [
+        "https://aeromarknj.com/",
+        "https://aeromarknj.com/residential/",
+        "https://aeromarknj.com/commercial/",
+        "https://aeromarknj.com/work/",
+        "https://aeromarknj.com/story/",
+        "https://aeromarknj.com/careers/",
+        "https://aeromarknj.com/contact/",
+        "https://aeromarknj.com/contact/#form",
+        "https://aeromarknj.com/residential/",
+        "https://aeromarknj.com/commercial/",
+        "https://aeromarknj.com/work/",
+        "https://aeromarknj.com/story/",
+        "https://aeromarknj.com/careers/",
+        "https://aeromarknj.com/contact/",
+        "https://aeromarknj.com/contact/#form",
+        "https://aeromarknj.com/residential/",
+        "https://aeromarknj.com/commercial/",
+        "https://aeromarknj.com/work/",
+        "https://aeromarknj.com/story/",
+        "https://aeromarknj.com/careers/",
+        "https://aeromarknj.com/contact/",
+        "https://aeromarknj.com/privacy/",
+        "https://aeromarknj.com/internal-forms/"
+      ]
+    },
+    "about": {
+      "url": "https://aeromarknj.com/story/",
+      "finalUrl": "https://aeromarknj.com/story/",
+      "status": 200,
+      "title": "Our Story, Aeromark Mechanical, family-owned since 2007",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [],
+      "owners": [],
+      "bodyText": "Residential\nCommercial\nOur work\nOur story\nCareers\nContact\nCALL 973-668-5783\nOUR STORY\nBuilt from the ground up, and still run by the family that built it.\n\nIncorporated in February 2007 with ten people. Today a full mechanical contractor working across Hudson and Bergen County, with the same name on the door.\n\nGET IN TOUCH\nSEE THE WORK\n2007\nINCORPORATED FEBRUARY\n10 → 70+\nEMPLOYEES SINCE DAY ONE\n38 yrs\nOWNER'S EXPERIENCE\n19HC00195600\nNJ HVACR LICENSE\nWHO WE ARE\nA mechanical contractor with a family name on every job.\n\nWhen you call Aeromark you don't reach a call center or a national franchise. You reach the family that built this company and stands behind it. Corporate chains answer to shareholders. We answer to you, and to a reputation we've been earning in this community since 2007.\n\nWe chose Hudson County deliberately. It was redeveloping fast, and a contractor willing to design to a real budget, and then self-perform the work, could build something lasting there. Two decades later, a good share of our work still comes from the same developers and general contractors.\n\nAMENITY LEVEL · HUDSON COUNTY\nHOW WE GOT HERE\nTwenty years, one direction.\n2007\nTen people and a design-build idea\n\nIncorporated in February, with offices in East Rutherford and Hoboken, and an owner bringing 28 years of HVAC and 10 years of electrical work to it.\n\n2010s\nMultifamily becomes home turf\n\nFour-story mid-rise through thirty-story high-rise, plus State HUD residential projects across New Jersey. Typical mechanical packages run $100K to $10M.\n\n2021\nServiceTitan, end to end\n\nScheduling, technician tracking, invoicing and full equipment history on every property, so the next visit starts already knowing your building.\n\nToday\nA full mechanical contractor\n\nProject managers, service managers and coordinators, technicians, supervisors and installation crews, under one roof.\n\nWHAT WE BELIEVE\nFour things we don't compromise on.\n01\nFamily accountability\n\nOne family name stands behind every job. We answer to our customers and our reputation, not a corporate office.\n\n02\nReal capability\n\nA 70-strong team that self-performs, so we control quality from rough-in to final commissioning.\n\n03\nProven on hard projects\n\nMultifamily and new construction are the demanding work that separates contractors from crews.\n\n04\nFollow-through\n\nWe do it right the first time and stand behind it long after the invoice is paid.\n\nReady to work with a contractor who treats your project like family?\nGET IN TOUCH\nResidential\nCommercial\nOur work\nOur story\nCareers\nContact\n62 Railroad Ave, Suite 101 · East Rutherford, NJ 07073 · 153 Morgan St, Jersey City, NJ 07302\nFamily owned & operated · NJ HVACR #19HC00195600\nPrivacy·Internal forms",
+      "vendors": [],
+      "links": [
+        "https://aeromarknj.com/",
+        "https://aeromarknj.com/residential/",
+        "https://aeromarknj.com/commercial/",
+        "https://aeromarknj.com/work/",
+        "https://aeromarknj.com/story/",
+        "https://aeromarknj.com/careers/",
+        "https://aeromarknj.com/contact/",
+        "https://aeromarknj.com/contact/#form",
+        "https://aeromarknj.com/residential/",
+        "https://aeromarknj.com/commercial/",
+        "https://aeromarknj.com/work/",
+        "https://aeromarknj.com/story/",
+        "https://aeromarknj.com/careers/",
+        "https://aeromarknj.com/contact/",
+        "https://aeromarknj.com/contact/#form",
+        "https://aeromarknj.com/contact/",
+        "https://aeromarknj.com/work/",
+        "https://aeromarknj.com/contact/",
+        "https://aeromarknj.com/residential/",
+        "https://aeromarknj.com/commercial/",
+        "https://aeromarknj.com/work/",
+        "https://aeromarknj.com/story/",
+        "https://aeromarknj.com/careers/",
+        "https://aeromarknj.com/contact/",
+        "https://aeromarknj.com/privacy/",
+        "https://aeromarknj.com/internal-forms/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 9,
+    "at": "2026-11-03T22:54:31.147Z",
+    "statusCounts": {
+      "200": 8,
+      "error": 1
+    },
+    "accessIssues": [
+      {
+        "url": "https://aeromarknj.com/",
+        "status": null,
+        "error": "AbortError: This operation was aborted"
+      }
+    ],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://aeromarknj.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/aeromark-mechanical-inc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/aeromark-mechanical-inc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/aeromark-mechanical-inc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/aeromark-mechanical-inc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/aeromark-mechanical-inc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": true,
+    "njLicenses": [
+      "19HC00195600"
+    ],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": true,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 2007,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  },
+  "ctaClickTests": []
+}

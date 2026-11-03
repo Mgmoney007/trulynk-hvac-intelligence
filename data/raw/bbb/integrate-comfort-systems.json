@@ -1,0 +1,30 @@
+{
+  "id": "integrate-comfort-systems",
+  "query": "Integrate Comfort Systems",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=Integrate%20Comfort%20Systems&find_loc=Belleville%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:20:11.170Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": {
+    "ad": false,
+    "name": "Integrate Comfort Systems Inc",
+    "rating": "A+",
+    "phone": "(866) 749-6331",
+    "address": "267 Cortlandt St, Belleville, NJ 07109-3126",
+    "accredited": true,
+    "href": "https://www.bbb.org/us/nj/belleville/profile/heating-and-air-conditioning/integrate-comfort-systems-inc-0221-90043318",
+    "basis": "name+city",
+    "nameSimilarity": 1
+  },
+  "candidates": [
+    {
+      "ad": false,
+      "name": "Integrate Comfort Systems Inc",
+      "rating": "A+",
+      "phone": "(866) 749-6331",
+      "address": "267 Cortlandt St, Belleville, NJ 07109-3126",
+      "accredited": true,
+      "href": "https://www.bbb.org/us/nj/belleville/profile/heating-and-air-conditioning/integrate-comfort-systems-inc-0221-90043318"
+    }
+  ],
+  "error": null
+}

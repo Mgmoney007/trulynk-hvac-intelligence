@@ -1,0 +1,2337 @@
+{
+  "firecrawl": [],
+  "id": "duct-mate-inc",
+  "name": "duct-mate-inc",
+  "website": "https://www.ductmatehvac.com/",
+  "auditedAt": "2026-11-03T23:37:53.528Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.ductmatehvac.com/",
+      "at": "2026-11-03T23:38:01.314Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.ductmatehvac.com/",
+      "title": "HVAC Services | Hackensack, NJ | Duct Mate Air",
+      "ms": 7615,
+      "error": null,
+      "linkCount": 125
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.ductmatehvac.com/contact-us",
+      "at": "2026-11-03T23:38:16.162Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.ductmatehvac.com/contact-us",
+      "title": "HVAC Company Contact | Hackensack, NJ | DMA",
+      "ms": 1954,
+      "error": null,
+      "linkCount": 127
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://www.ductmatehvac.com/about-us",
+      "at": "2026-11-03T23:38:19.085Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.ductmatehvac.com/about-us",
+      "title": "HVAC Company | Hackensack, NJ | Duct Mate Air",
+      "ms": 2016,
+      "error": null,
+      "linkCount": 124
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://www.ductmatehvac.com/",
+      "at": "2026-11-03T23:38:47.791Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://www.ductmatehvac.com/",
+      "title": "HVAC Services | Hackensack, NJ | Duct Mate Air",
+      "ms": 7534,
+      "error": null,
+      "linkCount": 125
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://www.ductmatehvac.com/",
+    "title": "HVAC Services | Hackensack, NJ | Duct Mate Air",
+    "lang": "en",
+    "metaDescription": "Duct Mate Air Conditioning and Heating Inc provides HVAC services in Hackensack, NJ. Call (201) 488-8002 for heating and cooling solutions.",
+    "h1": [],
+    "viewportMeta": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 9965,
+    "bodyText": "190 Lexington Ave, Hackensack 07601\n\n(201) 488-8002\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nWhy Choose A Diamond Contractor\n\nWhen it comes to your home's heating and air conditioning needs, choosing the right contractor can seem like a daunting task. Fortunately, Mitsubishi Electric Heating & Air Conditioning has done the legwork for you.\n\nMitsubishi Electric Heating & Air Conditioning has been a leader in ductless and ducted heat pump technology, ensuring that contractors who choose to stay at the forefront of the industry have every opportunity to do so.\n\nMitsubishi Electric Heating & Air Conditioning Diamond Contractors receive ongoing training and education on the latest ductless and ducted systems that Mitsubishi Electric has to offer. This commitment to continuous learning ensures that every installation is completed using the most current techniques and best practices.\n\nAs a Diamond Contractor, we take pride in delivering exceptional HVAC craftsmanship and adhering to the highest industry standards. Our goal is to provide uncompromised comfort for your home while treating your property with the same care and respect we would our own.\n\nHeating and cooling problems can quickly disrupt comfort at home or work. Poor airflow, rising energy bills, uneven temperatures, and outdated equipment often create frustration for property owners. Duct Mate Air Conditioning and Heating Inc. in Hackensack, NJ, provides dependable HVAC solutions designed to improve comfort, efficiency, and indoor air quality for residential and commercial properties. Call (201) 488-8002 today to schedule professional heating and cooling service.\n\n\n\n\nMany homeowners and business owners wait too long before addressing HVAC issues. Small problems often become expensive repairs if systems are ignored. Weak airflow, noisy equipment, and poor temperature control may also affect comfort and energy efficiency over time. Duct Mate Air Conditioning and Heating Inc helps customers avoid those problems through professional HVAC installation, repair, maintenance, and system design services.\n\n\nHVAC Services Backed by Decades of Experience\n\nReliable HVAC service requires experience, proper training, and attention to detail. Since 1989, Duct Mate Air Conditioning and Heating Inc. has continued helping residential and commercial customers maintain dependable heating and cooling systems.\n\n\n\n\nThe company is family-owned, licensed, and insured while proudly serving Bergen County and the greater tri-county area.\n\n\nCustomers rely on the company for:\n\nResidential HVAC services\n\nCommercial HVAC services\n\nHeating installation and repair\n\nAir conditioning services\n\nIndoor air quality solutions\n\nDuctwork design and fabrication\n\nHVAC maintenance plans\n\nThe company also holds certifications as a Rheem Team Top Contractor and Mitsubishi Elite Diamond Dealer.﻿\n\nEvery project focuses on long-term comfort, system performance, and dependable service.\n\n\nHeating And Cooling Services for Year-Round Comfort\n\nHeating and cooling systems play a major role in indoor comfort throughout every season. However, aging equipment and poor maintenance may reduce system performance over time.\n\n\n\n\nDuct Mate Air Conditioning and Heating Inc. provides complete heating and cooling services designed around the needs of each property.\n\n\nHeating services include the following:\n\nHeating installation\n\nAC installation\n\nHeating repair\n\nAC repair\n\nHeating replacement\n\nAC replacement\n\nHeat pump services\n\nCooling maintenance\n\nGas furnace services\n\nEnergy-efficient upgrades\n\nPreventative maintenance\n\nDuct design services\n\nThe company works carefully to help customers improve comfort, airflow, and energy efficiency throughout the property.\n\nPreventative maintenance services may also help reduce future repair costs and system breakdowns.﻿\n\nDuctless Mini Split Solutions for Flexible Comfort\n\nSome homes and businesses struggle with rooms that stay too hot or too cold. Traditional systems may not always provide balanced airflow in every area of the property.\n\n\n\n\nDuct Mate Air Conditioning and Heating Inc. provides ductless mini-split systems designed for flexible heating and cooling control.\n\n\n\n\nDuctless services include:\n\n\nDuctless mini split installation\nDuctless heating systems\nDuctless cooling systems﻿\nMitsubishi ductless heat pumps\nDuctless system repair\nMini split maintenance services﻿\n\nThese systems help customers improve comfort while reducing energy waste in unused spaces.\n\n\n\n\nMany property owners also choose ductless systems for additions, offices, garages, and areas without existing ductwork.\n\n\nCommercial HVAC And Indoor Air Quality Solutions\n\nCommercial buildings require dependable HVAC systems to maintain comfortable environments for employees, customers, and tenants. Poor airflow and inconsistent temperatures may affect productivity and indoor comfort.\n\n\n\n\nDuct Mate Air Conditioning and Heating Inc provides commercial HVAC services and indoor air quality solutions for many different property types.\n\n\n\n\nCommercial and indoor air quality services include:\n\n\nCommercial HVAC installation\nCommercial maintenance contracts\nCommercial ductwork solutions\nSheet metal fabrication\nAir filtration systems﻿\nWhole-home humidifiers\nAir purifiers\nEnergy recovery ventilators\nREME® and PHI-cell® purification systems﻿\n\nAccording to the Environmental Protection Agency, indoor air quality may directly affect comfort and overall indoor environmental conditions.\n\n\n\n\nThe company helps customers improve airflow, ventilation, and indoor comfort through dependable HVAC solutions.\n\nWhy Customers Choose Duct Mate Air Conditioning and Heating Inc\n\nCustomers want HVAC contractors who communicate clearly and complete work correctly. Duct Mate Air Conditioning and Heating Inc. continues building strong customer relationships through dependable service and professional workmanship.\n\n\n\n\nCustomers continue choosing the company because it offers:\n\n\nFamily-owned local service\nResidential and commercial expertise\nLicensed and insured technicians\nHVAC design and fabrication solutions﻿\nMaintenance plans\nCertified HVAC professionals\nReliable scheduling and communication\n\nThe company proudly serves Bergen County and the greater tri county area with professional heating, cooling, ductwork, and indoor air quality services.\n\n\n\n\nNo matter the size of the project, Duct Mate Air Conditioning and Heating Inc. work hard to provide HVAC solutions customers can trust year-round.\n\nCall (201) 488-8002 today to schedule professional HVAC service.\n\nHome\nBrowse Our Website\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nContact Information\n\nAddress:\n\n﻿190 Lexington Ave, Hackensack 07601\n\nPhone:\n\n﻿(201) 488-8002\n\nEmail:\n\n﻿Info@ductmatehvac.com\n\nService Area:\n\nServing Bergen County and the Greater Tri-County Area\n\nBusiness Hours:\n\nMon - Fri\n8:00 am - 4:00 pm\nSat - Sun\nClosed\n\nTechnicians' Availability After Hours\n\nSynchrony | PSEG\n\nOur Location\nHome\nContent, including images, displayed on this website is protected by copyright laws. Downloading, republication, retransmission or reproduction of content on this website is strictly prohibited. Terms of Use| Privacy Policy\nContact\nLet's Talk!\nThanks for stopping by! We're here to help, please don't hesitate to reach out.\n\nWe'd love to hear from you\nGet Directions\nCall 2014888002\nWe'd love to hear from you\nGet Directions",
+    "links": [
+      {
+        "href": "/#DiamondContractor",
+        "abs": "https://www.ductmatehvac.com/#DiamondContractor",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 95,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/#DiamondContractor",
+        "abs": "https://www.ductmatehvac.com/#DiamondContractor",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 102,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/DuctMateInc",
+        "abs": "https://facebook.com/DuctMateInc",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://instagram.com/duct_mate_inc",
+        "abs": "https://instagram.com/duct_mate_inc",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 30,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.google.com/maps/place/190+Lexington+Ave,+Hackensack,+NJ+07601,+USA/@40.8765763,-74.0544581,822m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c2f9f3179938d1:0xee714d03c5ebf1e4!8m2!3d40.8765763!4d-74.0518832!16s%2Fg%2F11c5d1g44t!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+        "abs": "https://www.google.com/maps/place/190+Lexington+Ave,+Hackensack,+NJ+07601,+USA/@40.8765763,-74.0544581,822m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c2f9f3179938d1:0xee714d03c5ebf1e4!8m2!3d40.8765763!4d-74.0518832!16s%2Fg%2F11c5d1g44t!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D",
+        "text": "190 Lexington Ave, Hackensack 07601",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 244,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 336,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "abs": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": true,
+        "h": 46,
+        "w": 312,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 64,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.ductmatehvac.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 91,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-air-conditioning-services",
+        "abs": "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "text": "Heating & Air Conditioning Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 312,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split-systems",
+        "abs": "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "text": "Ductless Mini Split Systems",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 265,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/mini-split-installation-montclair-nj",
+        "abs": "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "text": "Mini Split Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 209,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac-ductwork",
+        "abs": "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "text": "Commercial HVAC & Ductwork",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 268,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality-solutions",
+        "abs": "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "text": "Indoor Air Quality Solutions",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 244,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.ductmatehvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 108,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.ductmatehvac.com/faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 48,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "text": "Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 144,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#FurnaceMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "text": "Furnace Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "text": "Conventional Air Conditioning Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "text": "Steam Boiler Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "text": "Hydronic Boiler Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://www.ductmatehvac.com/blog",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 51,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Service Area",
+        "visible": true,
+        "aboveFold": true,
+        "h": 34,
+        "w": 141,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Tenafly, NJ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 162,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-repair-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "text": "Heating System Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 274,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/mini-split-installation-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "text": "Mini Split Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 274,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-installation-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "text": "Heating System Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 274,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-replacement-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "text": "Heating System Replacement",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 274,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Montclair, NJ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 162,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-replacement-montclair-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "text": "Heating System Replacement",
+        "visible": true,
+        "aboveFold": true,
+        "h": 53,
+        "w": 274,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "Home",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.ductmatehvac.com/about-us",
+        "text": "About Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-air-conditioning-services",
+        "abs": "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "text": "Heating & Air Conditioning Services",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split-systems",
+        "abs": "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "text": "Ductless Mini Split Systems",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/mini-split-installation-montclair-nj",
+        "abs": "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "text": "Mini Split Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac-ductwork",
+        "abs": "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "text": "Commercial HVAC & Ductwork",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality-solutions",
+        "abs": "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "text": "Indoor Air Quality Solutions",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.ductmatehvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.ductmatehvac.com/faq",
+        "text": "FAQ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "text": "Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#FurnaceMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "text": "Furnace Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "text": "Conventional Air Conditioning Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "text": "Steam Boiler Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "text": "Hydronic Boiler Maintenance",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://www.ductmatehvac.com/blog",
+        "text": "Blog",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Service Area",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Tenafly, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-repair-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "text": "Heating System Repair",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/mini-split-installation-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "text": "Mini Split Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-installation-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "text": "Heating System Installation",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-replacement-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "text": "Heating System Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Montclair, NJ",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-replacement-montclair-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "text": "Heating System Replacement",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "abs": "tel:(201) 488-8002",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "abs": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.ductmatehvac.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-air-conditioning-services",
+        "abs": "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "text": "Heating & Air Conditioning Services",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split-systems",
+        "abs": "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "text": "Ductless Mini Split Systems",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/mini-split-installation-montclair-nj",
+        "abs": "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "text": "Mini Split Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac-ductwork",
+        "abs": "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "text": "Commercial HVAC & Ductwork",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality-solutions",
+        "abs": "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "text": "Indoor Air Quality Solutions",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.ductmatehvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.ductmatehvac.com/faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "text": "Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#FurnaceMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "text": "Furnace Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "text": "Conventional Air Conditioning Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "text": "Steam Boiler Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "text": "Hydronic Boiler Maintenance",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://www.ductmatehvac.com/blog",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Service Area",
+        "visible": true,
+        "aboveFold": true,
+        "h": 44,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Tenafly, NJ",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-repair-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "text": "Heating System Repair",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 333,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/mini-split-installation-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "text": "Mini Split Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 333,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-installation-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "text": "Heating System Installation",
+        "visible": true,
+        "aboveFold": true,
+        "h": 35,
+        "w": 333,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-replacement-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "text": "Heating System Replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 333,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Montclair, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 345,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-replacement-montclair-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "text": "Heating System Replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 35,
+        "w": 333,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/DuctMateInc",
+        "abs": "https://facebook.com/DuctMateInc",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 25,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://instagram.com/duct_mate_inc",
+        "abs": "https://instagram.com/duct_mate_inc",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 25,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "abs": "tel:(201) 488-8002",
+        "text": "Request A Quote",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "abs": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 125,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 195,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "abs": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 125,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "Home",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/about-us",
+        "abs": "https://www.ductmatehvac.com/about-us",
+        "text": "About Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-air-conditioning-services",
+        "abs": "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "text": "Heating & Air Conditioning Services",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/ductless-mini-split-systems",
+        "abs": "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "text": "Ductless Mini Split Systems",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/mini-split-installation-montclair-nj",
+        "abs": "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "text": "Mini Split Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/commercial-hvac-ductwork",
+        "abs": "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "text": "Commercial HVAC & Ductwork",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/indoor-air-quality-solutions",
+        "abs": "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "text": "Indoor Air Quality Solutions",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/contact-us",
+        "abs": "https://www.ductmatehvac.com/contact-us",
+        "text": "Contact Us",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/faq",
+        "abs": "https://www.ductmatehvac.com/faq",
+        "text": "FAQ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "text": "Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#FurnaceMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "text": "Furnace Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "text": "Conventional Air Conditioning Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "text": "Steam Boiler Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "abs": "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "text": "Hydronic Boiler Maintenance",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/blog",
+        "abs": "https://www.ductmatehvac.com/blog",
+        "text": "Blog",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Service Area",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Tenafly, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-repair-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "text": "Heating System Repair",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/mini-split-installation-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "text": "Mini Split Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-installation-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "text": "Heating System Installation",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-replacement-tenafly-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "text": "Heating System Replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://www.ductmatehvac.com/#",
+        "text": "Montclair, NJ",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 396,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-system-replacement-montclair-nj",
+        "abs": "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "text": "Heating System Replacement",
+        "visible": true,
+        "aboveFold": false,
+        "h": 37,
+        "w": 384,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "abs": "tel:(201) 488-8002",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 21,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "abs": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 125,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:Info@ductmatehvac.com",
+        "abs": "mailto:Info@ductmatehvac.com",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 21,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "mailto:Info@ductmatehvac.com",
+        "abs": "mailto:Info@ductmatehvac.com",
+        "text": "Info@ductmatehvac.com",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 200,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://facebook.com/DuctMateInc",
+        "abs": "https://facebook.com/DuctMateInc",
+        "text": "facebook",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 25,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://instagram.com/duct_mate_inc",
+        "abs": "https://instagram.com/duct_mate_inc",
+        "text": "instagram",
+        "visible": true,
+        "aboveFold": false,
+        "h": 30,
+        "w": 25,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/t/tou-and-privacy#TOU",
+        "abs": "https://www.ductmatehvac.com/t/tou-and-privacy#TOU",
+        "text": "Terms of Use",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 72,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/t/tou-and-privacy#PP",
+        "abs": "https://www.ductmatehvac.com/t/tou-and-privacy#PP",
+        "text": "Privacy Policy",
+        "visible": true,
+        "aboveFold": false,
+        "h": 16,
+        "w": 76,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "Contact",
+        "visible": true,
+        "aboveFold": true,
+        "h": 47,
+        "w": 200,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 11,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 17,
+        "w": 34,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://go.thryv.com/site/lqsxsuh2gfrz1smv/action/5hnmi5sney25bmlq?mode=embed",
+        "abs": "https://go.thryv.com/site/lqsxsuh2gfrz1smv/action/5hnmi5sney25bmlq?mode=embed",
+        "text": "We'd love to hear from you",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://go.thryv.com/site/lqsxsuh2gfrz1smv/action/gh8hzu8ynz3wo5hd?mode=embed&transparent=true",
+        "abs": "https://go.thryv.com/site/lqsxsuh2gfrz1smv/action/gh8hzu8ynz3wo5hd?mode=embed&transparent=true",
+        "text": "Get Directions",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "",
+        "abs": "https://www.ductmatehvac.com/",
+        "text": "Call 2014888002",
+        "visible": true,
+        "aboveFold": false,
+        "h": 50,
+        "w": 189,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://go.thryv.com/site/lqsxsuh2gfrz1smv/action/5hnmi5sney25bmlq?mode=embed",
+        "abs": "https://go.thryv.com/site/lqsxsuh2gfrz1smv/action/5hnmi5sney25bmlq?mode=embed",
+        "text": "We'd love to hear from you",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 50,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://go.thryv.com/site/lqsxsuh2gfrz1smv/action/gh8hzu8ynz3wo5hd?mode=embed&transparent=true",
+        "abs": "https://go.thryv.com/site/lqsxsuh2gfrz1smv/action/gh8hzu8ynz3wo5hd?mode=embed&transparent=true",
+        "text": "Get Directions",
+        "visible": true,
+        "aboveFold": true,
+        "h": 50,
+        "w": 50,
+        "inNav": false,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Close menu",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "go to slide 1",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 2",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 3",
+        "visible": true,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 1",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 2",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 3",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 4",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "go to slide 5",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": false,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://client.housecallpro.com/reviews/widget/16ebe641-f520-4579-b54e-c184fc81afe7?src=external-site"
+    ],
+    "scripts": [
+      "https://www.googletagmanager.com/gtag/js?id=G-4LGF07SPRK&cx=c&gtm=4e6b21",
+      "https://www.googletagmanager.com/gtm.js?id=GTM-WB5354GB",
+      "https://widgets.vcdnita.com/assets/livesite.js?1793749",
+      "https://tags.tiqcdn.com/utag/marketingcenter/common/prod/utag.js",
+      "https://d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js",
+      "https://tags.tiqcdn.com/utag/marketingcenter/common/prod/utag.10.js?utv=ut4.49.202502261816",
+      "https://tags.tiqcdn.com/utag/marketingcenter/common/prod/utag.19.js?utv=ut4.49.202611021850",
+      "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=marketingcenter/common/202610240246&cb=1793749075909",
+      "https://static.cdn-website.com/mnlt/production/6905/_dm/s/rt/dist/scripts/d-js-runtime-flex-package.min.js",
+      "https://ms-cdn.multiscreensite.com/runtime-react/4311/res/js/runtime-react.js",
+      "https://mpactions.superpages.com/actionthru/js/dxmscript.min.js"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Duct Mate Air Conditioning and heating Inc",
+        "url": "https://www.ductmatehvac.com/"
+      },
+      {
+        "@context": {
+          "@vocab": "http://schema.org/"
+        },
+        "@type": "HVACBusiness",
+        "name": "Duct Mate Air Conditioning and heating Inc",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "190 Lexington Avenue",
+          "addressLocality": "Hackensack",
+          "addressRegion": "New Jersey",
+          "postalCode": "07601",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "40.876578",
+          "longitude": "-74.051868"
+        },
+        "areaServed": [
+          {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Bergen County, New Jersey, United States"
+            }
+          }
+        ],
+        "url": "https://www.ductmatehvac.com",
+        "description": "Duct Mate Air Conditioning and Heating Inc provides HVAC services in Hackensack, NJ. Call (201) 488-8002 for heating and cooling solutions.",
+        "telephone": "(201) 488-8002",
+        "logo": "https://irp.cdn-website.com/2b3ccd8d/dms3rep/multi/logo+%282%29.webp",
+        "sameAs": [
+          "https://facebook.com/DuctMateInc",
+          "https://instagram.com/duct_mate_inc"
+        ],
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "08:00",
+            "closes": "16:00"
+          }
+        ],
+        "@id": "https://www.ductmatehvac.com"
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 20,
+    "timing": {
+      "dcl": 1559,
+      "load": 3421,
+      "ttfb": 556
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 1,
+        "sig": "flex-sticky  ",
+        "text": ""
+      },
+      {
+        "kind": "bottom_bar",
+        "cover": 0.008,
+        "sig": "livesite_engage_button ls-font-family-t ls-font-size-t ls-zoom ls-desktop ls-theme-font-family ls-theme-font-size ls-vis",
+        "text": "contact"
+      },
+      {
+        "kind": "header",
+        "cover": 0.011,
+        "sig": "livesite_action_buttons ls-font-family-t ls-font-size-t ls-zoom ls-overlay-t ls-desktop ls-theme-font-family ls-theme-fo",
+        "text": "we'd love to hear from you\nget directions"
+      }
+    ],
+    "status": 200,
+    "finalUrl": "https://www.ductmatehvac.com/",
+    "navMs": 7615,
+    "tel": [
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "Request A Quote",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "Duda",
+        "kind": "cms"
+      },
+      {
+        "name": "Housecall Pro",
+        "kind": "field_service"
+      },
+      {
+        "name": "Thryv",
+        "kind": "crm"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://www.ductmatehvac.com/",
+    "navMs": 7534,
+    "timing": {
+      "dcl": 1690,
+      "load": 3320,
+      "ttfb": 298
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+    "innerWidth": 390,
+    "scrollWidth": 1059,
+    "horizontalOverflow": true,
+    "tel": [
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "Request A Quote",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "text_not_phone",
+        "problem": null,
+        "e164": "+12014888002"
+      },
+      {
+        "href": "tel:(201) 488-8002",
+        "text": "(201) 488-8002",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12014888002"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [
+      "Contact Us",
+      "facebook",
+      "Request A Quote",
+      "Contact"
+    ],
+    "menuToggle": true,
+    "overlays": [
+      {
+        "kind": "header",
+        "cover": 1,
+        "sig": "flex-sticky  ",
+        "text": ""
+      },
+      {
+        "kind": "bottom_bar",
+        "cover": 0.116,
+        "sig": "livesite_engage_button ls-font-family-t ls-font-size-t ls-zoom ls-mobile ls-theme-font-family ls-theme-font-size ls-visi",
+        "text": "contact"
+      }
+    ],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 46,
+    "brokenImages": [],
+    "textChars": 8179
+  },
+  "pages": {
+    "contact": {
+      "url": "https://www.ductmatehvac.com/contact-us",
+      "finalUrl": "https://www.ductmatehvac.com/contact-us",
+      "status": 200,
+      "title": "HVAC Company Contact | Hackensack, NJ | DMA",
+      "forms": [
+        {
+          "action": null,
+          "method": "post",
+          "id": "1496658666",
+          "cls": "dmRespDesignRow",
+          "fieldCount": 5,
+          "fieldNames": [
+            "dmform-0",
+            "dmform-4",
+            "dmform-1",
+            "dmform-2",
+            "dmform-3"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@ductmatehvac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        }
+      ],
+      "owners": [],
+      "bodyText": "190 Lexington Ave, Hackensack 07601\n\n(201) 488-8002\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nContact Duct Mate Air Conditioning and Heating Inc\n\nHeating and cooling problems can quickly affect comfort at home or work. Whether you need HVAC repair, system installation, ductwork services, or indoor air quality solutions, having the right team matters. Duct Mate Air Conditioning and Heating Inc. in Hackensack, NJ, provides dependable residential and commercial HVAC services backed by decades of experience. Call (201) 488-8002 today to schedule service or speak with the team about your HVAC needs.\n\n\n\n\nMany property owners delay HVAC service until problems become more serious. Weak airflow, uneven temperatures, and unusual system noises may eventually lead to larger repair concerns if ignored. Duct Mate Air Conditioning and Heating Inc helps customers address those issues through reliable service, professional communication, and long-term HVAC solutions.\n\n\nSpeak With Our HVAC Team Today\n\nDuct Mate Air Conditioning and Heating Inc. proudly serves residential and commercial customers throughout Bergen County and the greater Tri-County area.\n\n﻿\n\nCustomers can contact the company for:\n\n\nHeating services\nAir conditioning services\nDuctless mini split systems\nCommercial HVAC services\n\nCommercial ductwork\nIndoor air quality solutions\nHVAC maintenance plans\nHVAC system upgrades﻿\n\nThe team works closely with customers to help schedule service and answer questions about HVAC systems and indoor comfort solutions.\n\n\nBusiness Information\n\nBusiness Name\n\nDuct Mate Air Conditioning and Heating Inc.\n\n\nPhone Number\n\n(201) 488-8002\n\n\nAddress\n\n190 Lexington Ave, Hackensack, NJ 07601\n\n\nService Area\n\nBergen County and the greater Tri-County Area\n\n\nBusiness Type\n\nResidential & Commercial HVAC Company\n\n\nYears in Business\n\nSince 1989\n\n\nThe company proudly remains family-owned and committed to serving the local community with dependable HVAC services.\n\n\nResidential And Commercial HVAC Services\n\nDuct Mate Air Conditioning and Heating Inc provides HVAC solutions designed to support indoor comfort, airflow, and energy efficiency for homes and businesses.\n\n﻿\n\nResidential HVAC services include the following:\n\n\nHeating installation and repair\nAC installation and repair\nHeat pump services﻿\nHVAC maintenance\nDuctless mini split systems\nIndoor air quality systems﻿\n\nCommercial HVAC services include the following:\n\n\nCommercial HVAC installation\nCommercial HVAC repair\nCommercial maintenance contracts\n\nCommercial ductwork\nHVAC design and fabrication\nMechanical system installation﻿\n\nThe company focuses on helping customers maintain reliable indoor comfort throughout every season.\n\n\nIndoor Air Quality and Ventilation Support\n\nIndoor comfort depends heavily on proper airflow and air quality. Poor ventilation, excess humidity, and airborne particles may affect how indoor spaces feel throughout the day.\n\n﻿\n\nDuct Mate Air Conditioning and Heating Inc. provides:\n\n\nWhole-home air filtration systems\nAir purification systems\nHumidifiers﻿\nDehumidifiers\nEnergy recovery ventilators\nREME® purification systems﻿\n\nThe company works carefully to help customers improve indoor airflow and maintain cleaner indoor environments.\n\n﻿\n\nAccording to the Environmental Protection Agency, indoor air quality may directly affect indoor environmental comfort and airflow conditions.\n\n\nSchedule HVAC Service Today\n\nDuct Mate Air Conditioning and Heating Inc. proudly provides dependable HVAC solutions for residential and commercial customers throughout the area.\n\n\n\n\nWhether you need heating repair, cooling installation, commercial ductwork, mini split systems, or indoor air quality solutions, the company remains focused on professional service and long-term comfort solutions.\n\n\n\n\nCall (201) 488-8002 today to schedule HVAC service or learn more about available heating and cooling solutions in Hackensack, NJ, and surrounding communities.\n\n\nFirst Name\nLast Name\nEmail\nPhone\nMessage\nHome\nContact Us\nBrowse Our Website\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nContact Information\n\nAddress:\n\n﻿190 Lexington Ave, Hackensack 07601\n\nPhone:\n\n﻿(201) 488-8002\n\nEmail:\n\n﻿Info@ductmatehvac.com\n\nService Area:\n\nServing Bergen County and the Greater Tri-County Area\n\nBusiness Hours:\n\nMon - Fri\n8:00 am - 4:00 pm\nSat - Sun\nClosed\n\nTechnicians' Availability After Hours\n\nSynchrony | PSEG\n\nOur Location\nHome\nContact Us\nContent, including images, displayed on this website is protected by copyright laws. Downloading, republication, retransmission or reproduction of content on this website is strictly prohibited. Terms of Use| Privacy Policy\nContact\nLet's Talk!\nThanks for stopping by! We're here to help, please don't hesitate to reach out.\n\nWe'd love to hear from you\nGet Directions\nCall 2014888002\nWe'd love to hear from you\nGet Directions",
+      "vendors": [
+        {
+          "name": "Thryv",
+          "kind": "crm"
+        }
+      ],
+      "links": [
+        "https://www.ductmatehvac.com/#DiamondContractor",
+        "https://www.ductmatehvac.com/#DiamondContractor",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/faq",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "https://www.ductmatehvac.com/blog",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/faq",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "https://www.ductmatehvac.com/blog",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/faq",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "https://www.ductmatehvac.com/blog",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/faq",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "https://www.ductmatehvac.com/blog",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "https://www.ductmatehvac.com/contact-us#",
+        "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/t/tou-and-privacy#TOU",
+        "https://www.ductmatehvac.com/t/tou-and-privacy#PP",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/contact-us"
+      ]
+    },
+    "about": {
+      "url": "https://www.ductmatehvac.com/about-us",
+      "finalUrl": "https://www.ductmatehvac.com/about-us",
+      "status": 200,
+      "title": "HVAC Company | Hackensack, NJ | Duct Mate Air",
+      "forms": [],
+      "iframes": [],
+      "captchaErrors": [],
+      "emails": [
+        "info@ductmatehvac.com"
+      ],
+      "tel": [
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "text_not_phone",
+          "problem": null,
+          "e164": "+12014888002"
+        },
+        {
+          "href": "tel:(201) 488-8002",
+          "text": "(201) 488-8002",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12014888002"
+        }
+      ],
+      "owners": [],
+      "bodyText": "190 Lexington Ave, Hackensack 07601\n\n(201) 488-8002\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nA Family-Owned HVAC Company Built on Reliable Service\nAbout Us.\n\n2nd generation family-owned and operated core values and unmatched work ethic, small, deliberate, and reliable (the saying things aren’t built the way they used to be may apply to the product purchased, but it DOESN'T APPLY to this team) The product may have changed, but the foundation of this team has NOT.\n\n\n\n\nFounded in 1993 on a mission to provide climate control solutions with customer service and honesty as the method in which we deliver.\n\n\nWe are a family-owned and operated business; customer service and dependability are how this organization was built. We pride ourselves on high-end retrofits with custom duct designs to high-efficiency upgrades. We started out of a garage; our home office and single van have grown into a household name serving the tri-county area. The foundation of customer service and honest consultations is the exact value that has given this company the ability to be of service to more residents each day. In the words of the president, \"Treat each home as if it were yours and each client like family.\" As we enter into our 33rd year of business, our services and solutions to deliver the ultimate comfort have evolved with the new demand for efficiencies and individual climate solutions within a single home; however, the way in which we are delivering has not budged a single inch. Call today to schedule your free in-home consultation for all your climate control needs. We can’t wait to hear from you.\n\n\nProfessional Service with A Customer-First Approach\n\nCustomers want HVAC contractors they can trust inside their home or business. Duct Mate Air Conditioning and Heating Inc. focus on honest communication, reliable scheduling, and professional workmanship during every project.\n\n﻿\n\nThe company believes quality service should include:\n\n\nClear communication\nDependable repairs\nProper HVAC system design\n\nAttention to detail\nLong-term comfort solutions\nRespect for the customer’s property﻿\n\nWhether the project involves a simple repair or a full HVAC installation, the company approaches every job with professionalism and care.\n\n﻿\n\nCustomers continue to rely on Duct Mate Air Conditioning and Heating Inc. because the team focuses on doing the work correctly the first time.\n\n\nHelping The Community Stay Comfortable Year-Round\n\nFor decades, Duct Mate Air Conditioning and Heating Inc has continued helping residential and commercial customers maintain dependable heating and cooling systems throughout the area.\n\n﻿\n\nThe company proudly serves Bergen County and the larger tri-county area by providing:\n\n\nResidential HVAC services\nCommercial HVAC services\nIndoor air quality solutions﻿\nDuctless mini split systems\nHVAC maintenance plans\nCustom ductwork design﻿\n\nNo matter the size of the project, Duct Mate Air Conditioning and Heating Inc. remains committed to providing dependable service and long-term comfort solutions customers can trust.\n\n\nCall (201) 488-8002 today to learn more about the company and schedule HVAC service.\n\nHome\nAbout Us\nBrowse Our Website\nHome\nAbout Us\nHeating & Air Conditioning Services\nDuctless Mini Split Systems\nMini Split Installation\nCommercial HVAC & Ductwork\nIndoor Air Quality Solutions\nContact Us\nFAQ\nMaintenance\nFurnace Maintenance\nConventional Air Conditioning Maintenance\nSteam Boiler Maintenance\nHydronic Boiler Maintenance\nBlog\nService Area\nTenafly, NJ\nHeating System Repair\nMini Split Installation\nHeating System Installation\nHeating System Replacement\nMontclair, NJ\nHeating System Replacement\nContact Information\n\nAddress:\n\n﻿190 Lexington Ave, Hackensack 07601\n\nPhone:\n\n﻿(201) 488-8002\n\nEmail:\n\n﻿Info@ductmatehvac.com\n\nService Area:\n\nServing Bergen County and the Greater Tri-County Area\n\nBusiness Hours:\n\nMon - Fri\n8:00 am - 4:00 pm\nSat - Sun\nClosed\n\nTechnicians' Availability After Hours\n\nSynchrony | PSEG\n\nOur Location\nHome\nAbout Us\nContent, including images, displayed on this website is protected by copyright laws. Downloading, republication, retransmission or reproduction of content on this website is strictly prohibited. Terms of Use| Privacy Policy\nContact\nLet's Talk!\nThanks for stopping by! We're here to help, please don't hesitate to reach out.\n\nWe'd love to hear from you\nGet Directions\nCall 2014888002\nWe'd love to hear from you\nGet Directions",
+      "vendors": [
+        {
+          "name": "Thryv",
+          "kind": "crm"
+        }
+      ],
+      "links": [
+        "https://www.ductmatehvac.com/#DiamondContractor",
+        "https://www.ductmatehvac.com/#DiamondContractor",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/faq",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "https://www.ductmatehvac.com/blog",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/faq",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "https://www.ductmatehvac.com/blog",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/faq",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "https://www.ductmatehvac.com/blog",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/heating-air-conditioning-services",
+        "https://www.ductmatehvac.com/ductless-mini-split-systems",
+        "https://www.ductmatehvac.com/mini-split-installation-montclair-nj",
+        "https://www.ductmatehvac.com/commercial-hvac-ductwork",
+        "https://www.ductmatehvac.com/indoor-air-quality-solutions",
+        "https://www.ductmatehvac.com/contact-us",
+        "https://www.ductmatehvac.com/faq",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#FurnaceMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#ConventionalAirConditioningMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#SteamBoilerMaintenance",
+        "https://www.ductmatehvac.com/maintenance-hackensack-nj#HydronicBoilerMaintenance",
+        "https://www.ductmatehvac.com/blog",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/heating-system-repair-tenafly-nj",
+        "https://www.ductmatehvac.com/mini-split-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-installation-tenafly-nj",
+        "https://www.ductmatehvac.com/heating-system-replacement-tenafly-nj",
+        "https://www.ductmatehvac.com/about-us#",
+        "https://www.ductmatehvac.com/heating-system-replacement-montclair-nj",
+        "https://www.ductmatehvac.com/",
+        "https://www.ductmatehvac.com/t/tou-and-privacy#TOU",
+        "https://www.ductmatehvac.com/t/tou-and-privacy#PP",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/about-us",
+        "https://www.ductmatehvac.com/about-us"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 18,
+    "at": "2026-11-03T23:38:39.115Z",
+    "statusCounts": {
+      "200": 17,
+      "400": 1
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://www.ductmatehvac.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/duct-mate-inc/desktop-home.png",
+    "desktop_full": "evidence/screenshots/duct-mate-inc/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/duct-mate-inc/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/duct-mate-inc/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/duct-mate-inc/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": true,
+      "ductless": true,
+      "maintenance": true,
+      "indoor_air": true,
+      "commercial": true,
+      "plumbing": false
+    },
+    "sinceYear": 1989,
+    "emails": [
+      "info@ductmatehvac.com"
+    ],
+    "owners": [],
+    "bookingLinkTexts": [
+      "facebook -> https://facebook.com/DuctMateInc",
+      "facebook -> https://facebook.com/DuctMateInc",
+      "Request A Quote -> tel:(201) 488-8002",
+      "facebook -> https://facebook.com/DuctMateInc"
+    ]
+  },
+  "ctaClickTests": [
+    {
+      "text": "Contact",
+      "href": "",
+      "effect": "script-handled (not testable)",
+      "signals": [
+        "class:livesite-engage ls-engage-button ls-acti@A",
+        "class:ls-zoom-width ls-desktop@DIV",
+        "class:ls-font-family-T ls-font-size-T ls-zoom @DIV"
+      ],
+      "at": "2026-11-03T23:47:49.383Z"
+    },
+    {
+      "text": "Call 2014888002",
+      "href": "",
+      "effect": "script-handled (not testable)",
+      "signals": [
+        "data-options@A",
+        "class:livesite-call ls-main-action ls-main-act@A",
+        "class:ls-main-action-C ls-desktop ls-ae-main-w@DIV",
+        "class:ls-content ls-ae-bg-T ls-desktop ls-ae-c@DIV",
+        "class:ls-ae ls-desktop@DIV"
+      ],
+      "at": "2026-11-03T23:47:54.549Z"
+    }
+  ]
+}

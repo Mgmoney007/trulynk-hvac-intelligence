@@ -1,0 +1,25 @@
+{
+  "id": "nolan-ac-services",
+  "placeUrl": "https://www.google.com/maps/place/Nolan+AC+Services/data=!4m7!3m6!1s0x89c2fcec329eaaab:0xc45efd6646ee4875!8m2!3d40.949336!4d-74.1525994!16s%2Fg%2F11xtlq0gxm!19sChIJq6qeMuz8wokRdUjuRmb9XsQ",
+  "retrievedAt": "2026-11-03T23:06:35.550Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Nolan AC Services",
+  "category": "HVAC contractor",
+  "address": "245 Diamond Bridge Ave Ste 226, Hawthorne, NJ 07506, United States ",
+  "phone": "+1 862-746-5132 ",
+  "website": "https://nolanachawthorne.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Nolan+AC+Services/data=!4m7!3m6!1s0x89c2fcec329eaaab:0xc45efd6646ee4875!8m2!3d40.949336!4d-74.1525994!16s%2Fg%2F11xtlq0gxm!19sChIJq6qeMuz8wokRdUjuRmb9XsQ?hl=en",
+  "screenshot": "evidence/screenshots/nolan-ac-services/google-maps-listing.png"
+}

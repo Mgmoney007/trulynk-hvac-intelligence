@@ -1,0 +1,134 @@
+{
+  "firecrawl": [
+    {
+      "at": "2026-11-03T23:29:37.978Z",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://premier-hvac-services.com/",
+      "purpose": "fallback: TLS reset in research environment",
+      "statusCode": 200,
+      "title": "Premier HVAC Services: Heating and Cooling Repair Experts in New Jersey",
+      "tel": [
+        {
+          "href": "tel:19736985152",
+          "e164": "+19736985152"
+        },
+        {
+          "href": "tel:9736985152",
+          "e164": "+19736985152"
+        }
+      ],
+      "mailto": [],
+      "linkCount": 7,
+      "vendors": [
+        {
+          "name": "GoDaddy Builder",
+          "kind": "cms"
+        }
+      ],
+      "screenshot": "evidence/screenshots/premier-hvac-services/firecrawl-desktop.png",
+      "scrapeId": "01a1a3bd-240e-740f-bac9-d93d47a4a587",
+      "creditsUsed": 1,
+      "proxyUsed": "basic"
+    }
+  ],
+  "id": "premier-hvac-services",
+  "name": "Premier HVAC Services",
+  "website": "https://premier-hvac-services.com/",
+  "auditedAt": "2026-11-03T23:11:32.243Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://premier-hvac-services.com/",
+      "at": "2026-11-03T23:11:52.710Z",
+      "access": "http_error",
+      "status": 502,
+      "finalUrl": "https://premier-hvac-services.com/",
+      "title": "",
+      "ms": 8733,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://premier-hvac-services.com/",
+      "at": "2026-11-03T23:12:13.219Z",
+      "access": "http_error",
+      "status": 502,
+      "finalUrl": "https://premier-hvac-services.com/",
+      "title": "",
+      "ms": 8716,
+      "error": null,
+      "linkCount": 0
+    },
+    {
+      "step": "firecrawl_desktop",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://premier-hvac-services.com/",
+      "at": "2026-11-03T23:29:37.978Z",
+      "access": "ok",
+      "status": 200
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "http_error",
+      "status": 502,
+      "error": null,
+      "url": "https://premier-hvac-services.com/"
+    },
+    {
+      "step": "mobile_home",
+      "access": "http_error",
+      "status": 502,
+      "error": null,
+      "url": "https://premier-hvac-services.com/"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "https://premier-hvac-services.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/premier-hvac-services/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/premier-hvac-services/mobile-home-access-failure.png",
+    "firecrawl_desktop": "evidence/screenshots/premier-hvac-services/firecrawl-desktop.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

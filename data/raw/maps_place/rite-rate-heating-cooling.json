@@ -1,0 +1,25 @@
+{
+  "id": "rite-rate-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Rite+Rate+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2543a616e0c77:0xf604e6ba57338a!8m2!3d40.7536665!4d-74.1308964!16s%2Fg%2F1hf0vll9h!19sChIJdwxuYTpUwokRijNXuuYE9gA",
+  "retrievedAt": "2026-11-03T22:54:18.664Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Rite Rate Heating & Cooling",
+  "category": "Air conditioning contractor",
+  "address": null,
+  "phone": "+1 201-955-2220 ",
+  "website": "https://airconditioningservicesnj.com/hudson-county/kearny/",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Rite+Rate+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2543a616e0c77:0xf604e6ba57338a!8m2!3d40.7536665!4d-74.1308964!16s%2Fg%2F1hf0vll9h!19sChIJdwxuYTpUwokRijNXuuYE9gA?hl=en",
+  "screenshot": "evidence/screenshots/rite-rate-heating-cooling/google-maps-listing.png"
+}

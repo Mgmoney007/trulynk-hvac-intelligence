@@ -1,0 +1,120 @@
+{
+  "firecrawl": [
+    {
+      "at": "2026-11-03T23:29:37.046Z",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://masterhvacsolutions.com/kearny-nj/",
+      "purpose": "fallback: confirm HTTP 500 from second network",
+      "statusCode": 500,
+      "title": "WordPress › Error",
+      "tel": [],
+      "mailto": [],
+      "linkCount": 1,
+      "vendors": [],
+      "screenshot": "evidence/screenshots/master-ac-heating/firecrawl-desktop.png",
+      "scrapeId": "01a1a3bd-243e-73ed-88ca-a0d2d8ad2c59",
+      "creditsUsed": 1,
+      "proxyUsed": "basic"
+    }
+  ],
+  "id": "master-ac-heating",
+  "name": "Master AC & Heating",
+  "website": "https://masterhvacsolutions.com/kearny-nj/",
+  "auditedAt": "2026-11-03T22:54:26.369Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://masterhvacsolutions.com/kearny-nj/",
+      "at": "2026-11-03T22:54:31.834Z",
+      "access": "http_error",
+      "status": 500,
+      "finalUrl": "https://masterhvacsolutions.com/kearny-nj/",
+      "title": "WordPress › Error",
+      "ms": 1242,
+      "error": null,
+      "linkCount": 1
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://masterhvacsolutions.com/kearny-nj/",
+      "at": "2026-11-03T22:54:37.799Z",
+      "access": "http_error",
+      "status": 500,
+      "finalUrl": "https://masterhvacsolutions.com/kearny-nj/",
+      "title": "WordPress › Error",
+      "ms": 1497,
+      "error": null,
+      "linkCount": 1
+    },
+    {
+      "step": "firecrawl_desktop",
+      "method": "firecrawl_scrape_desktop",
+      "url": "https://masterhvacsolutions.com/kearny-nj/",
+      "at": "2026-11-03T23:29:37.046Z",
+      "access": "http_error",
+      "status": 500
+    }
+  ],
+  "accessFailures": [
+    {
+      "step": "desktop_home",
+      "access": "http_error",
+      "status": 500,
+      "error": null,
+      "url": "https://masterhvacsolutions.com/kearny-nj/"
+    },
+    {
+      "step": "mobile_home",
+      "access": "http_error",
+      "status": 500,
+      "error": null,
+      "url": "https://masterhvacsolutions.com/kearny-nj/"
+    }
+  ],
+  "desktop": null,
+  "mobile": null,
+  "pages": {},
+  "linkCheck": null,
+  "https": {
+    "httpFinal": "http://masterhvacsolutions.com/",
+    "httpStatus": 202,
+    "httpError": null,
+    "httpsStatus": 202,
+    "httpsError": null,
+    "redirectsToHttps": false
+  },
+  "screenshots": {
+    "desktop_failure": "evidence/screenshots/master-ac-heating/desktop-home-access-failure.png",
+    "mobile_failure": "evidence/screenshots/master-ac-heating/mobile-home-access-failure.png",
+    "firecrawl_desktop": "evidence/screenshots/master-ac-heating/firecrawl-desktop.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": false,
+    "licenseMention": false,
+    "njLicenses": [],
+    "testimonials": false,
+    "serviceArea": false,
+    "maintenancePlan": false,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": false,
+      "ac_install": false,
+      "furnace": false,
+      "boiler": false,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": false,
+      "indoor_air": false,
+      "commercial": false,
+      "plumbing": false
+    },
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

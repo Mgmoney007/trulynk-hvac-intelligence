@@ -1,0 +1,25 @@
+{
+  "id": "finch-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/Finch+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2f70d7c0168a5:0x4a604e9075dcaaad!8m2!3d40.8466308!4d-74.0039542!16s%2Fg%2F11ygsnndbl!19sChIJpWgBfA33wokRrarcdZBOYEo",
+  "retrievedAt": "2026-11-03T22:51:28.930Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Finch Heating & Cooling",
+  "category": "HVAC contractor",
+  "address": "111 Grand Ave suite 557, Palisades Park, NJ 07650, United States ",
+  "phone": "+1 551-651-3982 ",
+  "website": "https://finchheatingpalisadespark.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Finch+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2f70d7c0168a5:0x4a604e9075dcaaad!8m2!3d40.8466308!4d-74.0039542!16s%2Fg%2F11ygsnndbl!19sChIJpWgBfA33wokRrarcdZBOYEo?hl=en",
+  "screenshot": "evidence/screenshots/finch-heating-cooling/google-maps-listing.png"
+}

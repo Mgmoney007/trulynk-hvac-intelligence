@@ -1,0 +1,25 @@
+{
+  "id": "stashluk-plumbing-heating-air-conditioning-and-generators-2",
+  "placeUrl": "https://www.google.com/maps/place/Stashluk+Plumbing,+Heating,+Air+Conditioning+and+Generators+2/data=!4m7!3m6!1s0x89c2fd5174094913:0xd14035329c4f7c8!8m2!3d40.936147!4d-74.1877266!16s%2Fg%2F11j2zlf5jq!19sChIJE0kJdFH9wokRyPfEKVMDFA0",
+  "retrievedAt": "2026-11-03T23:06:24.899Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Stashluk Plumbing, Heating, Air Conditioning and Generators 2",
+  "category": "HVAC contractor",
+  "address": "66 Tilt St, Haledon, NJ 07508, United States ",
+  "phone": "+1 908-373-1740 ",
+  "website": "https://stashluknj.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Stashluk+Plumbing,+Heating,+Air+Conditioning+and+Generators+2/data=!4m7!3m6!1s0x89c2fd5174094913:0xd14035329c4f7c8!8m2!3d40.936147!4d-74.1877266!16s%2Fg%2F11j2zlf5jq!19sChIJE0kJdFH9wokRyPfEKVMDFA0?hl=en",
+  "screenshot": "evidence/screenshots/stashluk-plumbing-heating-air-conditioning-and-generators-2/google-maps-listing.png"
+}

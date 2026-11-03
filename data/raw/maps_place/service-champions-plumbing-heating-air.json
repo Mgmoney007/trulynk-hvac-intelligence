@@ -1,0 +1,25 @@
+{
+  "id": "service-champions-plumbing-heating-air",
+  "placeUrl": "https://www.google.com/maps/place/Service+Champions+Plumbing,+Heating+%26+Air/data=!4m7!3m6!1s0x89c2ffd064eab70d:0x49caff687e130a52!8m2!3d40.8977312!4d-74.200111!16s%2Fg%2F11z1zp_d3j!19sChIJDbfqZND_wokRUgoTfmj_ykk",
+  "retrievedAt": "2026-11-03T23:01:25.546Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Service Champions Plumbing, Heating & Air",
+  "category": "HVAC contractor",
+  "address": "821 McBride Ave, Woodland Park, NJ 07424, United States ",
+  "phone": "+1 201-466-4131 ",
+  "website": "http://servicechampionsnj.com/",
+  "rating": 4.9,
+  "reviews": null,
+  "rateBoxText": "4.9",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Service+Champions+Plumbing,+Heating+%26+Air/data=!4m7!3m6!1s0x89c2ffd064eab70d:0x49caff687e130a52!8m2!3d40.8977312!4d-74.200111!16s%2Fg%2F11z1zp_d3j!19sChIJDbfqZND_wokRUgoTfmj_ykk?hl=en",
+  "screenshot": "evidence/screenshots/service-champions-plumbing-heating-air/google-maps-listing.png"
+}

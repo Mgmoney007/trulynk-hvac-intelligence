@@ -1,0 +1,1780 @@
+[
+  {
+    "prospect": {
+      "id": "cool-air-new-jersey",
+      "name": "Cool Air New Jersey",
+      "website": "http://coolairnewjersey.com/",
+      "county": "Hudson",
+      "latLng": {
+        "lat": 40.7179131,
+        "lng": -74.0797011
+      },
+      "audited": true,
+      "site_status": "audited",
+      "tel_links": true,
+      "tel_malformed": false,
+      "mobile_call_above_fold": false,
+      "mobile_cta_above_fold": true,
+      "email_published": true,
+      "web_form": false,
+      "online_booking": false,
+      "booking_cta_text": true,
+      "chat_or_text": false,
+      "mobile_layout_ok": true,
+      "mobile_blocking_overlay": false,
+      "service_page_links": 39,
+      "financing": false,
+      "license_shown": false,
+      "testimonials": false,
+      "tenure": "10+ yrs",
+      "maintenance_plan": true,
+      "broken_links": 3,
+      "google_rating": 5,
+      "bbb_rating": null,
+      "maps_query_hits": 3,
+      "maps_queries_in_county": 18,
+      "maps_best_position": 13
+    },
+    "competitors": [
+      {
+        "id": "bargotti-co-plumbing-hvac",
+        "name": "Bargotti Co. Plumbing & Hvac",
+        "website": "https://bargottihvac.com/contact-bargotti-hvac/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7320282,
+          "lng": -74.0675333
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 9,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": null,
+        "maps_query_hits": 4,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 4,
+        "distanceMi": 1.2
+      },
+      {
+        "id": "royal-heating-corporation",
+        "name": "Royal Heating Corporation",
+        "website": "https://www.royalheatingandcooling.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7007209,
+          "lng": -74.0906517
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 7,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": false,
+        "tenure": "since 1953",
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": null,
+        "maps_query_hits": 6,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 6,
+        "distanceMi": 1.3
+      },
+      {
+        "id": "aeromark-mechanical-inc",
+        "name": "Aeromark Mechanical Inc",
+        "website": "https://aeromarknj.com/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7198334,
+          "lng": -74.0399705
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": false,
+        "mobile_cta_above_fold": false,
+        "email_published": false,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 2,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": false,
+        "tenure": "since 2007",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 5,
+        "bbb_rating": null,
+        "maps_query_hits": 3,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 7,
+        "distanceMi": 2.1
+      }
+    ],
+    "gaps": [
+      {
+        "dimension": "Call button on first mobile screen",
+        "prospect": false,
+        "competitorsBetter": [
+          "Bargotti Co. Plumbing & Hvac (true)",
+          "Royal Heating Corporation (true)"
+        ]
+      },
+      {
+        "dimension": "Web request form",
+        "prospect": false,
+        "competitorsBetter": [
+          "Bargotti Co. Plumbing & Hvac (true)",
+          "Royal Heating Corporation (true)",
+          "Aeromark Mechanical Inc (true)"
+        ]
+      },
+      {
+        "dimension": "NJ HVACR license shown",
+        "prospect": false,
+        "competitorsBetter": [
+          "Bargotti Co. Plumbing & Hvac (true)",
+          "Royal Heating Corporation (true)",
+          "Aeromark Mechanical Inc (true)"
+        ]
+      },
+      {
+        "dimension": "Reproduced broken links",
+        "prospect": 3,
+        "competitorsBetter": [
+          "Bargotti Co. Plumbing & Hvac (0)",
+          "Royal Heating Corporation (0)",
+          "Aeromark Mechanical Inc (0)"
+        ]
+      },
+      {
+        "dimension": "Appearances in recorded Maps queries",
+        "prospect": 3,
+        "competitorsBetter": [
+          "Bargotti Co. Plumbing & Hvac (4)",
+          "Royal Heating Corporation (6)"
+        ]
+      }
+    ]
+  },
+  {
+    "prospect": {
+      "id": "air-plus-hvac",
+      "name": "Air Plus hvac",
+      "website": "https://airplusnj.com/",
+      "county": "Essex",
+      "latLng": {
+        "lat": 40.7639944,
+        "lng": -74.2946321
+      },
+      "audited": true,
+      "site_status": "audited",
+      "tel_links": true,
+      "tel_malformed": false,
+      "mobile_call_above_fold": true,
+      "mobile_cta_above_fold": true,
+      "email_published": true,
+      "web_form": false,
+      "online_booking": false,
+      "booking_cta_text": true,
+      "chat_or_text": false,
+      "mobile_layout_ok": true,
+      "mobile_blocking_overlay": false,
+      "service_page_links": 0,
+      "financing": false,
+      "license_shown": false,
+      "testimonials": false,
+      "tenure": null,
+      "maintenance_plan": true,
+      "broken_links": 0,
+      "google_rating": 5,
+      "bbb_rating": null,
+      "maps_query_hits": 4,
+      "maps_queries_in_county": 19,
+      "maps_best_position": 1
+    },
+    "competitors": [
+      {
+        "id": "ac-heat-by-kyle",
+        "name": "AC & Heat by Kyle",
+        "website": "https://www.acandheatbykyle.com/",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.7590353,
+          "lng": -74.2297961
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 11,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": "F",
+        "maps_query_hits": 10,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 1,
+        "distanceMi": 3.4
+      },
+      {
+        "id": "newmans-heating-air-conditioning",
+        "name": "Newmans Heating & Air Conditioning",
+        "website": "https://newmanshvac.net/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.7714901,
+          "lng": -74.1960636
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": true,
+        "service_page_links": 17,
+        "financing": true,
+        "license_shown": false,
+        "testimonials": false,
+        "tenure": "since 1998",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.8,
+        "bbb_rating": null,
+        "maps_query_hits": 7,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 2,
+        "distanceMi": 5.2
+      },
+      {
+        "id": "lincoln-mechanical-corporation",
+        "name": "Lincoln Mechanical Corporation",
+        "website": "http://www.lincolnmec.com/",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.8161619,
+          "lng": -74.2196255
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": false,
+        "online_booking": true,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 16,
+        "financing": true,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": "40+ yrs",
+        "maintenance_plan": true,
+        "broken_links": 1,
+        "google_rating": 5,
+        "bbb_rating": null,
+        "maps_query_hits": 5,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 2,
+        "distanceMi": 5.3
+      }
+    ],
+    "gaps": [
+      {
+        "dimension": "Web request form",
+        "prospect": false,
+        "competitorsBetter": [
+          "AC & Heat by Kyle (true)",
+          "Newmans Heating & Air Conditioning (true)"
+        ]
+      },
+      {
+        "dimension": "Financing mentioned",
+        "prospect": false,
+        "competitorsBetter": [
+          "Newmans Heating & Air Conditioning (true)",
+          "Lincoln Mechanical Corporation (true)"
+        ]
+      },
+      {
+        "dimension": "Testimonials/reviews on site",
+        "prospect": false,
+        "competitorsBetter": [
+          "AC & Heat by Kyle (true)",
+          "Lincoln Mechanical Corporation (true)"
+        ]
+      },
+      {
+        "dimension": "Service-page links from homepage",
+        "prospect": 0,
+        "competitorsBetter": [
+          "AC & Heat by Kyle (11)",
+          "Newmans Heating & Air Conditioning (17)",
+          "Lincoln Mechanical Corporation (16)"
+        ]
+      },
+      {
+        "dimension": "Appearances in recorded Maps queries",
+        "prospect": 4,
+        "competitorsBetter": [
+          "AC & Heat by Kyle (10)",
+          "Newmans Heating & Air Conditioning (7)",
+          "Lincoln Mechanical Corporation (5)"
+        ]
+      }
+    ]
+  },
+  {
+    "prospect": {
+      "id": "all-week-mechanical-group-air-conditioning-2",
+      "name": "ALL WEEK MECHANICAL GROUP AIR CONDITIONING",
+      "website": "https://allweekairconditioning.com/ac-repairs-clifton-nj",
+      "county": "Passaic",
+      "latLng": {
+        "lat": 40.8718979,
+        "lng": -74.1460265
+      },
+      "audited": true,
+      "site_status": "audited",
+      "tel_links": true,
+      "tel_malformed": false,
+      "mobile_call_above_fold": true,
+      "mobile_cta_above_fold": true,
+      "email_published": false,
+      "web_form": true,
+      "online_booking": false,
+      "booking_cta_text": true,
+      "chat_or_text": false,
+      "mobile_layout_ok": true,
+      "mobile_blocking_overlay": false,
+      "service_page_links": 36,
+      "financing": true,
+      "license_shown": false,
+      "testimonials": true,
+      "tenure": null,
+      "maintenance_plan": true,
+      "broken_links": 10,
+      "google_rating": 4.8,
+      "bbb_rating": null,
+      "maps_query_hits": 5,
+      "maps_queries_in_county": 15,
+      "maps_best_position": 4
+    },
+    "competitors": [
+      {
+        "id": "ez-flow-mechanical-heating-cooling",
+        "name": "EZ Flow Mechanical Heating & Cooling",
+        "website": "http://ezflownj.com/",
+        "county": "Passaic",
+        "latLng": {
+          "lat": 40.8740135,
+          "lng": -74.1506617
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": false,
+        "mobile_cta_above_fold": false,
+        "email_published": false,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 30,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": "20+ yrs",
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.7,
+        "bbb_rating": null,
+        "maps_query_hits": 5,
+        "maps_queries_in_county": 15,
+        "maps_best_position": 1,
+        "distanceMi": 0.3
+      },
+      {
+        "id": "a-c-quality-air",
+        "name": "A&C Quality Air",
+        "website": "http://hvacqualityair.com/",
+        "county": "Passaic",
+        "latLng": {
+          "lat": 40.8736372,
+          "lng": -74.1386006
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": false,
+        "tel_malformed": false,
+        "mobile_call_above_fold": false,
+        "mobile_cta_above_fold": false,
+        "email_published": false,
+        "web_form": false,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 0,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": false,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 5,
+        "bbb_rating": null,
+        "maps_query_hits": 4,
+        "maps_queries_in_county": 15,
+        "maps_best_position": 2,
+        "distanceMi": 0.4
+      },
+      {
+        "id": "pacific-air-hvac",
+        "name": "Pacific Air HVAC",
+        "website": "https://www.pacificairhvac.com/",
+        "county": "Passaic",
+        "latLng": {
+          "lat": 40.8653235,
+          "lng": -74.1515378
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": false,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 15,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": "since 2009",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": "A+",
+        "maps_query_hits": 4,
+        "maps_queries_in_county": 15,
+        "maps_best_position": 11,
+        "distanceMi": 0.5
+      }
+    ],
+    "gaps": [
+      {
+        "dimension": "Reproduced broken links",
+        "prospect": 10,
+        "competitorsBetter": [
+          "EZ Flow Mechanical Heating & Cooling (0)",
+          "A&C Quality Air (0)",
+          "Pacific Air HVAC (0)"
+        ]
+      }
+    ]
+  },
+  {
+    "prospect": {
+      "id": "deaire-heating-cooling",
+      "name": "DeAire Heating & Cooling",
+      "website": "http://deaireheatingandcooling.com/",
+      "county": "Hudson",
+      "latLng": {
+        "lat": 40.7970363,
+        "lng": -74.0182381
+      },
+      "audited": false,
+      "site_status": "down/empty (verified)",
+      "tel_links": false,
+      "tel_malformed": false,
+      "mobile_call_above_fold": null,
+      "mobile_cta_above_fold": null,
+      "email_published": false,
+      "web_form": false,
+      "online_booking": false,
+      "booking_cta_text": false,
+      "chat_or_text": false,
+      "mobile_layout_ok": null,
+      "mobile_blocking_overlay": null,
+      "service_page_links": 0,
+      "financing": false,
+      "license_shown": false,
+      "testimonials": false,
+      "tenure": null,
+      "maintenance_plan": false,
+      "broken_links": null,
+      "google_rating": 5,
+      "bbb_rating": null,
+      "maps_query_hits": 4,
+      "maps_queries_in_county": 18,
+      "maps_best_position": 2
+    },
+    "competitors": [
+      {
+        "id": "fred-s-climate-control",
+        "name": "Fred's Climate Control",
+        "website": "https://fredsclimate.com/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.797981,
+          "lng": -74.01947
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 7,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": "20+ yrs",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.8,
+        "bbb_rating": null,
+        "maps_query_hits": 6,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 1,
+        "distanceMi": 0.1
+      },
+      {
+        "id": "jimmy-s-arctic-heating-air-conditioning-repair",
+        "name": "Jimmy's Arctic Heating & Air Conditioning Repair",
+        "website": "https://www.jimmysarcticair.com/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7492386,
+          "lng": -74.0283459
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": false,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 11,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": "since 1979",
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.8,
+        "bbb_rating": null,
+        "maps_query_hits": 8,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 2,
+        "distanceMi": 3.3
+      },
+      {
+        "id": "bargotti-co-plumbing-hvac",
+        "name": "Bargotti Co. Plumbing & Hvac",
+        "website": "https://bargottihvac.com/contact-bargotti-hvac/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7320282,
+          "lng": -74.0675333
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 9,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": null,
+        "maps_query_hits": 4,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 4,
+        "distanceMi": 5.2
+      }
+    ],
+    "gaps": [
+      {
+        "dimension": "Tap-to-call links present",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Web request form",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "NJ HVACR license shown",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Testimonials/reviews on site",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Email published",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Service-page links from homepage",
+        "prospect": 0,
+        "competitorsBetter": [
+          "Fred's Climate Control (7)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (11)",
+          "Bargotti Co. Plumbing & Hvac (9)"
+        ]
+      },
+      {
+        "dimension": "Appearances in recorded Maps queries",
+        "prospect": 4,
+        "competitorsBetter": [
+          "Fred's Climate Control (6)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (8)"
+        ]
+      }
+    ]
+  },
+  {
+    "prospect": {
+      "id": "arcticflow-hvac-repair-union-city",
+      "name": "ArcticFlow HVAC Repair Union City",
+      "website": "https://arcticflowhvacunioncity.com/",
+      "county": "Hudson",
+      "latLng": {
+        "lat": 40.7760577,
+        "lng": -74.0267401
+      },
+      "audited": false,
+      "site_status": "down/empty (verified)",
+      "tel_links": false,
+      "tel_malformed": false,
+      "mobile_call_above_fold": null,
+      "mobile_cta_above_fold": null,
+      "email_published": false,
+      "web_form": false,
+      "online_booking": false,
+      "booking_cta_text": false,
+      "chat_or_text": false,
+      "mobile_layout_ok": null,
+      "mobile_blocking_overlay": null,
+      "service_page_links": 0,
+      "financing": false,
+      "license_shown": false,
+      "testimonials": false,
+      "tenure": null,
+      "maintenance_plan": false,
+      "broken_links": null,
+      "google_rating": 5,
+      "bbb_rating": null,
+      "maps_query_hits": 6,
+      "maps_queries_in_county": 18,
+      "maps_best_position": 1
+    },
+    "competitors": [
+      {
+        "id": "fred-s-climate-control",
+        "name": "Fred's Climate Control",
+        "website": "https://fredsclimate.com/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.797981,
+          "lng": -74.01947
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 7,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": "20+ yrs",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.8,
+        "bbb_rating": null,
+        "maps_query_hits": 6,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 1,
+        "distanceMi": 1.6
+      },
+      {
+        "id": "jimmy-s-arctic-heating-air-conditioning-repair",
+        "name": "Jimmy's Arctic Heating & Air Conditioning Repair",
+        "website": "https://www.jimmysarcticair.com/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7492386,
+          "lng": -74.0283459
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": false,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 11,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": "since 1979",
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.8,
+        "bbb_rating": null,
+        "maps_query_hits": 8,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 2,
+        "distanceMi": 1.9
+      },
+      {
+        "id": "bargotti-co-plumbing-hvac",
+        "name": "Bargotti Co. Plumbing & Hvac",
+        "website": "https://bargottihvac.com/contact-bargotti-hvac/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7320282,
+          "lng": -74.0675333
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 9,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": null,
+        "maps_query_hits": 4,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 4,
+        "distanceMi": 3.7
+      }
+    ],
+    "gaps": [
+      {
+        "dimension": "Tap-to-call links present",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Web request form",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "NJ HVACR license shown",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Testimonials/reviews on site",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Email published",
+        "prospect": false,
+        "competitorsBetter": [
+          "Fred's Climate Control (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Service-page links from homepage",
+        "prospect": 0,
+        "competitorsBetter": [
+          "Fred's Climate Control (7)",
+          "Jimmy's Arctic Heating & Air Conditioning Repair (11)",
+          "Bargotti Co. Plumbing & Hvac (9)"
+        ]
+      }
+    ]
+  },
+  {
+    "prospect": {
+      "id": "master-ac-heating",
+      "name": "Master AC & Heating",
+      "website": "https://masterhvacsolutions.com/kearny-nj/",
+      "county": "Hudson",
+      "latLng": {
+        "lat": 40.7579133,
+        "lng": -74.1490845
+      },
+      "audited": false,
+      "site_status": "down/empty (verified)",
+      "tel_links": false,
+      "tel_malformed": false,
+      "mobile_call_above_fold": null,
+      "mobile_cta_above_fold": null,
+      "email_published": false,
+      "web_form": false,
+      "online_booking": false,
+      "booking_cta_text": false,
+      "chat_or_text": false,
+      "mobile_layout_ok": null,
+      "mobile_blocking_overlay": null,
+      "service_page_links": 0,
+      "financing": false,
+      "license_shown": false,
+      "testimonials": false,
+      "tenure": null,
+      "maintenance_plan": false,
+      "broken_links": null,
+      "google_rating": 5,
+      "bbb_rating": null,
+      "maps_query_hits": 3,
+      "maps_queries_in_county": 18,
+      "maps_best_position": 2
+    },
+    "competitors": [
+      {
+        "id": "andes-hvac-aire-acondicionado",
+        "name": "Andes HVAC Aire Acondicionado",
+        "website": "https://andeshvacaireacondicionadollc.com/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7716528,
+          "lng": -74.143847
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": false,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 4,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": false,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 5,
+        "bbb_rating": null,
+        "maps_query_hits": 2,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 3,
+        "distanceMi": 1
+      },
+      {
+        "id": "cool-air-new-jersey",
+        "name": "Cool Air New Jersey",
+        "website": "http://coolairnewjersey.com/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7179131,
+          "lng": -74.0797011
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": false,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": false,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 39,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": false,
+        "tenure": "10+ yrs",
+        "maintenance_plan": true,
+        "broken_links": 3,
+        "google_rating": 5,
+        "bbb_rating": null,
+        "maps_query_hits": 3,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 13,
+        "distanceMi": 4.6
+      },
+      {
+        "id": "bargotti-co-plumbing-hvac",
+        "name": "Bargotti Co. Plumbing & Hvac",
+        "website": "https://bargottihvac.com/contact-bargotti-hvac/",
+        "county": "Hudson",
+        "latLng": {
+          "lat": 40.7320282,
+          "lng": -74.0675333
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 9,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": null,
+        "maps_query_hits": 4,
+        "maps_queries_in_county": 18,
+        "maps_best_position": 4,
+        "distanceMi": 4.6
+      }
+    ],
+    "gaps": [
+      {
+        "dimension": "Tap-to-call links present",
+        "prospect": false,
+        "competitorsBetter": [
+          "Andes HVAC Aire Acondicionado (true)",
+          "Cool Air New Jersey (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Email published",
+        "prospect": false,
+        "competitorsBetter": [
+          "Andes HVAC Aire Acondicionado (true)",
+          "Cool Air New Jersey (true)",
+          "Bargotti Co. Plumbing & Hvac (true)"
+        ]
+      },
+      {
+        "dimension": "Service-page links from homepage",
+        "prospect": 0,
+        "competitorsBetter": [
+          "Andes HVAC Aire Acondicionado (4)",
+          "Cool Air New Jersey (39)",
+          "Bargotti Co. Plumbing & Hvac (9)"
+        ]
+      }
+    ]
+  },
+  {
+    "prospect": {
+      "id": "precision-hvac-repair-caldwell",
+      "name": "Precision HVAC Repair Caldwell",
+      "website": "https://precisionclimatecontrolcaldwell.com/",
+      "county": "Essex",
+      "latLng": {
+        "lat": 40.8376375,
+        "lng": -74.2740479
+      },
+      "audited": false,
+      "site_status": "down/empty (verified)",
+      "tel_links": false,
+      "tel_malformed": false,
+      "mobile_call_above_fold": null,
+      "mobile_cta_above_fold": null,
+      "email_published": false,
+      "web_form": false,
+      "online_booking": false,
+      "booking_cta_text": false,
+      "chat_or_text": false,
+      "mobile_layout_ok": null,
+      "mobile_blocking_overlay": null,
+      "service_page_links": 0,
+      "financing": false,
+      "license_shown": false,
+      "testimonials": false,
+      "tenure": null,
+      "maintenance_plan": false,
+      "broken_links": null,
+      "google_rating": 5,
+      "bbb_rating": null,
+      "maps_query_hits": 5,
+      "maps_queries_in_county": 19,
+      "maps_best_position": 1
+    },
+    "competitors": [
+      {
+        "id": "multitemp-hvac",
+        "name": "Multitemp HVAC",
+        "website": "http://multitemphvac.com/",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.8432494,
+          "lng": -74.2710584
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": false,
+        "tel_malformed": false,
+        "mobile_call_above_fold": false,
+        "mobile_cta_above_fold": false,
+        "email_published": true,
+        "web_form": false,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 1,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": false,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 5,
+        "bbb_rating": null,
+        "maps_query_hits": 2,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 5,
+        "distanceMi": 0.4
+      },
+      {
+        "id": "j-m-cooling-and-heating",
+        "name": "J&M Cooling and Heating",
+        "website": "https://jmcoolingheating.com/furnace-repair/?utm_source=gbp&utm_medium=organic",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.8734903,
+          "lng": -74.2901915
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": false,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 19,
+        "financing": true,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": "since 2008",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": null,
+        "maps_query_hits": 3,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 1,
+        "distanceMi": 2.6
+      },
+      {
+        "id": "margo-plumbing-heating-cooling-inc",
+        "name": "MarGo Plumbing Heating Cooling Inc.",
+        "website": "https://www.margoplumbing.com/",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.875719,
+          "lng": -74.2972769
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": false,
+        "web_form": true,
+        "online_booking": true,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 45,
+        "financing": true,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": "since 1998",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": "A+",
+        "maps_query_hits": 5,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 2,
+        "distanceMi": 2.9
+      }
+    ],
+    "gaps": [
+      {
+        "dimension": "Tap-to-call links present",
+        "prospect": false,
+        "competitorsBetter": [
+          "J&M Cooling and Heating (true)",
+          "MarGo Plumbing Heating Cooling Inc. (true)"
+        ]
+      },
+      {
+        "dimension": "Web request form",
+        "prospect": false,
+        "competitorsBetter": [
+          "J&M Cooling and Heating (true)",
+          "MarGo Plumbing Heating Cooling Inc. (true)"
+        ]
+      },
+      {
+        "dimension": "Financing mentioned",
+        "prospect": false,
+        "competitorsBetter": [
+          "J&M Cooling and Heating (true)",
+          "MarGo Plumbing Heating Cooling Inc. (true)"
+        ]
+      },
+      {
+        "dimension": "NJ HVACR license shown",
+        "prospect": false,
+        "competitorsBetter": [
+          "J&M Cooling and Heating (true)",
+          "MarGo Plumbing Heating Cooling Inc. (true)"
+        ]
+      },
+      {
+        "dimension": "Testimonials/reviews on site",
+        "prospect": false,
+        "competitorsBetter": [
+          "J&M Cooling and Heating (true)",
+          "MarGo Plumbing Heating Cooling Inc. (true)"
+        ]
+      },
+      {
+        "dimension": "Service-page links from homepage",
+        "prospect": 0,
+        "competitorsBetter": [
+          "Multitemp HVAC (1)",
+          "J&M Cooling and Heating (19)",
+          "MarGo Plumbing Heating Cooling Inc. (45)"
+        ]
+      }
+    ]
+  },
+  {
+    "prospect": {
+      "id": "total-comfort-services-llc",
+      "name": "Total Comfort Services LLC",
+      "website": "https://www.totalcomfort.biz/?utm_source=gbp",
+      "county": "Bergen",
+      "latLng": {
+        "lat": 40.9841917,
+        "lng": -74.0107484
+      },
+      "audited": false,
+      "site_status": "browser blocked; Firecrawl only",
+      "tel_links": true,
+      "tel_malformed": null,
+      "mobile_call_above_fold": null,
+      "mobile_cta_above_fold": null,
+      "email_published": null,
+      "web_form": null,
+      "online_booking": null,
+      "booking_cta_text": null,
+      "chat_or_text": null,
+      "mobile_layout_ok": null,
+      "mobile_blocking_overlay": null,
+      "service_page_links": null,
+      "financing": null,
+      "license_shown": null,
+      "testimonials": null,
+      "tenure": null,
+      "maintenance_plan": null,
+      "broken_links": null,
+      "google_rating": 4.9,
+      "bbb_rating": null,
+      "maps_query_hits": 5,
+      "maps_queries_in_county": 19,
+      "maps_best_position": 1
+    },
+    "competitors": [
+      {
+        "id": "price-beat-hvac",
+        "name": "Price Beat HVAC",
+        "website": "https://www.lovepricebeat.com/?utm_source=AG&utm_medium=gmb",
+        "county": "Bergen",
+        "latLng": {
+          "lat": 40.9673744,
+          "lng": -74.0739123
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 6,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": null,
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 5,
+        "bbb_rating": null,
+        "maps_query_hits": 5,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 1,
+        "distanceMi": 3.5
+      },
+      {
+        "id": "yuhan-heating-air-conditioning",
+        "name": "Yuhan Heating & Air Conditioning",
+        "website": "https://www.yuhanhvac.com/",
+        "county": "Bergen",
+        "latLng": {
+          "lat": 40.9241611,
+          "lng": -73.999328
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": true,
+        "booking_cta_text": true,
+        "chat_or_text": true,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 13,
+        "financing": true,
+        "license_shown": false,
+        "testimonials": false,
+        "tenure": "since 1995",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.7,
+        "bbb_rating": null,
+        "maps_query_hits": 6,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 1,
+        "distanceMi": 4.2
+      },
+      {
+        "id": "muccia-plumbing-heating-ac",
+        "name": "Muccia Plumbing, Heating & AC",
+        "website": "https://mucciaplumbing.com/",
+        "county": "Bergen",
+        "latLng": {
+          "lat": 40.9049841,
+          "lng": -74.0398811
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": false,
+        "web_form": true,
+        "online_booking": true,
+        "booking_cta_text": false,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 19,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": "since 1978",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.7,
+        "bbb_rating": null,
+        "maps_query_hits": 3,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 5,
+        "distanceMi": 5.7
+      }
+    ],
+    "gaps": []
+  },
+  {
+    "prospect": {
+      "id": "master-group-heating-cooling-plumbing",
+      "name": "Master Group Heating, Cooling & Plumbing",
+      "website": "https://www.mastergroupnj.com/",
+      "county": "Passaic",
+      "latLng": {
+        "lat": 40.8706484,
+        "lng": -74.1690894
+      },
+      "audited": false,
+      "site_status": "browser blocked; Firecrawl only",
+      "tel_links": true,
+      "tel_malformed": null,
+      "mobile_call_above_fold": null,
+      "mobile_cta_above_fold": null,
+      "email_published": null,
+      "web_form": null,
+      "online_booking": null,
+      "booking_cta_text": null,
+      "chat_or_text": null,
+      "mobile_layout_ok": null,
+      "mobile_blocking_overlay": null,
+      "service_page_links": null,
+      "financing": null,
+      "license_shown": null,
+      "testimonials": null,
+      "tenure": null,
+      "maintenance_plan": null,
+      "broken_links": null,
+      "google_rating": 4.9,
+      "bbb_rating": null,
+      "maps_query_hits": 5,
+      "maps_queries_in_county": 15,
+      "maps_best_position": 3
+    },
+    "competitors": [
+      {
+        "id": "acacos-llc-hvac-air-conditioning-repair",
+        "name": "Acacos LLC HVAC & Air Conditioning Repair",
+        "website": "https://www.acacos.com/",
+        "county": "Passaic",
+        "latLng": {
+          "lat": 40.8732931,
+          "lng": -74.1765889
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 34,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": false,
+        "tenure": null,
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 5,
+        "bbb_rating": null,
+        "maps_query_hits": 2,
+        "maps_queries_in_county": 15,
+        "maps_best_position": 10,
+        "distanceMi": 0.4
+      },
+      {
+        "id": "pacific-air-hvac",
+        "name": "Pacific Air HVAC",
+        "website": "https://www.pacificairhvac.com/",
+        "county": "Passaic",
+        "latLng": {
+          "lat": 40.8653235,
+          "lng": -74.1515378
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": false,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 15,
+        "financing": false,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": "since 2009",
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": "A+",
+        "maps_query_hits": 4,
+        "maps_queries_in_county": 15,
+        "maps_best_position": 11,
+        "distanceMi": 1
+      },
+      {
+        "id": "ez-flow-mechanical-heating-cooling",
+        "name": "EZ Flow Mechanical Heating & Cooling",
+        "website": "http://ezflownj.com/",
+        "county": "Passaic",
+        "latLng": {
+          "lat": 40.8740135,
+          "lng": -74.1506617
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": false,
+        "mobile_cta_above_fold": false,
+        "email_published": false,
+        "web_form": true,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 30,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": "20+ yrs",
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.7,
+        "bbb_rating": null,
+        "maps_query_hits": 5,
+        "maps_queries_in_county": 15,
+        "maps_best_position": 1,
+        "distanceMi": 1
+      }
+    ],
+    "gaps": []
+  },
+  {
+    "prospect": {
+      "id": "premier-hvac-services",
+      "name": "Premier HVAC Services",
+      "website": "https://premier-hvac-services.com/",
+      "county": "Essex",
+      "latLng": {
+        "lat": 40.8078907,
+        "lng": -74.1525903
+      },
+      "audited": false,
+      "site_status": "browser blocked; Firecrawl only",
+      "tel_links": true,
+      "tel_malformed": null,
+      "mobile_call_above_fold": null,
+      "mobile_cta_above_fold": null,
+      "email_published": null,
+      "web_form": null,
+      "online_booking": null,
+      "booking_cta_text": null,
+      "chat_or_text": null,
+      "mobile_layout_ok": null,
+      "mobile_blocking_overlay": null,
+      "service_page_links": null,
+      "financing": null,
+      "license_shown": null,
+      "testimonials": null,
+      "tenure": null,
+      "maintenance_plan": null,
+      "broken_links": null,
+      "google_rating": 4.9,
+      "bbb_rating": null,
+      "maps_query_hits": 4,
+      "maps_queries_in_county": 19,
+      "maps_best_position": 3
+    },
+    "competitors": [
+      {
+        "id": "integrate-comfort-systems",
+        "name": "Integrate Comfort Systems",
+        "website": "https://icshvac.com/?utm_medium=organic&utm_source=google&utm_campaign=gbp_belleville",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.7902133,
+          "lng": -74.149847
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": null,
+        "mobile_cta_above_fold": null,
+        "email_published": true,
+        "web_form": false,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": null,
+        "mobile_blocking_overlay": null,
+        "service_page_links": 17,
+        "financing": true,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": "since 1990",
+        "maintenance_plan": true,
+        "broken_links": 1,
+        "google_rating": 4.9,
+        "bbb_rating": "A+",
+        "maps_query_hits": 3,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 2,
+        "distanceMi": 1.2
+      },
+      {
+        "id": "go-green-heating-air-conditioning",
+        "name": "Go Green Heating & Air Conditioning",
+        "website": "https://www.gogreenhvacnj.com/",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.8221072,
+          "lng": -74.1355722
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": false,
+        "online_booking": false,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 11,
+        "financing": false,
+        "license_shown": false,
+        "testimonials": true,
+        "tenure": "since 2014",
+        "maintenance_plan": false,
+        "broken_links": 0,
+        "google_rating": 4.7,
+        "bbb_rating": null,
+        "maps_query_hits": 5,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 1,
+        "distanceMi": 1.3
+      },
+      {
+        "id": "hvac-zone-inc",
+        "name": "HVAC ZONE INC",
+        "website": "http://hvaczonenj.com/",
+        "county": "Essex",
+        "latLng": {
+          "lat": 40.769996,
+          "lng": -74.1636542
+        },
+        "audited": true,
+        "site_status": "audited",
+        "tel_links": true,
+        "tel_malformed": false,
+        "mobile_call_above_fold": true,
+        "mobile_cta_above_fold": true,
+        "email_published": true,
+        "web_form": false,
+        "online_booking": true,
+        "booking_cta_text": true,
+        "chat_or_text": false,
+        "mobile_layout_ok": true,
+        "mobile_blocking_overlay": false,
+        "service_page_links": 6,
+        "financing": true,
+        "license_shown": true,
+        "testimonials": true,
+        "tenure": null,
+        "maintenance_plan": true,
+        "broken_links": 0,
+        "google_rating": 4.9,
+        "bbb_rating": null,
+        "maps_query_hits": 6,
+        "maps_queries_in_county": 19,
+        "maps_best_position": 1,
+        "distanceMi": 2.7
+      }
+    ],
+    "gaps": [
+      {
+        "dimension": "Appearances in recorded Maps queries",
+        "prospect": 4,
+        "competitorsBetter": [
+          "Go Green Heating & Air Conditioning (5)",
+          "HVAC ZONE INC (6)"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "master-group-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Master+Group+HVAC/data=!4m7!3m6!1s0x6014d91860277117:0x45f1a619896eecdf!8m2!3d40.9040587!4d-74.1996232!16s%2Fg%2F11y3672xf2!19sChIJF3EnYBjZFGAR3-xuiRmm8UU",
+  "retrievedAt": "2026-11-03T23:05:00.091Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Master Group HVAC",
+  "category": "HVAC contractor",
+  "address": "22 Hillery St, Woodland Park, NJ 07424, United States ",
+  "phone": "+1 973-363-9732 ",
+  "website": "https://mgplumbinghvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Master+Group+HVAC/data=!4m7!3m6!1s0x6014d91860277117:0x45f1a619896eecdf!8m2!3d40.9040587!4d-74.1996232!16s%2Fg%2F11y3672xf2!19sChIJF3EnYBjZFGAR3-xuiRmm8UU?hl=en",
+  "screenshot": "evidence/screenshots/master-group-hvac/google-maps-listing.png"
+}

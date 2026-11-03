@@ -1,0 +1,25 @@
+{
+  "id": "all-time-heating-cooling-plumbing",
+  "placeUrl": "https://www.google.com/maps/place/All+Time+Heating+Cooling+%26+Plumbing/data=!4m7!3m6!1s0x65035d1a616bf99d:0x95c5e00c84db2325!8m2!3d40.872137!4d-74.1773816!16s%2Fg%2F11rjqhrfjr!19sChIJnflrYRpdA2URJSPbhAzgxZU",
+  "retrievedAt": "2026-11-03T23:04:49.452Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "All Time Heating Cooling & Plumbing",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 973-632-8086 ",
+  "website": "https://alltimeplumbinghvac.com/?utm_source=omg-gbp&utm_medium=webclick",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/All+Time+Heating+Cooling+%26+Plumbing/data=!4m7!3m6!1s0x65035d1a616bf99d:0x95c5e00c84db2325!8m2!3d40.872137!4d-74.1773816!16s%2Fg%2F11rjqhrfjr!19sChIJnflrYRpdA2URJSPbhAzgxZU?hl=en",
+  "screenshot": "evidence/screenshots/all-time-heating-cooling-plumbing/google-maps-listing.png"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "yuhan-heating-air-conditioning",
+  "placeUrl": "https://www.google.com/maps/place/Yuhan+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f05b40d5a637:0x70b309701086c145!8m2!3d40.9241611!4d-73.999328!16s%2Fg%2F1tfmp9xq!19sChIJN6bVQFvwwokRRcGGEHAJs3A",
+  "retrievedAt": "2026-11-03T22:55:33.257Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Yuhan Heating & Air Conditioning",
+  "category": "HVAC contractor",
+  "address": "108 S Front St, Bergenfield, NJ 07621, United States ",
+  "phone": "+1 201-945-9797 ",
+  "website": "https://www.yuhanhvac.com/",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–6 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Yuhan+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f05b40d5a637:0x70b309701086c145!8m2!3d40.9241611!4d-73.999328!16s%2Fg%2F1tfmp9xq!19sChIJN6bVQFvwwokRRcGGEHAJs3A?hl=en",
+  "screenshot": "evidence/screenshots/yuhan-heating-air-conditioning/google-maps-listing.png"
+}

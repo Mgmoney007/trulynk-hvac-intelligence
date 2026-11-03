@@ -1,0 +1,25 @@
+{
+  "id": "e-thermal-hvac",
+  "placeUrl": "https://www.google.com/maps/place/E-thermal+HVAC/data=!4m7!3m6!1s0x665d1b11c3b3d02d:0xba583799e7635b8d!8m2!3d40.890233!4d-74.0160311!16s%2Fg%2F11y8rcwmmq!19sChIJLdCzwxEbXWYRjVtj55k3WLo",
+  "retrievedAt": "2026-11-03T22:57:19.717Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "E-thermal HVAC",
+  "category": "HVAC contractor",
+  "address": "301 Cherry Ln, Teaneck, NJ 07666, United States ",
+  "phone": "+1 201-965-9478 ",
+  "website": "http://ethermalhvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday8 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/E-thermal+HVAC/data=!4m7!3m6!1s0x665d1b11c3b3d02d:0xba583799e7635b8d!8m2!3d40.890233!4d-74.0160311!16s%2Fg%2F11y8rcwmmq!19sChIJLdCzwxEbXWYRjVtj55k3WLo?hl=en",
+  "screenshot": "evidence/screenshots/e-thermal-hvac/google-maps-listing.png"
+}

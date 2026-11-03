@@ -1,0 +1,25 @@
+{
+  "id": "arcticflow-hvac-repair-union-city",
+  "placeUrl": "https://www.google.com/maps/place/ArcticFlow+HVAC+Repair+Union+City/data=!4m7!3m6!1s0x89c2592b8f241acb:0x21fcd39a8658623b!8m2!3d40.7760577!4d-74.0267401!16s%2Fg%2F11ytp1wqlb!19sChIJyxokjytZwokRO2JYhprT_CE",
+  "retrievedAt": "2026-11-03T22:48:39.482Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "ArcticFlow HVAC Repair Union City",
+  "category": "HVAC contractor",
+  "address": "508 39th St, Union City, NJ 07087, United States ",
+  "phone": "+1 551-375-4218 ",
+  "website": "https://arcticflowhvacunioncity.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/ArcticFlow+HVAC+Repair+Union+City/data=!4m7!3m6!1s0x89c2592b8f241acb:0x21fcd39a8658623b!8m2!3d40.7760577!4d-74.0267401!16s%2Fg%2F11ytp1wqlb!19sChIJyxokjytZwokRO2JYhprT_CE?hl=en",
+  "screenshot": "evidence/screenshots/arcticflow-hvac-repair-union-city/google-maps-listing.png"
+}

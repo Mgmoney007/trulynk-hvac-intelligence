@@ -1,0 +1,25 @@
+{
+  "id": "ideal-climate-hvacr",
+  "placeUrl": "https://www.google.com/maps/place/Ideal+Climate+HVACR/data=!4m7!3m6!1s0x89c25782563d724d:0xedfad7e5dcffc98a!8m2!3d40.887852!4d-74.1355184!16s%2Fg%2F1v4ptxyq!19sChIJTXI9VoJXwokRisn_3OXX-u0",
+  "retrievedAt": "2026-11-03T22:50:56.262Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Ideal Climate HVACR",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 201-865-4773 ",
+  "website": "http://idealclimatehvacr.com/",
+  "rating": 4.4,
+  "reviews": null,
+  "rateBoxText": "4.4",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday9 AM–5 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Ideal+Climate+HVACR/data=!4m7!3m6!1s0x89c25782563d724d:0xedfad7e5dcffc98a!8m2!3d40.887852!4d-74.1355184!16s%2Fg%2F1v4ptxyq!19sChIJTXI9VoJXwokRisn_3OXX-u0?hl=en",
+  "screenshot": "evidence/screenshots/ideal-climate-hvacr/google-maps-listing.png"
+}

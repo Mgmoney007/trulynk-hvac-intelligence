@@ -1,0 +1,25 @@
+{
+  "id": "paramus-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Paramus+HVAC/data=!4m7!3m6!1s0x893a65a483593bc1:0x699a2d156d6335ab!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11p1mt17xc!19sChIJwTtZg6RlOokRqzVjbRUtmmk",
+  "retrievedAt": "2026-11-03T22:58:45.926Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Paramus HVAC",
+  "category": "HVAC contractor",
+  "address": null,
+  "phone": "+1 551-239-1624 ",
+  "website": "https://www.paramus-hvac.com/",
+  "rating": 4.3,
+  "reviews": null,
+  "rateBoxText": "4.3",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Paramus+HVAC/data=!4m7!3m6!1s0x893a65a483593bc1:0x699a2d156d6335ab!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11p1mt17xc!19sChIJwTtZg6RlOokRqzVjbRUtmmk?hl=en",
+  "screenshot": "evidence/screenshots/paramus-hvac/google-maps-listing.png"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "551-hvac-repair",
+  "query": "551 HVAC Repair",
+  "searchUrl": "https://www.bbb.org/search?find_country=USA&find_text=551%20HVAC%20Repair&find_loc=Lodi%2C%20NJ",
+  "retrievedAt": "2026-11-03T23:18:25.312Z",
+  "method": "playwright_chromium_bbb_search",
+  "match": null,
+  "candidates": [],
+  "error": null
+}

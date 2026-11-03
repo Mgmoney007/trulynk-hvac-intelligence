@@ -1,0 +1,25 @@
+{
+  "id": "jjam-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/JJAM+heating%26cooling/data=!4m7!3m6!1s0x6655d9254aa001fd:0x4608a4918d319625!8m2!3d40.730013!4d-74.1566819!16s%2Fg%2F11vx3cd33y!19sChIJ_QGgSiXZVWYRJZYxjZGkCEY",
+  "retrievedAt": "2026-11-03T23:12:16.814Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "JJAM heating&cooling",
+  "category": "Air conditioning contractor",
+  "address": "76 Jackson St, Newark, NJ 07105, United States ",
+  "phone": "+1 862-230-4991 ",
+  "website": "http://jjamhvac.com/",
+  "rating": 5,
+  "reviews": null,
+  "rateBoxText": "5.0",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "Tuesday7 AM–8 PM"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/JJAM+heating%26cooling/data=!4m7!3m6!1s0x6655d9254aa001fd:0x4608a4918d319625!8m2!3d40.730013!4d-74.1566819!16s%2Fg%2F11vx3cd33y!19sChIJ_QGgSiXZVWYRJZYxjZGkCEY?hl=en",
+  "screenshot": "evidence/screenshots/jjam-heating-cooling/google-maps-listing.png"
+}

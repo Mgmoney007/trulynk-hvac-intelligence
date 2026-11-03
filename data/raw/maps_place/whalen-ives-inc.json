@@ -1,0 +1,25 @@
+{
+  "id": "whalen-ives-inc",
+  "placeUrl": "https://www.google.com/maps/place/Whalen+%26+Ives,+Inc./data=!4m7!3m6!1s0x89c2e5ffa2e14333:0xeeace8062c61857!8m2!3d41.0364003!4d-74.0323876!16s%2Fg%2F1tlgywqx!19sChIJM0Phov_lwokRVxjGYoDO6g4",
+  "retrievedAt": "2026-11-03T22:58:35.182Z",
+  "method": "playwright_chromium_google_maps_place",
+  "error": null,
+  "name": "Whalen & Ives, Inc.",
+  "category": "HVAC contractor",
+  "address": "180 Kinderkamack Rd, Park Ridge, NJ 07656, United States ",
+  "phone": "+1 201-591-4191 ",
+  "website": "https://www.whalenives.com/service-area/mahwah/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*548*whalen-ives-park-ridge",
+  "rating": 4.7,
+  "reviews": null,
+  "rateBoxText": "4.7",
+  "limitedView": true,
+  "hoursSummary": null,
+  "hoursRows": [
+    "TuesdayOpen 24 hours"
+  ],
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "claimPrompt": false,
+  "canonicalUrl": "https://www.google.com/maps/place/Whalen+%26+Ives,+Inc./data=!4m7!3m6!1s0x89c2e5ffa2e14333:0xeeace8062c61857!8m2!3d41.0364003!4d-74.0323876!16s%2Fg%2F1tlgywqx!19sChIJM0Phov_lwokRVxjGYoDO6g4?hl=en",
+  "screenshot": "evidence/screenshots/whalen-ives-inc/google-maps-listing.png"
+}

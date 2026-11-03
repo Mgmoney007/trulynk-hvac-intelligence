@@ -1,0 +1,1828 @@
+{
+  "firecrawl": [],
+  "id": "muccia-plumbing-heating-ac",
+  "name": "Muccia Plumbing, Heating & AC",
+  "website": "https://mucciaplumbing.com/",
+  "auditedAt": "2026-11-03T23:01:50.082Z",
+  "retrieval": [
+    {
+      "step": "desktop_home",
+      "method": "playwright_chromium_desktop",
+      "url": "https://mucciaplumbing.com/",
+      "at": "2026-11-03T23:01:54.789Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://mucciaplumbing.com/",
+      "title": "HVAC NJ, Plumbing Services, AC, Boilers, Heating Repair NJ",
+      "ms": 4587,
+      "error": null,
+      "linkCount": 96
+    },
+    {
+      "step": "desktop_contact",
+      "method": "playwright_chromium_desktop",
+      "url": "https://mucciaplumbing.com/contact/",
+      "at": "2026-11-03T23:02:01.506Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://mucciaplumbing.com/contact/",
+      "title": "Contact - Muccia Plumbing NJ",
+      "ms": 5138,
+      "error": null,
+      "linkCount": 84
+    },
+    {
+      "step": "desktop_about",
+      "method": "playwright_chromium_desktop",
+      "url": "https://mucciaplumbing.com/about-us/",
+      "at": "2026-11-03T23:02:04.214Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://mucciaplumbing.com/about-us/",
+      "title": "Learn About Muccia Plumbing Heating, Bios of Owners, History",
+      "ms": 2306,
+      "error": null,
+      "linkCount": 82
+    },
+    {
+      "step": "mobile_home",
+      "method": "playwright_chromium_iphone13",
+      "url": "https://mucciaplumbing.com/",
+      "at": "2026-11-03T23:02:46.053Z",
+      "access": "ok",
+      "status": 200,
+      "finalUrl": "https://mucciaplumbing.com/",
+      "title": "HVAC NJ, Plumbing Services, AC, Boilers, Heating Repair NJ",
+      "ms": 5246,
+      "error": null,
+      "linkCount": 96
+    }
+  ],
+  "accessFailures": [],
+  "desktop": {
+    "url": "https://mucciaplumbing.com/",
+    "title": "HVAC NJ, Plumbing Services, AC, Boilers, Heating Repair NJ",
+    "lang": "en-US",
+    "metaDescription": "Expert HVAC & plumbing services in NJ, including AC, boilers, heating repair, water heaters & more! Always FREE estimates!",
+    "h1": [
+      "Plumbing, Air Conditioning & Heating"
+    ],
+    "viewportMeta": "width=device-width, initial-scale=1, maximum-scale=10.0, user-scalable=yes",
+    "innerWidth": 1366,
+    "innerHeight": 900,
+    "scrollWidth": 1366,
+    "scrollHeight": 6556,
+    "bodyText": "Skip to content\n\nCall Us 201-584-4948\n\nPLUMBING LIC. #6383\n\nHVAC LIC. #3264\n\nHOME\nABOUT\n \nPLUMBING\n \nCOOLING\n \nHEATING\n \nCOMMERCIAL\nSPECIALS\nREVIEWS\nBLOG\nCONTACT\n \nPlumbing, Air Conditioning & Heating\nServing, Bergen, Hudson, Passaic, & Sussex Counties, NJ\n\nProfessional Commercial & Residential Plumbing Services Since 1978! For over four decades, we have been dedicated to delivering dependable plumbing, heating, air conditioning installation & repair services throughout Northern New Jersey. Our reputation has been built on exceptional workmanship and competitive pricing.\n\nFrom boilers & furnaces to AC Units & Sump Pumps, our experienced technicians in NJ are committed to using top quality products, & proven installation & maintenance methods to ensure lasting results.\n\n\nWe take pride in every project & stand behind our work with complete customer satisfaction guarantees, giving you confidence that the job will be done right the first time.\n\nOur Specials\nContact Us Today!\n\n24/7 EMERGENCY SERVICE\nWe’re here when you need us most!\n\nClogged Drains\nPlumbing Problems\nHeating / Cooling Crisis\nEmergency Repairs\nWe Feature Products from these Quality Plumbing & HVAC Brands:\n\n View our complete list of quality brands\n\nOur Plumbing, Heating, & AC Services\nPLUMBING\n\nPLUMBING\n\nCOOLING\n\nCOOLING\n\nHEATING\n\nHEATING\n\nCOMMERCIAL\n\nCOMMERCIAL\n\nWhy Muccia Plumbing & Heating?\n\nChoosing the right plumbing, heating, and air conditioning contractor is one of the most important decisions you can make for your NJ home or business. We have built our reputation on honesty, reliability, quality workmanship, and exceptional customer care. Since 1978, we have proudly served homeowners and businesses throughout New Jersey, providing dependable plumbing, heating, cooling, ventilation, water heater, drain cleaning, and commercial HVAC services.\n\nOur goal has always been simple: deliver professional solutions that keep our customers comfortable, safe, and confident in their property’s essential systems.\n\nTo this day, our founder and owner is personally involved on a daily basis and our experienced team is fully trained and equipped to handle everything from routine maintenance and repairs to complete system replacements and emergency service calls.\n\nOur Team is Here to Solve ALL Your Plumbing Needs!\n\nOmar, Our Technician, will see you soon!\n\nWhether you are dealing with a leaking pipe, a failing water heater, a broken furnace, an air conditioning issue, or a commercial plumbing challenge, we respond quickly and work efficiently to restore comfort and functionality.\n\nWe use quality products, follow industry best practices, and stand behind our work with a strong commitment to customer satisfaction.\n\nWhat truly sets us apart is our dedication to treating customers like family. We understand that plumbing and HVAC problems can be stressful and disruptive, which is why we focus on clear communication, fair pricing, and long term solutions rather than temporary fixes. Our decades of experience allow us to diagnose issues accurately, recommend practical options, and complete projects correctly the first time.\n\nWhen you choose Muccia Plumbing & Heating, you are choosing a local company that values trust, professionalism, and lasting relationships with every customer we serve.\nContact Us Today!\n\nBenefits of Choosing Muccia Plumbing & Heating in New Jersey:\n\nOver 40 years of industry experience serving Northern NJ\nMaster Plumber owned and operated company\nComplete plumbing, heating, cooling, and ventilation services\nResidential and commercial service capabilities\nFast response times for urgent repairs and emergencies\nLicensed, bonded, and insured professionals\nHigh quality products and proven installation & repair methods\nPreventative maintenance programs that help avoid costly breakdowns\nHundreds of client reviews on Google\nEvery project backed by a company workmanship guarantee\nTop 5 Plumbing or HVAC Emergencies In New Jersey That Can’t Wait\nWe are always here to help!\n\nPlumbing and HVAC systems are essential to the comfort, safety, and functionality of any home or business. While some issues can be scheduled for a future service appointment, others require immediate professional attention to prevent property damage, health concerns, or complete system failure.\n\nNew Jersey homeowners experience a wide range of weather conditions throughout the year, from freezing winter temperatures to hot and humid summers, making certain plumbing and HVAC emergencies especially urgent.  \n\nEmergency Plumbing Problem?  We Can Help!\n\nHere are five plumbing and HVAC emergencies that should never be ignored.\n\n1. Burst Pipes\n\nWhen a pipe bursts, it can discharge massive volumes of water within minutes, leading to severe damage to your walls, floors, and personal items. Turn off your main water supply right away and  Contact Us Now for help.\n\n2. Complete Heating System Failure During Winter\n\nWhen your heating system stops working during New Jersey’s cold winter months, it can rapidly create dangerous indoor temperatures and raise the possibility of pipe freezing. Contact Us Now to restore warmth and safeguard your home.\n\n3. Clogged Pipes\n\nWhen Pipes back up, contaminated water can flow into your sinks, bathtubs, and drains, presenting severe hygiene and health hazards. Emergency professional assistance is required to handle this situation properly.\n\n4. Air Conditioning Failure During Extreme Heat\n\nWhen your AC unit breaks down during scorching summer temperatures, it can make your home unbearable and potentially dangerous for at-risk family members. Rapid repair work helps bring back cooling and livable conditions.\n\n5. Water Heater Leaks or Failure\n\nA damaged or broken water heater can result in water destruction and interfere with everyday routines.  Contact Us Now to prevent more extensive repairs and bring back dependable hot water service.\n\nDon’t Ignore Warning Signs\n\nMost plumbing and HVAC emergencies begin as relatively minor issues that worsen over time when left unaddressed. Taking care of leaks, unusual sounds, inconsistent temperatures, poor airflow, and drainage problems early can help prevent major system failures, costly repairs, and extensive property damage. Regular inspections and prompt service not only improve system performance and efficiency but also reduce the likelihood of unexpected breakdowns that can disrupt your home or business. Being proactive today can save significant time, stress, and expense in the future.  \n\nWhat Our Clients Are Saying!\n\nWhen our AC system stopped working during a summer heat wave, we needed fast and reliable service. After seeing the excellent reviews for Muccia online, we gave them a call and were impressed from the start.\n\nTheir technician arrived quickly, diagnosed the problem, and clearly explained the repair process professionally. The issue was resolved efficiently, and our cooling system was back up and running much sooner than expected. We also appreciated the helpful maintenance tips they provided to help prevent future breakdowns. The entire experience was smooth, honest, and stress free. I highly recommend them for any air conditioning repair.\n\nPeggy S., Hackensack, NJ – \n\nWhen we discovered a plumbing issue in our home, we contacted Muccia Plumbing and were impressed by their quick response. Their technician arrived promptly, inspected the problem, and clearly explained the necessary repairs. The work was completed efficiently, and the technician was professional, courteous, and respectful of our home throughout the process. We appreciated their honest recommendations, fair pricing, and attention to detail.\n\nThe repair was completed correctly the first time, and everything has been working perfectly since. We are extremely pleased with Muccia and highly recommend! You cannot beat their outstanding customer service.\n\nBrian F., Colts Neck, NJ – \n\nView More Testimonials\n\n57 Orchard St,\nHackensack, NJ 07601\nPhone: 201-584-4948\n\nFOLLOW US!\n\nOUR SERVICES\n\nPlumbing\nCooling\nHeating\nCommercial\n\nRECENT POSTS\n\nRadiator Cold Spots: Why Some Rooms Stay Cold Even When the Boiler Is Running\nWhere Is Your Main Water Shutoff Valve? How to Find and Test It Before an Emergency\nWhy Does My Sump Pump Keep Running Even When It Hasn’t Rained?\n\nWeb design & Internet marketing provided by GMS.",
+    "links": [
+      {
+        "href": "#site-content",
+        "abs": "https://mucciaplumbing.com/#site-content",
+        "text": "Skip to content",
+        "visible": true,
+        "aboveFold": false,
+        "h": 1,
+        "w": 1,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "#",
+        "abs": "https://mucciaplumbing.com/#",
+        "text": "Menu Close",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/",
+        "abs": "https://mucciaplumbing.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 159,
+        "w": 262,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://mucciaplumbing.com/financing/",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 93,
+        "w": 290,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://mucciaplumbing.com/financing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 290,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12015844948",
+        "abs": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": true,
+        "aboveFold": true,
+        "h": 43,
+        "w": 225,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/",
+        "abs": "https://mucciaplumbing.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://mucciaplumbing.com/financing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/financing/",
+        "abs": "https://mucciaplumbing.com/financing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "tel:+12015844948",
+        "abs": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/",
+        "abs": "https://mucciaplumbing.com/",
+        "text": "HOME",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 73,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/about-us/",
+        "abs": "https://mucciaplumbing.com/about-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/employment/",
+        "abs": "https://mucciaplumbing.com/employment/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "abs": "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/financing/",
+        "abs": "https://mucciaplumbing.com/financing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/service-areas-nj/",
+        "abs": "https://mucciaplumbing.com/service-areas-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/plumbing-services/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/",
+        "text": "PLUMBING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 117,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/plumbing-services/water-heaters-nj/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/water-heaters-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/plumbing-services/sump-pumps-nj/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/sump-pumps-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/plumbing-services/drain-cleaning-nj/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/drain-cleaning-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/",
+        "abs": "https://mucciaplumbing.com/cooling-services/",
+        "text": "COOLING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 107,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/ac-installation-nj/",
+        "abs": "https://mucciaplumbing.com/cooling-services/ac-installation-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/ac-maintenance-nj/",
+        "abs": "https://mucciaplumbing.com/cooling-services/ac-maintenance-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/ac-repair-nj/",
+        "abs": "https://mucciaplumbing.com/cooling-services/ac-repair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/",
+        "abs": "https://mucciaplumbing.com/heating-services/",
+        "text": "HEATING",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 104,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/heating-installation-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/heating-installation-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/hvac-system-repair-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/hvac-system-repair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/hvac-maintenance-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/hvac-maintenance-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/boiler-installation-repair-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/boiler-installation-repair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/furnace-installation-repair-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/furnace-installation-repair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "abs": "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "text": "COMMERCIAL",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 132,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "abs": "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "text": "SPECIALS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 100,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/reviews/",
+        "abs": "https://mucciaplumbing.com/reviews/",
+        "text": "REVIEWS",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 95,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/learning-center/",
+        "abs": "https://mucciaplumbing.com/learning-center/",
+        "text": "BLOG",
+        "visible": true,
+        "aboveFold": true,
+        "h": 55,
+        "w": 68,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/contact/",
+        "abs": "https://mucciaplumbing.com/contact/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/review-us/",
+        "abs": "https://mucciaplumbing.com/review-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 42,
+        "w": 250,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-plumbing-specials-nj/",
+        "abs": "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "text": "Our Specials",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://mucciaplumbing.com/contact/",
+        "text": "Contact Us Today!",
+        "visible": false,
+        "aboveFold": false,
+        "h": 0,
+        "w": 0,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/plumbing-services/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/",
+        "text": "plumbing",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 83,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/heating-services/",
+        "abs": "https://mucciaplumbing.com/heating-services/",
+        "text": "heating",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 67,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/cooling-services/",
+        "abs": "https://mucciaplumbing.com/cooling-services/",
+        "text": "air conditioning",
+        "visible": true,
+        "aboveFold": true,
+        "h": 21,
+        "w": 137,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-plumbing-specials-nj/",
+        "abs": "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "text": "Our Specials",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 319,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://mucciaplumbing.com/contact/",
+        "text": "Contact Us Today!",
+        "visible": true,
+        "aboveFold": true,
+        "h": 54,
+        "w": 319,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=jw5g6OelCnA&width=800&height=500",
+        "abs": "https://www.youtube.com/watch?v=jw5g6OelCnA&width=800&height=500",
+        "text": "",
+        "visible": true,
+        "aboveFold": true,
+        "h": 325,
+        "w": 559,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/hvac-plumbing-featured-brands/",
+        "abs": "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "text": "View our complete list of quality brands",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 354,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://mucciaplumbing.com/contact/",
+        "text": "Contact Us Today!",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 162,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://mucciaplumbing.com/contact/",
+        "text": "Contact Us Now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 141,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://mucciaplumbing.com/contact/",
+        "text": "Contact Us Now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 141,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/contact/",
+        "abs": "https://mucciaplumbing.com/contact/",
+        "text": "Contact Us Now",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 141,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/testimonials/",
+        "abs": "https://mucciaplumbing.com/testimonials/",
+        "text": "What Our Clients Are Saying!",
+        "visible": true,
+        "aboveFold": false,
+        "h": 40,
+        "w": 432,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/reviews/",
+        "abs": "https://mucciaplumbing.com/reviews/",
+        "text": "View More Testimonials",
+        "visible": true,
+        "aboveFold": false,
+        "h": 49,
+        "w": 317,
+        "inNav": false,
+        "inFooter": false
+      },
+      {
+        "href": "/",
+        "abs": "https://mucciaplumbing.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 157,
+        "w": 184,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "tel:+12015844948",
+        "abs": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 131,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.facebook.com/mucciaplumbing",
+        "abs": "https://www.facebook.com/mucciaplumbing",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.instagram.com/mucciaplumbingandheatingac/",
+        "abs": "https://www.instagram.com/mucciaplumbingandheatingac/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.linkedin.com/company/muccia-plumbing-heating-ac",
+        "abs": "https://www.linkedin.com/company/muccia-plumbing-heating-ac",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.yelp.com/biz/muccia-plumbing-heating-and-ac-hackensack",
+        "abs": "https://www.yelp.com/biz/muccia-plumbing-heating-and-ac-hackensack",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.youtube.com/@MucciaPlumbingHeatingAC",
+        "abs": "https://www.youtube.com/@MucciaPlumbingHeatingAC",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.bbb.org/us/nj/hackensack/profile/residential-air-conditioning-contractors/mj-muccia-plumbing-heating-inc-0221-90172844",
+        "abs": "https://www.bbb.org/us/nj/hackensack/profile/residential-air-conditioning-contractors/mj-muccia-plumbing-heating-inc-0221-90172844",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.homeadvisor.com/rated.MucciaPlumbingInc.20527614.html",
+        "abs": "https://www.homeadvisor.com/rated.MucciaPlumbingInc.20527614.html",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 42,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.greensky.com/",
+        "abs": "https://www.greensky.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 122,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://www.navieninc.com/",
+        "abs": "https://www.navieninc.com/",
+        "text": "",
+        "visible": true,
+        "aboveFold": false,
+        "h": 45,
+        "w": 122,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/plumbing-services/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/",
+        "text": "Plumbing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 83,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/",
+        "abs": "https://mucciaplumbing.com/cooling-services/",
+        "text": "Cooling",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 68,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/heating-services/",
+        "abs": "https://mucciaplumbing.com/heating-services/",
+        "text": "Heating",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 69,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "/commercial-hvac-plumbing-services-nj/",
+        "abs": "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "text": "Commercial",
+        "visible": true,
+        "aboveFold": false,
+        "h": 21,
+        "w": 106,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://mucciaplumbing.com/radiator-cold-spots-nj/",
+        "abs": "https://mucciaplumbing.com/radiator-cold-spots-nj/",
+        "text": "Radiator Cold Spots: Why Some Rooms Stay Cold Even When the Boiler Is Running",
+        "visible": true,
+        "aboveFold": false,
+        "h": 87,
+        "w": 285,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://mucciaplumbing.com/main-water-shutoff-valve-nj/",
+        "abs": "https://mucciaplumbing.com/main-water-shutoff-valve-nj/",
+        "text": "Where Is Your Main Water Shutoff Valve? How to Find and Test It Before an Emerge",
+        "visible": true,
+        "aboveFold": false,
+        "h": 87,
+        "w": 285,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://mucciaplumbing.com/why-does-sump-pump-keep-running/",
+        "abs": "https://mucciaplumbing.com/why-does-sump-pump-keep-running/",
+        "text": "Why Does My Sump Pump Keep Running Even When It Hasn’t Rained?",
+        "visible": true,
+        "aboveFold": false,
+        "h": 87,
+        "w": 285,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://givemeservice.com",
+        "abs": "https://givemeservice.com/",
+        "text": "Web design & Internet marketing",
+        "visible": true,
+        "aboveFold": false,
+        "h": 19,
+        "w": 243,
+        "inNav": false,
+        "inFooter": true
+      },
+      {
+        "href": "https://mucciaplumbing.com/",
+        "abs": "https://mucciaplumbing.com/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/about-us/",
+        "abs": "https://mucciaplumbing.com/about-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/employment/",
+        "abs": "https://mucciaplumbing.com/employment/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "abs": "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/financing/",
+        "abs": "https://mucciaplumbing.com/financing/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/service-areas-nj/",
+        "abs": "https://mucciaplumbing.com/service-areas-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/plumbing-services/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/plumbing-services/water-heaters-nj/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/water-heaters-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/plumbing-services/sump-pumps-nj/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/sump-pumps-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/plumbing-services/drain-cleaning-nj/",
+        "abs": "https://mucciaplumbing.com/plumbing-services/drain-cleaning-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/",
+        "abs": "https://mucciaplumbing.com/cooling-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/ac-installation-nj/",
+        "abs": "https://mucciaplumbing.com/cooling-services/ac-installation-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/ac-maintenance-nj/",
+        "abs": "https://mucciaplumbing.com/cooling-services/ac-maintenance-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/cooling-services/ac-repair-nj/",
+        "abs": "https://mucciaplumbing.com/cooling-services/ac-repair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/",
+        "abs": "https://mucciaplumbing.com/heating-services/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/heating-installation-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/heating-installation-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/hvac-system-repair-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/hvac-system-repair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/hvac-maintenance-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/hvac-maintenance-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/boiler-installation-repair-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/boiler-installation-repair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/heating-services/furnace-installation-repair-nj/",
+        "abs": "https://mucciaplumbing.com/heating-services/furnace-installation-repair-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "abs": "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "abs": "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/reviews/",
+        "abs": "https://mucciaplumbing.com/reviews/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/learning-center/",
+        "abs": "https://mucciaplumbing.com/learning-center/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/contact/",
+        "abs": "https://mucciaplumbing.com/contact/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      },
+      {
+        "href": "https://mucciaplumbing.com/review-us/",
+        "abs": "https://mucciaplumbing.com/review-us/",
+        "text": "",
+        "visible": false,
+        "aboveFold": false,
+        "h": 49,
+        "w": 360,
+        "inNav": true,
+        "inFooter": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Menu",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Our Specials",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "Contact Us Today!",
+        "visible": false,
+        "aboveFold": false
+      },
+      {
+        "text": "",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Our Specials",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "Contact Us Today!",
+        "visible": true,
+        "aboveFold": true
+      },
+      {
+        "text": "View More Testimonials",
+        "visible": true,
+        "aboveFold": false
+      }
+    ],
+    "forms": [],
+    "iframes": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.1964474675574!2d-74.0398811!3d40.9049841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2fa0efc8ca48f%3A0x111570649971b381!2sMuccia%20Plumbing%2C%20Heating%20%26%20AC!5e1!3m2!1sen!2sco!4v1781533986659!5m2!1sen!2sco",
+      "https://book.housecallpro.com/book/Muccia-Plumbing-Heating--AC/1d73a19d6c6149c19e5fa9aec3676c5d?v2=true"
+    ],
+    "scripts": [
+      "https://mucciaplumbing.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "https://mucciaplumbing.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "https://mucciaplumbing.com/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js?ver=3.1.6",
+      "https://mucciaplumbing.com/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js?ver=3.1.6",
+      "https://www.googletagmanager.com/gtag/js?id=G-92GL95N168",
+      "https://mucciaplumbing.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "https://widgets.leadconnectorhq.com/chat-widget/chat-widget.esm.js?v=1793746911540",
+      "https://widgets.leadconnectorhq.com/chat-widget/chat-widget.js",
+      "https://stcdn.leadconnectorhq.com/libphonenumber/1.12.41/libphonenumber-js.min.js",
+      "https://online-booking.housecallpro.com/script.js?token=1d73a19d6c6149c19e5fa9aec3676c5d&orgName=Muccia-Plumbing-Heating--AC",
+      "https://widgets.leadconnectorhq.com/loader.js?ver=4.0.6",
+      "https://mucciaplumbing.com/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/uagb-button-child.min.js?ver=2.20.5",
+      "https://mucciaplumbing.com/wp-content/themes/customify/build/js/frontend/theme.min.js?ver=1.0.0",
+      "https://mucciaplumbing.com/wp-content/plugins/flipbox/assets/js/eb-animation-load.js?ver=1.4.1",
+      "https://mucciaplumbing.com/wp-content/plugins/flipbox/dist/frontend/index.js?ver=1.4.1",
+      "https://cdn.callrail.com/companies/786267262/wp-0-5-3/swap.js?ver=7.1.4"
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Place",
+            "@id": "https://mucciaplumbing.com/#place",
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "40.905551614734215",
+              "longitude": " -74.03992391533953"
+            },
+            "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=40.905551614734215, -74.03992391533953",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "57 Orchard St",
+              "addressLocality": "Hackensack",
+              "addressRegion": "NJ",
+              "postalCode": "07601",
+              "addressCountry": "US"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://mucciaplumbing.com/#organization",
+            "name": "M.J. Muccia Plumbing, Heating &amp; AC",
+            "url": "https://mucciaplumbing.com",
+            "email": "info@mucciaplumbing.com",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "57 Orchard St",
+              "addressLocality": "Hackensack",
+              "addressRegion": "NJ",
+              "postalCode": "07601",
+              "addressCountry": "US"
+            },
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://mucciaplumbing.com/#logo",
+              "url": "https://mucciaplumbing.com/wp-content/uploads/2026/06/logo-mucciaplumbing.com_v1.1__400x354.webp",
+              "contentUrl": "https://mucciaplumbing.com/wp-content/uploads/2026/06/logo-mucciaplumbing.com_v1.1__400x354.webp",
+              "caption": "Muccia Plumbing NJ",
+              "inLanguage": "en-US",
+              "width": "400",
+              "height": "354"
+            },
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "telephone": "201-343-1414",
+                "contactType": "customer support"
+              }
+            ],
+            "description": "Plumbing, Air Conditioning &amp; Heating,\nHVAC in Hackensack, NJ\nServing Bergen County &amp; Hudson County, New Jersey",
+            "legalName": "M.J. Muccia Plumbing, Heating &amp; AC",
+            "location": {
+              "@id": "https://mucciaplumbing.com/#place"
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://mucciaplumbing.com/#website",
+            "url": "https://mucciaplumbing.com",
+            "name": "Muccia Plumbing NJ",
+            "alternateName": "Muccia Plumbing, Heating &amp; AC",
+            "publisher": {
+              "@id": "https://mucciaplumbing.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://mucciaplumbing.com/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://mucciaplumbing.com/wp-content/uploads/2026/09/1_mucciaplumbing.com-Logo__SQUARE.jpg",
+            "url": "https://mucciaplumbing.com/wp-content/uploads/2026/09/1_mucciaplumbing.com-Logo__SQUARE.jpg",
+            "width": "1500",
+            "height": "1500",
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://mucciaplumbing.com/#webpage",
+            "url": "https://mucciaplumbing.com/",
+            "name": "HVAC NJ, Plumbing Services, AC, Boilers, Heating Repair NJ",
+            "datePublished": "2021-08-03T16:38:53-04:00",
+            "dateModified": "2026-11-03T16:39:45-05:00",
+            "about": {
+              "@id": "https://mucciaplumbing.com/#organization"
+            },
+            "isPartOf": {
+              "@id": "https://mucciaplumbing.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://mucciaplumbing.com/wp-content/uploads/2026/09/1_mucciaplumbing.com-Logo__SQUARE.jpg"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://mucciaplumbing.com/#author",
+            "name": "Givemeservice",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://secure.gravatar.com/avatar/da29522f858e11d05163843d4d79f64d508022abacc30106813c8a28f2869b22?s=96&amp;d=mm&amp;r=g",
+              "url": "https://secure.gravatar.com/avatar/da29522f858e11d05163843d4d79f64d508022abacc30106813c8a28f2869b22?s=96&amp;d=mm&amp;r=g",
+              "caption": "Givemeservice",
+              "inLanguage": "en-US"
+            },
+            "worksFor": {
+              "@id": "https://mucciaplumbing.com/#organization"
+            }
+          },
+          {
+            "headline": "HVAC NJ, Plumbing Services, AC, Boilers, Heating Repair NJ",
+            "description": "Expert HVAC &amp; plumbing services in NJ, including AC, boilers, heating repair, water heaters &amp; more! Always FREE estimates!",
+            "datePublished": "2021-08-03T16:38:53-04:00",
+            "dateModified": "2026-11-03T16:39:45-05:00",
+            "image": {
+              "@id": "https://mucciaplumbing.com/wp-content/uploads/2026/09/1_mucciaplumbing.com-Logo__SQUARE.jpg"
+            },
+            "author": {
+              "@id": "https://mucciaplumbing.com/#author",
+              "name": "Givemeservice"
+            },
+            "@type": "Article",
+            "name": "HVAC NJ, Plumbing Services, AC, Boilers, Heating Repair NJ",
+            "@id": "https://mucciaplumbing.com/#schema-223992",
+            "isPartOf": {
+              "@id": "https://mucciaplumbing.com/#webpage"
+            },
+            "publisher": {
+              "@id": "https://mucciaplumbing.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://mucciaplumbing.com/#webpage"
+            }
+          },
+          {
+            "@type": "VideoObject",
+            "name": "HVAC NJ, Plumbing Services, AC, Boilers, Heating Repair NJ",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "uploadDate": "2021-08-03T16:38:53-04:00",
+            "thumbnailUrl": "https://mucciaplumbing.com/wp-content/uploads/2026/09/1_mucciaplumbing.com-Logo__SQUARE.jpg",
+            "embedUrl": "https://www.youtube.com/embed/jw5g6OelCnA",
+            "isFamilyFriendly": "True",
+            "@id": "https://mucciaplumbing.com/#schema-223993",
+            "isPartOf": {
+              "@id": "https://mucciaplumbing.com/#webpage"
+            },
+            "publisher": {
+              "@id": "https://mucciaplumbing.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://mucciaplumbing.com/#webpage"
+            }
+          }
+        ]
+      }
+    ],
+    "brokenImages": [],
+    "imageCount": 39,
+    "timing": {
+      "dcl": 1787,
+      "load": 3726,
+      "ttfb": 299
+    },
+    "captchaErrors": [],
+    "consoleErrors": [],
+    "overlays": [],
+    "status": 200,
+    "finalUrl": "https://mucciaplumbing.com/",
+    "navMs": 4587,
+    "tel": [
+      {
+        "href": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015844948"
+      },
+      {
+        "href": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015844948"
+      },
+      {
+        "href": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015844948"
+      }
+    ],
+    "vendors": [
+      {
+        "name": "WordPress",
+        "kind": "cms"
+      },
+      {
+        "name": "Housecall Pro",
+        "kind": "field_service"
+      },
+      {
+        "name": "CallRail",
+        "kind": "call_tracking"
+      },
+      {
+        "name": "GreenSky",
+        "kind": "financing"
+      }
+    ]
+  },
+  "mobile": {
+    "status": 200,
+    "finalUrl": "https://mucciaplumbing.com/",
+    "navMs": 5246,
+    "timing": {
+      "dcl": 1630,
+      "load": 2924,
+      "ttfb": 214
+    },
+    "viewportMeta": "width=device-width, initial-scale=1, maximum-scale=10.0, user-scalable=yes",
+    "innerWidth": 390,
+    "scrollWidth": 390,
+    "horizontalOverflow": false,
+    "tel": [
+      {
+        "href": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": false,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015844948"
+      },
+      {
+        "href": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": true,
+        "aboveFold": true,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015844948"
+      },
+      {
+        "href": "tel:+12015844948",
+        "text": "201-584-4948",
+        "visible": true,
+        "aboveFold": false,
+        "compare": "match",
+        "problem": null,
+        "e164": "+12015844948"
+      }
+    ],
+    "telAboveFold": true,
+    "ctaAboveFold": [],
+    "menuToggle": true,
+    "overlays": [],
+    "maxBlockingCover": 0,
+    "smallTapTargets": 0,
+    "visibleNavLinks": 3,
+    "brokenImages": [],
+    "textChars": 8217
+  },
+  "pages": {
+    "contact": {
+      "url": "https://mucciaplumbing.com/contact/",
+      "finalUrl": "https://mucciaplumbing.com/contact/",
+      "status": 200,
+      "title": "Contact - Muccia Plumbing NJ",
+      "forms": [
+        {
+          "action": "/contact/#gf_1",
+          "method": "post",
+          "id": "gform_1",
+          "cls": "",
+          "fieldCount": 6,
+          "fieldNames": [
+            "input_7",
+            "input_1",
+            "input_2",
+            "input_3",
+            "input_4",
+            "g-recaptcha-response"
+          ],
+          "visible": true,
+          "hasSubmit": true,
+          "submitDisabled": false,
+          "isSearch": false
+        }
+      ],
+      "iframes": [
+        "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lf3z2MtAAAAAJIZ0N4OMiDRcmcL9pnb0aWfYZ8t&co=aHR0cHM6Ly9tdWNjaWFwbHVtYmluZy5jb206NDQz&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&theme=light&size=normal&anchor-ms=20000&execute-ms=30000&cb=ph2jmprsko8m",
+        "about:blank",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.1964474675574!2d-74.0398811!3d40.9049841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2fa0efc8ca48f%3A0x111570649971b381!2sMuccia%20Plumbing%2C%20Heating%20%26%20AC!5e1!3m2!1sen!2sco!4v1781533986659!5m2!1sen!2sco",
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.1964474675574!2d-74.0398811!3d40.9049841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2fa0efc8ca48f%3A0x111570649971b381!2sMuccia%20Plumbing%2C%20Heating%20%26%20AC!5e1!3m2!1sen!2sco!4v1781533986659!5m2!1sen!2sco",
+        "https://www.google.com/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&k=6Lf3z2MtAAAAAJIZ0N4OMiDRcmcL9pnb0aWfYZ8t&bft=0dAFcWeA58UoWezzbxa-EKhrHNj2Bqt-UQMNzhF9dRTIYbJ0NwBcCA2bCVZvFt5TBryqqdsQ8Blu_i-mStgg1m4ltpfV4LmQzRhA"
+      ],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:+12015844948",
+          "text": "201-584-4948",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12015844948"
+        },
+        {
+          "href": "tel:+12015844948",
+          "text": "201-584-4948",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12015844948"
+        },
+        {
+          "href": "tel:+12015844948",
+          "text": "201-584-4948",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12015844948"
+        },
+        {
+          "href": "tel:+12015844948",
+          "text": "201-584-4948",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12015844948"
+        },
+        {
+          "href": "tel:+12015844948",
+          "text": "201-584-4948",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12015844948"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n\nCall Us 201-584-4948\n\nPLUMBING LIC. #6383\n\nHVAC LIC. #3264\n\nHOME\nABOUT\n \nPLUMBING\n \nCOOLING\n \nHEATING\n \nCOMMERCIAL\nSPECIALS\nREVIEWS\nBLOG\nCONTACT\n \nContact\n\nFREE ESTIMATE\n\nCall 201-584-4948 or contact us below\n\nWe respond to all inquiries as quickly as possible.\n\n\nName*\nPhone*\nEmail*\nDescribe your service requirements*\nCAPTCHA\nContact Us\n\nPhone: 201-584-4948\n\n57 Orchard St,\nHackensack, NJ 07601\nPhone: 201-584-4948\n\nFOLLOW US!\n\nOUR SERVICES\n\nPlumbing\nCooling\nHeating\nCommercial\n\nRECENT POSTS\n\nRadiator Cold Spots: Why Some Rooms Stay Cold Even When the Boiler Is Running\nWhere Is Your Main Water Shutoff Valve? How to Find and Test It Before an Emergency\nWhy Does My Sump Pump Keep Running Even When It Hasn’t Rained?\n\nWeb design & Internet marketing provided by GMS.",
+      "vendors": [
+        {
+          "name": "Google reCAPTCHA",
+          "kind": "captcha"
+        },
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        },
+        {
+          "name": "GreenSky",
+          "kind": "financing"
+        }
+      ],
+      "links": [
+        "https://mucciaplumbing.com/contact/#site-content",
+        "https://mucciaplumbing.com/contact/#",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/about-us/",
+        "https://mucciaplumbing.com/employment/",
+        "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/service-areas-nj/",
+        "https://mucciaplumbing.com/plumbing-services/",
+        "https://mucciaplumbing.com/plumbing-services/water-heaters-nj/",
+        "https://mucciaplumbing.com/plumbing-services/sump-pumps-nj/",
+        "https://mucciaplumbing.com/plumbing-services/drain-cleaning-nj/",
+        "https://mucciaplumbing.com/cooling-services/",
+        "https://mucciaplumbing.com/cooling-services/ac-installation-nj/",
+        "https://mucciaplumbing.com/cooling-services/ac-maintenance-nj/",
+        "https://mucciaplumbing.com/cooling-services/ac-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/",
+        "https://mucciaplumbing.com/heating-services/heating-installation-nj/",
+        "https://mucciaplumbing.com/heating-services/hvac-system-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/hvac-maintenance-nj/",
+        "https://mucciaplumbing.com/heating-services/boiler-installation-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/furnace-installation-repair-nj/",
+        "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "https://mucciaplumbing.com/reviews/",
+        "https://mucciaplumbing.com/learning-center/",
+        "https://mucciaplumbing.com/contact/",
+        "https://mucciaplumbing.com/review-us/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/plumbing-services/",
+        "https://mucciaplumbing.com/cooling-services/",
+        "https://mucciaplumbing.com/heating-services/",
+        "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "https://mucciaplumbing.com/radiator-cold-spots-nj/",
+        "https://mucciaplumbing.com/main-water-shutoff-valve-nj/",
+        "https://mucciaplumbing.com/why-does-sump-pump-keep-running/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/about-us/",
+        "https://mucciaplumbing.com/employment/",
+        "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/service-areas-nj/",
+        "https://mucciaplumbing.com/plumbing-services/",
+        "https://mucciaplumbing.com/plumbing-services/water-heaters-nj/",
+        "https://mucciaplumbing.com/plumbing-services/sump-pumps-nj/",
+        "https://mucciaplumbing.com/plumbing-services/drain-cleaning-nj/",
+        "https://mucciaplumbing.com/cooling-services/",
+        "https://mucciaplumbing.com/cooling-services/ac-installation-nj/",
+        "https://mucciaplumbing.com/cooling-services/ac-maintenance-nj/",
+        "https://mucciaplumbing.com/cooling-services/ac-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/",
+        "https://mucciaplumbing.com/heating-services/heating-installation-nj/",
+        "https://mucciaplumbing.com/heating-services/hvac-system-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/hvac-maintenance-nj/",
+        "https://mucciaplumbing.com/heating-services/boiler-installation-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/furnace-installation-repair-nj/",
+        "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "https://mucciaplumbing.com/reviews/",
+        "https://mucciaplumbing.com/learning-center/",
+        "https://mucciaplumbing.com/contact/",
+        "https://mucciaplumbing.com/review-us/"
+      ]
+    },
+    "about": {
+      "url": "https://mucciaplumbing.com/about-us/",
+      "finalUrl": "https://mucciaplumbing.com/about-us/",
+      "status": 200,
+      "title": "Learn About Muccia Plumbing Heating, Bios of Owners, History",
+      "forms": [],
+      "iframes": [
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.1964474675574!2d-74.0398811!3d40.9049841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2fa0efc8ca48f%3A0x111570649971b381!2sMuccia%20Plumbing%2C%20Heating%20%26%20AC!5e1!3m2!1sen!2sco!4v1781533986659!5m2!1sen!2sco"
+      ],
+      "captchaErrors": [],
+      "emails": [],
+      "tel": [
+        {
+          "href": "tel:+12015844948",
+          "text": "201-584-4948",
+          "visible": true,
+          "aboveFold": true,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12015844948"
+        },
+        {
+          "href": "tel:+12015844948",
+          "text": "201-584-4948",
+          "visible": false,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12015844948"
+        },
+        {
+          "href": "tel:+12015844948",
+          "text": "201-584-4948",
+          "visible": true,
+          "aboveFold": false,
+          "compare": "match",
+          "problem": null,
+          "e164": "+12015844948"
+        }
+      ],
+      "owners": [],
+      "bodyText": "Skip to content\n\nCall Us 201-584-4948\n\nPLUMBING LIC. #6383\n\nHVAC LIC. #3264\n\nHOME\nABOUT\n \nPLUMBING\n \nCOOLING\n \nHEATING\n \nCOMMERCIAL\nSPECIALS\nREVIEWS\nBLOG\nCONTACT\n \nAbout Muccia Plumbing & Heating\n\nMuccia Plumbing, Heating & AC has proudly served Bergen County, New Jersey with trusted plumbing, heating, and air conditioning services since 1978. Founded and operated by Master Plumber Michael Muccia, the company has built a strong reputation for reliable workmanship, honest recommendations, and exceptional customer care.\n\nOur experienced team provides comprehensive residential and commercial services, including plumbing repairs, heating systems, air conditioning, water heaters, and more. With a commitment to quality products, professional service, and customer satisfaction, Muccia Plumbing, Heating & AC treats every project with the care and attention it deserves. Homeowners throughout New Jersey can count on their experienced team for dependable comfort solutions.\n\nOur Mission\n\nTo deliver dependable plumbing, heating, and cooling solutions with honesty, professionalism, and exceptional care. Since 1978, we have proudly served New Jersey families and businesses by combining experienced craftsmanship, quality products, and personalized service to create lasting comfort, trust, and satisfaction.\n\nMike Muccia, Owner and Founder\n\nA licensed Master Plumber, Mike proudly leads Muccia Plumbing, Heating & AC as the owner and operator of a trusted New Jersey service company with a long standing commitment to quality and customer satisfaction. Since 1978, Muccia Plumbing, Heating & AC has been providing dependable plumbing, heating, and air conditioning solutions to homeowners and businesses throughout Bergen County and the surrounding communities.\n\nBuilt on decades of hands on experience, the company has grown into a full service HVAC and plumbing provider dedicated to keeping homes and businesses comfortable, efficient, and operating smoothly throughout every season.\n\nFrom routine maintenance and repairs to complete system installations, the Muccia Plumbing, Heating & AC team brings knowledge, professionalism, and attention to detail to every project.\n\nOur trained and certified technicians are equipped to handle a wide range of residential and commercial needs, including plumbing services, heating system maintenance, air conditioning solutions, and much more. With a commitment to honest recommendations, quality workmanship, and exceptional service, Michael Muccia and his team continue to build lasting relationships with customers by delivering reliable solutions they can count on year after year.\n\n\nA Message From Mike Muccia, Owner of Muccia Plumbing, Heating & AC\n\nAt Muccia Plumbing, Heating & AC, our customers are more than just service calls on a schedule. You are our neighbors, our community, and the families we are proud to serve. I want you to know that the health, safety, and comfort of your family are always our top priorities. When our technicians enter your home, we understand the responsibility that comes with being invited into your personal space. That is why we take every precaution to provide safe, respectful, and professional service. Our team arrives prepared with appropriate protective equipment, maintains respectful distance whenever possible, and takes extra care to clean any surfaces we touch while working in your home.\n\nWe are just as concerned about protecting your family as we are protecting our own. The truth is, our technicians have families too. We understand the importance of feeling safe and comfortable when someone enters your home, especially during uncertain times. You have trusted Muccia Plumbing, Heating & AC for decades, and that trust means everything to us. We will continue doing everything we can to provide reliable service while treating your home with the same care and respect we would expect for our own.\n\nThank you for allowing us to serve you and your family. We truly appreciate your trust.\n\nMike Muccia\nOwner, Muccia Plumbing, Heating & AC\n\n\nComplete Plumbing, Heating & AC Solutions You Can Trust\n\nNo matter what plumbing, heating, air conditioning, or ventilation challenge you are facing, Muccia Plumbing, Heating & AC is here to make the solution simple. Serving homeowners and businesses throughout Bergen County, we provide dependable service backed by decades of experience, skilled technicians, and a commitment to doing every job the right way.\n\nWe understand you have choices when selecting a plumbing and HVAC company, which is why we treat every service call as if it is the most important project we have ever completed. Whether we are performing a small repair, installing a new system, or handling a complex commercial project, our team delivers the same level of professionalism, attention to detail, and customer care. Our experience allows us to work efficiently, helping keep costs manageable while using quality components and proven solutions that provide lasting value. We stand behind our workmanship and take pride in providing honest recommendations, dependable repairs, and expert installations you can feel confident about.\n\nOur Plumbing, Heating & HVAC Services Include:\nHeating system cleaning, maintenance, tune ups, and seasonal preparation\nFurnace, boiler, and heating system repairs and replacements\nEmergency water heater repair and replacement services\nTraditional tank water heater and energy efficient water heater solutions\nSump pump installation, repair, and replacement, including AC powered systems with battery backup options\nBasement pump installation and bathroom drainage solutions\nComplete water supply and drainage system services\nOutdoor water spigot and bib valve installation and repairs\nModern faucet installation and bathroom fixture upgrades\nKitchen plumbing upgrades and sink fixture replacements\nNatural gas piping installation and repairs for appliances, including ovens, dryers, and water heaters\nPlumbing repairs and piping replacements to keep heating and cooling systems operating efficiently\nHVAC system upgrades designed to meet or exceed New Jersey state and local municipal codes\nPreventative maintenance services to help improve system performance and reliability\n\nAt Muccia Plumbing, Heating & AC, we believe quality service starts with treating every customer like a valued neighbor. From routine maintenance to emergency repairs, our goal is to provide dependable solutions that keep your home or business comfortable, safe, and running efficiently all year long.  Contact Us Today!\n\n57 Orchard St,\nHackensack, NJ 07601\nPhone: 201-584-4948\n\nFOLLOW US!\n\nOUR SERVICES\n\nPlumbing\nCooling\nHeating\nCommercial\n\nRECENT POSTS\n\nRadiator Cold Spots: Why Some Rooms Stay Cold Even When the Boiler Is Running\nWhere Is Your Main Water Shutoff Valve? How to Find and Test It Before an Emergency\nWhy Does My Sump Pump Keep Running Even When It Hasn’t Rained?\n\nWeb design & Internet marketing provided by GMS.",
+      "vendors": [
+        {
+          "name": "WordPress",
+          "kind": "cms"
+        },
+        {
+          "name": "CallRail",
+          "kind": "call_tracking"
+        },
+        {
+          "name": "GreenSky",
+          "kind": "financing"
+        }
+      ],
+      "links": [
+        "https://mucciaplumbing.com/about-us/#site-content",
+        "https://mucciaplumbing.com/about-us/#",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/about-us/",
+        "https://mucciaplumbing.com/employment/",
+        "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/service-areas-nj/",
+        "https://mucciaplumbing.com/plumbing-services/",
+        "https://mucciaplumbing.com/plumbing-services/water-heaters-nj/",
+        "https://mucciaplumbing.com/plumbing-services/sump-pumps-nj/",
+        "https://mucciaplumbing.com/plumbing-services/drain-cleaning-nj/",
+        "https://mucciaplumbing.com/cooling-services/",
+        "https://mucciaplumbing.com/cooling-services/ac-installation-nj/",
+        "https://mucciaplumbing.com/cooling-services/ac-maintenance-nj/",
+        "https://mucciaplumbing.com/cooling-services/ac-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/",
+        "https://mucciaplumbing.com/heating-services/heating-installation-nj/",
+        "https://mucciaplumbing.com/heating-services/hvac-system-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/hvac-maintenance-nj/",
+        "https://mucciaplumbing.com/heating-services/boiler-installation-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/furnace-installation-repair-nj/",
+        "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "https://mucciaplumbing.com/reviews/",
+        "https://mucciaplumbing.com/learning-center/",
+        "https://mucciaplumbing.com/contact/",
+        "https://mucciaplumbing.com/review-us/",
+        "https://mucciaplumbing.com/contact/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/plumbing-services/",
+        "https://mucciaplumbing.com/cooling-services/",
+        "https://mucciaplumbing.com/heating-services/",
+        "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "https://mucciaplumbing.com/radiator-cold-spots-nj/",
+        "https://mucciaplumbing.com/main-water-shutoff-valve-nj/",
+        "https://mucciaplumbing.com/why-does-sump-pump-keep-running/",
+        "https://mucciaplumbing.com/",
+        "https://mucciaplumbing.com/about-us/",
+        "https://mucciaplumbing.com/employment/",
+        "https://mucciaplumbing.com/hvac-plumbing-featured-brands/",
+        "https://mucciaplumbing.com/financing/",
+        "https://mucciaplumbing.com/service-areas-nj/",
+        "https://mucciaplumbing.com/plumbing-services/",
+        "https://mucciaplumbing.com/plumbing-services/water-heaters-nj/",
+        "https://mucciaplumbing.com/plumbing-services/sump-pumps-nj/",
+        "https://mucciaplumbing.com/plumbing-services/drain-cleaning-nj/",
+        "https://mucciaplumbing.com/cooling-services/",
+        "https://mucciaplumbing.com/cooling-services/ac-installation-nj/",
+        "https://mucciaplumbing.com/cooling-services/ac-maintenance-nj/",
+        "https://mucciaplumbing.com/cooling-services/ac-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/",
+        "https://mucciaplumbing.com/heating-services/heating-installation-nj/",
+        "https://mucciaplumbing.com/heating-services/hvac-system-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/hvac-maintenance-nj/",
+        "https://mucciaplumbing.com/heating-services/boiler-installation-repair-nj/",
+        "https://mucciaplumbing.com/heating-services/furnace-installation-repair-nj/",
+        "https://mucciaplumbing.com/commercial-hvac-plumbing-services-nj/",
+        "https://mucciaplumbing.com/hvac-plumbing-specials-nj/",
+        "https://mucciaplumbing.com/reviews/",
+        "https://mucciaplumbing.com/learning-center/",
+        "https://mucciaplumbing.com/contact/",
+        "https://mucciaplumbing.com/review-us/"
+      ]
+    }
+  },
+  "linkCheck": {
+    "checked": 30,
+    "at": "2026-11-03T23:02:39.735Z",
+    "statusCounts": {
+      "200": 30
+    },
+    "accessIssues": [],
+    "broken": []
+  },
+  "https": {
+    "httpFinal": "https://mucciaplumbing.com/",
+    "httpStatus": 200,
+    "httpError": null,
+    "httpsStatus": 200,
+    "httpsError": null,
+    "redirectsToHttps": true
+  },
+  "screenshots": {
+    "desktop_asis": "evidence/screenshots/muccia-plumbing-heating-ac/desktop-home.png",
+    "desktop_full": "evidence/screenshots/muccia-plumbing-heating-ac/desktop-home-full.png",
+    "desktop_contact": "evidence/screenshots/muccia-plumbing-heating-ac/desktop-contact.png",
+    "desktop_about": "evidence/screenshots/muccia-plumbing-heating-ac/desktop-about.png",
+    "mobile_asis": "evidence/screenshots/muccia-plumbing-heating-ac/mobile-home.png"
+  },
+  "notes": [],
+  "signals": {
+    "financing": false,
+    "emergency": true,
+    "licenseMention": true,
+    "njLicenses": [],
+    "testimonials": true,
+    "serviceArea": true,
+    "maintenancePlan": true,
+    "hiring": false,
+    "placeholder": null,
+    "services": {
+      "ac_repair": true,
+      "ac_install": true,
+      "furnace": true,
+      "boiler": true,
+      "heat_pump": false,
+      "ductless": false,
+      "maintenance": true,
+      "indoor_air": false,
+      "commercial": true,
+      "plumbing": true
+    },
+    "sinceYear": 1978,
+    "emails": [],
+    "owners": [],
+    "bookingLinkTexts": []
+  }
+}

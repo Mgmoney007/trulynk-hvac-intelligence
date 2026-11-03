@@ -3,9 +3,13 @@
 // trulynkCategory: A (verified, directly fixable) | B (potentially fixable, needs verification) | C (outside TruLynk control)
 // status: Verified | Suggestive | Requires Client Verification
 import { normalizePhone, classifyPhones } from './phone.mjs';
+import { DEAD_EFFECTS } from './cta.mjs';
 
 const FORM_IFRAME_RX = /jotform|typeform|docs\.google\.com\/forms|forms\.gle|servicetitan|scheduleengine|housecallpro|workiz|getjobber|formstack|hsforms|hubspot|cognitoforms|wufoo|123formbuilder|podium|calendly|fieldedge|successware|wix(?:site)?\.com\/.*form/i;
-const BOOKING_LINK_RX = /book|schedule|appointment|request|estimate|quote/i;
+const BOOKING_LINK_RX = /book|schedule|appointment|request|estimate|quote|contact/i;
+// Only the path is tested: domains like bloomfieldcooling.com would otherwise match every link.
+const urlPath = u => { try { return decodeURIComponent(new URL(u).pathname).replace(/[-_/.]/g, ' '); } catch { return ''; } };
+const SERVICE_TEXT_RX = /\bservices?\b|repair|install|replace|maintenance|heating|cooling|air condition|furnace|boiler|heat pump|ductless|residential|commercial/i;
 
 export function findingConfidence(f) {
   if (f.status === 'Verified') return f.reproduced && f.evidencePath ? 90 : f.evidencePath ? 75 : 60;
@@ -35,8 +39,10 @@ export function buildFindings(co, audit) {
       sourceUrl: a.url, evidencePath: shots[a.step.startsWith('mobile') ? 'mobile_failure' : 'desktop_failure'] || null, methods: ['playwright'], unresolved: 'Whether real visitors see the same block is unknown.' });
   }
   const homeErr = (audit.retrieval || []).find(r => r.step === 'desktop_home' && r.access === 'http_error' && (r.status === 404 || r.status === 410 || r.status >= 500));
-  if (homeErr) {
-    const fcOk = (audit.firecrawl || []).some(x => x.statusCode && x.statusCode < 400);
+  const fcOkHome = (audit.firecrawl || []).some(x => x.statusCode && x.statusCode < 400);
+  // Gateway-class errors (502/503/504) contradicted by a successful retrieval from another network are access failures, not defects.
+  if (homeErr && !(fcOkHome && [502, 503, 504].includes(homeErr.status))) {
+    const fcOk = fcOkHome;
     add({ code: 'A-LISTING-WEBSITE-ERROR', kind: 'defect', trulynkCategory: 'A', criterion: 'fixable', severity: 'high', conversionPath: true,
       status: fcOk ? 'Suggestive' : 'Verified', reproduced: !fcOk && (audit.firecrawl || []).length > 0,
       title: `Website link on the Google listing returns HTTP ${homeErr.status}`,
@@ -46,15 +52,29 @@ export function buildFindings(co, audit) {
   }
   if (!d) return F;
 
+  // ---------- Parked / placeholder website ----------
+  const PARKED_RX = /future home of something quite cool|launch this site|website coming soon|site (is )?under construction|this domain (is|may be) for sale|domain is parked|parked free|coming soon/i;
+  if ((PARKED_RX.test(d.title || '') || PARKED_RX.test((d.bodyText || '').slice(0, 600))) && (d.links || []).length < 8) {
+    add({ code: 'A-PARKED-WEBSITE', kind: 'defect', trulynkCategory: 'A', criterion: 'fixable', severity: 'high', conversionPath: true, status: 'Verified',
+      reproduced: !!m, methods: ['playwright_desktop', ...(m ? ['playwright_iphone13'] : [])],
+      title: 'Website linked from the Google listing is a parked "coming soon" placeholder',
+      description: `Homepage title "${d.title}"; page text: "${(d.bodyText || '').slice(0, 160).replace(/\s+/g, ' ')}". ${(d.links || []).length} link(s), no services, phone link or contact path.`,
+      sourceUrl: home, evidencePath: shots.desktop_asis || shots.desktop_full, reproductionSteps: `Open ${home} (the website on the Google Business Profile).`,
+      unresolved: 'Whether the business has another active website not linked from its listing.' });
+  }
+
   // ---------- Broken links (reproduced in browser) ----------
   for (const b of audit.linkCheck?.broken || []) {
     if (!b.reproduced) continue;
+    // Severity: conversion CTAs (book/schedule/estimate/quote/request/contact) and external booking links are high;
+    // primary navigation and core service pages are medium; everything else (testimonials, blog, city pages) is low.
     const inNav = b.linkedFrom.some(s => s.inNav);
-    const ctaish = b.linkedFrom.some(s => BOOKING_LINK_RX.test(s.text || '')) || /contact|book|schedule|estimate|quote|request|service/i.test(b.url);
-    const sev = ctaish || b.external ? 'high' : inNav ? 'medium' : 'low';
+    const ctaish = b.linkedFrom.some(s => BOOKING_LINK_RX.test(s.text || '')) || /contact|book|schedule|appointment|estimate|quote|request/i.test(b.url);
+    const servicePage = b.linkedFrom.some(s => SERVICE_TEXT_RX.test(s.text || '')) || SERVICE_TEXT_RX.test(urlPath(b.url));
+    const sev = ctaish || b.external ? 'high' : (inNav || servicePage) ? 'medium' : 'low';
     add({ code: 'A-BROKEN-LINK', kind: 'defect', trulynkCategory: 'A', criterion: 'fixable', severity: sev, conversionPath: ctaish,
       status: 'Verified', reproduced: true, methods: ['node_fetch', 'playwright'],
-      title: `Broken ${b.external ? 'external booking' : inNav ? 'navigation' : 'internal'} link: ${b.url.replace(/^https?:\/\/(www\.)?/, '')} (HTTP ${b.browserStatus})`,
+      title: `Broken ${b.external ? 'external booking' : ctaish ? 'call-to-action' : inNav ? 'navigation' : servicePage ? 'service-page' : 'internal'} link: ${b.url.replace(/^https?:\/\/(www\.)?/, '')} (HTTP ${b.browserStatus})`,
       description: `Link${b.linkedFrom[0]?.text ? ` "${b.linkedFrom[0].text}"` : ''} on ${b.linkedFrom.map(s => s.onPage).filter(Boolean).join(', ') || 'site'} leads to HTTP ${b.browserStatus}.`,
       sourceUrl: b.url, evidencePath: b.screenshot, reproductionSteps: `Open ${home}, follow the link to ${b.url}; page returns ${b.browserStatus}.` });
   }
@@ -67,27 +87,47 @@ export function buildFindings(co, audit) {
     }
   }
 
+  // ---------- CTA buttons with no destination (verified by click test) ----------
+  const dead = (audit.ctaClickTests || []).filter(t => DEAD_EFFECTS.includes(t.effect));
+  if (dead.length) {
+    const okSameText = (audit.ctaClickTests || []).some(t => t.effect && !DEAD_EFFECTS.includes(t.effect));
+    add({ code: 'A-DEAD-CTA', kind: 'defect', trulynkCategory: 'A', criterion: 'fixable', severity: 'high', conversionPath: true, status: 'Verified', reproduced: dead.length > 1,
+      methods: ['playwright_click_test'], title: `Call-to-action button(s) do nothing when clicked: ${[...new Set(dead.map(t => '"' + t.text + '"'))].join(', ')}`,
+      description: `Visible button link(s) with an empty or "#" href. Click results: ${dead.map(t => '"' + t.text + '" -> ' + t.effect).join('; ')}. No navigation, dialog or form appeared.${okSameText ? ' Other CTAs on the page do work.' : ''}`,
+      sourceUrl: home, evidencePath: dead[0].screenshot || shots.desktop_asis, reproductionSteps: `Open ${home} on desktop and click ${dead.map(t => '"' + t.text + '"').join(' / ')}.`,
+      unresolved: 'Behaviour on mobile and with other browsers not tested.' });
+  }
+
   // ---------- Phone links ----------
   const telAll = [...(d.tel || []).map(t => ({ ...t, where: 'desktop' })), ...((m?.tel) || []).map(t => ({ ...t, where: 'mobile' }))];
   const fcTel = (audit.firecrawl || []).flatMap(x => x.tel || []);
   const malformed = [...new Map(telAll.filter(t => t.problem).map(t => [t.href, t])).values()];
+  // A broken phone link only matters to customers if it is visible somewhere; hidden ones are latent (low severity).
+  const visibleIn = pred => [...new Set(telAll.filter(x => pred(x) && x.visible).map(x => x.where))];
   for (const t of malformed) {
     const where = new Set(telAll.filter(x => x.href === t.href).map(x => x.where));
+    const vis = visibleIn(x => x.href === t.href);
     const inFc = fcTel.some(x => x.href === t.href);
-    add({ code: 'A-TEL-MALFORMED', kind: 'defect', trulynkCategory: 'A', criterion: 'fixable', severity: 'high', conversionPath: true, status: 'Verified',
+    add({ code: 'A-TEL-MALFORMED', kind: 'defect', trulynkCategory: 'A', criterion: 'fixable', severity: vis.length ? 'high' : 'low', conversionPath: vis.length > 0, status: 'Verified', visibleIn: vis,
       reproduced: where.size > 1 || inFc, methods: ['playwright', ...(inFc ? ['firecrawl'] : [])],
       title: `Malformed click-to-call link (${t.problem.replace(/_/g, ' ')}): ${t.href}`,
-      description: `Tap-to-call link markup is "${t.href}" (shown as "${t.text}"). Seen on: ${[...where].join(', ')}${inFc ? ', Firecrawl' : ''}.`,
+      description: `Tap-to-call link markup is "${t.href}" (shown as "${t.text}"). Seen on: ${[...where].join(', ')}${inFc ? ', Firecrawl' : ''}. Visible to users on: ${vis.join(', ') || 'none (hidden element)'}.`,
       sourceUrl: home, evidencePath: shots.mobile_asis || shots.desktop_asis, reproductionSteps: `View source of ${home} and search for "${t.href}".`,
       unresolved: 'Whether a given phone dialer tolerates this markup has not been tested on physical devices.' });
   }
+  // Numbers anchored by the Google listing or schema markup: a link that dials one of these reaches the business's primary line.
+  const anchored = new Set([normalizePhone(co.gbpPhone)?.e164, ...JSON.stringify(d.jsonLd || []).match(/"telephone":"[^"]+"/g)?.map(x => normalizePhone(x.slice(13, -1))?.e164) || []].filter(Boolean));
   const mism = [...new Map(telAll.filter(t => t.compare === 'mismatch').map(t => [t.href + '|' + t.text, t])).values()];
   for (const t of mism) {
     const where = new Set(telAll.filter(x => x.href === t.href && x.text === t.text).map(x => x.where));
-    add({ code: 'A-TEL-MISMATCH', kind: 'defect', trulynkCategory: 'A', criterion: 'fixable', severity: 'high', conversionPath: true, status: 'Verified', reproduced: where.size > 1,
-      methods: ['playwright'], title: `Click-to-call link dials a different number than displayed`,
-      description: `Link text "${t.text}" but href "${t.href}".`, sourceUrl: home, evidencePath: shots.desktop_asis,
-      reproductionSteps: `On ${home}, inspect the link labelled "${t.text}".`, unresolved: 'Could be intentional call tracking with stale display text; confirm with business.' });
+    const vis = visibleIn(x => x.href === t.href && x.text === t.text);
+    const dialsPrimary = anchored.has(t.e164);
+    // Dials the listing/schema number: the call still reaches the primary line, so it is an inconsistency (medium), not misrouting.
+    const sev = !vis.length ? 'low' : dialsPrimary ? 'medium' : 'high';
+    add({ code: 'A-TEL-MISMATCH', kind: 'defect', trulynkCategory: 'A', criterion: 'fixable', severity: sev, conversionPath: sev === 'high', status: 'Verified', reproduced: where.size > 1, visibleIn: vis, dialsPrimary,
+      methods: ['playwright'], title: dialsPrimary ? `Click-to-call link shows ${normalizePhone(t.text)?.display || t.text} but dials the listing number ${normalizePhone(t.href)?.display}` : `Click-to-call button dials ${normalizePhone(t.href)?.display || t.href}, a number not shown on the site or Google listing (button reads ${normalizePhone(t.text)?.display || t.text})`,
+      description: `Link text "${t.text}" but href "${t.href}". Seen on: ${[...where].join(', ')}. Visible to users on: ${vis.join(', ') || 'none (hidden element)'}.`, sourceUrl: home, evidencePath: shots.desktop_asis,
+      reproductionSteps: `On ${home}, inspect the link labelled "${t.text}".`, unresolved: dialsPrimary ? 'Which displayed number is current.' : 'Whether the dialed number is a tracking/forwarding line that reaches the business; not tested by calling.' });
   }
 
   // ---------- Form / CAPTCHA ----------
@@ -139,7 +179,7 @@ export function buildFindings(co, audit) {
   const bookingVendors = (d.vendors || []).concat(...Object.values(audit.pages || {}).map(p => p.vendors || [])).filter(v => ['field_service', 'scheduling'].includes(v.kind));
   const fridx = { home };
   if (!telAll.length && !fcTel.length) add({ code: 'F-NO-TEL-LINKS', kind: 'friction', trulynkCategory: 'A', criterion: 'conversion', severity: 'high', conversionPath: true, status: 'Verified', reproduced: !!m, methods: ['playwright'],
-    title: 'Phone number is not tap-to-call anywhere on the homepage', description: 'No tel: links found on desktop or mobile homepage.', sourceUrl: home, evidencePath: shots.mobile_asis || shots.desktop_asis });
+    title: 'Phone number is not tap-to-call anywhere on the homepage', description: 'No <a href="tel:"> links in the desktop or mobile homepage DOM; any number shown is plain text.', sourceUrl: home, evidencePath: shots.mobile_asis || shots.desktop_asis });
   if (!realForms.length && !formIframes.length && !bookingVendors.length) add({ code: 'F-NO-FORM-OR-BOOKING', kind: 'friction', trulynkCategory: 'A', criterion: 'conversion', severity: 'high', conversionPath: true, status: 'Verified', reproduced: false, methods: ['playwright'],
     title: 'No web form or online booking found on homepage, contact, or booking pages', description: `Pages checked: ${[home, ...Object.values(audit.pages || {}).map(p => p.url)].join(', ')}`, sourceUrl: audit.pages?.contact?.url || home,
     evidencePath: shots.desktop_contact || shots.desktop_full, unresolved: 'Forms on other pages were not checked.' });
