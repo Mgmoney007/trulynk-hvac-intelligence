@@ -1,0 +1,578 @@
+[
+  {
+    "id": "super-service-plumbers-heating-and-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Super+Service+Plumbers+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2575ff699218d:0x24e0f79e277fba30!8m2!3d40.7585255!4d-74.0345604!16s%2Fg%2F1ygbb7nb0!19sChIJjSGZ9l9XwokRMLp_J5734CQ"
+  },
+  {
+    "id": "jimmy-s-arctic-heating-air-conditioning-repair",
+    "placeUrl": "https://www.google.com/maps/place/Jimmy%27s+Arctic+Heating+%26+Air+Conditioning+Repair/data=!4m7!3m6!1s0x89c259d851e26935:0xe183b43cf69f7c62!8m2!3d40.7492386!4d-74.0283459!16s%2Fg%2F1thcnpv9!19sChIJNWniUdhZwokRYnyf9jy0g-E"
+  },
+  {
+    "id": "eco-plumbing-heating-air-conditioning-2",
+    "placeUrl": "https://www.google.com/maps/place/Eco+Plumbing+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2578c0f6e766b:0x9ae0fcd151e88b4c!8m2!3d40.8182215!4d-74.0112845!16s%2Fg%2F11cn3tksjx!19sChIJa3ZuD4xXwokRTIvoUdH84Jo"
+  },
+  {
+    "id": "arcticflow-hvac-repair-union-city",
+    "placeUrl": "https://www.google.com/maps/place/ArcticFlow+HVAC+Repair+Union+City/data=!4m7!3m6!1s0x89c2592b8f241acb:0x21fcd39a8658623b!8m2!3d40.7760577!4d-74.0267401!16s%2Fg%2F11ytp1wqlb!19sChIJyxokjytZwokRO2JYhprT_CE"
+  },
+  {
+    "id": "royal-heating-corporation",
+    "placeUrl": "https://www.google.com/maps/place/Royal+Heating+Corporation/data=!4m7!3m6!1s0x89c2510fd9f62749:0x6128c5d82a4b5d76!8m2!3d40.7007209!4d-74.0906517!16s%2Fg%2F1tfwqwpq!19sChIJSSf22Q9RwokRdl1LKtjFKGE"
+  },
+  {
+    "id": "hvac-zone-inc",
+    "placeUrl": "https://www.google.com/maps/place/HVAC+ZONE+INC/data=!4m7!3m6!1s0x6884aaee39d4f217:0x5d79e509fdfd3375!8m2!3d40.769996!4d-74.1636542!16s%2Fg%2F11s_vfw4vg!19sChIJF_LUOe6qhGgRdTP9_QnleV0"
+  },
+  {
+    "id": "fred-s-climate-control",
+    "placeUrl": "https://www.google.com/maps/place/Fred%27s+Climate+Control/data=!4m7!3m6!1s0x89c2595e52722d03:0x42f6e58040319a01!8m2!3d40.797981!4d-74.01947!16s%2Fg%2F11ly2sw669!19sChIJAy1yUl5ZwokRAZoxQIDl9kI"
+  },
+  {
+    "id": "american-way-plumbing-heating-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/American+Way+Plumbing,+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c25732720b7645:0x77bade28c483931b!8m2!3d40.732786!4d-74.0730869!16s%2Fg%2F1hc4ytwqs!19sChIJRXYLcjJXwokRG5ODxCjeunc"
+  },
+  {
+    "id": "fix-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Fix+Hvac/data=!4m7!3m6!1s0x50fe38293c3983b:0x5e103152c2395408!8m2!3d40.8490615!4d-73.983218!16s%2Fg%2F11nb62l2lc!19sChIJO5jDk4LjDwURCFQ5wlIxEF4"
+  },
+  {
+    "id": "boost-hvac-service",
+    "placeUrl": "https://www.google.com/maps/place/BOOST+HVAC+Service/data=!4m7!3m6!1s0xaa1d0978fa82089d:0x9aeff88305f51f0f!8m2!3d40.8628196!4d-74.1784594!16s%2Fg%2F11xrmsf571!19sChIJnQiC-ngJHaoRDx_1BYP475o"
+  },
+  {
+    "id": "airtek-mechanical-heating-cooling-llc",
+    "placeUrl": "https://www.google.com/maps/place/Airtek+Mechanical+Heating+%26+Cooling+LLC/data=!4m7!3m6!1s0x89c255fae60ee521:0xa75bc14d26d3d89b!8m2!3d40.8120275!4d-74.1248539!16s%2Fg%2F1q62bwr_h!19sChIJIeUO5vpVwokRm9jTJk3BW6c"
+  },
+  {
+    "id": "msj-hvac-services",
+    "placeUrl": "https://www.google.com/maps/place/MSJ+HVAC+Services/data=!4m7!3m6!1s0x243904992c82ea3:0x21b4a2ee6da5ee68!8m2!3d40.073132!4d-74.6318776!16s%2Fg%2F11ln22x5z5!19sChIJoy7IkkmQQwIRaO6lbe6itCE"
+  },
+  {
+    "id": "deaire-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/DeAire+Heating+%26+Cooling/data=!4m7!3m6!1s0xad5f9f7ecc49bc6d:0x12751450786cffd8!8m2!3d40.7970363!4d-74.0182381!16s%2Fg%2F11src97v93!19sChIJbbxJzH6fX60R2P9seFAUdRI"
+  },
+  {
+    "id": "service-hvac-units-llc",
+    "placeUrl": "https://www.google.com/maps/place/Service+HVAC+Units+LLC/data=!4m7!3m6!1s0x89c25727135cafa3:0xa9790bdb7208a7e!8m2!3d40.883307!4d-74.1355184!16s%2Fg%2F11jl45lskd!19sChIJo69cEydXwokRfoogt72Qlwo"
+  },
+  {
+    "id": "bargotti-co-plumbing-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Bargotti+Co.+Plumbing+%26+Hvac/data=!4m7!3m6!1s0x89c2572dd0895555:0x903e743841e9548a!8m2!3d40.7320282!4d-74.0675333!16s%2Fg%2F11rf72zz9h!19sChIJVVWJ0C1XwokRilTpQTh0PpA"
+  },
+  {
+    "id": "win-air-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Win+Air+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2f7b7f5081347:0x622bc18ba2abb850!8m2!3d40.8170804!4d-73.9946226!16s%2Fg%2F11cmxt3hc6!19sChIJRxMI9bf3wokRULiroovBK2I"
+  },
+  {
+    "id": "ideal-climate-hvacr",
+    "placeUrl": "https://www.google.com/maps/place/Ideal+Climate+HVACR/data=!4m7!3m6!1s0x89c25782563d724d:0xedfad7e5dcffc98a!8m2!3d40.887852!4d-74.1355184!16s%2Fg%2F1v4ptxyq!19sChIJTXI9VoJXwokRisn_3OXX-u0"
+  },
+  {
+    "id": "aeromark-mechanical-inc",
+    "placeUrl": "https://www.google.com/maps/place/Aeromark+Mechanical+Inc/data=!4m7!3m6!1s0x89c251cd5a46c2e5:0x43b173713b79715c!8m2!3d40.7198334!4d-74.0399705!16s%2Fg%2F11rv6hqp6g!19sChIJ5cJGWs1RwokRXHF5O3FzsUM"
+  },
+  {
+    "id": "new-jersey-ptac-services",
+    "placeUrl": "https://www.google.com/maps/place/New+Jersey+PTAC+Services./data=!4m7!3m6!1s0x89c2510086949a71:0xf48d44947afc2bc1!8m2!3d40.7160286!4d-74.0741294!16s%2Fg%2F11vl5bdhdr!19sChIJcZqUhgBRwokRwSv8epREjfQ"
+  },
+  {
+    "id": "finch-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Finch+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2f70d7c0168a5:0x4a604e9075dcaaad!8m2!3d40.8466308!4d-74.0039542!16s%2Fg%2F11ygsnndbl!19sChIJpWgBfA33wokRrarcdZBOYEo"
+  },
+  {
+    "id": "master-ac-heating",
+    "placeUrl": "https://www.google.com/maps/place/Master+AC+%26+Heating/data=!4m7!3m6!1s0x89c255c360c8a6ff:0xc1dfd05b594c2b30!8m2!3d40.7579133!4d-74.1490845!16s%2Fg%2F11t__k_qfz!19sChIJ_6bIYMNVwokRMCtMWVvQ38E"
+  },
+  {
+    "id": "general-air-pro-llc",
+    "placeUrl": "https://www.google.com/maps/place/General+Air+Pro+LLC/data=!4m7!3m6!1s0x89c255f40cc29b8f:0xc5382e70d9ef3aed!8m2!3d40.7908215!4d-74.1380976!16s%2Fg%2F11m71p7g6g!19sChIJj5vCDPRVwokR7Trv2XAuOMU"
+  },
+  {
+    "id": "cool-air-new-jersey",
+    "placeUrl": "https://www.google.com/maps/place/Cool+Air+New+Jersey/data=!4m7!3m6!1s0x89c251c93e12af17:0x7b9199aac9c5eed6!8m2!3d40.7179131!4d-74.0797011!16s%2Fg%2F11kp9d0z49!19sChIJF68SPslRwokR1u7FyaqZkXs"
+  },
+  {
+    "id": "jersey-heating-air-conditioning-service",
+    "placeUrl": "https://www.google.com/maps/place/Jersey+Heating+%26+Air+Conditioning+Service/data=!4m7!3m6!1s0x89c2571da4f9a921:0x257a4609f723799b!8m2!3d40.7282334!4d-74.0414027!16s%2Fg%2F11z_64xbb1!19sChIJIan5pB1XwokRm3kj9wlGeiU"
+  },
+  {
+    "id": "rentanac-nyc",
+    "placeUrl": "https://www.google.com/maps/place/RentAnAC+NYC/data=!4m7!3m6!1s0x89c2f76f7c00927f:0x8bffe2b0f7cada8!8m2!3d40.8020546!4d-74.023586!16s%2Fg%2F11n92lfhp1!19sChIJf5IAfG_3wokRqK18Dyv-vwg"
+  },
+  {
+    "id": "best-new-york-hvac-repair",
+    "placeUrl": "https://www.google.com/maps/place/Best+New+York+HVAC+Repair/data=!4m7!3m6!1s0x89c2585fb2856aeb:0x9ce0e03a9cb7c924!8m2!3d40.7268456!4d-73.9749849!16s%2Fg%2F11g6m_c_z8!19sChIJ62qFsl9YwokRJMm3nDrg4Jw"
+  },
+  {
+    "id": "the-bayonne-hvac-boys",
+    "placeUrl": "https://www.google.com/maps/place/The+Bayonne+HVAC+Boys/data=!4m7!3m6!1s0x8030c3d66181f58b:0xae829e49b9df284d!8m2!3d40.671531!4d-74.105533!16s%2Fg%2F11z1ddq4v_!19sChIJi_WBYdbDMIARTSjfuUmegq4"
+  },
+  {
+    "id": "andes-hvac-aire-acondicionado",
+    "placeUrl": "https://www.google.com/maps/place/Andes+HVAC+Aire+Acondicionado/data=!4m7!3m6!1s0x89c2550a9623ad21:0x29a3cfab68b0bd4b!8m2!3d40.7716528!4d-74.143847!16s%2Fg%2F11zxrxb9j7!19sChIJIa0jlgpVwokRS72waKvPoyk"
+  },
+  {
+    "id": "iron-crest-plumbing-of-union-city",
+    "placeUrl": "https://www.google.com/maps/place/Iron+Crest+Plumbing+of+Union+City/data=!4m7!3m6!1s0x44be667d5048c477:0xc62efa8afae5e998!8m2!3d40.7686086!4d-74.0316054!16s%2Fg%2F11nw2zqk6m!19sChIJd8RIUH1mvkQRmOnl-or6LsY"
+  },
+  {
+    "id": "cronin-plumbing-and-heating",
+    "placeUrl": "https://www.google.com/maps/place/Cronin+Plumbing+and+Heating/data=!4m7!3m6!1s0x89c2596736d12031:0xb195943b00fc2ff8!8m2!3d40.7643894!4d-74.025079!16s%2Fg%2F11rfwgd5jc!19sChIJMSDRNmdZwokR-C_8ADuUlbE"
+  },
+  {
+    "id": "camilo-hvac-company",
+    "placeUrl": "https://www.google.com/maps/place/Camilo+HVAC+Company/data=!4m7!3m6!1s0x89c251f66ba21f4b:0xd8911aa5d5296181!8m2!3d40.805879!4d-74.1677711!16s%2Fg%2F11bc6z9qz8!19sChIJSx-ia_ZRwokRgWEp1aUakdg"
+  },
+  {
+    "id": "everest-cooling-heating-refrigeration",
+    "placeUrl": "https://www.google.com/maps/place/Everest+Cooling+Heating+%26+Refrigeration/data=!4m7!3m6!1s0x8557a308ae352dfb:0x943b094eca07e922!8m2!3d40.887852!4d-74.0983554!16s%2Fg%2F11xl4gjqtz!19sChIJ-y01rgijV4URIukHyk4JO5Q"
+  },
+  {
+    "id": "air-don-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Air+Don+Hvac/data=!4m7!3m6!1s0x89c255612e1de329:0xfcd53755c4f95d15!8m2!3d40.7947303!4d-74.1317156!16s%2Fg%2F11fwwtp51x!19sChIJKeMdLmFVwokRFV35xFU31fw"
+  },
+  {
+    "id": "andes-refrigeration",
+    "placeUrl": "https://www.google.com/maps/place/Andes+Refrigeration/data=!4m7!3m6!1s0x89c2555fd38c0355:0x1cde08c9619d57c!8m2!3d40.7590566!4d-74.1566819!16s%2Fg%2F11r_tf13nh!19sChIJVQOM019VwokRfNUZlozgzQE"
+  },
+  {
+    "id": "hvac-metals-llc",
+    "placeUrl": "https://www.google.com/maps/place/HVAC+Metals,+LLC/data=!4m7!3m6!1s0x89c2543e0a12acc7:0x489c2f73829fa0c0!8m2!3d40.7589574!4d-74.1414717!16s%2Fg%2F11bc960nn6!19sChIJx6wSCj5UwokRwKCfgnMvnEg"
+  },
+  {
+    "id": "rite-rate-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Rite+Rate+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2543a616e0c77:0xf604e6ba57338a!8m2!3d40.7536665!4d-74.1308964!16s%2Fg%2F1hf0vll9h!19sChIJdwxuYTpUwokRijNXuuYE9gA"
+  },
+  {
+    "id": "arctic-plumbing-hvac-llc",
+    "placeUrl": "https://www.google.com/maps/place/Arctic+Plumbing+%26+HVAC+LLC/data=!4m7!3m6!1s0x89c2e51e9322fc27:0xac94d1bada48ba72!8m2!3d40.9226154!4d-74.3917234!16s%2Fg%2F11t5tb58dj!19sChIJJ_wikx7lwokRcrpI2rrRlKw"
+  },
+  {
+    "id": "duct-mate-inc",
+    "placeUrl": "https://www.google.com/maps/place/Duct+Mate+Inc./data=!4m7!3m6!1s0x89c2f90253e040cf:0xbe5e8f5e9f0e3913!8m2!3d40.8765763!4d-74.0518832!16s%2Fg%2F11rxrtxdlk!19sChIJz0DgUwL5wokREzkOn16PXr4"
+  },
+  {
+    "id": "first-choice-plumbing-heating-air-conditioning-electrical-ha",
+    "placeUrl": "https://www.google.com/maps/place/First+Choice+Plumbing,+Heating,+Air+Conditioning+%26+Electrical+%28Hackensack%29/data=!4m7!3m6!1s0x25b5e8803e49fdd1:0xa8f973985e3a52a7!8m2!3d40.8838554!4d-74.0452052!16s%2Fg%2F11yd0x4h_n!19sChIJ0f1JPoDotSURp1I6Xphz-ag"
+  },
+  {
+    "id": "jemmy-s-hvac-heating-and-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/Jemmy%27s+HVAC+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c2f9f1bee5fb67:0x8e45291e3253fdc!8m2!3d40.8860273!4d-74.0421239!16s%2Fg%2F11cm_qb8s9!19sChIJZ_vlvvH5wokR3D8l45FS5Ag"
+  },
+  {
+    "id": "first-choice-plumbing-heating-and-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/First+Choice+Plumbing+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c2f9089b4bb4a5:0x8eaeb1ad353e1bea!8m2!3d40.8720811!4d-74.0919534!16s%2Fg%2F1tgh3xvz!19sChIJpbRLmwj5wokR6hs-Na2xro4"
+  },
+  {
+    "id": "new-jersey-hvac",
+    "placeUrl": "https://www.google.com/maps/place/New+Jersey+HVAC/data=!4m7!3m6!1s0x89c2f0305f65e1ef:0xf850d34bad5fc44b!8m2!3d40.8955259!4d-74.0808197!16s%2Fg%2F1hm2ykv_v!19sChIJ7-FlXzDwwokRS8RfrUvTUPg"
+  },
+  {
+    "id": "yuhan-heating-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/Yuhan+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f05b40d5a637:0x70b309701086c145!8m2!3d40.9241611!4d-73.999328!16s%2Fg%2F1tfmp9xq!19sChIJN6bVQFvwwokRRcGGEHAJs3A"
+  },
+  {
+    "id": "grc-mechanical-services",
+    "placeUrl": "https://www.google.com/maps/place/GRC+Mechanical+Services/data=!4m7!3m6!1s0x89c2f992f6458393:0x11a735be851c1eb9!8m2!3d40.8723937!4d-74.056319!16s%2Fg%2F1xtf2hp1!19sChIJk4NF9pL5wokRuR4chb41pxE"
+  },
+  {
+    "id": "price-beat-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Price+Beat+HVAC/data=!4m7!3m6!1s0x89c3b39403f852ab:0x675b1b94ec86e6bd!8m2!3d40.9673744!4d-74.0739123!16s%2Fg%2F11j5cndcxr!19sChIJq1L4A5Szw4kRveaG7JQbW2c"
+  },
+  {
+    "id": "e-z-temp",
+    "placeUrl": "https://www.google.com/maps/place/E-Z+Temp/data=!4m7!3m6!1s0x89c2fa04ba3e4fe1:0x45617b9c9c94bee1!8m2!3d40.887521!4d-74.040854!16s%2Fg%2F1td2_d2j!19sChIJ4U8-ugT6wokR4b6UnJx7YUU"
+  },
+  {
+    "id": "jason-mazzer-plumbing-hvac-llc",
+    "placeUrl": "https://www.google.com/maps/place/Jason+Mazzer+Plumbing+%26+HVAC,+LLC/data=!4m7!3m6!1s0x89c2fbbe008b4fe7:0xd2b53ccd106dd17f!8m2!3d40.916253!4d-74.100395!16s%2Fg%2F1w6_prm4!19sChIJ50-LAL77wokRf9FtEM08tdI"
+  },
+  {
+    "id": "total-comfort-services-llc",
+    "placeUrl": "https://www.google.com/maps/place/Total+Comfort+Services+LLC/data=!4m7!3m6!1s0x89c2e28093d9e54f:0xb4cc79ef44207a38!8m2!3d40.9841917!4d-74.0107484!16s%2Fg%2F1v5k3z1_!19sChIJT-XZk4DiwokROHogRO95zLQ"
+  },
+  {
+    "id": "hvac-ready-llc",
+    "placeUrl": "https://www.google.com/maps/place/HVAC+Ready+LLC/data=!4m7!3m6!1s0x86d63194c79e0f95:0xba66580d757c3db2!8m2!3d40.897583!4d-74.19842!16s%2Fg%2F11rd8_3mrs!19sChIJlQ-ex5Qx1oYRsj18dQ1YZro"
+  },
+  {
+    "id": "sm-heating-and-air-conditioning-inc",
+    "placeUrl": "https://www.google.com/maps/place/SM+Heating+and+Air+Conditioning+Inc./data=!4m7!3m6!1s0x89c3036e405722f1:0x7147f9caf6ea2f4c!8m2!3d41.0066353!4d-74.2921953!16s%2Fg%2F1tppsxgj!19sChIJ8SJXQG4Dw4kRTC_q9sr5R3E"
+  },
+  {
+    "id": "railroad-climate-services",
+    "placeUrl": "https://www.google.com/maps/place/Railroad+Climate+Services/data=!4m7!3m6!1s0x89c2fbf2542fd581:0xabdec68f7c57efcc!8m2!3d40.8907738!4d-74.0462886!16s%2Fg%2F11n3nx04vf!19sChIJgdUvVPL7wokRzO9XfI_G3qs"
+  },
+  {
+    "id": "551-hvac-repair",
+    "placeUrl": "https://www.google.com/maps/place/551+HVAC+Repair/data=!4m7!3m6!1s0x28904d0bb388e127:0x70e7ee8c0b390198!8m2!3d40.88306!4d-74.0880917!16s%2Fg%2F11wmjqpjc0!19sChIJJ-GIswtNkCgRmAE5C4zu53A"
+  },
+  {
+    "id": "e-thermal-hvac",
+    "placeUrl": "https://www.google.com/maps/place/E-thermal+HVAC/data=!4m7!3m6!1s0x665d1b11c3b3d02d:0xba583799e7635b8d!8m2!3d40.890233!4d-74.0160311!16s%2Fg%2F11y8rcwmmq!19sChIJLdCzwxEbXWYRjVtj55k3WLo"
+  },
+  {
+    "id": "air-tech-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Air+tech+Heating+%26+Cooling/data=!4m7!3m6!1s0x4721c0b31abf8985:0x836fd8851951935d!8m2!3d40.930381!4d-74.1469864!16s%2Fg%2F11nb798l2y!19sChIJhYm_GrPAIUcRXZNRGYXYb4M"
+  },
+  {
+    "id": "reiner-group-inc",
+    "placeUrl": "https://www.google.com/maps/place/Reiner+Group,+Inc./data=!4m7!3m6!1s0x89c2fba1dde19507:0x3b4c66aba67edb3e!8m2!3d40.9305099!4d-74.1313605!16s%2Fg%2F1thgcd29!19sChIJB5Xh3aH7wokRPtt-pqtmTDs"
+  },
+  {
+    "id": "o-neill-contracting-hvac",
+    "placeUrl": "https://www.google.com/maps/place/O%27Neill+Contracting+HVAC/data=!4m7!3m6!1s0x89c2f0382227d043:0xa7a98e6d350f8760!8m2!3d40.9357275!4d-73.9952811!16s%2Fg%2F1th5_r17!19sChIJQ9AnIjjwwokRYIcPNW2Oqac"
+  },
+  {
+    "id": "a-degree-above-heating-cooling-llc",
+    "placeUrl": "https://www.google.com/maps/place/A+Degree+Above+Heating+%26+Cooling,+LLC/data=!4m7!3m6!1s0x89c2fbd9e95f6915:0xe2a6c4d6c4849809!8m2!3d40.906637!4d-74.097483!16s%2Fg%2F11b5wjrvg2!19sChIJFWlf6dn7wokRCZiExNbEpuI"
+  },
+  {
+    "id": "muccia-plumbing-heating-ac",
+    "placeUrl": "https://www.google.com/maps/place/Muccia+Plumbing,+Heating+%26+AC/data=!4m7!3m6!1s0x89c2fa0efc8ca48f:0x111570649971b381!8m2!3d40.9049841!4d-74.0398811!16s%2Fg%2F1tf_p73h!19sChIJj6SM_A76wokRgbNxmWRwFRE"
+  },
+  {
+    "id": "db-heating-cooling-inc",
+    "placeUrl": "https://www.google.com/maps/place/DB+Heating+%26+Cooling,+Inc./data=!4m7!3m6!1s0x89c2ef8b74b389f5:0x891385bdf052d3ac!8m2!3d41.0165827!4d-74.1214135!16s%2Fg%2F1tsbn17r!19sChIJ9YmzdIvvwokRrNNS8L2FE4k"
+  },
+  {
+    "id": "whalen-ives-inc",
+    "placeUrl": "https://www.google.com/maps/place/Whalen+%26+Ives,+Inc./data=!4m7!3m6!1s0x89c2e5ffa2e14333:0xeeace8062c61857!8m2!3d41.0364003!4d-74.0323876!16s%2Fg%2F1tlgywqx!19sChIJM0Phov_lwokRVxjGYoDO6g4"
+  },
+  {
+    "id": "paramus-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Paramus+HVAC/data=!4m7!3m6!1s0x893a65a483593bc1:0x699a2d156d6335ab!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11p1mt17xc!19sChIJwTtZg6RlOokRqzVjbRUtmmk"
+  },
+  {
+    "id": "eco-airflow",
+    "placeUrl": "https://www.google.com/maps/place/Eco+AirFlow/data=!4m7!3m6!1s0x89c2fc0cb8c817cd:0xe827ca76bd1161b7!8m2!3d40.9132512!4d-74.1311725!16s%2Fg%2F11fnypdnb7!19sChIJzRfIuAz8wokRt2ERvXbKJ-g"
+  },
+  {
+    "id": "jm-heights-cooling-corp",
+    "placeUrl": "https://www.google.com/maps/place/JM+Heights+Cooling+Corp./data=!4m7!3m6!1s0x6df3a6a9560154b7:0x899d31cab18a24cc!8m2!3d40.9324375!4d-74.19842!16s%2Fg%2F11n52yn7rn!19sChIJt1QBVqmm820RzCSKscoxnYk"
+  },
+  {
+    "id": "prestige-air-mechanical-corp",
+    "placeUrl": "https://www.google.com/maps/place/Prestige+Air+Mechanical+Corp/data=!4m7!3m6!1s0x89c3073dd30fbc07:0x62907680c8eb2747!8m2!3d40.8739792!4d-74.0494013!16s%2Fg%2F11j8l0pwz9!19sChIJB7wP0z0Hw4kRRyfryIB2kGI"
+  },
+  {
+    "id": "gold-ac-heating-services",
+    "placeUrl": "https://www.google.com/maps/place/Gold+AC+%26+Heating+Services/data=!4m7!3m6!1s0x89c2fbc13314b53f:0x725885689198b39d!8m2!3d40.8851897!4d-74.040753!16s%2Fg%2F11kpcxv_tg!19sChIJP7UUM8H7wokRnbOYkWiFWHI"
+  },
+  {
+    "id": "fivestar-heating-cooling-services",
+    "placeUrl": "https://www.google.com/maps/place/FiveStar+Heating+Cooling+Services/data=!4m7!3m6!1s0x89c2fb33546cc79f:0xc02f0ef06e8af35f!8m2!3d40.8955579!4d-74.0453055!16s%2Fg%2F11yx_zpgnm!19sChIJn8dsVDP7wokRX_OKbvAOL8A"
+  },
+  {
+    "id": "smart-hvac-solutions",
+    "placeUrl": "https://www.google.com/maps/place/Smart+HVAC+Solutions/data=!4m7!3m6!1s0x89c2f912b972bbcb:0x2d420e285d1a684b!8m2!3d40.8350215!4d-74.102996!16s%2Fg%2F11x18v565c!19sChIJy7tyuRL5wokRS2gaXSgOQi0"
+  },
+  {
+    "id": "mahwah-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Mahwah+HVAC/data=!4m7!3m6!1s0x4c90db5364ca0e5d:0x9c37037d96ad2029!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11p1scnw56!19sChIJXQ7KZFPbkEwRKSCtln0DN5w"
+  },
+  {
+    "id": "jt-hvacr-service",
+    "placeUrl": "https://www.google.com/maps/place/JT+HVACR+Service/data=!4m7!3m6!1s0x237cca8449f2789d:0xe05c7f97ecfe8ddc!8m2!3d40.9226154!4d-74.19842!16s%2Fg%2F11x27w7t_r!19sChIJnXjySYTKfCMR3I3-7Jd_XOA"
+  },
+  {
+    "id": "sparrow-ac-repair-co",
+    "placeUrl": "https://www.google.com/maps/place/Sparrow+AC+Repair+Co/data=!4m7!3m6!1s0x89c2e127885993c3:0x4cfac59601b5128a!8m2!3d41.062875!4d-74.133891!16s%2Fg%2F11xs8_vb27!19sChIJw5NZiCfhwokRihK1AZbF-kw"
+  },
+  {
+    "id": "temco-heating-air-conditoning-inc",
+    "placeUrl": "https://www.google.com/maps/place/Temco+Heating+%26+Air+Conditoning+Inc/data=!4m7!3m6!1s0x89c2e59b7013e2dd:0x5ad2ddfbe7fa19fc!8m2!3d41.0059848!4d-74.0440527!16s%2Fg%2F1tmy5_05!19sChIJ3eITcJvlwokR_Bn65_vd0lo"
+  },
+  {
+    "id": "intact-plumbing-heating",
+    "placeUrl": "https://www.google.com/maps/place/Intact+Plumbing+%26+Heating/data=!4m7!3m6!1s0x89c2fba121fff8c5:0x48cf000f062b70dc!8m2!3d40.9226159!4d-74.1108282!16s%2Fg%2F11ckvsrq0n!19sChIJxfj_IaH7wokR3HArBg8Az0g"
+  },
+  {
+    "id": "air-comfort-and-refrigeration-services-bloomfield-new-jersey",
+    "placeUrl": "https://www.google.com/maps/place/Air+Comfort+and+Refrigeration+Services+-+Bloomfield+New+Jersey/data=!4m7!3m6!1s0x89c2556db39a9779:0x5d5a1cfb824dd125!8m2!3d40.8382781!4d-74.1637531!16s%2Fg%2F11b7cj3cn1!19sChIJeZeas21VwokRJdFNgvscWl0"
+  },
+  {
+    "id": "m-s-technician",
+    "placeUrl": "https://www.google.com/maps/place/M%26S+Technician/data=!4m7!3m6!1s0x89c2f7e8b1bb7c95:0x10595789cd3257ef!8m2!3d40.8889839!4d-74.2017037!16s%2Fg%2F11fxcd9wkt!19sChIJlXy7sej3wokR71cyzYlXWRA"
+  },
+  {
+    "id": "go-pro-heating-and-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Go+Pro+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2ff5e6b6b8569:0x485c44cf7dbffb9b!8m2!3d40.8568327!4d-74.1477369!16s%2Fg%2F11ftwfjv7j!19sChIJaYVra17_wokRm_u_fc9EXEg"
+  },
+  {
+    "id": "service-champions-plumbing-heating-air",
+    "placeUrl": "https://www.google.com/maps/place/Service+Champions+Plumbing,+Heating+%26+Air/data=!4m7!3m6!1s0x89c2ffd064eab70d:0x49caff687e130a52!8m2!3d40.8977312!4d-74.200111!16s%2Fg%2F11z1zp_d3j!19sChIJDbfqZND_wokRUgoTfmj_ykk"
+  },
+  {
+    "id": "master-group-heating-cooling-plumbing",
+    "placeUrl": "https://www.google.com/maps/place/Master+Group+Heating,+Cooling+%26+Plumbing/data=!4m7!3m6!1s0x65d792b62e82c8a7:0xf3408e51f392255d!8m2!3d40.8706484!4d-74.1690894!16s%2Fg%2F11q95g4bq0!19sChIJp8iCLraS12URXSWS81GOQPM"
+  },
+  {
+    "id": "all-week-mechanical-group-air-conditioning-2",
+    "placeUrl": "https://www.google.com/maps/place/ALL+WEEK+MECHANICAL+GROUP+AIR+CONDITIONING/data=!4m7!3m6!1s0x89c2fec21ffc2af3:0xc0bdf448b6a9343f!8m2!3d40.8718979!4d-74.1460265!16s%2Fg%2F1s04wq1xk!19sChIJ8yr8H8L-wokRPzSptkj0vcA"
+  },
+  {
+    "id": "ez-flow-mechanical-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/EZ+Flow+Mechanical+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2feebb39389db:0x24f372e7a8ca5f91!8m2!3d40.8740135!4d-74.1506617!16s%2Fg%2F11_txj6gc!19sChIJ24mTs-v-wokRkV_KqOdy8yQ"
+  },
+  {
+    "id": "clifton-ac-repair-systems",
+    "placeUrl": "https://www.google.com/maps/place/Clifton+AC+Repair+Systems/data=!4m7!3m6!1s0x89c2ff06499d501f:0xa55ddc1d2b81b8c0!8m2!3d40.8577724!4d-74.1478181!16s%2Fg%2F11px_bsf35!19sChIJH1CdSQb_wokRwLiBKx3cXaU"
+  },
+  {
+    "id": "tornado-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Tornado+HVAC/data=!4m7!3m6!1s0x84430f118a04f673:0x94df8910fb8f4c3b!8m2!3d40.8818526!4d-74.1366667!16s%2Fg%2F11xn962qbm!19sChIJc_YEihEPQ4QRO0yP-xCJ35Q"
+  },
+  {
+    "id": "a-c-quality-air",
+    "placeUrl": "https://www.google.com/maps/place/A%26C+Quality+Air/data=!4m7!3m6!1s0xacb07be89eee881d:0x4400ea6c14f792f4!8m2!3d40.8736372!4d-74.1386006!16s%2Fg%2F11rq2d6zh2!19sChIJHYjunuh7sKwR9JL3FGzqAEQ"
+  },
+  {
+    "id": "zaina-service-tech",
+    "placeUrl": "https://www.google.com/maps/place/Zaina+Service+Tech/data=!4m7!3m6!1s0x89c2fddf1840c5a1:0x9f06ec6b7e94725e!8m2!3d40.897953!4d-74.147181!16s%2Fg%2F11h2qs6nml!19sChIJocVAGN_9wokRXnKUfmvsBp8"
+  },
+  {
+    "id": "pacific-air-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Pacific+Air+HVAC/data=!4m7!3m6!1s0x89c2febe9157238f:0xa44cd1971cd006a0!8m2!3d40.8653235!4d-74.1515378!16s%2Fg%2F11ghr0j88g!19sChIJjyNXkb7-wokRoAbQHJfRTKQ"
+  },
+  {
+    "id": "atlantic-mechanical-contractors-of-north-jersey-2",
+    "placeUrl": "https://www.google.com/maps/place/Atlantic+Mechanical+Contractors+of+North+Jersey/data=!4m7!3m6!1s0xa066a8c56ba8d831:0xe0f70cfc1bc3e5c2!8m2!3d40.9332924!4d-74.231392!16s%2Fg%2F11rr1r1lvj!19sChIJMdioa8WoZqARwuXDG_wM9-A"
+  },
+  {
+    "id": "jf-mechanical-heating-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/JF+Mechanical+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f95b1426c5b1:0x1c949e559e6940c9!8m2!3d40.8615326!4d-74.114017!16s%2Fg%2F11qb3mp2m_!19sChIJscUmFFv5wokRyUBpnlWelBw"
+  },
+  {
+    "id": "3degrees-plumbing-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/3Degrees+Plumbing+Heating+Cooling/data=!4m7!3m6!1s0x89c2fed28e83ab29:0xc3a7b1ddcfd6245a!8m2!3d40.8630554!4d-74.1261696!16s%2Fg%2F11f9xjmt8f!19sChIJKauDjtL-wokRWiTWz92xp8M"
+  },
+  {
+    "id": "ultra-air",
+    "placeUrl": "https://www.google.com/maps/place/Ultra+Air/data=!4m7!3m6!1s0x89c2ff42e46a0f1d:0xb8c6ddae86b017b2!8m2!3d40.8289197!4d-74.144921!16s%2Fg%2F11fz9_4htl!19sChIJHQ9q5EL_wokRshewhq7dxrg"
+  },
+  {
+    "id": "blueray-heating-and-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Blueray+Heating+and+Cooling/data=!4m7!3m6!1s0x89c2ffde348130d7:0x89518d4ddc76fdfe!8m2!3d40.8793216!4d-74.1302847!16s%2Fg%2F11vm4pbcv6!19sChIJ1zCBNN7_wokR_v123E2NUYk"
+  },
+  {
+    "id": "celestial-air-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Celestial+Air+HVAC/data=!4m7!3m6!1s0x89c2fc19107cc18d:0xb0a678fca2ef266d!8m2!3d40.9226154!4d-74.3917234!16s%2Fg%2F11cspywzdf!19sChIJjcF8EBn8wokRbSbvovx4prA"
+  },
+  {
+    "id": "atlantic-mechanical-contractors-of-north-jersey",
+    "placeUrl": "https://www.google.com/maps/place/Atlantic+Mechanical+Contractors+of+North+Jersey/data=!4m7!3m6!1s0x89c2fdf1bee4f98f:0x48c6b69721874ced!8m2!3d40.8801425!4d-74.1455347!16s%2Fg%2F11c44qddc2!19sChIJj_nkvvH9wokR7UyHIZe2xkg"
+  },
+  {
+    "id": "acacos-llc-hvac-air-conditioning-repair",
+    "placeUrl": "https://www.google.com/maps/place/Acacos+LLC+HVAC+%26+Air+Conditioning+Repair/data=!4m7!3m6!1s0x4775aeda8afd9b61:0x341822b5611a471f!8m2!3d40.8732931!4d-74.1765889!16s%2Fg%2F11kc32jpvw!19sChIJYZv9itqudUcRH0caYbUiGDQ"
+  },
+  {
+    "id": "irepair-heating-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/IRepair+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2febed200ee6d:0x946edd25b1773364!8m2!3d40.8793963!4d-74.1419367!16s%2Fg%2F1hc4px8mv!19sChIJbe4A0r7-wokRZDN3sSXdbpQ"
+  },
+  {
+    "id": "reliable-hvac-paterson",
+    "placeUrl": "https://www.google.com/maps/place/Reliable+HVAC+Paterson/data=!4m7!3m6!1s0x75c9c8c999ba289:0xa07127f9fbc1a8aa!8m2!3d40.9162763!4d-74.1711422!16s%2Fg%2F11zcnykfth!19sChIJiaKbmYycXAcRqqjB-_kncaA"
+  },
+  {
+    "id": "all-time-heating-cooling-plumbing",
+    "placeUrl": "https://www.google.com/maps/place/All+Time+Heating+Cooling+%26+Plumbing/data=!4m7!3m6!1s0x65035d1a616bf99d:0x95c5e00c84db2325!8m2!3d40.872137!4d-74.1773816!16s%2Fg%2F11rjqhrfjr!19sChIJnflrYRpdA2URJSPbhAzgxZU"
+  },
+  {
+    "id": "master-group-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Master+Group+HVAC/data=!4m7!3m6!1s0x6014d91860277117:0x45f1a619896eecdf!8m2!3d40.9040587!4d-74.1996232!16s%2Fg%2F11y3672xf2!19sChIJF3EnYBjZFGAR3-xuiRmm8UU"
+  },
+  {
+    "id": "r-traupmann-hvac-llc",
+    "placeUrl": "https://www.google.com/maps/place/R+Traupmann+HVAC+LLC/data=!4m7!3m6!1s0x89c2f94b2cb4f789:0x5a473db345984cd0!8m2!3d40.8766603!4d-74.1237562!16s%2Fg%2F1tkb60tq!19sChIJife0LEv5wokR0EyYRbM9R1o"
+  },
+  {
+    "id": "keil-heating-and-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/KEIL+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x89c31b537c404803:0x40b7c3732b13b2c!8m2!3d41.0013321!4d-74.3176152!16s%2Fg%2F1xpwkqhs!19sChIJA0hAfFMbw4kRLDuxMjd8CwQ"
+  },
+  {
+    "id": "mark-lindsay-and-son-plumbing-heating-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/Mark+Lindsay+and+Son+Plumbing,+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c3105a04095a11:0x6919c5cede9e7fda!8m2!3d41.050397!4d-74.4397843!16s%2Fg%2F1264r31yv!19sChIJEVoJBFoQw4kR2n-e3s7FGWk"
+  },
+  {
+    "id": "indoor-expert-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Indoor+Expert+Heating+%26+Cooling/data=!4m7!3m6!1s0xaf9b6165b78bab93:0x1e52fbea6fa3ce8f!8m2!3d40.92656!4d-74.1649928!16s%2Fg%2F11tt01vgb6!19sChIJk6uLt2Vhm68Rj86jb-r7Uh4"
+  },
+  {
+    "id": "ultimate-aire-systems-inc",
+    "placeUrl": "https://www.google.com/maps/place/Ultimate+Aire+Systems,+Inc./data=!4m7!3m6!1s0x89c30292c9ad9ea3:0x260da04341abc40e!8m2!3d40.9611886!4d-74.2416349!16s%2Fg%2F1tg2ff2x!19sChIJo56tyZICw4kRDsSrQUOgDSY"
+  },
+  {
+    "id": "cd-heating-and-cooling",
+    "placeUrl": "https://www.google.com/maps/place/CD+Heating+and+Cooling/data=!4m7!3m6!1s0x280032edf7ecff97:0xb46b2f51109e8a5b!8m2!3d40.8715287!4d-74.1409629!16s%2Fg%2F11whgwt9vl!19sChIJl__s9-0yACgRW4qeEFEva7Q"
+  },
+  {
+    "id": "slick-temp",
+    "placeUrl": "https://www.google.com/maps/place/Slick+Temp/data=!4m7!3m6!1s0x89c2ff89517a26ed:0xaeb62640aea26976!8m2!3d40.890031!4d-74.1638483!16s%2Fg%2F11yyg781mn!19sChIJ7SZ6UYn_wokRdmmirkAmtq4"
+  },
+  {
+    "id": "stashluk-plumbing-heating-air-conditioning-and-generators-2",
+    "placeUrl": "https://www.google.com/maps/place/Stashluk+Plumbing,+Heating,+Air+Conditioning+and+Generators+2/data=!4m7!3m6!1s0x89c2fd5174094913:0xd14035329c4f7c8!8m2!3d40.936147!4d-74.1877266!16s%2Fg%2F11j2zlf5jq!19sChIJE0kJdFH9wokRyPfEKVMDFA0"
+  },
+  {
+    "id": "nolan-ac-services",
+    "placeUrl": "https://www.google.com/maps/place/Nolan+AC+Services/data=!4m7!3m6!1s0x89c2fcec329eaaab:0xc45efd6646ee4875!8m2!3d40.949336!4d-74.1525994!16s%2Fg%2F11xtlq0gxm!19sChIJq6qeMuz8wokRdUjuRmb9XsQ"
+  },
+  {
+    "id": "hawthorne-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Hawthorne+HVAC/data=!4m7!3m6!1s0x2060c48047107f2f:0x55d75b694fb2bdf9!8m2!3d40.925844!4d-74.3917234!16s%2Fg%2F11zy9wd1lz!19sChIJL38QR4DEYCAR-b2yT2lb11U"
+  },
+  {
+    "id": "paterson-climate",
+    "placeUrl": "https://www.google.com/maps/place/Paterson+Climate/data=!4m7!3m6!1s0x89c2fd797559c3df:0x46fafbf0030d9c67!8m2!3d40.8999022!4d-74.154244!16s%2Fg%2F11yz7wgwb0!19sChIJ38NZdXn9wokRZ5wNA_D7-kY"
+  },
+  {
+    "id": "superior-home-services",
+    "placeUrl": "https://www.google.com/maps/place/Superior+Home+Services/data=!4m7!3m6!1s0x89c2ffe9f8924af3:0xb76b74c54c401222!8m2!3d40.8928043!4d-74.1438788!16s%2Fg%2F11ntgw5bwv!19sChIJ80qS-On_wokRIhJATMV0a7c"
+  },
+  {
+    "id": "ac-heat-by-kyle",
+    "placeUrl": "https://www.google.com/maps/place/AC+%26+Heat+by+Kyle/data=!4m7!3m6!1s0x89c2552a907e696d:0x94c188c67f714e81!8m2!3d40.7590353!4d-74.2297961!16s%2Fg%2F11jb9mh4cv!19sChIJbWl-kCpVwokRgU5xf8aIwZQ"
+  },
+  {
+    "id": "bloomfield-cooling-heating-electric-inc",
+    "placeUrl": "https://www.google.com/maps/place/Bloomfield+Cooling,+Heating+%26+Electric+Inc./data=!4m7!3m6!1s0x89c25589ffbaeebf:0xab53c5e140ed597f!8m2!3d40.8845124!4d-74.2236874!16s%2Fg%2F1tfm2c73!19sChIJv-66_4lVwokRf1ntQOHFU6s"
+  },
+  {
+    "id": "residential-air-systems-inc",
+    "placeUrl": "https://www.google.com/maps/place/Residential+Air+Systems,+Inc./data=!4m7!3m6!1s0x89c30735548418c5:0xb4c47b9c9be43c3d!8m2!3d40.8664432!4d-74.2260474!16s%2Fg%2F1tf5fpl7!19sChIJxRiEVDUHw4kRPTzkm5x7xLQ"
+  },
+  {
+    "id": "newmans-heating-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/Newmans+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c3ab0a32cf8933:0x685a9f000740514e!8m2!3d40.7714901!4d-74.1960636!16s%2Fg%2F11jffcl8ys!19sChIJM4nPMgqrw4kRTlFABwCfWmg"
+  },
+  {
+    "id": "lincoln-mechanical-corporation",
+    "placeUrl": "https://www.google.com/maps/place/Lincoln+Mechanical+Corporation/data=!4m7!3m6!1s0x89c3abd2bd526169:0xa62ff00d588502fb!8m2!3d40.8161619!4d-74.2196255!16s%2Fg%2F11jtdqdmtm!19sChIJaWFSvdKrw4kR-wKFWA3wL6Y"
+  },
+  {
+    "id": "precision-hvac-repair-caldwell",
+    "placeUrl": "https://www.google.com/maps/place/Precision+HVAC+Repair+Caldwell/data=!4m7!3m6!1s0x89c301cd7a03fd19:0xf9f927cac7c3ad1a!8m2!3d40.8376375!4d-74.2740479!16s%2Fg%2F11msh_j443!19sChIJGf0Des0Bw4kRGq3Dx8on-fk"
+  },
+  {
+    "id": "air-solutions-llc-heating-hvac-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/Air+Solutions+LLC+%7C+Heating+HVAC+Air+Conditioning/data=!4m7!3m6!1s0x89c303dba25307bf:0xd9d28fc7222e2210!8m2!3d40.901048!4d-74.3375374!16s%2Fg%2F11b6dw7cc3!19sChIJvwdTotsDw4kRECIuIseP0tk"
+  },
+  {
+    "id": "urban-mechanical-nj",
+    "placeUrl": "https://www.google.com/maps/place/Urban+Mechanical+NJ/data=!4m7!3m6!1s0x3dcdf90295d4b83:0x9dc140103cb24ab3!8m2!3d40.9388045!4d-74.304999!16s%2Fg%2F11rptgc43s!19sChIJg0tdKZDf3AMRs0qyPBBAwZ0"
+  },
+  {
+    "id": "margo-plumbing-heating-cooling-inc",
+    "placeUrl": "https://www.google.com/maps/place/MarGo+Plumbing+Heating+Cooling+Inc./data=!4m7!3m6!1s0x89c301ce5d8b2adf:0x66b09e754a7b9ff0!8m2!3d40.875719!4d-74.2972769!16s%2Fg%2F1tjxglfc!19sChIJ3yqLXc4Bw4kR8J97SnWesGY"
+  },
+  {
+    "id": "go-green-heating-air-conditioning",
+    "placeUrl": "https://www.google.com/maps/place/Go+Green+Heating+%26+Air+Conditioning/data=!4m7!3m6!1s0x89c2f8b084e6b033:0xfc469d73f7da6212!8m2!3d40.8221072!4d-74.1355722!16s%2Fg%2F1q6h_2r2b!19sChIJM7DmhLD4wokREmLa93OdRvw"
+  },
+  {
+    "id": "overcool-llc",
+    "placeUrl": "https://www.google.com/maps/place/OverCool+LLC/data=!4m7!3m6!1s0x89c2ff67c6048bbd:0x9204ada5f3e9d186!8m2!3d40.8595311!4d-74.1399877!16s%2Fg%2F11lgf2fnsg!19sChIJvYsExmf_wokRhtHp86WtBJI"
+  },
+  {
+    "id": "air-crew-heating-and-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Air+Crew+Heating+and+Cooling/data=!4m7!3m6!1s0xc334c66f326c14f:0xb17adca5241018ab!8m2!3d40.8807373!4d-74.2612383!16s%2Fg%2F11ty8418xt!19sChIJT8Em82ZMMwwRqxgQJKXcerE"
+  },
+  {
+    "id": "air-plus-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Air+Plus+hvac/data=!4m7!3m6!1s0x89c3ab7a37ea35a3:0xa9868378d005151f!8m2!3d40.7639944!4d-74.2946321!16s%2Fg%2F11z6zz9plr!19sChIJozXqN3qrw4kRHxUF0HiDhqk"
+  },
+  {
+    "id": "premier-hvac-services",
+    "placeUrl": "https://www.google.com/maps/place/Premier+HVAC+Services/data=!4m7!3m6!1s0x89c255766e37fa1d:0xb2e97777bcfa148e!8m2!3d40.8078907!4d-74.1525903!16s%2Fg%2F11v9_0bwxr!19sChIJHfo3bnZVwokRjhT6vHd36bI"
+  },
+  {
+    "id": "adriatic-aire",
+    "placeUrl": "https://www.google.com/maps/place/Adriatic+Aire/data=!4m7!3m6!1s0x89c2ff481c94d2cd:0xb596b5df5e928bdc!8m2!3d40.8302367!4d-74.2059638!16s%2Fg%2F1hm4zqj12!19sChIJzdKUHEj_wokR3IuSXt-1lrU"
+  },
+  {
+    "id": "vip-hvac-service-corporation",
+    "placeUrl": "https://www.google.com/maps/place/VIP+HVAC+SERVICE+CORPORATION/data=!4m7!3m6!1s0x89c3adad807d6f4b:0x400a02fe99f55ce5!8m2!3d40.7147015!4d-74.2766458!16s%2Fg%2F11d_zc7pcy!19sChIJS299gK2tw4kR5Vz1mf4CCkA"
+  },
+  {
+    "id": "lightning-mechanical-llc-commercial-hvac-services",
+    "placeUrl": "https://www.google.com/maps/place/Lightning+Mechanical+LLC:+Commercial+HVAC+Services/data=!4m7!3m6!1s0x89c3acfe603b6369:0x7cb363adfdab0e50!8m2!3d40.7174269!4d-74.2602729!16s%2Fg%2F1264k4n4p!19sChIJaWM7YP6sw4kRUA6r_a1js3w"
+  },
+  {
+    "id": "premium-mechanical-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Premium+Mechanical+HVAC/data=!4m7!3m6!1s0x6e50eadf2f1525c9:0x1e3c1f73997d9993!8m2!3d40.897583!4d-74.3917234!16s%2Fg%2F11npy8jhnn!19sChIJySUVL9_qUG4Rk5l9mXMfPB4"
+  },
+  {
+    "id": "maverick-ambitions-hvac-newark-s-experts",
+    "placeUrl": "https://www.google.com/maps/place/Maverick+Ambitions+HVAC-+Newark%27s+Experts/data=!4m7!3m6!1s0xa485a6a4f572a3cd:0x5d627a92e4ab08ac!8m2!3d40.641387!4d-74.2426019!16s%2Fg%2F11pvh7cjtm!19sChIJzaNy9aSmhaQRrAir5JJ6Yl0"
+  },
+  {
+    "id": "integrate-comfort-systems",
+    "placeUrl": "https://www.google.com/maps/place/Integrate+Comfort+Systems/data=!4m7!3m6!1s0x89c255b84f0cc463:0xcf58fb049d80c25b!8m2!3d40.7902133!4d-74.149847!16s%2Fg%2F11cls6v4pj!19sChIJY8QMT7hVwokRW8KAnQT7WM8"
+  },
+  {
+    "id": "j-m-cooling-and-heating",
+    "placeUrl": "https://www.google.com/maps/place/J%26M+Cooling+and+Heating/data=!4m7!3m6!1s0x89c30085a0abffff:0xb64929f5dba5bc95!8m2!3d40.8734903!4d-74.2901915!16s%2Fg%2F11gmyx5vtc!19sChIJ__-roIUAw4kRlbyl2_UpSbY"
+  },
+  {
+    "id": "service-professionals",
+    "placeUrl": "https://www.google.com/maps/place/Service+Professionals/data=!4m7!3m6!1s0x89c301a6f81644bd:0x57210ed7677ce6ff!8m2!3d40.8862166!4d-74.2430784!16s%2Fg%2F11w_tq5zgc!19sChIJvUQW-KYBw4kR_-Z8Z9cOIVc"
+  },
+  {
+    "id": "multitemp-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Multitemp+HVAC/data=!4m7!3m6!1s0x89c30085d9915555:0xe096de31f07be4!8m2!3d40.8432494!4d-74.2710584!16s%2Fg%2F11qgyltf74!19sChIJVVWR2YUAw4kR5HvwMd6W4AA"
+  },
+  {
+    "id": "marcketta-heating-and-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Marcketta+Heating+and+Cooling/data=!4m7!3m6!1s0x89c3aed7bc05458d:0x7bf0f33d976c0f6d!8m2!3d40.7596103!4d-74.3568662!16s%2Fg%2F11hbn1yl6y!19sChIJjUUFvNeuw4kRbQ9slz3z8Hs"
+  },
+  {
+    "id": "air-cubes-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Air+Cubes+HVAC/data=!4m7!3m6!1s0x89c3ade69dc3a1fb:0x6013ca36a8b441e6!8m2!3d40.7075747!4d-74.2817362!16s%2Fg%2F11h3k739r5!19sChIJ-6HDneatw4kR5kG0qDbKE2A"
+  },
+  {
+    "id": "montclair-comfort-services",
+    "placeUrl": "https://www.google.com/maps/place/Montclair+Comfort+Services/data=!4m7!3m6!1s0x89c2fd95c0f62e55:0xc805344bd949f4dd!8m2!3d40.9512971!4d-74.2119814!16s%2Fg%2F11y_q4s3kh!19sChIJVS72wJX9wokR3fRJ2Us0Bcg"
+  },
+  {
+    "id": "super-climate",
+    "placeUrl": "https://www.google.com/maps/place/Super+Climate/data=!4m7!3m6!1s0x89c25385bdb2de45:0x90e93fdc5f23cd95!8m2!3d40.7213259!4d-74.1638178!16s%2Fg%2F11yz6n8_cw!19sChIJRd6yvYVTwokRlc0jX9w_6ZA"
+  },
+  {
+    "id": "range-climate-services",
+    "placeUrl": "https://www.google.com/maps/place/Range+Climate+Services/data=!4m7!3m6!1s0x89c25306d56ae627:0xafff21b9e6b86846!8m2!3d40.7195674!4d-74.1453954!16s%2Fg%2F11yybvf6k_!19sChIJJ-Zq1QZTwokRRmi45rkh_68"
+  },
+  {
+    "id": "jjam-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/JJAM+heating%26cooling/data=!4m7!3m6!1s0x6655d9254aa001fd:0x4608a4918d319625!8m2!3d40.730013!4d-74.1566819!16s%2Fg%2F11vx3cd33y!19sChIJ_QGgSiXZVWYRJZYxjZGkCEY"
+  },
+  {
+    "id": "summit-air-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Summit+Air+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c2536a5780a47b:0x7a6ad1050fff60a1!8m2!3d40.7277689!4d-74.1606497!16s%2Fg%2F11nvy6pt63!19sChIJe6SAV2pTwokRoWD_DwXRano"
+  },
+  {
+    "id": "anthony-sons-mechanical",
+    "placeUrl": "https://www.google.com/maps/place/Anthony+%26+Sons+Mechanical/data=!4m7!3m6!1s0x89c3ad115cdf358d:0xc59828c82715142f!8m2!3d40.7152393!4d-74.2291898!16s%2Fg%2F11fkf42xn7!19sChIJjTXfXBGtw4kRLxQVJ8gomMU"
+  },
+  {
+    "id": "jackson-s-contracting-and-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Jackson%27s+Contracting+and+HVAC/data=!4m7!3m6!1s0x89c3ad2bec14d749:0x808140f8b6485c6b!8m2!3d40.7211386!4d-74.354272!16s%2Fg%2F11gpnfgvyv!19sChIJSdcU7Cutw4kRa1xItvhAgYA"
+  },
+  {
+    "id": "all-clear-plumbing-2",
+    "placeUrl": "https://www.google.com/maps/place/All+Clear+Plumbing/data=!4m7!3m6!1s0x89c25581a926d19f:0xd56b3d560dc56a21!8m2!3d40.817152!4d-74.1477337!16s%2Fg%2F12626kkcy!19sChIJn9EmqYFVwokRIWrFDVY9a9U"
+  },
+  {
+    "id": "lesco-plumbing-heating-cooling",
+    "placeUrl": "https://www.google.com/maps/place/Lesco+Plumbing,+Heating+%26+Cooling/data=!4m7!3m6!1s0x89c3009a54eb298b:0x823c09350a73384a!8m2!3d40.8473679!4d-74.410215!16s%2Fg%2F11xs838vn!19sChIJiynrVJoAw4kRSjhzCjUJPII"
+  },
+  {
+    "id": "union-heat-llc",
+    "placeUrl": "https://www.google.com/maps/place/Union+Heat,+LLC/data=!4m7!3m6!1s0x89c3adc286bc481d:0x3611c2e615f7c9cb!8m2!3d40.7087075!4d-74.3032039!16s%2Fg%2F1pp2v3j0s!19sChIJHUi8hsKtw4kRy8n3FebCETY"
+  },
+  {
+    "id": "ray-s-hvac",
+    "placeUrl": "https://www.google.com/maps/place/Ray%E2%80%99s+Hvac/data=!4m7!3m6!1s0x89c3ad058f1d00b5:0x7e3f24a3333e5067!8m2!3d40.7301395!4d-74.300328!16s%2Fg%2F11gvzglyk1!19sChIJtQAdjwWtw4kRZ1A-M6MkP34"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "trulynk-hvac-intelligence",
+  "private": true,
+  "type": "module",
+  "description": "TruLynk HVAC prospect research tooling. Uses the environment's preinstalled global Playwright; no npm dependencies.",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  }
+}
