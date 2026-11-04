@@ -2063,5 +2063,64 @@
       "screenshot": "evidence/screenshots/cool-air-new-jersey/cta-click-3.png",
       "at": "2026-11-03T23:47:43.524Z"
     }
+  ],
+  "ctaClickTestsMobile": [
+    {
+      "text": "Contact Us",
+      "href": "",
+      "before": {
+        "url": "http://coolairnewjersey.com/",
+        "scrollY": 0,
+        "dialogs": 0,
+        "visibleForms": 0
+      },
+      "after": {
+        "url": "http://coolairnewjersey.com/",
+        "scrollY": 0,
+        "dialogs": 0,
+        "visibleForms": 0
+      },
+      "effect": "no visible effect",
+      "screenshot": "evidence/screenshots/cool-air-new-jersey/mobile-cta-click-1.png",
+      "at": "2026-11-04T07:35:07.188Z"
+    },
+    {
+      "text": "Appointment",
+      "href": "",
+      "before": {
+        "url": "http://coolairnewjersey.com/",
+        "scrollY": 0,
+        "dialogs": 0,
+        "visibleForms": 0
+      },
+      "after": {
+        "url": "http://coolairnewjersey.com/",
+        "scrollY": 0,
+        "dialogs": 0,
+        "visibleForms": 0
+      },
+      "effect": "no visible effect",
+      "screenshot": "evidence/screenshots/cool-air-new-jersey/mobile-cta-click-2.png",
+      "at": "2026-11-04T07:35:11.774Z"
+    },
+    {
+      "text": "Get A Quote",
+      "href": "",
+      "before": {
+        "url": "http://coolairnewjersey.com/",
+        "scrollY": 17868,
+        "dialogs": 0,
+        "visibleForms": 0
+      },
+      "after": {
+        "url": "http://coolairnewjersey.com/",
+        "scrollY": 0,
+        "dialogs": 0,
+        "visibleForms": 0
+      },
+      "effect": "jumped to page top (no form shown)",
+      "screenshot": "evidence/screenshots/cool-air-new-jersey/mobile-cta-click-3.png",
+      "at": "2026-11-04T07:35:15.485Z"
+    }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "id": "precision-hvac-repair-caldwell",
+  "retrievedAt": "2026-11-04T07:30:41.562Z",
+  "source": "https://www.njportal.com/DOR/BusinessNameSearch/Search/BusinessName",
+  "method": "playwright_chromium_nj_business_name_search",
+  "searches": [
+    {
+      "term": "Precision HVAC",
+      "rows": [
+        [
+          "PRECISION HVAC & MECHANICAL LLC",
+          "0451463280",
+          "SPARTA",
+          "LLC",
+          "5/12/2026"
+        ],
+        [
+          "PRECISION HVAC LLC",
+          "0400441845",
+          "EGG HARBOR TOWNSHIP",
+          "LLC",
+          "9/19/2011"
+        ],
+        [
+          "PRECISION HVAC LLC",
+          "0450844432",
+          "LAKEWOOD TOWNSHIP",
+          "LLC",
+          "8/1/2022"
+        ],
+        [
+          "PRECISION HVAC LOAD CALCS LLC",
+          "0451381949",
+          "Branchburg",
+          "LLC",
+          "12/8/2025"
+        ]
+      ],
+      "total": 4
+    },
+    {
+      "term": "Precision Climate Control",
+      "rows": [
+        [
+          "PRECISION CLIMATE CONTROL LLC",
+          "0400182034",
+          "wayne",
+          "LLC",
+          "5/25/2007"
+        ]
+      ],
+      "total": 1
+    }
+  ]
+}

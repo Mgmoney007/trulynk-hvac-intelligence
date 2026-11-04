@@ -1,0 +1,26 @@
+{
+  "id": "master-ac-heating",
+  "retrievedAt": "2026-11-04T07:30:10.367Z",
+  "source": "https://www.njportal.com/DOR/BusinessNameSearch/Search/BusinessName",
+  "method": "playwright_chromium_nj_business_name_search",
+  "searches": [
+    {
+      "term": "Master AC",
+      "rows": [
+        [
+          "MASTER ACCT LLC",
+          "0450685307",
+          "BEDMINSTER",
+          "LLC",
+          "8/4/2021"
+        ]
+      ],
+      "total": 1
+    },
+    {
+      "term": "Master HVAC Solutions",
+      "rows": [],
+      "total": 0
+    }
+  ]
+}

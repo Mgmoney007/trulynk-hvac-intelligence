@@ -1,0 +1,22 @@
+{
+ "source": "https://www.angi.com/companylist/us/nj/clifton/ac-quality-air-llc-reviews-1.htm",
+ "method": "firecrawl_scrape query (directQuote)",
+ "scrapeId": "01a1a57e-c792-75c4-905a-39052b50f182",
+ "retrievedAt": "2026-11-04",
+ "creditsUsed": 5,
+ "extract": {
+  "name": "A&C Quality Air, LLC",
+  "rating": 4.9,
+  "reviews": 134,
+  "phone": "201-988-8313",
+  "address": "9 Demott Avenue, Clifton, NJ",
+  "experience": "20 years of experience",
+  "recentReviewMonths": [
+   "July 2025 (x6)",
+   "March 2024",
+   "January 2024 (x2)",
+   "August 2023",
+   "July 2023 (x2)"
+  ]
+ }
+}

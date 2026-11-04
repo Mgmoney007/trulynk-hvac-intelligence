@@ -1,0 +1,13 @@
+{
+  "id": "air-plus-hvac",
+  "placeUrl": "https://www.google.com/maps/place/Air+Plus+hvac/data=!4m7!3m6!1s0x89c3ab7a37ea35a3:0xa9868378d005151f!8m2!3d40.7639944!4d-74.2946321!16s%2Fg%2F11z6zz9plr!19sChIJozXqN3qrw4kRHxUF0HiDhqk",
+  "retrievedAt": "2026-11-04T07:32:18.817Z",
+  "method": "playwright_chromium_google_maps_place_text",
+  "panelText": "\nSee photos\nAir Plus hvac\n5.0\nHVAC contractor\n \n\nDirections\n\nSave\n\nNearby\n\nSend to phone\n\nShare\n \n\n18 Beech Rd, West Orange, NJ 07052, United States\n\n\nOpen 24 hours\n\n\nairplusnj.com\n\n\n\n+1 973-521-2708\n\n\n\nQP74+H4 West Orange, New Jersey, USA\n\n\n \n\nSuggest an edit\n \nPhotos\n\n \n\nAdd photos & videos\n \n \n\nWrite a review\n \nAbout this data\n\nYou're seeing a limited view of Google Maps. See more",
+  "ownerPostDates": [],
+  "relativeDates": [],
+  "fromTheOwner": false,
+  "bookOnline": false,
+  "hoursLine": "Open 24 hours",
+  "screenshot": "evidence/screenshots/air-plus-hvac/google-maps-listing-pass15.png"
+}

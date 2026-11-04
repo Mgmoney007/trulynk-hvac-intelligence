@@ -1,0 +1,46 @@
+{
+  "id": "a-c-quality-air",
+  "retrievedAt": "2026-11-04T07:31:12.580Z",
+  "source": "https://www.njportal.com/DOR/BusinessNameSearch/Search/BusinessName",
+  "method": "playwright_chromium_nj_business_name_search",
+  "searches": [
+    {
+      "term": "A&C Quality",
+      "rows": [
+        [
+          "A&C QUALITY CLEANING SERVICES LLC",
+          "0451145305",
+          "ELIZABETH",
+          "LLC",
+          "6/25/2024"
+        ],
+        [
+          "A&C QUALITY JEWELRY CASTING CORP.",
+          "0100374865",
+          "HARRISON",
+          "DP",
+          "5/2/1988"
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "term": "A & C Quality",
+      "rows": [
+        [
+          "A & C QUALITY AIR LLC",
+          "0400386506",
+          "CLIFTON",
+          "LLC",
+          "12/16/2010"
+        ]
+      ],
+      "total": 1
+    },
+    {
+      "term": "AC Quality Air",
+      "rows": [],
+      "total": 0
+    }
+  ]
+}

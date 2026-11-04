@@ -1,0 +1,13 @@
+{
+  "id": "deaire-heating-cooling",
+  "placeUrl": "https://www.google.com/maps/place/DeAire+Heating+%26+Cooling/data=!4m7!3m6!1s0xad5f9f7ecc49bc6d:0x12751450786cffd8!8m2!3d40.7970363!4d-74.0182381!16s%2Fg%2F11src97v93!19sChIJbbxJzH6fX60R2P9seFAUdRI",
+  "retrievedAt": "2026-11-04T07:33:46.954Z",
+  "method": "playwright_chromium_google_maps_place_text",
+  "panelText": "\nSee photos\nDeAire Heating & Cooling\n5.0\nHVAC contractor\n \n\nDirections\n\nSave\n\nNearby\n\nSend to phone\n\nShare\n \n\n1214 67th St, North Bergen, NJ 07047, United States\n\n\nOpen 24 hours\n\n\ndeaireheatingandcooling.com\n\n\n\n+1 786-234-6498\n\n\n\nQXWJ+RP North Bergen, New Jersey, USA\n\n\n \n\nSuggest an edit\n \nPhotos\n\n \n\nAdd photos & videos\n \n \n\nWrite a review\n \nAbout this data\n\nYou're seeing a limited view of Google Maps. See more",
+  "ownerPostDates": [],
+  "relativeDates": [],
+  "fromTheOwner": false,
+  "bookOnline": false,
+  "hoursLine": "Open 24 hours",
+  "screenshot": "evidence/screenshots/deaire-heating-cooling/google-maps-listing-pass15.png"
+}

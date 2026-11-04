@@ -1,0 +1,52 @@
+{
+  "id": "cool-air-new-jersey",
+  "retrievedAt": "2026-11-04T07:29:06.872Z",
+  "source": "https://www.njportal.com/DOR/BusinessNameSearch/Search/BusinessName",
+  "method": "playwright_chromium_nj_business_name_search",
+  "searches": [
+    {
+      "term": "Cool Air New",
+      "rows": [],
+      "total": 0
+    },
+    {
+      "term": "Cool Air NJ",
+      "rows": [],
+      "total": 0
+    },
+    {
+      "term": "Coolair",
+      "rows": [
+        [
+          "COOLAIR CLIMATE CO.",
+          "0100613473",
+          "BELLMAWR",
+          "DP",
+          "1/19/1995"
+        ],
+        [
+          "COOLAIR MANAGEMENT INC",
+          "0400713104",
+          "BLACKWOOD",
+          "DP",
+          "1/5/2015"
+        ],
+        [
+          "COOLAIR RESIDENTIAL, LLC",
+          "0600287621",
+          "BELLMAWR",
+          "LLC",
+          "12/26/2006"
+        ],
+        [
+          "COOLAIRPRO LLC",
+          "0451243136",
+          "EAST BRUNSWICK",
+          "LLC",
+          "2/16/2025"
+        ]
+      ],
+      "total": 4
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "air-plus-hvac",
+  "retrievedAt": "2026-11-04T07:29:31.177Z",
+  "source": "https://www.njportal.com/DOR/BusinessNameSearch/Search/BusinessName",
+  "method": "playwright_chromium_nj_business_name_search",
+  "searches": [
+    {
+      "term": "Air Plus HVAC",
+      "rows": [
+        [
+          "AIR PLUS HVAC L.L.C.",
+          "0451008794",
+          "TOTOWA",
+          "LLC",
+          "8/13/2023"
+        ],
+        [
+          "AIR PLUS HVAC, LLC",
+          "0600252758",
+          "ANDOVER",
+          "LLC",
+          "11/14/2005"
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "term": "Air Plus Heating",
+      "rows": [],
+      "total": 0
+    },
+    {
+      "term": "Air Plus",
+      "rows": [
+        [
+          "AIR PLUS AIR CONDITIONING & REFRIGERATION, INC",
+          "0100935876",
+          "",
+          "FR",
+          "11/5/2004"
+        ],
+        [
+          "AIR PLUS COMMUNICATIONS, INC.",
+          "0100748331",
+          "",
+          "DP",
+          "6/3/1998"
+        ],
+        [
+          "AIR PLUS HVAC L.L.C.",
+          "0451008794",
+          "TOTOWA",
+          "LLC",
+          "8/13/2023"
+        ],
+        [
+          "AIR PLUS HVAC, LLC",
+          "0600252758",
+          "ANDOVER",
+          "LLC",
+          "11/14/2005"
+        ],
+        [
+          "AIR PLUS MECHANICAL LLC",
+          "0400700260",
+          "BELLEVILLE",
+          "LLC",
+          "11/5/2014"
+        ],
+        [
+          "AIR PLUS MECHANICAL SERVICES INC",
+          "0451386812",
+          "BELLEVILLE",
+          "DP",
+          "12/18/2025"
+        ],
+        [
+          "AIR PLUS TRAMPOLINE SPORTS INC",
+          "0400686762",
+          "CLIFFWOOD",
+          "DP",
+          "9/10/2014"
+        ],
+        [
+          "AIR PLUS, INC.",
+          "0100365719",
+          "GARFIELD",
+          "DP",
+          "2/5/1988"
+        ]
+      ],
+      "total": 8
+    }
+  ]
+}

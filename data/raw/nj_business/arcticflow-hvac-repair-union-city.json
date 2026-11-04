@@ -1,0 +1,26 @@
+{
+  "id": "arcticflow-hvac-repair-union-city",
+  "retrievedAt": "2026-11-04T07:30:25.989Z",
+  "source": "https://www.njportal.com/DOR/BusinessNameSearch/Search/BusinessName",
+  "method": "playwright_chromium_nj_business_name_search",
+  "searches": [
+    {
+      "term": "ArcticFlow",
+      "rows": [],
+      "total": 0
+    },
+    {
+      "term": "Arctic Flow",
+      "rows": [
+        [
+          "ARCTIC FLOW SERVICES LLC",
+          "0450200938",
+          "GARFIELD",
+          "LLC",
+          "9/18/2017"
+        ]
+      ],
+      "total": 1
+    }
+  ]
+}

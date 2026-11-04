@@ -1,0 +1,13 @@
+{
+  "id": "a-c-quality-air",
+  "placeUrl": "https://www.google.com/maps/place/A%26C+Quality+Air/data=!4m7!3m6!1s0xacb07be89eee881d:0x4400ea6c14f792f4!8m2!3d40.8736372!4d-74.1386006!16s%2Fg%2F11rq2d6zh2!19sChIJHYjunuh7sKwR9JL3FGzqAEQ",
+  "retrievedAt": "2026-11-04T07:34:02.227Z",
+  "method": "playwright_chromium_google_maps_place_text",
+  "panelText": "\nSee photos\nA&C Quality Air\n5.0\nHVAC contractor\n \n\nDirections\n\nSave\n\nNearby\n\nSend to phone\n\nShare\n \n\n9 DeMott Ave, Clifton, NJ 07011, United States\n\n\nOpen 24 hours\n\n\nhvacqualityair.com\n\n\n\n+1 201-988-8313\n\n\n\nVVF6+FH Clifton, New Jersey, USA\n\n\n \n\nSuggest an edit\n \nPhotos\n\n \n\nAdd photos & videos\n \n \n\nWrite a review\n \nAbout this data\n\nYou're seeing a limited view of Google Maps. See more",
+  "ownerPostDates": [],
+  "relativeDates": [],
+  "fromTheOwner": false,
+  "bookOnline": false,
+  "hoursLine": "Open 24 hours",
+  "screenshot": "evidence/screenshots/a-c-quality-air/google-maps-listing-pass15.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cool-air-new-jersey",
+  "retrievedAt": "2026-11-04T07:27:20.445Z",
+  "source": "https://newjersey.mylicense.com/verification/Search.aspx?facility=Y",
+  "method": "playwright_chromium_nj_license_search",
+  "searches": [
+    {
+      "term": "Cool Air",
+      "city": null,
+      "rows": [],
+      "details": []
+    }
+  ]
+}

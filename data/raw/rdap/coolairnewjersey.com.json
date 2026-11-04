@@ -1,0 +1,183 @@
+{
+ "objectClassName": "domain",
+ "handle": "2735206324_DOMAIN_COM-VRSN",
+ "ldhName": "COOLAIRNEWJERSEY.COM",
+ "links": [
+  {
+   "value": "https://rdap.verisign.com/com/v1/domain/coolairnewjersey.com",
+   "rel": "self",
+   "href": "https://rdap.verisign.com/com/v1/domain/coolairnewjersey.com",
+   "type": "application/rdap+json"
+  },
+  {
+   "value": "https://rdap.verisign.com/com/v1/domain/coolairnewjersey.com",
+   "rel": "related",
+   "href": "https://rdap.namecheap.com/domain/COOLAIRNEWJERSEY.COM",
+   "type": "application/rdap+json"
+  }
+ ],
+ "status": [
+  "client transfer prohibited"
+ ],
+ "entities": [
+  {
+   "objectClassName": "entity",
+   "handle": "1068",
+   "roles": [
+    "registrar"
+   ],
+   "links": [
+    {
+     "href": "http://www.namecheap.com",
+     "type": "text/html",
+     "value": "https://rdap.namecheap.com/",
+     "rel": "about"
+    }
+   ],
+   "publicIds": [
+    {
+     "type": "IANA Registrar ID",
+     "identifier": "1068"
+    }
+   ],
+   "vcardArray": [
+    "vcard",
+    [
+     [
+      "version",
+      {},
+      "text",
+      "4.0"
+     ],
+     [
+      "fn",
+      {},
+      "text",
+      "NameCheap, Inc."
+     ]
+    ]
+   ],
+   "entities": [
+    {
+     "objectClassName": "entity",
+     "roles": [
+      "abuse"
+     ],
+     "vcardArray": [
+      "vcard",
+      [
+       [
+        "version",
+        {},
+        "text",
+        "4.0"
+       ],
+       [
+        "fn",
+        {},
+        "text",
+        ""
+       ],
+       [
+        "tel",
+        {
+         "type": "voice"
+        },
+        "uri",
+        "tel:+1.6613102107"
+       ],
+       [
+        "email",
+        {},
+        "text",
+        "abuse@namecheap.com"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "eventAction": "registration",
+   "eventDate": "2022-10-29T17:56:52Z"
+  },
+  {
+   "eventAction": "expiration",
+   "eventDate": "2027-10-29T17:56:52Z"
+  },
+  {
+   "eventAction": "last changed",
+   "eventDate": "2026-09-29T07:19:10Z"
+  },
+  {
+   "eventAction": "last update of RDAP database",
+   "eventDate": "2026-11-04T07:39:34Z"
+  }
+ ],
+ "secureDNS": {
+  "delegationSigned": false
+ },
+ "nameservers": [
+  {
+   "objectClassName": "nameserver",
+   "ldhName": "NS8201.HOSTGATOR.COM"
+  },
+  {
+   "objectClassName": "nameserver",
+   "ldhName": "NS8202.HOSTGATOR.COM"
+  }
+ ],
+ "rdapConformance": [
+  "rdap_level_0",
+  "icann_rdap_technical_implementation_guide_1",
+  "icann_rdap_response_profile_1"
+ ],
+ "notices": [
+  {
+   "title": "Terms of Service",
+   "description": [
+    "Service subject to Terms of Use."
+   ],
+   "links": [
+    {
+     "href": "https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/coolairnewjersey.com",
+     "rel": "terms-of-service"
+    }
+   ]
+  },
+  {
+   "title": "Status Codes",
+   "description": [
+    "For more information on domain status codes, please visit https://icann.org/epp"
+   ],
+   "links": [
+    {
+     "href": "https://icann.org/epp",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/coolairnewjersey.com",
+     "rel": "glossary"
+    }
+   ]
+  },
+  {
+   "title": "RDDS Inaccuracy Complaint Form",
+   "description": [
+    "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+   ],
+   "links": [
+    {
+     "href": "https://icann.org/wicf",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/coolairnewjersey.com",
+     "rel": "help"
+    }
+   ]
+  }
+ ],
+ "_retrievedAt": "2026-11-04T07:39:50.598364+00:00",
+ "_source": "https://rdap.org/domain/coolairnewjersey.com"
+}

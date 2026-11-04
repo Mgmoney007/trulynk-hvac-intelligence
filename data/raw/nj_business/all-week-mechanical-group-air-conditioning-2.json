@@ -1,0 +1,61 @@
+{
+  "id": "all-week-mechanical-group-air-conditioning-2",
+  "retrievedAt": "2026-11-04T07:29:54.853Z",
+  "source": "https://www.njportal.com/DOR/BusinessNameSearch/Search/BusinessName",
+  "method": "playwright_chromium_nj_business_name_search",
+  "searches": [
+    {
+      "term": "All Week Mechanical",
+      "rows": [],
+      "total": 0
+    },
+    {
+      "term": "All Week",
+      "rows": [
+        [
+          "ALL WEEK CLEANING SERVICES, INC.",
+          "0100961047",
+          "HASBROUCK HEIGHTS",
+          "DP",
+          "3/31/2006"
+        ],
+        [
+          "ALL WEEK DISTRIBUTION LLC",
+          "0450495099",
+          "GARFIELD",
+          "LLC",
+          "5/29/2020"
+        ],
+        [
+          "ALL WEEK ENTERTAINMENT LLC",
+          "0450705463",
+          "ENGLEWOOD",
+          "LLC",
+          "9/22/2021"
+        ],
+        [
+          "ALL WEEK HEATING AND COOLING INC",
+          "0450276971",
+          "GARFIELD",
+          "DP",
+          "6/6/2018"
+        ],
+        [
+          "ALL WEEK PLUMBING & HEATING, INC.",
+          "0100848673",
+          "GARFIELD",
+          "DP",
+          "4/24/2001"
+        ],
+        [
+          "ALL WEEK WALLS LLC",
+          "0450516212",
+          "Cherry Hill",
+          "LLC",
+          "7/20/2020"
+        ]
+      ],
+      "total": 6
+    }
+  ]
+}

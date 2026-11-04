@@ -1,0 +1,33 @@
+{
+ "source": "https://www.bbb.org/us/nj/garfield/profile/plumber/all-week-plumbing-heating-inc-0221-10002144",
+ "method": "firecrawl_scrape query (directQuote)",
+ "scrapeId": "01a1a57e-18ce-706a-a033-163188a362d4",
+ "retrievedAt": "2026-11-04",
+ "creditsUsed": 5,
+ "extract": {
+  "name": "All Week Plumbing & Heating, Inc.",
+  "accreditation": "BBB Accredited since 5/28/2013, A+",
+  "website": "https://allweekplumbing.com/",
+  "additionalWebsites": [
+   "https://allweekairconditioning.com/"
+  ],
+  "phone": "(973) 253-3830",
+  "otherPhones": [
+   "(888) 333-2422",
+   "(877) 666-9335"
+  ],
+  "fax": "(973) 246-7494",
+  "businessStarted": "1/1/1978",
+  "incorporated": "4/1/2001",
+  "yearsInBusiness": 48,
+  "alternateNames": [
+   "All Week Plumbing, Heating & Air Conditioning",
+   "All Week Air Conditioning"
+  ],
+  "management": [
+   "Mr. Ozzie Aburoumi, Manager",
+   "Mr. James Murray, Owner",
+   "Mr. Mike Aburoumi, Owner"
+  ]
+ }
+}

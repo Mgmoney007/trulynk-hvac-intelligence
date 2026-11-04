@@ -1,0 +1,13 @@
+{
+  "id": "cool-air-new-jersey",
+  "placeUrl": "https://www.google.com/maps/place/Cool+Air+New+Jersey/data=!4m7!3m6!1s0x89c251c93e12af17:0x7b9199aac9c5eed6!8m2!3d40.7179131!4d-74.0797011!16s%2Fg%2F11kp9d0z49!19sChIJF68SPslRwokR1u7FyaqZkXs",
+  "retrievedAt": "2026-11-04T07:32:02.484Z",
+  "method": "playwright_chromium_google_maps_place_text",
+  "panelText": "Cool Air New Jersey\n5.0\nHVAC contractor\nOverview\nAbout\n\nDirections\n\nSave\n\nNearby\n\nSend to phone\n\nShare\n \n\n2327 John F. Kennedy Blvd 3rd floor, Jersey City, NJ 07304, United States\n\n\nClosed · Opens 7 AM\n\n\ncoolairnewjersey.com\n\n\n\n+1 201-744-2020\n\n\n\nPW9C+54 Jersey City, New Jersey, USA\n\n\nLGBTQ+ friendly\nIdentifies as veteran-owned\nIdentifies as women-owned\nIdentifies as Latino-owned\nIdentifies as Asian-owned\nIdentifies as LGBTQ+ owned\n \n\nSuggest an edit\n \nPhotos\n\n \n\nAdd photos & videos\n \n \n\nWrite a review\n \nAbout this data\n\nYou're seeing a limited view of Google Maps. See more",
+  "ownerPostDates": [],
+  "relativeDates": [],
+  "fromTheOwner": false,
+  "bookOnline": false,
+  "hoursLine": "Opens 7 AM",
+  "screenshot": "evidence/screenshots/cool-air-new-jersey/google-maps-listing-pass15.png"
+}

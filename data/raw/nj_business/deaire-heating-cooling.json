@@ -1,0 +1,26 @@
+{
+  "id": "deaire-heating-cooling",
+  "retrievedAt": "2026-11-04T07:30:57.136Z",
+  "source": "https://www.njportal.com/DOR/BusinessNameSearch/Search/BusinessName",
+  "method": "playwright_chromium_nj_business_name_search",
+  "searches": [
+    {
+      "term": "DeAire",
+      "rows": [],
+      "total": 0
+    },
+    {
+      "term": "De Aire",
+      "rows": [
+        [
+          "DE AIRE LLC",
+          "0450903543",
+          "Garfield",
+          "LLC",
+          "12/28/2022"
+        ]
+      ],
+      "total": 1
+    }
+  ]
+}

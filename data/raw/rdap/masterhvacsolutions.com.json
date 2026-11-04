@@ -1,0 +1,183 @@
+{
+ "objectClassName": "domain",
+ "handle": "2763600715_DOMAIN_COM-VRSN",
+ "ldhName": "MASTERHVACSOLUTIONS.COM",
+ "links": [
+  {
+   "value": "https://rdap.verisign.com/com/v1/domain/masterhvacsolutions.com",
+   "rel": "self",
+   "href": "https://rdap.verisign.com/com/v1/domain/masterhvacsolutions.com",
+   "type": "application/rdap+json"
+  },
+  {
+   "value": "https://rdap.verisign.com/com/v1/domain/masterhvacsolutions.com",
+   "rel": "related",
+   "href": "https://rdap.namecheap.com/domain/MASTERHVACSOLUTIONS.COM",
+   "type": "application/rdap+json"
+  }
+ ],
+ "status": [
+  "client transfer prohibited"
+ ],
+ "entities": [
+  {
+   "objectClassName": "entity",
+   "handle": "1068",
+   "roles": [
+    "registrar"
+   ],
+   "links": [
+    {
+     "href": "http://www.namecheap.com",
+     "type": "text/html",
+     "value": "https://rdap.namecheap.com/",
+     "rel": "about"
+    }
+   ],
+   "publicIds": [
+    {
+     "type": "IANA Registrar ID",
+     "identifier": "1068"
+    }
+   ],
+   "vcardArray": [
+    "vcard",
+    [
+     [
+      "version",
+      {},
+      "text",
+      "4.0"
+     ],
+     [
+      "fn",
+      {},
+      "text",
+      "NameCheap, Inc."
+     ]
+    ]
+   ],
+   "entities": [
+    {
+     "objectClassName": "entity",
+     "roles": [
+      "abuse"
+     ],
+     "vcardArray": [
+      "vcard",
+      [
+       [
+        "version",
+        {},
+        "text",
+        "4.0"
+       ],
+       [
+        "fn",
+        {},
+        "text",
+        ""
+       ],
+       [
+        "tel",
+        {
+         "type": "voice"
+        },
+        "uri",
+        "tel:+1.6613102107"
+       ],
+       [
+        "email",
+        {},
+        "text",
+        "abuse@namecheap.com"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "eventAction": "registration",
+   "eventDate": "2023-03-08T17:37:12Z"
+  },
+  {
+   "eventAction": "expiration",
+   "eventDate": "2027-03-08T17:37:12Z"
+  },
+  {
+   "eventAction": "last changed",
+   "eventDate": "2026-02-06T07:16:50Z"
+  },
+  {
+   "eventAction": "last update of RDAP database",
+   "eventDate": "2026-11-04T07:39:34Z"
+  }
+ ],
+ "secureDNS": {
+  "delegationSigned": false
+ },
+ "nameservers": [
+  {
+   "objectClassName": "nameserver",
+   "ldhName": "NS1.SITEGROUND.NET"
+  },
+  {
+   "objectClassName": "nameserver",
+   "ldhName": "NS2.SITEGROUND.NET"
+  }
+ ],
+ "rdapConformance": [
+  "rdap_level_0",
+  "icann_rdap_technical_implementation_guide_1",
+  "icann_rdap_response_profile_1"
+ ],
+ "notices": [
+  {
+   "title": "Terms of Service",
+   "description": [
+    "Service subject to Terms of Use."
+   ],
+   "links": [
+    {
+     "href": "https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/masterhvacsolutions.com",
+     "rel": "terms-of-service"
+    }
+   ]
+  },
+  {
+   "title": "Status Codes",
+   "description": [
+    "For more information on domain status codes, please visit https://icann.org/epp"
+   ],
+   "links": [
+    {
+     "href": "https://icann.org/epp",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/masterhvacsolutions.com",
+     "rel": "glossary"
+    }
+   ]
+  },
+  {
+   "title": "RDDS Inaccuracy Complaint Form",
+   "description": [
+    "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+   ],
+   "links": [
+    {
+     "href": "https://icann.org/wicf",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/masterhvacsolutions.com",
+     "rel": "help"
+    }
+   ]
+  }
+ ],
+ "_retrievedAt": "2026-11-04T07:39:51.503969+00:00",
+ "_source": "https://rdap.org/domain/masterhvacsolutions.com"
+}

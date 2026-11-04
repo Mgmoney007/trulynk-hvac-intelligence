@@ -6,7 +6,7 @@ import { navigate, safeScreenshot } from './browser.mjs';
 export const DEAD_EFFECTS = ['no visible effect', 'jumped to page top (no form shown)'];
 const CTA_RX = /\b(appointment|book|schedule|quote|estimate|contact|request|call)/i; // word-start: 'Facebook' must not match
 
-export async function runCtaClickTests(ctx, url, links, dir, max = 3) {
+export async function runCtaClickTests(ctx, url, links, dir, max = 3, prefix = 'cta-click') {
   const out = [];
   const cands = links.filter(l => l.visible && (!(l.href || '').trim() || /^#\s*$/.test(l.href.trim())) && CTA_RX.test(l.text)).slice(0, max);
   for (const cand of cands) {
@@ -58,7 +58,7 @@ export async function runCtaClickTests(ctx, url, links, dir, max = 3) {
         : Math.abs(after.scrollY - before.scrollY) > 50 ? 'scrolled to section' : 'no visible effect';
       let screenshot = null;
       if (DEAD_EFFECTS.includes(effect)) {
-        const f = path.join(dir, `cta-click-${out.length + 1}.png`);
+        const f = path.join(dir, `${prefix}-${out.length + 1}.png`);
         if (await safeScreenshot(p, f)) screenshot = path.relative(ROOT, f);
       }
       out.push({ text: cand.text, href: href ?? '', before, after, effect, screenshot, at: nowIso() });

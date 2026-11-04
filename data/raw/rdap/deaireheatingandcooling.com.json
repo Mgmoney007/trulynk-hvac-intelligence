@@ -1,0 +1,200 @@
+{
+ "objectClassName": "domain",
+ "handle": "2766012631_DOMAIN_COM-VRSN",
+ "ldhName": "DEAIREHEATINGANDCOOLING.COM",
+ "links": [
+  {
+   "value": "https://rdap.verisign.com/com/v1/domain/deaireheatingandcooling.com",
+   "rel": "self",
+   "href": "https://rdap.verisign.com/com/v1/domain/deaireheatingandcooling.com",
+   "type": "application/rdap+json"
+  },
+  {
+   "value": "https://rdap.verisign.com/com/v1/domain/deaireheatingandcooling.com",
+   "rel": "related",
+   "href": "https://rdap.squarespace.domains/domain/DEAIREHEATINGANDCOOLING.COM",
+   "type": "application/rdap+json"
+  }
+ ],
+ "status": [
+  "client delete prohibited",
+  "client transfer prohibited"
+ ],
+ "entities": [
+  {
+   "objectClassName": "entity",
+   "handle": "895",
+   "roles": [
+    "registrar"
+   ],
+   "links": [
+    {
+     "href": "http://domains2.squarespace.com",
+     "type": "text/html",
+     "value": "https://rdap.squarespace.domains/",
+     "rel": "about"
+    }
+   ],
+   "publicIds": [
+    {
+     "type": "IANA Registrar ID",
+     "identifier": "895"
+    }
+   ],
+   "vcardArray": [
+    "vcard",
+    [
+     [
+      "version",
+      {},
+      "text",
+      "4.0"
+     ],
+     [
+      "fn",
+      {},
+      "text",
+      "Squarespace Domains II LLC"
+     ]
+    ]
+   ],
+   "entities": [
+    {
+     "objectClassName": "entity",
+     "roles": [
+      "abuse"
+     ],
+     "vcardArray": [
+      "vcard",
+      [
+       [
+        "version",
+        {},
+        "text",
+        "4.0"
+       ],
+       [
+        "fn",
+        {},
+        "text",
+        ""
+       ],
+       [
+        "tel",
+        {
+         "type": "voice"
+        },
+        "uri",
+        "tel:+1.6466935324"
+       ],
+       [
+        "email",
+        {},
+        "text",
+        "abuse-complaints@squarespace.com"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "eventAction": "registration",
+   "eventDate": "2023-03-18T03:24:18Z"
+  },
+  {
+   "eventAction": "expiration",
+   "eventDate": "2027-03-18T03:24:18Z"
+  },
+  {
+   "eventAction": "last changed",
+   "eventDate": "2026-03-03T04:11:28Z"
+  },
+  {
+   "eventAction": "last update of RDAP database",
+   "eventDate": "2026-11-04T07:39:34Z"
+  }
+ ],
+ "secureDNS": {
+  "delegationSigned": true,
+  "dsData": [
+   {
+    "keyTag": 32627,
+    "algorithm": 8,
+    "digestType": 2,
+    "digest": "8E683775A21C988457A211C4ED7D7265EBDF98F294FFF87E2681A69F34047A4E"
+   }
+  ]
+ },
+ "nameservers": [
+  {
+   "objectClassName": "nameserver",
+   "ldhName": "NS-CLOUD-E1.GOOGLEDOMAINS.COM"
+  },
+  {
+   "objectClassName": "nameserver",
+   "ldhName": "NS-CLOUD-E2.GOOGLEDOMAINS.COM"
+  },
+  {
+   "objectClassName": "nameserver",
+   "ldhName": "NS-CLOUD-E3.GOOGLEDOMAINS.COM"
+  },
+  {
+   "objectClassName": "nameserver",
+   "ldhName": "NS-CLOUD-E4.GOOGLEDOMAINS.COM"
+  }
+ ],
+ "rdapConformance": [
+  "rdap_level_0",
+  "icann_rdap_technical_implementation_guide_1",
+  "icann_rdap_response_profile_1"
+ ],
+ "notices": [
+  {
+   "title": "Terms of Service",
+   "description": [
+    "Service subject to Terms of Use."
+   ],
+   "links": [
+    {
+     "href": "https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/deaireheatingandcooling.com",
+     "rel": "terms-of-service"
+    }
+   ]
+  },
+  {
+   "title": "Status Codes",
+   "description": [
+    "For more information on domain status codes, please visit https://icann.org/epp"
+   ],
+   "links": [
+    {
+     "href": "https://icann.org/epp",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/deaireheatingandcooling.com",
+     "rel": "glossary"
+    }
+   ]
+  },
+  {
+   "title": "RDDS Inaccuracy Complaint Form",
+   "description": [
+    "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+   ],
+   "links": [
+    {
+     "href": "https://icann.org/wicf",
+     "type": "text/html",
+     "value": "https://rdap.verisign.com/com/v1/domain/deaireheatingandcooling.com",
+     "rel": "help"
+    }
+   ]
+  }
+ ],
+ "_retrievedAt": "2026-11-04T07:39:52.473858+00:00",
+ "_source": "https://rdap.org/domain/deaireheatingandcooling.com"
+}
